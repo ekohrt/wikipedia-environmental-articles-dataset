@@ -1,0 +1,26 @@
+The ESA Optical Ground Station (OGS Telescope or ESA Space Debris Telescope) is the European Space Agency's ground based observatory at the Teide Observatory on Tenerife, Spain, built for the observation of space debris. OGS is part of the Artemis experiment and is operated by the IAC (Instituto de Astrofísica de Canarias) and Ataman Science S.L.U.
+The telescope is a 1-metre Coudé telescope with field of view of 0.7 degrees, supported by an English-built mount inside a dome 12.5-metre in diameter. Its main purposes are: 
+
+to be the optical ground station of the Artemis telecommunications satellite (the project from which the telescope takes its name)
+to make surveys of space debris in different orbits around the Earth,
+to make surveys and follow-up observations of near-Earth objects as part of ESA's Space Situational Awareness programme, and
+to make scientific astronomical night observations.It is equipped with a cryogenically cooled mosaic CCD-Camera of 4k×4k pixels. The detection threshold is between 19th and 21st magnitude, which corresponds to a capability to detect space debris objects as small as 10 cm in the geostationary ring. As a large part of the observation time is dedicated to space debris surveys, in particular the observation of space debris in the geostationary ring and in geostationary transfer orbits, the term ESA Space Debris Telescope became used very frequently. Space debris surveys are carried out every month, centered on New Moon.
+Since 2006, the telescope has also been used as a receiver station for quantum communication experiments (such as  testing Bell inequalities, quantum cryptography, quantum teleportation), with the sender station being 143 km away in the observatory on La Palma. This is possible because this telescope can be tilted to a near-horizontal position to point it at La Palma, which many large astronomical telescopes are unable to do.
+
+
+== List of discovered minor planets ==
+EAS OGS has been credited by the Minor Planet Center with the discovery of 37 minor planets. These are:
+
+
+== See also ==
+List of largest optical telescopes in the 20th century
+List of minor planet discoverers § Discovering dedicated institutions
+
+
+== References ==
+
+
+== External links ==
+http://www.iac.es/eno.php?op1=3&op2=6&lang=en&id=7
+http://sci.esa.int/science-e/www/object/index.cfm?fobjectid=36520
+http://vmo.estec.esa.int/totas

@@ -1,0 +1,61 @@
+A sudden stratospheric warming (SSW) is an event in which the polar stratospheric temperature rises by several tens of kelvins (up to increases of about 50 °C (90 °F)) over the course of a few days. The warming is preceded by a slowing then reversal of the westerly winds in the stratospheric polar vortex. SSWs occur about 6 times per decade in the northern hemisphere, and only about once every 20-30 years in the southern hemisphere (and two southern SSWs have been observed so far ).
+
+
+== History ==
+The first continued measurements of the stratosphere were taken by Richard Scherhag in 1951 using radiosondes to take reliable temperature readings in the upper stratosphere (~40 km) and he became the first to observe stratospheric warming on 27 January 1952. After his discovery, he assembled a team of meteorologists specifically to study the stratosphere at the Free University of Berlin and this group continued to map the northern-hemisphere stratospheric temperature and geopotential height for many years using radiosondes and rocketsondes.
+In 1979 when the satellite era began, meteorological measurements became far more frequent. Although satellites were primarily used for the troposphere they also recorded data for the stratosphere. Today both satellites and stratospheric radiosondes are used to take measurements of the stratosphere.
+
+
+== Classification and description ==
+SSW is closely associated with polar vortex breakdown. Meteorologists typically classify vortex breakdown into three categories: major, minor, and final. No unambiguous standard definition of these has so far been adopted. However, differences in the methodology to detect SSWs are not relevant as long as circulation in the polar stratosphere reverses. "Major SSWs occur when the winter polar stratospheric westerlies reverse to easterlies. In minor warmings, the polar temperature gradient reverses but the circulation does not, and in final warmings, the vortex breaks down and remains easterly until the following boreal autumn".Sometimes a fourth category, the Canadian warming, is included because of its unique and distinguishing structure and evolution.
+"There are two main types of SSW: displacement events in which the stratospheric polar vortex is displaced from the pole and split events in which the vortex splits into two or more vortices. Some SSWs are a combination of both types".
+
+
+=== Major ===
+These occur when the westerly winds at 60N and 10 hPa reverse, i.e. become easterly. A complete disruption of the polar vortex is observed and the vortex will either be split into daughter vortices, or displaced from its normal location over the pole.
+According to the World Meteorological Organization's Commission for Atmospheric Sciences (Mclnturff, 1978): a stratospheric warming can be said to be major if at 10 mb or below the latitudinal mean temperature increases poleward from 60 degree latitude and an associated circulation reversal is observed (that is, the prevailing mean westerly winds poleward of 60 latitude are succeeded by mean easterlies in the same area).
+
+
+=== Minor ===
+Minor warmings are similar to major warmings however they are less dramatic, the westerly winds are slowed, however do not reverse. Therefore, a breakdown of the vortex is never observed.
+Mclnturff states: a stratospheric warming is called minor if a significant temperature increase is observed (that is, at least 25 degrees in a period of week or less) at any stratospheric level in any area of winter time hemisphere. The polar vortex is not broken down and the wind reversal from westerly to easterly is less extensive.
+
+
+=== Final ===
+The radiative cycle in the stratosphere means that during winter the mean flow is westerly and during summer it is easterly (westward). A final warming occurs on this transition, so that the polar vortex winds change direction for the warming, however do not change back until the following winter. This is because the stratosphere has entered the summer easterly phase. It is final because another warming cannot occur over the summer, so it is the final warming of the current winter.
+
+
+=== Canadian ===
+Canadian warmings occur in early winter in the stratosphere of the Northern Hemisphere, typically from mid November to early December. They have no counterpart in the southern hemisphere.
+
+
+== Dynamics ==
+In a usual northern-hemisphere winter, several minor warming events occur, with a major event occurring roughly every two years.  One reason for major stratospheric warmings to occur in the Northern hemisphere is because orography and land-sea temperature contrasts are responsible for the generation of long (wavenumber 1 or 2) Rossby waves in the troposphere. These waves travel upward to the stratosphere and are dissipated there, decelerating the westerly winds and warming the Arctic. This is the reason that major warmings are only observed in the northern-hemisphere, with two exceptions. In 2002 and 2019, southern-hemisphere major warmings were observed. These events are not fully understood.
+At an initial time a blocking-type circulation pattern establishes in the troposphere. This blocking pattern causes Rossby waves with zonal wavenumber 1 and/or 2 to grow to unusually large amplitudes. The growing wave propagates into the stratosphere and decelerates the westerly mean zonal winds. Thus the polar night jet weakens and simultaneously becomes distorted by the growing planetary waves. Because the wave amplitude increases with decreasing density this easterly acceleration process is not effective at fairly high levels. If the waves are sufficiently strong the mean zonal flow may decelerate sufficiently so that the winter westerlies turn easterly. At this point planetary waves may no longer penetrate into the stratosphere ). Hence further upward transfer of energy is completely blocked and a very rapid easterly acceleration and the polar warming occur at this critical level, which must then move downward until eventually the warming and zonal wind reversal affect the entire polar stratosphere. The upward propagation of planetary waves and their interaction with the stratospheric mean flow is traditionally diagnosed via so-called Eliassen-Palm fluxes.There exists a link between sudden stratospheric warmings and the quasi-biennial oscillation:  If the QBO is in its easterly phase, the atmospheric waveguide is modified in such a way that upward-propagating Rossby waves are focused on the polar vortex, intensifying their interaction with the mean flow.  Thus, there exists a statistically significant imbalance between the frequency of sudden stratospheric warmings if these events are grouped according to the QBO phase (easterly or westerly).
+
+
+== Weather effects ==
+Although sudden stratospheric warmings are mainly forced by planetary scale waves which propagate up from the lower atmosphere, there is also a subsequent return effect of sudden stratospheric warmings on surface weather. Following a sudden stratospheric warming, the high altitude westerly winds reverse and are replaced by easterlies. The easterly winds progress down through the atmosphere, often leading to a weakening of the tropospheric westerly winds, resulting in dramatic reductions in temperature in Northern Europe. This process can take a few days to a few weeks to occur.
+
+
+== See also ==
+Polar amplification
+Teleconnection
+
+
+== References ==
+
+
+== Further reading ==
+Butler, Amy H.; Sjoberg, Jeremiah P.; Seidel, Dian J.; Rosenlof, Karen H. (2017). "A sudden stratospheric warming compendium". Earth System Science Data. 9 (1): 63–76. Bibcode:2017ESSD....9...63B. doi:10.5194/essd-9-63-2017.
+Charlton, Andrew J.; Polvani, Lorenzo M. (2007). "A New Look at Stratospheric Sudden Warmings. Part I: Climatology and Modeling Benchmarks". Journal of Climate. 20 (3): 449. Bibcode:2007JCli...20..449C. doi:10.1175/JCLI3996.1.
+Charlton, Andrew J.; Polvani, Lorenzo M.; Perlwitz, Judith; Sassi, Fabrizio; Manzini, Elisa; Shibata, Kiyotaka; Pawson, Steven; Nielsen, J. Eric; Rind, David (2007). "A New Look at Stratospheric Sudden Warmings. Part II: Evaluation of Numerical Model Simulations". Journal of Climate. 20 (3): 470. Bibcode:2007JCli...20..470C. doi:10.1175/JCLI3994.1.
+Matthewman, N. J.; Esler, J. G.; Charlton-Perez, A. J.; Polvani, L. M. (2009). "A New Look at Stratospheric Sudden Warmings. Part III: Polar Vortex Evolution and Vertical Structure". Journal of Climate. 22 (6): 1566. Bibcode:2009JCli...22.1566M. doi:10.1175/2008JCLI2365.1.
+Pedatella, N.; Chau, J.; Schmidt, H.; Goncharenko, L.; Stolle, C.; Hocke, K.; Harvey, L.; Funke, B.; Siddiqui, T. (2018). "How sudden stratospheric warming affects the whole atmosphere". Eos. 99. doi:10.1029/2018EO092441.
+Hendon, Harry; Watkins, Andrew B.; Lim, Eun-Pa; Young, Griffith (2019-09-06). "The air above Antarctica is suddenly getting warmer – here's what it means for Australia". The Conversation. Retrieved 2019-09-10.
+
+
+== External links ==
+UK Met Office: What is a sudden stratospheric warming (SSW)?
+Weather and Climate Discussion, Reading Meteorology WCD Blog: Sudden Stratospheric Stirrings
+GEOS-5 Analyses and Forecasts of the Major Stratospheric Sudden Warming of January 2013 NASA Global Modelling and Assimilation Office

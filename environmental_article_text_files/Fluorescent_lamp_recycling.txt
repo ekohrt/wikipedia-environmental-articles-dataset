@@ -1,0 +1,41 @@
+Fluorescent lamp recycling is the recovery of the materials of a spent fluorescent lamp  for the manufacture of new products. 
+
+
+== Overview ==
+Glass tubing can be turned into new glass articles, brass and aluminum in end caps can be reused, the internal coating can be reprocessed for use in paint pigments, and the mercury contained in the lamp can be reclaimed and used in new lamps. In the United States, about 620 million fluorescent lamps are discarded annually; proper recycling of a lamp prevents emission of mercury into the environment, and is required by most states for commercial facilities. The primary advantage of recycling is diversion of mercury from landfill sites, but the actual scrap value of the materials salvaged from a discarded lamp is often insufficient to offset the cost of recycling.
+
+
+== Mercury in lamps ==
+The amount of mercury in a fluorescent lamp varies from 3 to 46 mg, depending on lamp size and age. Newer lamps contain less mercury and the 3–4 mg versions are sold as low-mercury types. A typical 2006-era 4 ft (122 cm) T-12 fluorescent lamp (i.e. F34T12) contains about 5 milligrams of mercury. In early 2007, the National Electrical Manufacturers Association in the US announced that "Under the voluntary commitment, effective April 15, 2007, participating manufacturers will cap the total mercury content in CFLs under 25 watts at 5 milligrams (mg) per unit. CFLs that use 25 to 40 watts of electricity will have total mercury content capped at 6 mg per unit."Only a few tenths of a milligram of mercury are required to maintain the vapor, but lamps must include more mercury to compensate for the part of mercury absorbed by internal parts of the lamp and no longer available to maintain the arc. Manufacturing processes have been improved to reduce the handling of liquid mercury during manufacture and improve accuracy of mercury dosing.: 194 Mercury-free discharge lamps have considerably lower production of visible light, reduced to about half; thus, mercury remains an essential component of efficient fluorescent lamps.
+: 192 
+
+
+== Broken lamps ==
+A broken fluorescent tube will release its mercury content. Safe cleanup of broken fluorescent bulbs differs from cleanup of conventional broken glass or incandescent bulbs, avoiding the use of vacuum cleaners, in favour of sticky tape to recover small particles, and ensuring that fans and air conditioning are turned off. Approximately 99% of the mercury is typically contained in the phosphor, especially on lamps that are near their end of life.
+
+
+== Phosphors ==
+Lamps made up to the 1940s used toxic beryllium compounds, which were implicated in the deaths of factory workers.: Chapter 7   Today it is very unlikely that one would encounter any such lamps.Other toxic elements such as arsenic, cadmium, and thallium were formerly used in phosphor manufacture.  Modern halophosphate phosphors resemble the chemistry of tooth enamel. The rare-earth doped phosphors are not known to be harmful.: 195 
+
+
+== Mercury containment ==
+When a modern fluorescent tube is discarded, the main concern is the mercury, which is a significant toxic pollutant. One way to avoid releasing mercury into the environment is to combine it with sulfur to form mercury sulfide, which will prevent vapor release and is insoluble in water. One advantage of sulfur is its low cost. The reaction is shown with the equation:
+Hg +  S →    HgS
+The easiest way to combine sulfur and mercury is to cover a group of fluorescent tubes with sulfur dust (sometimes called "flowers of sulfur") and to break the tubes; when the glass fragments are put into a bag to continue with the reaction, the mercury will combine with sulfur without any other action. The glass can be recycled where an appropriate facility exists. A quantity of 25 kilograms (55 lb) of dust sulfur is enough for 1000 tubes.
+
+
+== Disposal methods ==
+The disposal of phosphor and mercury toxins from spent tubes can be an environmental hazard. Governmental regulations in many areas require special disposal of fluorescent lamps separate from general and household wastes. For large commercial or industrial users of fluorescent lights, recycling services are available in many nations, and may be required by regulation. In some areas, recycling is also available to consumers.
+Spent fluorescent lamps are typically packaged prior to transport to a recycling facility in one of three ways: boxed for bulk pickup, by using a prepaid lamp recycling box, or crushed onsite before pickup. A fluorescent lamp crusher can attach directly to a disposal drum and isolate the dust and mercury vapor. In some states, drum-top crushers and end-user crushing of lamps are not allowed.Minnesota Department of Health Drum Top Bulb Crusher Demonstration Disposal methods are regulated at both the state and federal level.
+Proper recycling of fluorescent lamps can reduce risk of human exposure to mercury.
+
+
+== References ==
+
+
+== External links ==
+NEMA paper on recycling household compact fluorescent lamps
+LampRecycle.org Information and directory from the National Electrical Manufacturers Association (NEMA)
+ALMR.org Association website for the Association of Lighting and Mercury Recyclers (ALMR)
+EPA.gov Mercury-containing Light Bulb (Lamp) Recycling
+Midwest Lamp Recycling Quick tips for Light Bulb (Lamp) Recycling

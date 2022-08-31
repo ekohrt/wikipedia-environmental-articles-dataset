@@ -1,0 +1,97 @@
+Environmental geology, like hydrogeology, is an applied science concerned with the practical application of the principles of geology in the solving of environmental problems created by man. It is a multidisciplinary field that is closely related to engineering geology and, to a lesser extent, to environmental geography. Each of these fields involves the study of the interaction of humans with the geologic environment, including the biosphere, the lithosphere, the hydrosphere, and to some extent the atmosphere. In other words, environmental geology is the application of geological information to solve conflicts, minimizing possible adverse environmental degradation or maximizing possible advantageous conditions resulting from the use of natural and modified environment. With an increasing world population and industrialization, the natural environment and resources are under high strain which puts them at the forefront of world issues. Environmental geology is on the rise with these issues as solutions are found by utilizing it.
+
+
+== Environmental geology in relation to other fields ==
+
+
+=== Hydrogeology ===
+Hydrogeology is the area of geology that deals with the distribution and movement of groundwater in the soil and rocks of the Earth's crust. Environmental geology is applied in this field as environmental problems are created in groundwater pollution due to mining, agriculture, and other human activities. Pollution is the impairment of groundwater by heat, bacteria, or chemicals. The greatest contributors to groundwater pollution are surface sources such as fertilizers, leaking sewers, polluted streams, and mining/mineral wastes. Environmental geology approaches the groundwater pollution problem by creating objectives when monitoring.
+These objectives include:
+
+determining the nature, extent, and degree of contamination,
+determining the propagation mechanism and hydrological parameters, so that the appropriate countermeasures can be taken,
+detecting and warning of movement into critical areas,
+assessing the effectiveness of the immediate countermeasures undertaken to offset the effects of contamination,
+recording of data for long term evaluation and compliance with standards, and
+initiating research monitoring to validate and verify the models and assumptions upon which the immediate countermeasures are based.
+
+
+=== Soil Science ===
+Soil science is the study of soil as a natural resource on the surface of the earth. Environmental geology is applied in this field as soil scientists raise concerns on soil preservation and arable land with the world increasing population, increasing per capita food consumption, and land degradation. These environmental problems are attacked and reduced with environmental geology by using soil surveys. These surveys assess the properties of soils and are of use in rural and urban land planning, especially in terms of agriculture and forestry. Soil surveys are essential parts of land use planning and mapping as they provide insight on agricultural land usage. Soil surveys provide information on optimum cropping systems and soil management so less land degradation is done and agriculture provides its optimum yield for the increasing per capita food consumption.Soil survey investigations include:
+
+soil erodibility,
+depth of soil,
+steepness of slope,
+shrink-swell potential,
+frequency of rock outcrops,
+possibility of salinization
+fertilizer-plant response, and
+crop variety trials.
+
+
+== Focuses ==
+Environmental geology includes
+
+managing geological and hydrogeological resources such as fossil fuels, minerals, water (surface and groundwater), and land use,
+studying the earth's surface through the disciplines of geomorphology, and edaphology,
+defining and mitigating exposure of natural hazards on humans,
+managing industrial and domestic waste disposal and minimizing or eliminating effects of pollution, and
+performing associated activities, often involving litigation.Environmental geology is often applied to some well known environmental issues including population growth, mining, diminishing resources, and global land use.
+
+
+=== Mining ===
+Since the Stone Age, when humans began mining for flint, humans have been dependent on mining and the dependency on minerals continues to increase as society evolves. A downfall within mining is that it is restricted to where minerals are present and economically viable. Mining duration is also restrained as mineral resources are finite so when a deposit is exhausted, mining in that area comes to an end. Although modern mining and mineral activities utilize many ways to diminish and reduce negative environmental impacts, accidental releases do occur and the appropriate mitigation and prevention practices were not common in historical practices. Potentially deleterious metals, other deposit constituents, and mineral processing chemicals or byproducts can be, and have been, breached into the environment due to these situations. Some common environmental impacts of mining are the rock displacement due to mining can cause dust that discharges fine particles into surface waters, the defacement of the local landscape, and the large amounts of waste with some being chemically reactive. Ultimately the impact that mining has on the environment is determined by many factors such as the size of the operation and the type of mining. Environmental geology has reduced the negative environmental impacts of mining as it has been used in litigation toward mining. It is now that law after mining operation has ceased, the site must undergo rehabilitation. Prior to any mining an assessment is also necessary to analyze the environmental impact. Another measure taken is that an environmental management programme must be produced to show how the mine will operate. Land planning is an important aspect in deciding whether a site is suitable for mining but ultimately some environmental degradation is inevitable. Environmental Geology has, and continues to, lower the amount of negative effects that mining has on the natural environment.
+
+
+=== Recycling ===
+Nonrenewable resources are only one type of resource with the other two being potentially renewable and perpetual. Nonrenewable resources, such as fossil fuels and metals, can not be replenished on the scale of a human lifetime but are being depleted at a high rate. This creates an issue as the world has developed the technology to exploit these resources so they are such important resources in many societies. Some important roles of these nonrenewable resources are to heat homes, fuel cars, and build infrastructure. Environmental geology has been used to approach this issue with the sustainable development of recycling and reusing. Recycling and reusing manage resources as they utilize them as much as possible. They also manage the industrial and domestic waste disposal as they reduce the amount of waste discharged into the global environment. Recycling is the process of collecting recyclable consumer and industrial materials and products and then sorting them so they can be processed into raw materials with the intention of then using the raw materials to create new products. Recycling and reusing can be done on an individual scale as well as an industrial scale.
+Reusing and recycling include:
+
+composting: the biological decomposition of organic garden and food waste in order to use it as soil conditioner,
+upcycling: increasing the value and quality in materials and products through the recycling process,
+freecycling: giving or getting free items from others before buying new
+industrial ecology: dismantling of massive artifacts to become input for new processesEnvironmental geology's approach to the decline of nonrenewable resources along with high amounts of waste polluting the earth has been to reduce usage and recycle when possible.
+
+
+=== Land use ===
+
+Planning out the usage of land is important to reduce the risk of natural hazards on humans and their infrastructure but mostly to reduce negative human impact on the natural environment. The land, water, air, materials, and energy use are all critically impacted by human settlement and resource production. New sites must be found for mining, waste disposal, and industrial sites as these are all parts of an industrial society. Suitable sites are often difficult to find and get approval for as they must be shown to have barriers so contaminants are prevented from entering the environment.
+Site investigation in land use planning often includes at least two phases, an orientating investigation and a detailed investigation. The information in an orientating investigation is obtained through maps and other archived data. The information in a detailed investigation is obtained through a reconnaissance survey in the field and by reviewing the historic land use.
+The orientating investigation includes:
+
+topography, land use and vegetation, settlements, roads and railways,
+climate: precipitation, temperature, evapotranspiration, direction and the velocity of the wind, as well as the frequency of strong winds,
+hydrological and hydrogeological conditions: streams, lakes and ponds, springs, wells, use and quality of surface and groundwater, runoff, water balance, aquifer/aquiclude properties and stratigraphy, groundwater table, groundwater recharge and discharge,
+geology: soil, geological structures, stratigraphy and lithology,
+ecological aspects: e.g., nature reserves, protected geotopes, water protection areas.The detailed investigation includes:
+geology: thickness and lateral extent of strata and geological units, lithology, homogeneity and heterogeneity, bedding conditions and tectonic structures, fractures, impact of weathering,
+groundwater: water table, water content, direction and rate of groundwater flow, hydraulic conductivity, value of aquifer,
+geochemical site characterization: chemical composition of soil, rocks and groundwater, estimation of contamination retention,
+geotechnical stability: The geological barrier must be capable of adsorbing strain from the weight of a landfill, slag heap, or industrial building.
+geogenic events: active faults, karst, earthquakes, subsidence, landslides,
+anthropogenic activities: mining damage, buildings, quarries, gravel pits, etc., and
+changes in soil and groundwater qualityEnvironmental geology includes both the minitorization and planning of land use. Land use maps are made to represent current land use along with possible future uses. Land maps like the one shown can be used to reduce the risk of human settlement in areas with potential natural hazards such as floods, geological instability, wildfires, etc. In the land map shown it can be seen that there is a margin of trees and vegetation between the settlements and Mississippi River to reduce the risk of flood damage as the Mississippi Rivers water levels change.
+
+
+== Further reading ==
+Some books and peer-reviewed journals in the field are:
+
+Environmental Earth Sciences (ISSN 1866-6280), formerly Environmental Geology (ISSN 0943-0105),
+Environmental Geology (ISBN 9781493987870), and
+Investigations in Environmental Geology (ISBN 9780131420649)
+
+
+== See also ==
+Anthropocene
+Economic geology
+Environmental soil science
+Integrated geography
+Soil contamination
+Water pollution
+
+
+== References ==
+
+
+== External links ==
+US Dept. of Labor

@@ -1,0 +1,88 @@
+Conservation genetics is an interdisciplinary subfield of population genetics that aims to understand the dynamics of genes in populations principally to avoid extinction. Therefore, it applies genetic methods to the conservation and restoration of biodiversity.  Researchers involved in conservation genetics come from a variety of fields including population genetics, molecular ecology, biology, evolutionary biology, and systematics. Genetic diversity is one of the three fundamental levels of biodiversity, so it is directly important in conservation. Genetic variability influences both the health and long-term survival of populations because decreased genetic diversity has been associated with reduced fitness, such as high juvenile mortality, diminished population growth, reduced immunity, and ultimately, higher extinction risk.
+
+
+== Genetic diversity ==
+Genetic diversity is the variability of genes in a species. A number of means can express the level of genetic diversity: observed heterozygosity, expected heterozygosity, the mean number of alleles per locus, or the percentage of polymorphic loci.
+
+
+== Importance of genetic diversity ==
+Genetic diversity determines the potential fitness of a population and ultimately its long-term persistence, because genes encode phenotypic information. Extinction risk has been associated with low genetic diversity and several researchers have documented reduced fitness in populations with low genetic diversity. For example, low heterozigosity has been associated with low juvenile survival, reduced population growth, low body size, and diminished adult lifespan.Heterozygosity, a fundamental measurement of genetic diversity in population genetics, plays an important role in determining the chance of a population surviving environmental change, novel pathogens not previously encountered, as well as the average fitness of a population over successive generations.  Heterozygosity is also deeply connected, in population genetics theory, to population size (which itself clearly has a fundamental importance to conservation).  All things being equal, small populations will be less heterozygous – across their whole genomes – than comparable, but larger, populations.  This lower heterozygosity (i.e. low genetic diversity) renders small populations more susceptible to the challenges mentioned above.
+In a small population, over successive generations and without gene flow, the probability of mating with close relatives becomes very high, leading to inbreeding depression – a reduction in fitness of the population.  The reduced fitness of the offspring of closely related individuals is fundamentally tied to the concept of heterozygosity, as the offspring of these kinds of pairings are, by necessity, less heterozygous (more homozygous) across their whole genomes than outbred individuals.  A diploid individual with the same maternal and paternal grandfather, for example, will have a much higher chance of being homozygous at any loci inherited from the paternal copies of each of their parents' genomes than would an individual with unrelated maternal and paternal grandfathers (each diploid individual inherits one copy of their genome from their mother and one from their father).
+High homozygosity (low heterozygosity) reduces fitness because it exposes the phenotypic effects of recessive alleles at homozygous sites.  Selection can favour the maintenance of alleles which reduce the fitness of homozygotes, the textbook example being the sickle-cell beta-globin allele, which is maintained at high frequencies in populations where malaria is endemic due to the highly adaptive heterozygous phenotype (resistance to the malarial parasite Plasmodium falciparum).
+Low genetic diversity also reduces the opportunities for chromosomal crossover during meiosis to create new combinations of alleles on chromosomes, effectively increasing the average length of unrecombined tracts of chromosomes inherited from parents.  This in turn reduces the efficacy of selection, across successive generations, to remove fitness-reducing alleles and promote fitness-enhancing allelels from a population.  (A simple hypothetical example would be two adjacent genes – A and B – on the same chromosome in an individual.  If the allele at A promotes fitness "one point", while the allele at B reduces fitness "one point", but the two genes are inherited together, then selection cannot favour the allele at A while penalising the allele at B – the fitness balance is "zero points".  Recombination can swap out alternative alleles at A and B, allowing selection to promote the optimal alleles to the optimal frequencies in the population – but only if there are alternative alleles to choose between!)
+The fundamental connection between genetic diversity and population size in population genetics theory can be clearly seen in the classic population genetics measure of genetic diversity, the Watterson estimator, in which genetic diversity is measured as a function of effective population size and mutation rate.  Given the relationship between population size, mutation rate, and genetic diversity, it is clearly important to recognise populations at risk of losing genetic diversity before problems arise as a result of the loss of that genetic diversity.  Once lost, genetic diversity can only be restored by mutation and gene flow.  If a species is already on the brink of extinction there will likely be no populations to use to restore diversity by gene flow, and any given population will (by definition) be small and therefore diversity will accumulate in that population by mutation much more slowly than it would in a comparable, but bigger, population (since there are fewer individuals whose genomes are mutating in a smaller population than a bigger population).
+
+
+== Contributors to extinction ==
+Inbreeding and inbreeding depression.
+The accumulation of deleterious mutations
+A decrease in frequency of heterozygotes in a population, or heterozygosity, which decreases a species' ability to evolve to deal with change in the environment
+Outbreeding depression
+Fragmented populations
+Taxonomic uncertainties, which can lead to a reprioritization of conservation efforts
+Genetic drift as the main evolutionary process, instead of natural selection
+Management units within species
+Hybridization with allochthonous species, with the progressive substitution of the initial endemic species.
+
+
+== Techniques ==
+Specific genetic techniques are used to assess the genomes of a species regarding specific conservation issues as well as general population structure. This analysis can be done in two ways, with current DNA of individuals or historic DNA.Techniques for analysing the differences between individuals and populations include
+
+Alloenzymes
+Random fragment length polymorphisms
+Amplified fragment length polymorphisms
+Random amplification of polymorphic DNA
+Single strand conformation polymorphism
+Minisatellites
+Microsatellites
+Single-nucleotide polymorphisms
+DNA sequencingThese different techniques focus on different variable areas of the genomes within animals and plants. The specific information that is required determines which techniques are used and which parts of the genome are analysed. For example, mitochondrial DNA in animals has a high substitution rate, which makes it useful for identifying differences between individuals. However, it is only inherited in the female line, and the mitochondrial genome is relatively small. In plants, the mitochondrial DNA has very high rates of structural mutations, so is rarely used for genetic markers, as the chloroplast genome can be used instead. Other sites in the genome that are subject to high mutation rates such as the major histocompatibility complex, and the microsatellites and minisatellites are also frequently used.
+These techniques can provide information on long-term conservation of genetic diversity and expound demographic and ecological matters such as taxonomy.Another technique is using historic DNA for genetic analysis.  Historic DNA is important because it allows geneticists to understand how species reacted to changes to conditions in the past.  This is a key to understanding the reactions of similar species in the future.Techniques using historic DNA include looking at preserved remains found in museums and caves. Museums are used because there is a wide range of species that are available to scientists all over the world.  The problem with museums is that, historical perspectives are important because understanding how species reacted to changes in conditions in the past is a key to understanding reactions of similar species in the future.  Evidence found in caves provides a longer perspective and does not disturb the animals.Another technique that relies on specific genetics of an individual is noninvasive monitoring, which uses extracted DNA from organic material that an individual leaves behind, such as a feather. This too avoids disrupting the animals and can provide information about the sex, movement, kinship and diet of an individual.Other more general techniques can be used to correct genetic factors that lead to extinction and risk of extinction.  For example, when minimizing inbreeding and increasing genetic variation multiple steps can be taken. Increasing heterozygosity through immigration, increasing the generational interval through cryopreservation or breeding from older animals, and increasing the effective population size through equalization of family size all helps minimize inbreeding and its effects. Deleterious alleles arise through mutation, however certain recessive ones can become more prevalent due to inbreeding. Deleterious mutations that arise from inbreeding can be removed by purging, or natural selection.  Populations raised in captivity with the intent of being reintroduced in the wild suffer from adaptations to captivity.Inbreeding depression, loss of genetic diversity, and genetic adaptation to captivity are disadvantageous in the wild, and many of these issues can be dealt with through the aforementioned techniques aimed at increasing heterozygosity.  In addition creating a captive environment that closely resembles the wild and fragmenting the populations so there is less response to selection also help reduce adaptation to captivity.Solutions to minimize the factors that lead to extinction and risk of extinction often overlap because the factors themselves overlap. For example, deleterious mutations are added to populations through mutation, however the deleterious mutations conservation biologists are concerned with are ones that are brought about by inbreeding, because those are the ones that can be taken care of by reducing inbreeding. Here the techniques to reduce inbreeding also help decrease the accumulation of deleterious mutations.
+
+
+== Applications ==
+These techniques have wide-ranging applications. One application of these specific molecular techniques is in defining species and sub-species of salmonids. Hybridization is an especially important issue in salmonids and this has wide-ranging conservation, political, social and economic implications. In Cutthroat Trout mtDNA and alloenzyme analysis, hybridization between native and non-native species was shown to be one of the major factors contributing to the decline in their populations. This led to efforts to remove some hybridized populations so native populations could breed more readily.  Cases like these impact everything from the economy of local fishermen to larger companies, such as timber. Specific molecular techniques led to a closer analysis of taxonomic relationships, which is one factor that can lead to extinctions if unclear.
+
+
+== Implications ==
+New technology in conservation genetics has many implications for the future of conservation biology. At the molecular level, new technologies are advancing. Some of these techniques include the analysis of minisatellites and MHC. These molecular techniques have wider effects from clarifying taxonomic relationships, as in the previous example, to determining the best individuals to reintroduce to a population for recovery by determining kinship. These effects then have consequences that reach even further. Conservation of species has implications for humans in the economic, social, and political realms. In the biological realm increased genotypic diversity has been shown to help ecosystem recovery, as seen in a community of grasses which was able to resist disturbance to grazing geese through greater genotypic diversity. Because species diversity increases ecosystem function, increasing biodiversity through new conservation genetic techniques has wider reaching effects than before.
+A short list of studies a conservation geneticist may research include:
+
+Phylogenetic classification of species, subspecies, geographic races, and populations, and measures of phylogenetic diversity and uniqueness.
+Identifying hybrid species, hybridization in natural populations, and assessing the history and extent of introgression between species.
+Population genetic structure of natural and managed populations, including identification of Evolutionary Significant Units (ESUs) and management units for conservation.
+Assessing genetic variation within a species or population, including small or endangered populations, and estimates such as effective population size (Ne).
+Measuring the impact of inbreeding and outbreeding depression, and the relationship between heterozygosity and measures of fitness (see Fisher's fundamental theorem of natural selection).
+Evidence of disrupted mate choice and reproductive strategy in disturbed populations.
+Forensic applications, especially for the control of trade in endangered species.
+Practical methods for monitoring and maximizing genetic diversity during captive breeding programs and re-introduction schemes, including mathematical models and case studies.
+Conservation issues related to the introduction of genetically modified organisms.
+The interaction between environmental contaminants and the biology and health of an organism, including changes in mutation rates and adaptation to local changes in the environment (e.g. industrial melanism).
+New techniques for noninvasive genotyping.
+
+
+== See also ==
+Animal genetic resources
+Forest genetic resources
+The State of the World's Animal Genetic Resources for Food and Agriculture
+
+
+== Notes ==
+
+
+== References ==
+Avise, John C; Hamrick James L, eds. (1996-01-31). Conservation Genetics. Springer. ISBN 978-0-412-05581-2.
+Frankham, Richard (2003). "Genetics and Conservation Biology". Comptes Rendus Biologies. 326: S22–S29. doi:10.1016/S1631-0691(03)00023-4. PMID 14558445.
+Allendorf, F.W.; G. Luikart (2007). Conservation and the Genetics of Populations. Wiley-Blackwell. p. 642.
+
+
+== External links ==
+What is Conservation Genetics?
+Science
+Genetics
+Blackwell - synergy
+UTM Departments
+UWYO
+PNAS
+Science
+ESF

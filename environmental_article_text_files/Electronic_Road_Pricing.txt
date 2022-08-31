@@ -1,0 +1,56 @@
+The Electronic Road Pricing (ERP) system is an electronic toll collection scheme adopted in Singapore to manage traffic by way of road pricing, and as a usage-based taxation mechanism to complement the purchase-based Certificate of Entitlement system.
+The ERP was implemented by the Land Transport Authority on February 3, 2009 to replace the preceding Singapore Area Licensing Scheme (ALS) that was first introduced on 11 August 1974 after successfully stress-testing the system with vehicles running at high speed. The system uses open road tolling; vehicles do not stop or slow down to pay tolls.Singapore was the first city in the world to implement an electronic road toll collection system for purposes of congestion pricing. Its use has inspired other cities around the world in adopting a similar  system, particularly London's Congestion Charge Zone (CCZ) and Stockholm's congestion tax.
+
+
+== The system ==
+
+The scheme consists of ERP gantries located at all roads linking into Singapore's Central Area. They are also located along the expressways and arterial roads with heavy traffic to discourage usage during peak hours. The gantry system is actually a system of sensors on 2 gantries, one in front of the other. Cameras are also attached to the gantries to capture the rear license plate numbers of vehicles. On 18 September 2018, there were 93 ERP gantries in Singapore. New gantries are implemented where congestion is severe, like expressways and other roads.
+A device known as an In-vehicle Unit (IU) is affixed on the lower right corner of the front windscreen within sight of the driver, in which a stored-value card, the CashCard, is inserted for payment of the road usage charges. The second generation IU accepts Contactless NETS FlashPay and EZ-Link. The cost of an IU is S$150. It is mandatory for all Singapore-registered vehicles to be fitted with an IU if they wish to use the priced roads.
+Mitsubishi Heavy Industries Ltd sold the IU technology to Singapore, and the project was spearheaded by a Consortium comprising Philips Singapore Pte Ltd., Mitsubishi Heavy Industries Ltd., Miyoshi Electronic Corporation and CEI Systems and Engineering (now known as CSE Global Ltd.) in 1995 through an open tender.
+When a vehicle equipped with an IU passes under an ERP gantry, a road usage charge is deducted from the CashCard in the IU. Sensors installed on the gantries communicate with the IU via a dedicated short-range communication system, and the deducted amount is displayed to the driver on an LCD screen of the IU.
+The charge for passing through a gantry depends on the location and time, the peak hour being the most expensive. Examples include a trip from Woodlands to Raffles Place via Yishun – CTE – CBD will cost about S$15 during peak as the driver will pass about 5 gantries, whereas during lunchtime, it will cost about S$2. Foreign visitors driving foreign-registered private vehicles on priced roads, during the ERP operating hours, could choose to either rent an IU or pay a daily flat fee of S$5 regardless how many ERP gantries entered, the payment is done and information is stored by Autopass Card until the vehicle leaves Singapore. Foreign-registered commercial vehicles, however, are required to install an IU.
+If a vehicle owner does not have sufficient value in their CashCard (or EZ-Link) when passing through an ERP, the owner receives a fine by post within two weeks. The violator must pay the ERP charges plus a $10 administration fee within two weeks of the notice. Online payment is allowed; listing just the Vehicle Registration Number is required. Otherwise, a penalty of S$70 is issued by registered post to the vehicle owner, which rises to S$1000, or one month in jail, if not settled within 30 days.
+
+
+== Improvements and adaptations ==
+
+According to a paper presented in the World Roads Conference 2006, the Land Transport Authority has been testing a system based on the Global Positioning System that may eventually replace the current Electronic Road Pricing system. The proposed system overcomes the inflexibility of having physical gantries, which "are not so flexible when it comes to re-locating them".
+A lightweight version of this same technology is implemented for use on parking, known as the Electronic Parking System (EPS). It has since been adopted in favour by several carpark operators, superseding the use of autopay tickets or parking coupons. These systems have also typically switched to charging by the minute.
+
+
+== Impact ==
+A study on the long-term effects of congestion pricing in Singapore found that "traffic congestion had not been eliminated—it had merely been shifted in time and location" and that the average travel time has increased. The LTA reported that road traffic decreased by nearly 25,000 vehicles during peak hours, with average road speeds increasing by about 20%. Within the restricted zone itself, traffic has gone down by about 13% during ERP operational hours, with vehicle numbers dropping from 270,000 to 235,000. It has been observed that car-pooling and public transport has increased, while the hours of peak vehicular traffic has also gradually eased and spread into off-peak hours, suggesting a more productive use of road space. In addition, it has been noted that average road speeds for expressways and major roads remained the same, despite rising traffic volumes over the years.In some cases, the implementation of an ERP gantry along a road may move the traffic to outer roads or shift to the public transport. One instance of this is that the ERP gantries have been said to have caused traffic to increase substantially in the arterial roads. The rising traffic has prompted the LTA to encourage more Singaporeans to switch to public transport, build more MRT lines, introduce new bus services and building of new roads to cope with the population growth. The overloading on the East Coast Parkway was relieved with the opening of Marina Coastal Expressway on 29 December 2013.
+
+
+== Latest developments ==
+In an effort to improve the pricing mechanism and to introduce real-time variable pricing, Singapore's Land Transport Authority, together with IBM, ran a pilot from December 2006 to April 2007, with a traffic estimation and prediction tool (TrEPS), which uses historical traffic data and real-time feeds with flow conditions from several sources, to predict the levels of congestion up to an hour in advance. By accurate estimating prevailing and emerging traffic conditions, this technology is expected to allow variable pricing, together with improved overall traffic management, including the provision of information in advance to alert drivers about conditions ahead, and the prices being charged at that moment.This new system integrates with the various LTA's traffic management existing systems, such as the Green Link Determining System (GLIDE), TrafficScan, Expressway Monitoring Advisory System (EMAS), Junction Electronic Eyes (J-Eyes), and the Electronic Road Pricing system. The pilot results were successful, showing overall prediction results above 85 percent of accuracy. Furthermore, when more data was available, during peak hours, average accuracy raised near or above 90 percent from 10 minutes up to 60 minutes predictions in the future.The Land Transport Authority will replace the normal ERP gantry with the islandwide ERP system that will show the pricing of the congested road from 2019 onwards. Subsequently, a tender was called and in 2016, NCS and MHI Engine System was awarded the contract to install the system at S$556 million, which is less than ST Electronics's bid of S$1.2 billion. The system also shows real-time traffic information, couponless parking and automatic payment. At that time, the Land Transport Authority said the system will start from 2020 with distance charging after the transitional period. Electronic Road Pricing was suspended during the COVID-19 pandemic heightened lockdowns; with ERP resumed on several gantries. As a result, satellite ERP will start later after 2026. There will be no need for big gantries when the system starts, with current IU systems replaced by onboard units (OBUs) with one-piece units for motorcycles and three-piece units for cars.
+
+
+== Adoptions by other metropolitan areas ==
+In Ontario, Canada, an electronic road pricing system is used on Highway 407 to collect tolls electronically and billed to the owner of the car by taking a picture of its license plate.The ERP system attracted the attention of transport planners and managers in other metropolitan areas, particularly those in Europe and the United States. For example, the London Congestion Charge was introduced on 17 February 2003, after London officials visited Singapore to study the ERP system, and used it as a reference for the London system. London's charge area was expanded in 2007.The Stockholm congestion tax is also a congestion pricing system implemented as a tax which is levied on most vehicles entering and exiting central Stockholm, Sweden. The congestion tax was implemented on a permanent basis on 1 August 2007, after a seven-month trial period was held between 3 January 2006 and 31 July 2006.In 2007, Dubai, at the United Arab Emirates, implemented a corridor congestion pricing scheme called Salik which works on similar principles. In January 2008, Milan introduced a traffic charge scheme as a one-year trial, called Ecopass, and exempts high emission standard vehicles and some alternate fuel vehicles. This tax was substituted in 2012 by the Area C system, which places a charge on nearly all vehicles entering the city centre during weekdays.
+A similar system is expected to be operational on selected roads in Jakarta, the capital of Indonesia by early 2019.
+
+
+== See also ==
+
+Road Pricing
+Congestion pricing
+Electronic toll collection
+Hong Kong Electronic Road Pricing
+Intelligent Transportation Systems
+Singapore Area Licensing Scheme
+London Congestion Charge
+Milan Area C
+New York congestion pricing
+San Francisco congestion pricing
+Stockholm congestion tax
+PAYD
+
+
+== References ==
+
+
+== External links ==
+ Land Transport Authority (Singapore): ERP
+Integrated public transport in Singapore and Hong Kong, James Luk and Piotr Olszewski, Dec 2003
+Schematic drawing of ERP system using pair of 2 gantries and 5 step detection sequence [1]

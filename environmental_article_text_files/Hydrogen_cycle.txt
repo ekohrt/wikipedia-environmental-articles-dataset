@@ -1,0 +1,116 @@
+The hydrogen cycle consists of hydrogen exchanges between biotic (living) and abiotic (non-living) sources and sinks of hydrogen-containing compounds.
+Hydrogen (H) is the most abundant element in the universe. On Earth, common H-containing inorganic molecules include water (H2O), hydrogen gas (H2), hydrogen sulfide (H2S), and ammonia (NH3). Many organic compounds also contain H atoms, such as hydrocarbons and organic matter. Given the ubiquity of hydrogen atoms in inorganic and organic chemical compounds, the hydrogen cycle is focused on molecular hydrogen, H2.
+Hydrogen gas can be produced naturally through rock-water interactions or as a byproduct of microbial metabolisms. Free H2 can then be consumed by other microbes, oxidized photochemically in the atmosphere, or lost to space. Hydrogen is also thought to be an important reactant in pre-biotic chemistry and the early evolution of life on Earth, and potentially elsewhere in our solar system.
+
+
+== Abiotic cycles ==
+
+
+=== Sources ===
+Abiotic sources of hydrogen gas include water-rock and photochemical reactions. Exothermic serpentinization reactions between water and olivine minerals produce H2 in the marine or terrestrial subsurface. In the ocean, hydrothermal vents erupt magma and altered seawater fluids including abundant H2, depending on the temperature regime and host rock composition. Molecular hydrogen can also be produced through photooxidation (via solar UV radiation) of some mineral species such as siderite in anoxic aqueous environments. This may have been an important process in the upper regions of early Earth's Archaean oceans.
+
+
+=== Sinks ===
+Because H2 is the lightest element, atmospheric H2 can readily be lost to space via Jeans escape, an irreversible process that drives Earth's net mass loss. Photolysis of heavier compounds not prone to escape, such as CH4 or H2O, can also liberate H2 from the upper atmosphere and contribute to this process. Another major sink of free atmospheric H2 is photochemical oxidation by hydroxyl radicals (•OH), which forms water.
+Anthropogenic sinks of H2 include synthetic fuel production through the Fischer-Tropsch reaction and artificial nitrogen fixation through the Haber-Bosch process to produce nitrogen fertilizers.
+
+
+== Biotic cycles ==
+Many microbial metabolisms produce or consume H2.
+
+
+=== Production ===
+Hydrogen is produced by hydrogenases and nitrogenases enzymes in many microorganisms, some of which are being studied for their potential for biofuel production. These H2-metabolizing enzymes are found in all three domains of life, and out of known genomes over 30% of microbial taxa contain hydrogenase genes. Fermentation produces H2 from organic matter as part of the anaerobic microbial food chain via light-dependent or light-independent pathways.
+
+
+=== Consumption ===
+Biological soil uptake is the dominant sink of atmospheric H2. Both aerobic and anaerobic microbial metabolisms consume H2 by oxidizing it in order to reduce other compounds during respiration. Aerobic H2 oxidation is known as the Knallgas reaction.Anaerobic H2 oxidation often occurs during interspecies hydrogen transfer in which H2 produced during fermentation is transferred to another organism, which uses the H2 to reduce CO2 to CH4 or acetate, SO42- to H2S, or Fe3+ to Fe2+. Interspecies hydrogen transfer keeps H2 concentrations very low in most environments because fermentation becomes less thermodynamically favorable as the partial pressure of H2 increases.
+
+
+== Relevance for the global climate ==
+H2 can interfere with the removal of methane from the atmosphere, a greenhouse gas. Typically, atmospheric CH4 is oxidized by hydroxyl radicals (•OH), but H2 can also react with •OH to reduce it to H2O.
+
+  
+    
+      
+        
+          C
+          
+            H
+            
+              4
+            
+          
+          +
+          O
+          H
+          ⟶
+          C
+          
+            H
+            
+              3
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {CH_{4}+OH\longrightarrow CH_{3}+H_{2}O} }
+  
+
+  
+    
+      
+        
+          
+            H
+            
+              2
+            
+          
+          +
+          O
+          H
+          ⟶
+          H
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {H_{2}+OH\longrightarrow H+H_{2}O} }
+  
+
+
+== Implications for astrobiology ==
+Hydrothermal H2 may have played a major role in pre-biotic chemistry. Production of H2 by serpentinization supported formation of the reactants proposed in the iron-sulfur world origin of life hypothesis. The subsequent evolution of hydrogenotrophic methanogenesis is hypothesized as one of the earliest metabolisms on Earth.Serpentinization can occur on any planetary body with chondritic composition. The discovery of H2 on other ocean worlds, such as Enceladus, suggests that similar processes are ongoing elsewhere in our solar system, and potentially in other solar systems as well.
+
+
+== See also ==
+Biogeochemical cycle
+Carbon cycle
+Hydrogen
+Methane
+Serpentinization
+Interspecies hydrogen transfer
+Fermentation
+Hydrothermal vents
+Water cycle
+Ocean World Exploration Program
+
+
+== References ==

@@ -1,0 +1,53 @@
+BioHome was a small facility created by NASA in the late 1980s that could support one person in a fully functional habitat.  One of the influences on the project was the results from data obtained on the 1973 Skylab 3 (SL-3), where a total of 107 VOCs were offgassed by synthetic materials that composed the SL-3.  However, the study of indoor air quality was not the only focus of the project, as it was a part of research into closed ecological life support systems.
+The facility was still in use as of March 5, 2005, and has paved inroads into creating self-supporting life support systems.
+
+
+== Construction ==
+Construction of the BioHome concluded in 1989 and construction materials included synthetics which gave off the aforementioned VOCs.  The BioHome itself resembles a mobile home in size where it contained a living area and treatment facilities for human waste and air.
+While not completely air-tight, such as the Biosphere 2 structure, the structure was engineered for maximum air and energy confinement. This was unsurprising, given that the interior walls were composed of molded plastic panels with 30 cm of fiberglass insulation.
+The BioHome had living facilities that could support one person and foliage plants were placed throughout the structure, aiding in air purification.  In addition to the plants, a prototype fan-assisted plant filter was installed; the filter had the removal capacity of 15 standard potted plants.
+The BioHome was equipped with monitoring ports for the detection of VOCs, which were measured using mass spectrometer / gas chromatograph equipment.
+In experiments regarding wastewater treatment, the facility was outfitted with PVC piping and ultraviolet equipment.
+
+
+== Usage ==
+The BioHome was used for a variety of experiments into, and including:
+
+
+=== Wastewater treatment ===
+In its nascence, the BioHome focused on alternative, non-chemical sewage treatment methods utilizing non-edible plants of aquatic disposition.  The aquatic and semi-aquatic plants were chosen based on their previously known abilities for waste treatment.  Another usage for the plants used in the wastewater treatment included its implementation as compost, which was feasible as the plants grew as more sewage was introduced.
+
+
+==== Means ====
+All waste material, such as feces and urine, were routed through PVC pipes, punctured so that the root systems of aquatic / semi-aquatic plants could be inserted.  At different points of the flow, the water was studied (although those specific results are unavailable at this writing).
+Ensuring total eradication of microorganisms, the processed water was subjected to ultraviolet radiation.
+The processed water is subsequently used as toilet and plant water, though not directly for human consumption.
+
+
+==== Plants used ====
+Plants, or more accurately, the root systems of aquatic plants found to have a filtering effect include bulrush, reed, soft rush and water iris.  As explained by Wolverton:When sewage is slowly filtered through an aquatic plant root filter system, complex biological processes take place during wastewater treatment and purification. The symbiotic relationship that is normally established between the plant roots and microorganisms living on and around these roots is very complex and important in the wastewater treatment process... This process not only removes organic chemicals, but is also thought to contribute to the reduction of other polluting substances including pathogenic bacteria and viruses. It has been shown that roots of aquatic plants such as bulrush, reed, soft rush and water iris excrete substances that can either partially or completely kill pathogenic bacteria while not harming beneficial bacterial. The aerobic zone around the aquatic root system can also support, in addition to bacteria, the growth of large numbers of protozoa which feed on bacteria, viruses and particular organic matter.
+
+
+=== Harvesting drinking water ===
+Water suitable for human use was extracted from the condensate from three sources: dehumidifier units, air conditioning, and plant leaves.  In fact, plant leaves proved to be a major, consistently reliable source of water vapors.
+The condensate was run through ultraviolet equipment to ensure its safety.
+
+
+=== Crop growth ===
+Crops were grown in the hydroponic sections of the BioHome, comprising edible plants (squash, corn, sorghum, tomatoes and other organics) and non-edible plants, which were an essential part of the air purification process.  Compost made from wastewater treatment plants was used effectively as a growth medium.
+
+
+=== Air purification ===
+The living areas of the BioHome were teeming with plant foliage, the purpose of which was to purify the air of carbon dioxide.  As a result of the experiment, it was also found that the plants purified the air of synthetic offgases, such as those emitted from formaldehyde, benzene, toluene and organics.  In essence, the plants established and maintained indoor air quality.
+
+
+== See also ==
+Biosphere 2
+BIOS-3
+Eden Project
+Anthroponics
+
+
+== Related links ==
+PERMANENT - Space Colonies - NASA CELSS
+Mars Base Zero - an Alaskan CELSS

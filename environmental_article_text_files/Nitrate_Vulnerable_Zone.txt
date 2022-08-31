@@ -1,0 +1,43 @@
+A nitrate vulnerable zone is a conservation designation of the Environment Agency for areas of land that drain into nitrate polluted waters, or waterways that could become polluted by nitrates due to environmental and health threats. A nitrate vulnerable zone can be designated as a response to an increase in nitrate leaching or increased use of nitrate fertilizers.
+
+
+== Nitrate pollution ==
+
+
+=== Sources of nitrate pollution ===
+One of the primary causes of nitrate pollution is the use of nitrogen fertilizers and application of manure to agricultural fields, which stimulates crop production but also contributes to nutrient pollution due to nitrate leaches from soil during heavy precipitation events.
+
+
+=== Environmental impacts ===
+Nitrate runoff can lead to eutrophication of waterways, leading to excessive algal growth and oxygen depletion.
+
+
+=== Health effects ===
+High levels of nitrate in drinking water used to prepare infant formula can negatively affect infant health. With continued use of contaminated water, infants can develop Blue Baby Syndrome, which can be fatal.
+
+
+== Regulations ==
+Nitrate vulnerable zones are designated when the concentration of nitrate in a given area reaches or surpasses 50 NO3− mg/L. Regulations include:
+
+Reducing the amount of fertilizer applied;
+Prohibiting application of fertilizer during the winter when runoff is greatest and uptake by plants at a minimum;
+Changing the times when animal waste is applied to the land and holding the waste in tanks until application.The restrictions are within Good Agricultural Practice guidelines, meaning that farmers are expected to adhere to the given regulations without receiving any subsidies. Farmers who do not adhere to these restrictions can be fined by the government.
+
+
+== Locations ==
+Nitrate vulnerable zones were introduced by the United Kingdom government in response to the European Union mandate that all countries apart of the EU must reduce the nitrate in drinking water to a maximum of 50 NO3− mg/L to protect public health and environmental health.
+
+
+=== United Kingdom ===
+The United Kingdom identifies nitrate vulnerable zones as discrete zones in specific agricultural regions. There are at least 70 nitrate vulnerable zones in England and several in Wales, covering 600,000 hectares of surface water and ground water.
+
+
+==== Wales ====
+The Welsh Government introduced an all Wales NVZ in 2021, previously, 2.4% of Wales' land was designated as a NVZ. Environmental and fishing groups welcomed the new rules. It will be rolled out, pending a review by the Senedd, over the next three years. The review came after major political backlash from opposition parties and farmers.
+
+
+=== Northern Europe ===
+Belgium, Germany, the Netherlands, and Denmark have established their entire nations as nitrate vulnerable zones. These countries take a broader approach to designating nation-wide nitrate vulnerable zones because of the quality of the groundwater as well as marine eutrophication.
+
+
+== References ==

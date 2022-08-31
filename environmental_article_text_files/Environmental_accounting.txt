@@ -1,0 +1,64 @@
+Environmental accounting is a subset of accounting proper, its target being to incorporate both economic and environmental information. It can be conducted at the corporate level or at the level of a national economy through the System of Integrated Environmental and Economic Accounting, a satellite system to the National Accounts of Countries[1] (among other things, the National Accounts produce the estimates of gross domestic product otherwise known as GDP).
+Environmental accounting is a field that identifies resource use, measures and communicates costs of a company's or national economic impact on the environment.  Costs include costs to clean up or remediate contaminated sites, environmental fines, penalties and taxes, purchase of pollution prevention technologies and waste management costs.
+An environmental accounting system consists of environmentally differentiated conventional accounting and ecological accounting. Environmentally differentiated accounting measures effects of the natural environment on a company in monetary terms. Ecological accounting measures the influence a company has on the environment, but in physical measurements.
+
+
+== Reasons for use ==
+There are several advantages environmental accounting brings to business; notably, the complete costs, including environmental remediation and long term environmental consequences and externalities can be quantified and addressed.
+More information about the statistical system of environmental accounts are available here: System of Integrated Environmental and Economic Accounting.
+
+
+== Subfields ==
+Environmental accounting is organized in three sub-disciplines: global, national, and corporate environmental accounting, respectively. Corporate environmental accounting can be further sub-divided into environmental management accounting and environmental financial accounting.
+
+Global environmental accounting is an accounting methodology that deals areas includes energetics, ecology and economics at a worldwide level.
+National environmental accounting is an accounting approach that deals with economics on a country's level.Internationally, environmental accounting has been formalised into the System of Integrated Environmental and Economic Accounting, known as SEEA.[2] SEEA grows out of the System of National Accounts. The SEEA records the flows of raw materials (water, energy, minerals, wood, etc.) from the environment to the economy, the exchanges of these materials within the economy and the returns of wastes and pollutants to the environment. Also recorded are the prices or shadow prices for these materials as are environment protection expenditures. SEEA is used by 49 countries around the world.[3]Corporate environmental accounting focuses on the cost structure and environmental performance of a company.[4]
+Environmental management accounting focuses on making internal business strategy decisions.  It can be defined as:"..the identification, collection, analysis, and use of two types of information for internal decision making:
+1) Physical information on the use, flows and fates of energy, water and materials (including wastes) and
+2) Monetary information on environmentally related costs, earnings and savings."[5]As part of an environmental management accounting project in the State of Victoria, Australia, four case studies were undertaken in 2002 involving a school (Methodist Ladies College, Perth), plastics manufacturing company (Cormack Manufacturing Pty Ltd, Sydney), provider of office services (a service division of AMP, Australia wide) and wool processing (GH Michell & Sons Pty Ltd, Adelaide). Four major accounting professionals and firms were involved in the project; KPMG (Melbourne), Price Waterhouse Coopers (Sydney), Professor Craig Deegan, RMIT University (Melbourne) and BDO Consultants Pty Ltd (Perth). In February 2003, John Thwaites, The Victorian Minister for the Environment launched the report which summarised the results of the studies.These studies were supported by the Department of Environment and Heritage of the Australian Federal Government, and appear to have applied some of the principles outlined in the United Nations Division for Sustainable Development publication, Environmental Management Accounting Procedures and Principles (2001).Environmental financial accounting is used to provide information needed by external stakeholders on a company's financial performance.  This type of accounting allows companies to prepare financial reports for investors, lenders and other interested parties.[6]
+Certified emission reductions (CERs) accounting comprises the recognition, the non-monetary and monetary evaluation and the monitoring of Certified emission reductions (CERs) and GHGs (greenhouse gases) emissions  on all levels of the value chain and the recognition, evaluation and monitoring of the effects of these emissions credits on the carbon cycle of ecosystems.
+
+
+== Companies specialised in Environmental Accounting ==
+NEMS AS
+
+
+== Examples of software ==
+EHS Data's Environmental and Sustainability Accounting and Management System
+Emisoft's Total Environmental Accounting and Management System (TEAMS)
+NEMS's NEMS Accounter
+
+
+== Examples of software as a service ==
+Greenbase Online Environmental Accountancy
+
+
+== See also ==
+
+
+== References ==
+
+
+=== Notes ===
+^  "Handbook of National Accounting: Integrated Environmental and Economic Accounting 2003" (PDF). United Nations, European Commission, International Monetary Fund, Organistation for Economic Co-operation and Development and World Bank. Archived from the original (PDF) on 2011-06-01. Retrieved 2013-05-02.
+^ "Glossary of terminology and definitions". Environmental Agency, UK. Archived from the original on 2006-08-03. Retrieved 2006-05-25.
+^ Environmental Protection Agency (1995). "An introduction to environmental accounting as a business management tool: Key concepts and terms". United States Environmental Protection Agency.
+^ Jasch, C. (2006). "How to perform an environmental management cost assessment in one day". Journal of Cleaner Production. 14 (14): 1194–1213. doi:10.1016/j.jclepro.2005.08.005.
+^  "Handbook of National Accounting: Integrated Environmental and Economic Accounting 2003" (PDF). United Nations, European Commission, International Monetary Fund, Organistation for Economic Co-operation and Development and World Bank. Archived from the original (PDF) on 2011-06-01. Retrieved 2013-05-02.
+^  "Global Assessment of Environment Statistics and Environmental-Economic Accounting 2007" (PDF). United Nations.
+
+
+=== Footnotes ===
+
+
+=== Further reading ===
+Odum, H.T. (1996) Environmental Accounting: Energy and Environmental Decision Making, Wiley, U.S.A.
+Tennenbaum, S.E. (1988) Network Energy Expenditures for Subsystem Production, MS Thesis. Gainesville, FL: University of FL, 131 pp. (CFW-88-08)
+
+
+== External links ==
+United Nations Environmental Accounting
+Green Accounting for Indian States Project
+Environmental MBA Degree Info
+Environmental Accounting in Austria (Information about environmental accounts, structure, methods, legal basis, scope and application)
+Environmental Management Accounting (EMA) Project Archived 2012-04-30 at the Wayback Machine, Victoria, Australia

@@ -1,0 +1,177 @@
+Coal pollution mitigation, sometimes called clean coal, is a series of systems and technologies that seek to mitigate the health and environmental impact of coal; in particular air pollution from coal-fired power stations, and from coal burnt by heavy industry.
+The primary focus is on sulfur dioxide (SO2) and nitrogen oxides (NOx), the most important gases which caused acid rain; and particulates which cause visible air pollution, illness and premature deaths. SO2 can be removed by flue-gas desulfurization and NO2 by selective catalytic reduction (SCR). Particulates can be removed with electrostatic precipitators. Although perhaps less efficient, wet scrubbers can remove both gases and particulates. Reducing fly ash reduces emissions of radioactive materials. Mercury emissions can be reduced up to 95%. However, capturing carbon dioxide emissions from coal is generally not economically viable.
+
+
+== Regulations ==
+
+
+== Environmental impact of coal ==
+
+
+=== Greenhouse gases ===
+
+Combustion of coal—which is mostly carbon—produces carbon dioxide as a product of combustion. According to the United Nations Intergovernmental Panel on Climate Change, the burning of coal, a fossil fuel, is a significant contributor to global warming. (See the UN IPCC Fourth Assessment Report). Burning 1 ton of coal produces 2.86 tons of carbon dioxide.Carbon sequestration technology, to remove significant quantities of carbon dioxide from the air, has yet to be tested on a large scale and may not be safe or successful. Sequestered CO2 may eventually leak up through the ground, may lead to unexpected geological instability or may cause contamination of aquifers used for drinking water supplies. Carbon capture and storage is applied at large point emitters of carbon dioxide with the objective of preventing it from entering the atmosphere.
+As a quarter of world energy consumption in 2019 was from coal, reaching the carbon dioxide reduction targets of the Paris Agreement will require modifications to how coal is used.
+
+
+=== Measurement of pollution and availability of pollution data ===
+In some countries, such as the EU, smokestack measurements from individual power plants must be published. Whereas in some countries, such as Turkey, they are only reported to the government not the public. However, since the late 2010s satellite measurements of some pollutants have been available.
+
+
+=== Combustion by-products ===
+By-products of coal combustion are compounds which are released into the atmosphere as a result of burning coal. Coal includes contaminants such as sulfur compounds and non-combustible minerals. When coal is burned, the minerals become ash (i.e. particulate matter or PM) and the sulfur forms sulfur dioxide (SO2). Since air is mostly nitrogen, combustion of coal often leads to production of nitrogen oxides. Sulfur dioxide and nitrogen oxides are primary causes of acid rain. For many years—before greenhouse gasses were widely understood to be a threat—it was thought that these by-products were the only drawback to using coal. These by-products are still a problem, but they have been greatly diminished in most advanced countries due to clean air regulations.
+It is possible to remove most of the sulfur dioxide (SO2), nitrogen oxides (NOx), and particulate matter (PM) emissions from the coal-burning process. For example, various techniques are used in a coal preparation plant to reduce the amount of non-combustible matter (i.e. ash) in the coal prior to burning. During combustion, fluidized bed combustion is used to reduce sulfur dioxide emissions. After burning, particulate matter (i.e. ash and dust) can be reduced using an electrostatic precipitator and sulfur dioxide emissions can be further reduced with flue-gas desulfurization. Trace amounts of radionuclides are more difficult to remove.Coal-fired power plants are the largest aggregate source of the toxic heavy metal mercury: 50 tons per year come from coal power plants out of 150 tons emitted nationally in the US and 5000 tons globally. However, according to the United States Geological Survey, the trace amounts of mercury in coal by-products do not pose a threat to public health. A study in 2013 found that mercury found in the fish in the Pacific Ocean could possibly be linked to coal-fired plants in Asia.
+
+
+== Potential financial impact ==
+Whether carbon capture and storage technology is adopted worldwide will "...depend less on science than on economics. Cleaning coal is very expensive."
+
+
+=== Cost of converting a single coal-fired power plant ===
+Conversion of a conventional coal-fired power plant is done by injecting the CO2 into ammonium carbonate after which it is then transported and deposited underground (preferably in soil beneath the sea). This injection process however is by far the most expensive. Besides the cost of the equipment and the ammonium carbonate, the coal-fired power plant also needs to use 30% of its generated heat to do the injection (parasitic load). A test-setup has been done in the American Electric Power Mountaineer coal-burning power plant.
+One solution to reduce this thermal loss/parasitic load is to burn the pulverised load with pure oxygen instead of air.
+
+
+=== Cost implications for new coal-fired power plants ===
+Newly built coal-fired power plants can be made to immediately use gasification of the coal prior to combustion. This makes it much easier to separate off the CO2 from the exhaust fumes, making the process cheaper. This gasification process is done in new coal-burning power plants such as the coal-burning power plant at Tianjin, called "GreenGen".
+
+
+=== Costs for China ===
+As of 2019  costs of retrofitting CCS are unclear and the economics depends partly on how the Chinese national carbon trading scheme progresses.
+
+
+=== Costs for India ===
+Pollution led to more than 2.3 million premature deaths in India in 2019, according to a new Lancet study. Nearly 1.6 million deaths were due to air pollution alone, and more than 500,000 were caused by water pollution. India has developed instruments and regulatory powers to mitigate pollution sources but there is no centralized system to drive pollution control efforts and achieve substantial improvements," the study said adding that in 93% of the country, the amount of pollution remains well above the World Health Organization (WHO) guidelines.
+
+
+== Politics ==
+
+
+=== Australia ===
+In Australia, carbon capture and storage was often referred to by then Prime Minister Kevin Rudd as a possible way to reduce greenhouse gas emissions. (The previous Prime Minister John Howard had stated that nuclear power was a better alternative, as CCS technology may not prove to be economically feasible.)
+
+
+=== Canada ===
+In 2014 SaskPower a provincial-owned electric utility finished renovations on Boundary Dam's boiler number 3 making it the world's first post-combustion carbon capture storage facility. The renovation project ended up costing a little over $1.2 billion and can scrub out CO2 and toxins from up to 90 percent of the flue gas that it emits.
+
+
+=== China ===
+Since 2006, China releases more CO2 than any other country. Researchers in China are focusing on increasing efficiency of burning coal so they can get more power out of less coal. It is estimated that new high efficiency power plants could reduce CO2 emission by 7% because they won't have to burn as much coal to get the same amount of power.
+
+
+=== India ===
+
+
+=== Japan ===
+Following the catastrophic failure of the Fukushima I Nuclear Power Plant in Japan that resulted from the 2011 Tōhoku earthquake and tsunami, and the subsequent widespread public opposition against nuclear power, high energy, lower emission (HELE) coal power plants were increasingly favored by the Shinzō Abe-led government to recoup lost energy capacity from the partial shutdown of nuclear power plants in Japan and to replace aging coal and oil-fired power plants, while meeting 2030 emission targets of the Paris Agreement. 45 HELE power plants have been planned, purportedly to employ integrated gasification fuel cell cycle, a further development of integrated gasification combined cycle.Japan had adopted prior pilot projects on IGCC coal power plants in the early-1990s and late-2000s.
+
+
+=== United States ===
+In the United States, "clean coal" was mentioned by former President George W. Bush on several occasions, including his 2007 State of the Union Address. Bush's position was that carbon capture and storage technologies should be encouraged as one means to reduce the country's dependence on foreign oil.
+During the US Presidential campaign for 2008, both candidates John McCain and Barack Obama expressed interest in the development of CCS technologies as part of an overall comprehensive energy plan. The development of pollution mitigation technologies could also create export business for the United States or any other country working on it.
+The American Reinvestment and Recovery Act, signed in 2009 by President Obama, allocated $3.4 billion for advanced carbon capture and storage technologies, including demonstration projects.
+Former Secretary of State Hillary Clinton has said that "we should strive to have new electricity generation come from other sources, such as clean coal and renewables", and former Energy Secretary Dr. Steven Chu has said that "It is absolutely worthwhile to invest in carbon capture and storage", noting that even if the U.S. and Europe turned their backs on coal, developing nations like India and China would likely not.
+During the first 2012 United States presidential election debate, Mitt Romney expressed his support for clean coal, and claimed that current federal policies were hampering the coal industry.During the Trump administration, an Office of Clean Coal and Carbon Management was set up within the United States Department of Energy, but was abolished in the Biden administration.
+
+
+== Criticism of the approach ==
+Environmentalists such as Dan Becker, director of the Sierra Club's Global Warming and Energy Program, believes that the term "clean coal" is misleading: "There is no such thing as clean coal and there never will be. It's an oxymoron." The Sierra Club's Coal Campaign has launched a site refuting the clean coal statements and advertising of the coal industry.
+Complaints focus on the environmental impacts of coal extraction, high costs to sequester carbon, and uncertainty of how to manage result pollutants and radionuclides. In reference to sequestration of carbon, concerns exist about whether geologic storage of CO2 in reservoirs, aquifers, etc., is indefinite/permanent.
+The palaeontologist and influential environmental activist Tim Flannery made the assertion that the concept of clean coal might not be viable for all geographical locations.
+Critics also believe that the continuing construction of coal-powered plants (whether or not they use carbon sequestration techniques) encourages unsustainable mining practices for coal, which can strip away mountains, hillsides, and natural areas. They also point out that there can be a large amount of energy required and pollution emitted in transporting the coal to the power plants.
+The Reality Coalition, a US non-profit climate organization composed of the Alliance for Climate Protection, the Sierra Club, the National Wildlife Federation, the Natural Resources Defense Council, and the League of Conservation Voters, ran a series of television commercials in 2008 and 2009. The commercials were highly critical of attempts to mitigate coal's pollution, stating that without capturing CO2 emissions and storing it safely that it cannot be called "clean coal".
+Greenpeace is a major opponent of the concept, because they view emissions and wastes as not being avoided but instead transferred from one waste stream to another. According to Greenpeace USA's Executive Director Phil Radford speaking in 2012, "even the industry figures it will take 10 or 20 years to arrive, and we need solutions sooner than that. We need to scale up renewable energy; 'clean coal' is a distraction from that."
+
+
+== Clean coal ==
+The term "clean coal" in modern society often refers to the carbon capture and storage process. The term has been used by advertisers, lobbyists, and politicians such as Donald Trump.
+
+
+=== Prior terminology ===
+The industry term "clean coal" is increasingly used in reference to carbon capture and storage, an advanced theoretical process that would eliminate or significantly reduce carbon dioxide emissions from coal-based plants and permanently sequester them. More generally, the term has been found in modern usage to describe technologies designed to enhance both the efficiency and the environmental acceptability of coal extraction, preparation, and use.
+U.S. Senate Bill 911 in April, 1987, defined clean coal technology as follows:
+
+"The term clean coal technology means any technology...deployed at a new or existing facility which will achieve significant reductions in air emissions of sulfur dioxide or oxides of nitrogen associated with the utilization of coal in the generation of electricity."
+Before being adopted in this fashion, historically "clean coal" was used to refer to clean-burning coal with low levels of impurities, though this term faded after rates of domestic coal usage dropped. The term appeared in a speech to mine workers in 1918, in context indicating coal that was "free of dirt and impurities." In the early 20th century, prior to World War II, clean coal (also called "smokeless coal") generally referred to anthracite and high-grade bituminous coal, used for cooking and home heating.Clean coal technology is a collection of technologies being developed in attempts to lessen the negative environmental impact of coal energy generation and to mitigate worldwide climate change. When coal is used as a fuel source, the gaseous emissions generated by the thermal decomposition of the coal include sulfur dioxide (SO2), nitrogen oxides (NOx), mercury, and other chemical byproducts that vary depending on the type of the coal being used. These emissions have been established to have a negative impact on the environment and human health, contributing to acid rain, lung cancer and cardiovascular disease. As a result, clean coal technologies are being developed to remove or reduce pollutant emissions to the atmosphere. Some of the techniques that would be used to accomplish this include chemically washing minerals and impurities from the coal, gasification (see also IGCC), improved technology for treating flue gases to remove pollutants to increasingly stringent levels and at higher efficiency, carbon capture and storage technologies to capture the carbon dioxide from the flue gas and dewatering lower rank coals (brown coals) to improve the calorific value, and thus the efficiency of the conversion into electricity.  Concerns exist regarding the economic viability of these technologies and the timeframe of delivery, potentially high hidden economic costs in terms of social and environmental damage, and the costs and viability of disposing of removed carbon and other toxic matter.In its original usage, the term "Clean Coal" was used to refer to technologies that were designed to reduce emission of pollutants associated with burning coal, such as washing coal at the mine.  This step removes some of the sulfur and other contaminants, including rocks and soil.  This makes coal cleaner and cheaper to transport.  More recently, the definition of clean coal has been expanded to include carbon capture and storage.  Clean coal technology usually addresses atmospheric problems resulting from burning coal.  Historically, the primary focus was on SO2 and NOx, the most important gases in causation of acid rain, and particulates which cause visible air pollution and have deleterious effects on human health.
+
+
+== Technology ==
+Several different technological methods are available for the purpose of carbon capture as demanded by  the clean coal concept:
+
+Pre-combustion capture – This involves gasification of a feedstock (such as coal) to form synthesis gas, which may be shifted to produce a H2 and CO2-rich gas mixture, from which the CO2 can be efficiently captured and separated, transported, and ultimately sequestered, This technology is usually associated with Integrated Gasification Combined Cycle process configurations.
+Post-combustion capture – This refers to capture of CO2 from exhaust gases of combustion processes.
+Oxy-fuel combustion – Fossil fuels such as coal are burned in a mixture of recirculated flue gas and oxygen, rather than in air, which largely eliminates nitrogen from the flue gas enabling efficient, low-cost CO2 capture.The Kemper County IGCC Project, a proposed 582 MW coal gasification-based power plant, was expected to use pre-combustion capture of CO2 to capture 65% of the CO2 the plant produces, which would have been utilized and geologically sequestered in enhanced oil recovery operations.  However, after many delays and a cost runup to $7.5 billion (triple the initial budget), the coal gasification project was abandoned and as of late 2017, Kemper is under construction as a cheaper natural gas power plant.The Saskatchewan Government's Boundary Dam Integrated Carbon Capture and Sequestration Demonstration Project will use post-combustion, amine-based scrubber technology to capture 90% of the CO2 emitted by Unit 3 of the power plant; this CO2 will be pipelined to and utilized for enhanced oil recovery in the Weyburn oil fields.
+
+An early example of a coal-based plant using (oxy-fuel) carbon-capture technology is Swedish company Vattenfall’s Schwarze Pumpe power station located in Spremberg, Germany, built by German firm Siemens, which went on-line in September 2008. The facility captures CO2 and acid rain producing pollutants, separates them, and compresses the CO2 into a liquid. Plans are to inject the CO2 into depleted natural gas fields or other geological formations. Vattenfall opines that this technology is considered not to be a final solution for CO2 reduction in the atmosphere, but provides an achievable solution in the near term while more desirable alternative solutions to power generation can be made economically practical.Other examples of oxy-combustion carbon capture are in progress. Callide Power Station has retrofitted a 30-MWth existing PC-fired power plant to operate in oxy-fuel mode; in Ciuden, Spain, Endesa has a newly built 30-MWth oxy-fuel plant using circulating fluidized bed combustion (CFBC) technology. Babcock-ThermoEnergy's Zero Emission Boiler System (ZEBS) is oxy-combustion-based; this system features near 100% carbon-capture and according to company information virtually no air-emissions.Other carbon capture and storage technologies include those that dewater low-rank coals. Low-rank coals often contain a higher level of moisture content which contains a lower energy content per tonne. This causes a reduced burning efficiency and an increased emissions output. Reduction of moisture from the coal prior to combustion can reduce emissions by up to 50 percent.
+
+
+== Demonstration projects in the United States ==
+In the late 1980s and early 1990s, the U.S. Department of Energy (DOE) began conducting a joint program with the industry and State agencies to demonstrate clean coal technologies large enough for commercial use. The program, called the Clean Coal Technology & Clean Coal Power Initiative (CCPI), has had a number of successes that have reduced emissions and waste from coal-based electricity generation. The National Energy Technology Laboratory has administered three rounds of CCPI funding and the following projects were selected during each round:
+Round 1 CCPI Projects
+Advanced Multi-Product Coal Utilization By-Product Processing Plant
+Demonstration of Integrated Optimization Software at the Baldwin Energy Complex
+Gilberton Coal-to-Clean Fuels and Power Co-Production Project
+Increasing Power Plant Efficiency: Lignite Fuel Enhancement
+TOXECON Retrofit for Mercury and Multi-Pollutant Control on Three 90-MW Coal-Fired Boilers
+Western Greenbrier Co-Production Demonstration Project
+Commercial Demonstration of the Airborne Process
+Integration of Advanced Emission Controls to Produce Next-Generation Circulating Fluid Bed Coal Generating Unit
+Round 2 CCPI Projects
+Airborne Process Commercial Scale Demonstration Program
+Demonstration of a Coal-Based Transport Gasifier
+Mercury Species and Multi-Pollutant Control Project
+Mesaba Energy Project
+Round 3 CCPI Projects
+American Electric Power Project
+Antelope Valley Station Post-Combustion CO2 Project
+Hydrogen Energy California Project
+NRG Energy Project
+Southern Company Carbon Capture Kemper Project (switching to natural gas)
+Summit Texas Clean Energy ProjectThese programs have helped to meet regulatory challenges by incorporating pollution control technologies into a portfolio of cost-effective regulatory compliance options for conventional and developmental coal-fired power plants. This portfolio has positioned the U.S. as a top exporter of clean coal technologies such as those used for SO_x, NOx and mercury, and more recently for carbon capture, consistent with a goal of deploying advanced coal-based power systems in commercial service with improved efficiency and environmental performance to meet increasingly stringent environmental regulations and market demands, leading to widespread, global deployment which will contribute to significant reductions in greenhouse gas emissions. The DOE continues its programs and initiatives through regional sequestration partnerships, a carbon sequestration leadership forum and the Carbon Sequestration Core Program, a CCS research and development program.According to a 1999 report by the assistant secretary for fossil energy at the U.S. Department of Energy, clean coal technology has paid measurable dividends. Technological innovation introduced through the CCT Program now provides consumers cost-effective, clean, coal-based energy.
+
+
+== Clean coal and the environment ==
+
+According to United Nations Intergovernmental Panel on Climate Change, the burning of coal, a fossil fuel, is a major contributor to  global warming. (See the UN IPCC Fourth Assessment Report).  As 26% of the world's electrical generation in 2004 was from coal-fired generation (see World energy resources and consumption), reaching the carbon dioxide reduction targets of the Kyoto Protocol will require modifications to how coal is utilized.Coal, which is primarily used for the generation of electricity, is the second largest domestic contributor to carbon dioxide emissions in the US. The public has become more concerned about global warming which has led to new legislation.  The coal industry has responded by running advertising touting clean coal in an effort to counter negative perceptions and claiming  more than $50 billion towards the development and deployment of "traditional" clean coal technologies over the past 30 years; and promising $500 million towards carbon capture and storage research and development. There is still concern about clean coal technology being perceived as more environmentally friendly than it is, and the term "Clean Coal" has been used as an example of "greenwashing". According to the Sierra Club, "Despite the industry's hype, there's no such thing as 'clean coal.' But new technologies and policies can help reduce coal plants' deadly emissions."Conjunction with enhanced oil recovery and other applications; commercial-scale CCS is currently being tested in the U.S. and other countries. Proposed CCS sites are subjected to extensive investigation and monitoring to avoid potential hazards, which could include leakage of sequestered CO2 to the atmosphere, induced geological instability, or contamination of water sources such as oceans and aquifers used for drinking water supplies. As of 2021 the only demonstrator for CCS on a coal plant that stores the gas underground is part of the Boundary Dam Power Station.The Great Plains Synfuels plant supports the technical feasibility of carbon dioxide sequestration. Carbon dioxide from the coal gasification is shipped to Canada, where it is injected into the ground to aid in oil recovery. A drawback of the carbon sequestration process is that it is expensive compared to traditional processes.
+
+
+== See also ==
+Asia-Pacific Partnership on Clean Development and Climate
+Biochar
+Carbon capture and storage
+Carbon sequestration
+Carbon sink
+Climate change mitigation
+Coal mining in the United States
+Coal phase out
+Coal-water slurry fuel
+Coke fuel
+Environmental impact of the coal industry
+Fluidized bed combustion
+Kyoto Protocol
+Refined coal
+
+
+== References ==
+
+
+== Further reading ==
+Biello, David (January 2016). "The Carbon Capture Fallacy". Scientific American. 314 (1): 58–65. Bibcode:2015SciAm.314a..58B. doi:10.1038/scientificamerican0116-58. PMID 26887197.
+
+
+== External links ==
+International Energy Agency - Clean Coal Centre
+National Energy Technology Laboratory compendium homepage
+The Future of Coal: An Interdisciplinary MIT Study
+Institute for Clean & Secure Energy Archived 2009-03-02 at the Wayback Machine
+US federal Office of Clean Coal and Carbon Management
+"Can the Earth be Coal-Friendly?". PBS Documentary (Wyoming). April 10, 2009.
+"Clean coal technology: How it works". BBC News. 2005-11-28. Retrieved 2010-01-02.
+Wald, Matthew L. (2008-08-27). "The Energy Challenge". The New York Times. Retrieved 2010-04-30.
+"In Clean Coal We Trust - or Do We?". ParisTech Review. October 15, 2013.
+"Clean Coal Technology & The Clean Coal Power Initiative". US Department of Energy. Retrieved 2009-03-29.
+"Clean Coal Technology Compendium". National Energy Technology Laboratory. Retrieved 2009-03-29.
+"Clean Coal Technology and The Clean Coal Power Initiative". United States Department of Energy. Retrieved 2009-03-29.
+"The Future of Coal An Interdisciplinary MIT Study". Massachusetts Institute of Technology. Retrieved 2009-03-29.
+"Utah Clean Coal Program". University of Utah. Retrieved 2009-03-29.
+"Institute for Clean & Secure Energy". University of Utah. Archived from the original on 2009-03-02. Retrieved 2009-03-29.

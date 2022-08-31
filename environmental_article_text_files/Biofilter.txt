@@ -1,0 +1,98 @@
+Biofiltration is a pollution control technique using a bioreactor containing living material to capture and biologically degrade pollutants.  Common uses include processing waste water, capturing harmful chemicals or silt from surface runoff, and microbiotic oxidation of contaminants in air. Industrial biofiltration can be classified as the process of utilizing biological oxidation to remove volatile organic compounds, odors, and hydrocarbons. 
+
+
+== Examples of biofiltration ==
+Examples of biofiltration include:
+
+Bioswales, biostrips, biobags, bioscrubbers, Vermifilters and trickling filters
+Constructed wetlands and natural wetlands
+Slow sand filters
+Treatment ponds
+Green belts
+Green walls
+Riparian zones, riparian forests, bosques
+Bivalve bioaccumulation
+
+
+== Control of air pollution ==
+When applied to air filtration and purification, biofilters use microorganisms to remove air pollution. 
+The air flows through a packed bed and the pollutant transfers into a thin biofilm on the surface of the packing material. Microorganisms, including bacteria and fungi are immobilized in the biofilm and degrade the pollutant. Trickling filters and bioscrubbers rely on a biofilm and the bacterial action in their recirculating waters.
+The technology finds the greatest application in treating malodorous compounds and water-soluble volatile organic compounds (VOCs). Industries employing the technology include food and animal products, off-gas from wastewater treatment facilities, pharmaceuticals, wood products manufacturing, paint and coatings application and manufacturing and resin manufacturing and application, etc. Compounds treated are typically mixed VOCs and various sulfur compounds, including hydrogen sulfide. Very large airflows may be treated and although a large area (footprint) has typically been required—a large biofilter (>200,000 acfm) may occupy as much or more land than a football field—this has been one of the principal drawbacks of the technology. Since the early 1990s, engineered biofilters have provided significant footprint reductions over the conventional flat-bed, organic media type.
+
+One of the main challenges to optimum biofilter operation is maintaining proper moisture throughout the system. The air is normally humidified before it enters the bed with a watering (spray) system, humidification chamber, bio scrubber, or bio trickling filter. Properly maintained, a natural, organic packing media like peat, vegetable mulch, bark or wood chips may last for several years but engineered, combined natural organic, and synthetic component packing materials will generally last much longer, up to 10 years. Several companies offer these types of proprietary packing materials and multi-year guarantees, not usually provided with a conventional compost or wood chip bed biofilter.
+Although widely employed, the scientific community is still unsure of the physical phenomena underpinning biofilter operation, and information about the microorganisms involved continues to be developed. A biofilter/bio-oxidation system is a fairly simple device to construct and operate and offers a cost-effective solution provided the pollutant is biodegradable within a moderate time frame (increasing residence time = increased size and capital costs), at reasonable concentrations (and lb/hr loading rates) and that the airstream is at an organism-viable temperature.  For large volumes of air, a biofilter may be the only cost-effective solution. There is no secondary pollution (unlike the case of incineration where additional CO2 and NOx are produced from burning fuels) and degradation products form additional biomass, carbon dioxide and water. Media irrigation water, although many systems recycle part of it to reduce operating costs, has a moderately high biochemical oxygen demand (BOD) and may require treatment before disposal. However, this "blowdown water", necessary for proper maintenance of any bio-oxidation system, is generally accepted by municipal publicly owned treatment works without any pretreatment.
+Biofilters are being utilized in Columbia Falls, Montana at Plum Creek Timber Company's fiberboard plant. The biofilters decrease the pollution emitted by the manufacturing process and the exhaust emitted is 98% clean. The newest, and largest, biofilter addition to Plum Creek cost $9.5 million, yet even though this new technology is expensive, in the long run it will cost less overtime than the alternative exhaust-cleaning incinerators fueled by natural gas (which are not as environmentally friendly).
+
+
+== Water treatment ==
+
+Biofiltration was first introduced in England in 1893 as a trickling filter for wastewater treatment and has since been successfully used for the treatment of different types of water. Biological treatment has been used in Europe to filter surface water for drinking purposes since the early 1900s and is now receiving more interest worldwide. Biofiltration is also common in wastewater treatment, aquaculture and greywater recycling, as a way to minimize water replacement while increasing water quality.
+
+
+=== Biofiltration process ===
+A biofilter is a bed of media on which microorganisms attach and grow to form a biological layer called biofilm. Biofiltration is thus usually referred to as a fixed–film process. Generally, the biofilm is formed by a community of different microorganisms (bacteria, fungi, yeast, etc.), macro-organisms (protozoa, worms, insect's larvae, etc.) and extracellular polymeric substances (EPS) (Flemming and Wingender, 2010). Air or water flows through a media bed and any suspended compounds are transferred into a surface biofilm where microorganisms are held to degrade pollutants. The aspect of the biofilm is usually slimy and muddy.
+Water to be treated can be applied intermittently or continuously over the media, via upflow or downflow. Typically, a biofilter has two or three phases, depending on the feeding strategy (percolating or submerged biofilter):
+
+a solid phase (media);
+a liquid phase (water);
+a gaseous phase (air).Organic matter and other water components diffuse into the biofilm where the treatment occurs, mostly by biodegradation. Biofiltration processes are usually aerobic, which means that microorganisms require oxygen for their metabolism. Oxygen can be supplied to the biofilm, either concurrently or countercurrently with water flow. Aeration occurs passively by the natural flow of air through the process (three phase biofilter) or by forced air supplied by blowers.
+Microorganisms' activity is a key-factor of the process performance. The main influencing factors are the water composition, the biofilter hydraulic loading, the type of media, the feeding strategy (percolation or submerged media), the age of the biofilm, temperature, aeration, etc.
+The mechanisms by which certain microorganisms can attach and colonize on the surface of filter media of a biofilter can be via transportation, initial adhesion, firm attachment, and colonization [Van Loosdrecht et al., 1990]. The transportation of microorganisms to the surface of the filter media is further controlled by four main processes of diffusion (Brownian motion), convection, sedimentation, and active mobility of the microorganisms. The overall filtration process consists of microorganism attachment, substrate utilization which causes biomass growth, to biomass detachment.
+
+
+=== Types of filtering media ===
+Most biofilters use media such as sand, crushed rock, river gravel, or some form of plastic or ceramic material shaped as small beads and rings.
+
+
+=== Advantages ===
+Although biological filters have simple superficial structures, their internal hydrodynamics and the microorganisms' biology and ecology are complex and variable. These characteristics confer robustness to the process. In other words, the process has the capacity to maintain its performance or rapidly return to initial levels following a period of no flow, of intense use, toxic shocks, media backwash (high rate biofiltration processes), etc.
+The structure of the biofilm protects microorganisms from difficult environmental conditions and retains the biomass inside the process, even when conditions are not optimal for its growth. Biofiltration processes offer the following advantages: (Rittmann et al., 1988):
+
+Because microorganisms are retained within the biofilm, biofiltration allows the development of microorganisms with relatively low specific growth rates;
+Biofilters are less subject to variable or intermittent loading and to hydraulic shock;
+Operational costs are usually lower than for activated sludge;
+Final treatment result is less influenced by biomass separation since the biomass concentration at the effluent is much lower than for suspended biomass processes;
+Attached biomass becomes more specialized (higher concentration of relevant organisms) at a given point in the process train because there is no biomass return.
+
+
+=== Drawbacks ===
+Because filtration and growth of biomass leads to an accumulation of matter in the filtering media, this type of fixed-film process is subject to bioclogging and flow channeling. Depending on the type of application and on the media used for microbial growth, bioclogging can be controlled using physical and/or chemical methods. Backwash steps can be implemented using air and/or water to disrupt the biomat and recover flow whenever possible. Chemicals such as oxidizing (peroxide, ozone) or biocide agents can also be used.
+
+
+== Drinking water ==
+For drinking water, biological water treatment involves the use of naturally occurring microorganisms in the surface water to improve water quality. Under optimum conditions, including relatively low turbidity and high oxygen content, the organisms break down material in the water and thus improve water quality. Slow sand filters or carbon filters are used to provide a support on which these microorganisms grow. These biological treatment systems effectively reduce water-borne diseases, dissolved organic carbon, turbidity and color in surface water, thus improving overall water quality.
+Typically in drinking water treatment; granular activated carbon or sand filters are used to prevent re-growth of microorganisms in water distribution pipes by reducing levels of iron and nitrate that act as a microbial nutrient. GAC also reduces chlorine demand and other disinfection by-product accumulation by acting as a first line of disinfection. Bacteria attached to filter media as a biofilm oxidize organic material as both an energy and carbon source, this prevents undesired bacteria from using these sources which can reduce water odors and tastes [Bouwer, 1998]. These biological treatment systems effectively reduce water-borne diseases, dissolved organic carbon, turbidity and color in surface water, thus improving overall water quality.
+
+
+== Wastewater ==
+Biofiltration is used to treat wastewater from a wide range of sources, with varying organic compositions and concentrations. Many examples of biofiltration applications are described in the literature. Bespoke biofilters have been developed and commercialized for the treatment of animal wastes, landfill leachates, dairy wastewater, domestic wastewater.This process is versatile as it can be adapted to small flows (< 1 m3/d), such as onsite sewage as well as to flows generated by a municipality (> 240 000 m3/d). For decentralized domestic wastewater production, such as for isolated dwellings, it has been demonstrated that there are important daily, weekly and yearly fluctuations of hydraulic and organic production rates related to modern families' lifestyle. In this context, a biofilter located after a septic tank constitutes a robust process able to sustain the variability observed without compromising the treatment performance.
+In anaerobic wastewater treatment facilities, biogas is fed through a bio-scrubber and “scrubbed” with activated sludge liquid from an aeration tank. [Removal of hydrogen sulfide from an anaerobic biogas using a bio-scrubber - ScienceDirect] Most commonly found in wastewater treatment is the trickling filter process (TFs) [Chaudhary, 2003]. Trickling filters are an aerobic treatment that uses microorganisms on attached medium to remove organic matter from wastewater.
+In primary wastewater treatment, biofiltration is used to control levels of biochemical oxygen, demand, chemical oxygen demand, and suspended solids. In tertiary treatment processes, biofiltration is used to control levels of organic carbon [ Carlson, 1998].
+
+
+== Use in aquaculture ==
+The use of biofilters is common in closed aquaculture systems, such as recirculating aquaculture systems (RAS).  Many designs are used, with different benefits and drawbacks, however the function is the same: reducing water exchanges by converting ammonia to nitrate.  Ammonia (NH4+ and NH3) originates from the brachial excretion from the gills of aquatic animals and from the decomposition of organic matter.  As ammonia-N is highly toxic, this is converted to a less toxic form of nitrite (by Nitrosomonas sp.) and then to an even less toxic form of nitrate (by Nitrobacter sp.).  This "nitrification" process requires oxygen (aerobic conditions), without which the biofilter can crash.  Furthermore, as this nitrification cycle produces H+, the pH can decrease which necessitates the use of buffers such as lime.
+
+
+== See also ==
+Bioretention
+Folkewall
+Media filter
+Vermifilter
+
+
+== References ==
+
+
+== Further reading ==
+Biofilter Bags SE-14. (2012). California Stormwater BMP Handbook, 1–3. Retrieved from https://www.cityofventura.ca.gov/DocumentCenter/View/13163/CASQA-Guidance-SE-14-Biofilter-Bags.
+Bouwer, Edward J.; Crowe, Patricia B. (September 1988). "Biological Processes in Drinking Water Treatment". Journal AWWA. 80 (9): 82–93. doi:10.1002/j.1551-8833.1988.tb03103.x. JSTOR 41292287.
+Chaudhary, Durgananda Singh; Vigneswaran, Saravanamuthu; Ngo, Huu-Hao; Shim, Wang Geun; Moon, Hee (November 2003). "Biofilter in water and wastewater treatment". Korean Journal of Chemical Engineering. 20 (6): 1054–1065. doi:10.1007/BF02706936. S2CID 10028364.
+Carlson, Kenneth H.; Amy, Gary L. (December 1998). "BOM removal during biofiltration". Journal AWWA. 90 (12): 42–52. doi:10.1002/j.1551-8833.1998.tb08550.x. JSTOR 41296445. S2CID 91347325.
+Pagans, Estel.la; Font, Xavier; Sánchez, Antoni (October 2005). "Biofiltration for ammonia removal from composting exhaust gases". Chemical Engineering Journal. 113 (2–3): 105–110. CiteSeerX 10.1.1.470.1234. doi:10.1016/j.cej.2005.03.004.
+Nishimura, Sosuke; Yoda, Motoyuki (1 January 1997). "Removal of hydrogen sulfide from an anaerobic biogas using a bio-scrubber". Water Science and Technology. 36 (6): 349–356. doi:10.1016/S0273-1223(97)00542-8.
+van Loosdrecht, M C; Lyklema, J; Norde, W; Zehnder, A J (March 1990). "Influence of interfaces on microbial activity". Microbiological Reviews. 54 (1): 75–87. doi:10.1128/mr.54.1.75-87.1990. PMC 372760. PMID 2181260.
+
+
+== External links ==
+Bioswales and strips for storm runoff - California Dept. of Transportation (CalTrans)

@@ -1,0 +1,88 @@
+The World3 model is a system dynamics model for computer simulation of interactions between population, industrial growth, food production and limits in the ecosystems of the earth. It was originally produced and used by a Club of Rome study that produced the model and the book The Limits to Growth (1972). The creators of the model were Dennis Meadows, project manager, and a team of 16 researchers.: 8 The model was documented in the book Dynamics of Growth in a Finite World. It added new features to Jay W. Forrester's World2 model. Since World3 was originally created, it has had minor tweaks to get to the World3/91 model used in the book Beyond the Limits, later improved to get the World3/2000 model distributed by the Institute for Policy and Social Science Research and finally the World3/2004 model used in the book Limits to Growth: the 30 year update.World3 is one of several global models that have been generated throughout the world (Mesarovic/Pestel Model, Bariloche Model, MOIRA Model, SARU Model, FUGI Model) and is probably
+the model that generated the spark for all later models.
+
+
+== Model ==
+The model consisted of several interacting parts.  Each of these dealt with a different system of the model.  The main systems were 
+
+the food system, dealing with agriculture and food production
+the industrial system
+the population system
+the non-renewable resources system
+the pollution system
+
+
+=== Agricultural system ===
+The simplest useful view of this system is that land and fertilizer are used for farming, and more of either will produce more food. In the context of the model, since land is finite, and industrial output required to produce fertilizer and other agricultural inputs can not keep up with demand, there necessarily will be a food collapse at some point in the future.
+
+
+=== Nonrenewable resources system ===
+
+The nonrenewable resource system starts with the assumption that the total amount of resources available is finite (about 110 times the consumption at 1990s rates for the World3/91 model). These resources can be extracted and then used for various purposes in other systems in the model. An important assumption that was made is that as the nonrenewable resources are extracted, the remaining resources are increasingly difficult to extract, thus diverting more and more industrial output to resource extraction.
+
+
+=== Reference run predictions ===
+The Dynamics of Growth in a Finite World provides several different scenarios. The "reference run" is the one that "represent the most likely behavior mode of the system if the process of industrialization in the future proceeds in a way very similar to its progress in the past, and if technologies and value changes that have already been institutionalized continue to evolve.": 502  In this scenario, in 2000, the world population reaches six billion, and then goes on to peak at seven billion in 2030. After that population declines because of an increased death rate. In 2015, both industrial output per capita and food per capita peak at US$375 per person (1970s dollars, about $2,430 today) and 500 vegetable-equivalent kilograms/person. Persistent pollution peaks in the year 2035 at 11 times 1970s levels.: 500 
+
+
+== Criticism of the model ==
+There has been criticism of the World3 model. Some has come from the model creators themselves, some has come from economists and some has come from other places. 
+
+In the book Groping in the Dark: The First Decade of Global Modelling,: 129  Donella Meadows (a Limits author) writes: We have great confidence in the basic qualitative assumptions and conclusions about the instability of the current global socioeconomic system and the general kinds of changes that will and will not lead to stability. We have relatively great confidence in the feedback-loop structure of the model, with some exceptions which I list below.  We have a mixed degree of confidence in the numerical parameters of the model; some are well-known physical or biological constants that are unlikely to change, some are statistically derived social indices quite likely to change, and some are pure guesses that are perhaps only of the right order of magnitude. The structural assumptions in World3 that I consider most dubious and also sensitive enough to be of concern are:
+the constant capital-output ratio (which assumes no diminishing returns to capital)
+the residual nature of the investment function
+the generally ineffective labour contribution to output
+A detailed criticism of the model is in the book Models of Doom: A Critique of the Limits to Growth.: 905–908 Czech-Canadian scientist and policy analyst Vaclav Smil disagreed with the combination of physically different processes into simplified equations:
+
+But those of us who knew the DYNAMO language in which the simulation was written and those who took the model apart line-by-line quickly realized that we had to deal with an exercise in misinformation and obfustication rather than with a model delivering valuable insights.  I was particularly astonished by the variables labelled Nonrenewable Resources and Pollution. Lumping together (to cite just a few scores of possible examples) highly substitutable but relatively limited resources of liquid oil with unsubstitutable but immense deposits of sedimentary phosphate rocks, or short-lived atmospheric gases with long-lived radioactive wastes, struck me as extraordinarily meaningless.: 168  
+He does however consider continuous growth in world GDP a problem:
+
+Only the widespread scientific illiteracy and innumeracy—all you need to know in this case is how to execute the equation 
+  
+    
+      
+        y
+        =
+        x
+        ∗
+        
+          e
+          
+            r
+            t
+          
+        
+      
+    
+    {\displaystyle y=x*e^{rt}}
+  —prevents most of the people from dismissing the idea of sustainable growth at healthy rates as an oxymoronic stupidity whose pursuit is, unfortunately, infinitely more tragic than comic. After all, even cancerous cells stop growing once they have destroyed the invaded tissues.: 338–339  
+Others have put forth criticisms, such as Henshaw, King, and Zarnikau who in a 2011 paper, Systems Energy Assessment point out that the methodology of such models may be valid empirically as a world model, but might not then also be useful for decision making. The impact data being used is generally collected according to where the impacts are recorded as occurring, following standard I/O material processes accounting methods. It is not reorganized according to who pays for or profits from the impacts, so who is actually responsible for economic impacts is never determined. In their view
+
+The economic motives causing the impacts, that might also control them, would then not be reflected in the model.
+As a seeming technicality, it could bring into question the use of many kinds of economic models for sustainability decision-making.The authors of the book Surviving 1,000 Centuries consider some of the predictions too pessimistic, but some of the overall message correct.: 4–5 
+...[We] come to the well-known study, Limits to Growth, published under the sponsorship of the 'Club de Rome' - an influential body of private individuals.  A first attempt was made to make a complete systems analysis of the rapidly growing human-biological-resource-pollution system.  In this  analysis the manifold interactions between the different parts were explicitly taken into account.  The conclusion was that disaster was waiting around the corner in a few decades because of resource exhaustion, pollution and other factors.  Now, 35 years later, our world still exists, ... So the 'growth lobby' has laughed and proclaimed that Limits to Growth and, by extension, the environmental movements may be forgotten.  This entirely misses the point.  Certainly the timescale of the problems was underestimated in Limits to Growth, giving us a little more time than we thought.  Moreover, during the last three decades a variety of national or collaborative international measures have been taken that have forced reductions in pollution, as we shall discuss.  A shining example of this is the Montreal Protocol (1987) that limited the industrial production of fluorocarbons that damage the ozone layer and generated the 'ozone hole' over Antarctica. The publication of Limits to Growth has greatly contributed towards creating the general willingness of governments to consider such issues.  Technological developments have also lead to improvements in the efficiency of the use of energy and other resources, but, most importantly, the warnings from Malthus onward have finally had their effect as may be seen from the population-limiting policies followed by China and, more hesitantly, by India.  Without such policies all other efforts would be in vain.  However, the basic message of Limits to Growth, that exponential growth of our world civilization cannot continue very long and that a very careful management of the planet is needed, remain as valid as ever.
+At least one study disagrees with the criticism. Writing in the journal Global Environmental Change, Turner notes that "30 years of historical data compare favorably with key features of the 'business-as-usual' scenario called the 'standard run' produced by the World3 model".
+
+
+== Validation ==
+A number of researchers have attempted to test the predictions of the World3 model against observed data, with varying conclusions. One of the more recent of these, published in Yale's Journal of Industrial Ecology, found that current empirical data is broadly consistent with the 1972 projections, and that if major changes to the consumption of resources are not undertaken, economic growth will peak and then rapidly decline by around 2040.
+
+
+== References ==
+
+
+== External links and references ==
+"Basic Literature" : selected bibliography on limits to growth with short summary on each publication - published by All-Party Parliamentary Group (APPG)
+Dynamics of Growth in a Finite World, by Dennis L. Meadows, William W. Behrens III, Donella H. Meadows, Roger F. Naill, Jorgen Randers, and Erich K.O. Zahn.  1974 ISBN 0-9600294-4-3
+World Dynamics, by Jay Wright Forrester. 1973 ISBN 0-262-56018-6
+The Limits to Growth (Abstract, 8 pages, by Eduard Pestel. A Report to The Club of Rome (1972), by Donella H. Meadows, Dennis l. Meadows, Jorgen Randers, William W. Behrens III)
+Limits to Growth, The 30-Year Update, by Dennis Meadows and Eric Tapley.  2004 CDRom with World3-2004 model. ISBN 1-931498-85-7
+WorldChange Model. This adds a change resistance subsystem to World3 in order to more correctly analyze and simulate why sustainability science has so far been unable to solve the sustainability problem.
+
+
+=== Model implementations ===
+Javascript world 3 simulator
+Interactive online World3 simulation
+pyworld3 on GitHub - Python version of World3
+Macintosh version of the Simulation by Kenneth L. Simons
+Implementation of the World3 model in the simulation language Modelica

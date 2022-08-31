@@ -1,0 +1,17 @@
+Delayed nuclear radiation is a form of nuclear decay. When an isotope decays into a very short-lived isotope and then decays again to a relatively long-lived isotope, the products of the second decay are delayed. The short-lived isotope is usually a meta-stable nuclear isomer.
+For example, gallium-73 decays via beta decay into germanium-73m2, which is short-lived (499ms). The germanium isotope emits two weak gamma rays and a conversion electron.
+
+7331Ga → 73m232Ge + 2γ + e− ; 73m232Ge → 7332Ge+ + γ(53.4 keV) + γ(13.3 keV) + e−Because the middle isotope is so short-lived, the gamma rays are considered part of the gallium decay. Therefore, the above equations are combined.
+
+7331Ga → 7332Ge+ + 4γ + 2e−However, since there is a short time delay between the beta decay and the high energy gamma emissions and the third and fourth gamma rays, it is said that the lower energy gamma rays are delayed.
+Delayed gamma emissions are the most common form of delayed radiation, but are not the only form. It is common for the short-lived isotopes to have delayed emissions of various particles. In these cases, it is commonly called a beta-delayed emission. This is because the decay is delayed until a beta decay takes place. For instance, nitrogen-17 emits two beta-delayed neutrons after its primary beta emission. Just as in the above delayed gamma emission, the nitrogen is not the actual source of the neutrons, the source of the neurons is a short-lived isotope of oxygen.
+
+
+== See also ==
+Prompt neutron
+
+
+== External links ==
+Flash animation of beta-delayed neutron emission
+Flash animation of beta-delayed proton emission
+Flash animation of beta-delayed alpha emission

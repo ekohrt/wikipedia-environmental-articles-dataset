@@ -1,0 +1,75 @@
+The Global Atmosphere Watch (GAW) is a worldwide system established by the World Meteorological Organization – a United Nations agency – to monitor trends in the Earth's atmosphere. It arose out of concerns for the state of the atmosphere in the 1960s.
+
+
+== Mission ==
+The Global Atmosphere Watch's mission is quite straightforward, consisting of three concise points:
+
+To make reliable, comprehensive observations of the chemical composition and selected physical characteristics of the atmosphere on global and regional scales;
+To provide the scientific community with the means to predict future atmospheric states;
+To organize assessments in support of formulating environmental policy.
+
+
+== Goals ==
+The GAW program is guided by 8 strategic goals:
+
+To improve the measurements programme for better geographical and temporal coverage and for near real-time monitoring capability;
+To complete the quality assurance/quality control system;
+To improve availability of data and promote their use;
+To improve communication and cooperation between all GAW components and with the scientific community;
+To identify and clarify changing roles of GAW components;
+To maintain present and solicit new support and collaborations for the GAW programme;
+To intensify capacity-building in developing countries;
+To enhance the capabilities of National Meteorological and Hydrological Services in providing urban environmental air quality services.Moreover, the programme seeks not only to understand changes in the Earth's atmosphere, but also to forecast them, and perhaps control the human activities that cause them.
+
+
+== Genesis ==
+
+The original reason for testing the atmosphere for trace chemicals was mere scientific interest, but of course, many scientists eventually wondered what effects these trace chemicals could have on the atmosphere, and on life.
+The GAW's genesis began as far back as the 1950s when the World Meteorological Organization began a programme of monitoring the atmosphere for trace chemicals, and also researching air pollution from a meteorological point of view. They were also responsible for monitoring ozone, establishing the Global Ozone Observing System (GO3OS) in 1957, in the International Geophysical Year.
+In 1968, the United Nations called for an international conference to address world environmental problems caused by rapid industrialization. At about this time, the World Meteorological Organization set up another environmental research body, the Background Air Pollution Monitoring Network. The conference was held in Stockholm in 1972, and addressed several environmental concerns, namely:
+
+The threat posed to the atmosphere by chlorofluorocarbons (CFCs);
+Acidification of lakes and forests in North America and Europe due to acid rain;
+Global warming caused by build-up of greenhouse gases.Indeed, it was the World Meteorological Organization's readings and observations that figured prominently at this conference. They had little good news to offer.
+The GAW itself was eventually created in 1989 by combining the GO3OS and the Background Air Pollution Monitoring Network. The GAW consists of a worldwide system of observing stations and supporting facilities providing data for atmospheric assessments, and also serving as an early warning system for chemical or physical changes in the Earth's atmosphere which could be cause for environmental concern. Such changes might involve a change in ozone, and therefore ultraviolet, levels, levels of greenhouse gases, or precipitation chemistry, the culprit in the world's acid rain woes.
+
+
+== Organization ==
+The GAW consists of a coordinated system of various components, prominent among which are:
+
+measurement stations;
+calibration and data quality centres;
+data centres;
+external scientific groups.
+
+
+=== Measurement stations ===
+More than 65 countries currently host and operate the GAW's global or regional measurement stations. There are also "contributing stations" that furnish additional data. Lately, satellite programmes have also become important to the GAW, providing atmospheric data that complement ground measurements.
+
+
+=== Calibration and data quality centres ===
+These have the job of ensuring that all data produced by the system measure up to international standards. This is achieved by assuring a rigorous adherence to standards established by scientific advisory groups and a strict enforcement of world calibration standards. A number of programmes such as education, workshops, calibration station visits and so on are provided within the GAW programme to enhance the performance of the human component of the GAW. This has become particularly important in recent years as quite a number of stations are now operating in developing countries where further education is often a luxury enjoyed only by a small élite.
+
+
+=== Data centres ===
+The Global Atmosphere Watch currently has six World Data Centres, each administered by its host nation, and each responsible for gathering and storing atmospheric data from measurement stations worldwide, and making it freely available to scientists in a number of different forms.
+The six data centres are:
+
+The World Ozone and UV radiation Data Centre (WOUDC), hosted by Environment Canada.
+The World Data Centre for Greenhouse Gases (WDCGG), hosted by the Japan Meteorological Agency.
+The World Data Centre for Aerosols (WDCA), hosted by the Norwegian Institute for Air Research (NILU).
+The World Radiation Data Centre (WRDC), hosted by the Voeikov Main Geophysical Observatory, St Petersburg
+The World Data Centre for Precipitation Chemistry (WDCPC) hosted by the Illinois State Water Survey
+The World Data Centre for Remote Sensing of the Atmosphere (WDC-RSAT), hosted by the German Aerospace Centre (DLR).
+
+
+=== External scientific groups ===
+Scientific Advisory Groups (SAGs) have the job of managing and implementing the GAW programme. This includes establishing data quality objectives and standard operating procedures, and also providing guidelines and recommendations for achieving these things. Measurement methods and procedures also fall within the SAGs' domain. They are also charged with promoting twinning and training in developing countries.
+
+
+== References ==
+
+
+== External links ==
+Official website 
+GAW Station Information System

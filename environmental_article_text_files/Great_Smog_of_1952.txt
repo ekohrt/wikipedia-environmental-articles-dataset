@@ -1,0 +1,61 @@
+The Great Smog of London, or Great Smog of 1952, was a severe air pollution event that affected London, England, in December 1952. A period of unusually cold weather, combined with an anticyclone and windless conditions, collected airborne pollutants—mostly arising from the use of coal—to form a thick layer of smog over the city. It lasted from Friday 5 December to Tuesday 9 December 1952, then dispersed quickly when the weather changed.The smog caused major disruption by reducing visibility and even penetrating indoor areas, far more severely than previous smog events, called "pea-soupers". Government medical reports in the weeks following the event estimated that up to 4,000 people had died as a direct result of the smog and 100,000 more were made ill by the smog's effects on the human respiratory tract. More recent research suggests that the total number of fatalities may have been considerably greater, with estimates of between 10,000 and 12,000 deaths.London had suffered since the 13th century from poor air quality and diarist John Evelyn had written about "the inconveniencie of the aer and smoak of London" in Fumifugium, the first book ever written about air pollution, in 1661. However, the Great Smog was many times worse than anything the city had ever experienced before: it is thought to be the worst air pollution event in the history of the United Kingdom, and the most significant for its effects on environmental research, government regulation, and public awareness of the relationship between air quality and health. It led to several changes in practices and regulations, including the Clean Air Act 1956.
+
+
+== Background ==
+
+
+=== Sources of pollution ===
+
+A period of unusually cold weather preceding and during the Great Smog led Londoners to burn much more coal than usual to keep themselves warm. While better-quality "hard" coals (such as anthracite) tended to be exported to pay off World War II debts, post-war domestic coal tended to be of a relatively low-grade, sulphurous variety (similar to lignite) which increased the amount of sulphur dioxide in the smoke. There were also numerous coal-fired power stations in the Greater London area, including Fulham, Battersea, Bankside, Greenwich and Kingston upon Thames, all of which added to the pollution. According to the UK's Met Office, the following pollutants were emitted each day during the smoggy period: 1,000 tonnes of smoke particles, 140 tonnes of hydrochloric acid, 14 tonnes of fluorine compounds and 370 tonnes of sulphur dioxide which may have been converted to 800 tonnes of sulphuric acid. The relatively large size of the water droplets in the London fog allowed for the production of sulphates without the acidity of the liquid rising high enough to stop the reaction, and for the resultant dilute acid to become concentrated when the fog was burned away by the sun.Research suggests that additional pollution-prevention systems fitted at Battersea may have worsened the air quality. Flue gas washing reduced the temperature of the flue gases; so they did not rise but instead slumped to ground level, causing a local nuisance.Additionally, there was pollution and smoke from vehicle exhaust, particularly from steam locomotives and diesel-fuelled buses which had replaced the recently abandoned electric tram system. Other industrial and commercial sources also contributed to the air pollution.
+
+
+=== Weather ===
+On 4 December 1952, an anticyclone settled over a windless London, causing a temperature inversion with relatively cool, stagnant air trapped under a layer of warmer air. The resultant fog, mixed with smoke from home and industrial chimneys, particulates such as those from motor vehicle exhausts, and other pollutants such as sulphur dioxide, formed a persistent smog, which blanketed the capital the following day. The presence of tarry particles of soot gave the smog its yellow-black colour, hence the nickname "pea-souper". The absence of significant wind prevented its dispersal and allowed an unprecedented accumulation of pollutants.
+
+
+== Effects ==
+
+
+=== Effect on London ===
+Although London was accustomed to heavy fogs, this one was denser and longer-lasting than any previous fog. Visibility was reduced to a few metres, with one visitor stating that it was "like you were blind", rendering driving difficult or at times impossible.
+Public transport ceased, apart from the London Underground, and the ambulance service stopped, forcing individuals to transport themselves to hospital. The smog was so dense that it even seeped indoors, resulting in cancellation or abandonment of concerts and film screenings as visibility decreased in large enclosed spaces, and stages and screens became harder to see from the seats. Outdoor sports events were also cancelled.In the inner London suburbs and away from town centres, there was no disturbance by moving traffic to thin out the dense fog in the back streets. As a result, visibility could be down to a metre or so in the daytime. Walking out of doors became a matter of shuffling one's feet to feel for potential obstacles such as road curbs. This was made even worse at night since each back street lamp at the time was fitted with an incandescent light bulb, which gave no penetrating light onto the pavement for pedestrians to see their feet or even a lamp post. Fog-penetrating fluorescent lamps did not become widely available until later in the 1950s. "Smog masks" were worn by those who were able to purchase them from chemists.
+
+
+=== Health effects ===
+There was no panic, as London was infamous for its fog. In the weeks that ensued, however, statistics compiled by medical services found that the fog had killed 4,000 people. Most of the victims were very young or elderly, or had pre-existing respiratory problems. In February 1953, Marcus Lipton suggested in the House of Commons that the fog had caused 6,000 deaths and that 25,000 more people had claimed sickness benefits in London during that period.Mortality remained elevated for months after the fog. A preliminary report, never finalised, blamed those deaths on an influenza epidemic. Emerging evidence revealed that only a fraction of the deaths could be from influenza. Most of the deaths were caused by respiratory tract infections, from hypoxia and as a result of mechanical obstruction of the air passages by pus arising from lung infections caused by the smog. The lung infections were mainly bronchopneumonia or acute purulent bronchitis superimposed upon chronic bronchitis.Research published in 2004 suggests that the number of fatalities was considerably greater than contemporary estimates, at about 12,000.
+
+
+=== Environmental impact ===
+Environmental legislation since 1952, such as the City of London (Various Powers) Act 1954 and the Clean Air Acts of 1956 and 1968, led to a reduction in air pollution. Financial incentives were offered to householders to replace open coal fires with alternatives (such as installing gas fires), or for those who preferred, to burn coke instead which produces minimal smoke. Central heating (using gas, electricity, oil or permitted solid fuel) was rare in most dwellings at that time, not finding favour until the late 1960s onwards. Despite improvements, insufficient progress had been made to prevent one further smog event approximately ten years later, in early December 1962.
+
+
+== In popular fiction ==
+The Great Smog is the central event of season 1, episode 4 of Netflix's show The Crown. The representation of the air pollution was regarded as reasonably accurate by critics, although the political importance and the chaos in the hospitals were thought to have been greatly exaggerated.An episode of The Goon Show entitled 'Forog', broadcast on the BBC Home Service 21 December 1954 was a thinly veiled satire on the killer fog crisis. The script by Eric Sykes and Spike Milligan concerned the statues of London's monuments, who could only get up and move about the city undisturbed at times when it was enveloped in a characteristic smog. Government-sponsored scientific research sought to dispense with the choking fog, to the annoyance of the statues.The Great Smog is the setting of the Doctor Who audio play The Creeping Death.The Boris Starling novel Visibility is set in the 1952 smog event.The D.E. Stevenson novel The Tall Stranger (1957) opens with a dense "fog" that penetrates indoors and endangers hospital patients, in a reference to the 1952 smog event.Kate Winkler Dawson's book Death in the Air (2017) interweaves the story of the Great Smog of London with that of serial killer John Christie.
+
+
+== See also ==
+Great Stink
+
+
+== References ==
+
+
+== Further reading ==
+Bates, David V. "Recollections of the London Fog." Environmental health perspectives 110.12 (2002): A735. online
+Bell, Michelle L.; Davis, Devra Lee (June 2001). "Reassessment of the Lethal London Fog of 1952: Novel Indicators of Acute and Chronic Consequences of Acute Exposure to Air Pollution". Environmental Health Perspectives. 109 (Suppl 3): 389–394. doi:10.2307/3434786. JSTOR 3434786. PMC 1240556. PMID 11427388.
+Berridge, Virginia (Ed.). The Big Smoke: Fifty Years After the 1952 London Smog (University of London, Institute of Historical Research, 2005)
+Brimblecombe, Peter. The Big Smoke: A History of Air Pollution in London Since Medieval Times (Routledge Kegan & Paul, 1987)
+Davis, Devra L. "A look back at the London smog of 1952 and the half century since." Environmental health perspectives 110.12 (2002): A734. online
+Davis, Devra L. "The Great Smog" History Today (Dec 2002) Vol. 52, Issue 12
+Dawson, Kate Winkler. Death in the Air: The True Story of a Serial Killer, the Great London Smog, and the Strangling of a City (Hachette Book Group, 2017)
+Greater London Authority. 50 Years On: The struggle for air quality in London since the great smog of December 1952 (December 2002)
+Luckin, Bill, and Peter Thorsheim, eds. A Mighty Capital under Threat: The Environmental History of London, 1800-2000 (U of Pittsburgh Press, 2020) online review.
+Thorsheim, Peter. Inventing Pollution: Coal, Smoke, and Culture in Britain Since 1800 (Ohio University Press, 2006)
+
+
+== External links ==
+Edinburgh University: The London Smog Disaster of 1952
+BBC News: Days of toxic darkness
+1952: London fog clears after days of chaos (BBC News, 9 December 1952)
+Persistent sulfate formation from London Fog to Chinese haze PNAS
+Scientists finally know what caused a mysterious fog to kill 12,000 people in London in 1952

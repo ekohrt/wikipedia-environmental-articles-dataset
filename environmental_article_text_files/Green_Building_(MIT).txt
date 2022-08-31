@@ -1,0 +1,56 @@
+The Cecil and Ida Green Building, also called the Green Building or Building 54, is an academic and research building at the Massachusetts Institute of Technology (MIT) in Cambridge, Massachusetts. The building houses the Department of Earth, Atmospheric, and Planetary Sciences (EAPS). It is one of the tallest buildings in Cambridge.
+The Green Building was designed by I. M. Pei, who received a bachelor's degree in architecture from MIT in 1940, and Araldo Cossutta. Principal donor Cecil Howard Green received a bachelor's degree and master's degree from MIT and was a co-founder of Texas Instruments.
+
+
+== Architecture ==
+
+The Green Building was constructed during 1962–1964 using reinforced concrete. It has 18 floors, equivalent to 21 stories or 277 feet (84 m) tall, with a concrete facade that resembles the limestone and concrete of the older MIT buildings near it. The basement of the building is below sea level and connects to the MIT tunnel system. Three elevators operate in the Green Building. There are staircases at both the east and west sides, whose exterior facades present a vast windowless expanse relieved only by one-story-tall concrete recessed panels.
+The first occupied space above the ground level entrance is the "LL" level, consisting of the large Room 54-100 lecture hall. The second floor formerly housed the Lindgren Library, part of MIT's library system, but this separate facility was consolidated into another library in 2009.
+From its completion in 1964, the Green Building was the tallest building in Cambridge, until it was surpassed in 2019 by Site 4 in nearby Kendall Square. When it was built, Cambridge law limited the number of floors for high-rise buildings. Thus, the Green Building was designed to be on stilts, with the first occupied floor approximately 30 feet (9.1 m) above ground level, in order to "circumvent" this law and maximize the building's height. The footprint of every floor measures only 60 by 120 feet (18 by 37 m), which research groups quickly outgrew, forcing some of them to disperse elsewhere on campus.The building's height has some functional purpose. Its roof supports meteorological instruments and radio communications equipment, plus a white spherical radome enclosing long-distance weather radar apparatus. This technical equipment all requires a line-of-sight vantage point for optimum range and accuracy; without the Green Building, it would have required construction of some kind of tower to function. To minimize interference with radio signals, other buildings on MIT's central campus are less than half the height of the Green Building, and the dormitory towers of Eastgate, Westgate, and MacGregor House are at least 1,500 feet (460 m) away.In 2019, MIT began a $60 million plan to renovate the Green Building. The renovation introduces an additional 12,000 square feet (1,100 m2) of space for environmental science research, including a LEED-certified addition to the building. Part of the funding for the renovation consisted of a $3 million donation from oil and gas company Shell, which led to criticism from several groups within MIT. Students and staff pointed out the company's involvement with climate change denial and questioned the ethics of accepting Shell's donation, labeling the use of fossil fuel money to fund environmental research as "greenwashing".
+
+
+== Occupancy ==
+The Green Building is the main facility of the Department of Earth, Atmospheric, and Planetary Science (EAPS), also known as Course 12.  The departmental headquarters is on the 9th floor of the building.  The lower floors of the building contain the Planetary Science section.  The middle floors have the Earth Science section (Geology, Geophysics, and Geochemistry).  The upper floors house the Atmospheric Science section (which also includes Oceanography and Climatology).
+
+
+== Problems ==
+
+When the Green Building was first opened, the isolated prominence of the building and its relative proximity to the Charles River basin led to high wind speeds in the archway at its base. Strong winds sometimes prevented people from entering or leaving the building through the hinged main doors, forcing occupants to use a basement tunnel connecting to other buildings.  Large wood panels were temporarily erected in the open concourse to block the wind, and revolving doors were later installed at the ground floor entries to somewhat ameliorate the problem.  Several windows cracked and at least one large windowpane popped out on an upper floor, in part due to the effects of wind, eventually requiring all the windows to be replaced.  A few years later, similar problems occurred in Boston's John Hancock Tower, a 60-story skyscraper designed by the same architectural firm.
+After the wind problems became obvious, aerodynamic model tests were conducted in MIT's Wright Brothers Wind Tunnel.: 17–20  In 2013, a computational fluid dynamics (CFD) study re-examined the complex airflow around and through the building. The studies confirmed the anecdotal stories of unusually strong winds at the base of the building, explaining the phenomenon as the result of a large stagnation pressure perturbation at the southern face of the building.A popular but incorrect myth states that Alexander Calder's sculpture La Grande Voile (The Big Sail) was installed in front of the building to deflect the strong winds. The 2013 CFD study demonstrated that the sculpture is located too far away to significantly alter wind flow at the base of the building.: 34 
+
+
+== Hacks ==
+
+Because of its height and visibility from the Boston Back Bay neighborhood across the Charles River Basin, plus its rectangular grid of large 6-by-8-foot (1.8 m × 2.4 m) upright rectangular single-pane windows forming a crude 9 × 18 dot-matrix display, the Green Building has been the site of many hacks or pranks. In 1993, one widely viewed hack repurposed the nine top-floor windows as an enormous digital VU meter for the traditional Fourth of July concert of the Boston Pops orchestra. Several other simpler hacks have used the entire window array for stationary displays; this practice is sufficiently commonplace to have acquired the term greenspeak (which should not be confused with the famously obscure pronouncements of former Federal Reserve Bank chairman Alan Greenspan).
+In September 2011, hackers installed 153 (= 9 × 17) custom-made wirelessly controlled color-changing high-power LED lights into every window above the first floor. They displayed a waving American flag throughout the evening of September 11, 2011 in remembrance of the September 11 attacks of 2001. For a short time in the early morning of September 12, the lights displayed a Tetris game, thus realizing a long-standing hack proposal, the "Holy Grail" of hacks. The display hardware had occasional glitches, and was removed as of September 13. The hardware and software designs were further developed and refined for better reliability. On April 20, 2012, MIT hackers successfully turned the Green Building into a huge, playable Tetris game, operated from a wireless control podium at a comfortable viewing distance in front of the building. Visitors to Campus Preview Weekend (a gathering for admitted prospective freshman students) were invited to play the game on the colossal 80-by-250-foot (24 m × 76 m) display grid, which was claimed to be the second-largest full-color video display in the US.Instead of a one-shot temporary installation, the hackers have designed and built a permanent facility that can be re-used repeatedly by the MIT community. An understanding has been reached with the Department of Earth, Atmospheric and Planetary Sciences (EAPS), which is headquartered in the Green Building, to allow the light display hardware to remain installed in each window.  To avoid annoying the occupants and to allow late-working staff to "opt out", each light display is equipped with a manual override button, which will disable the pixel lighting for that window for several hours after it is pressed. In addition, the hackers have released open-source software tools used to develop new display patterns, so that others can design and deploy new stationary or animated images, in cooperation with the hacker engineers.On the night after the Boston Marathon bombing, the Green Building lighting displayed an American flag pattern. After the shooting death of MIT Campus Patrolman Sean Collier by the alleged bombers a few days later, a 250 foot (76 m) black ribbon pattern was displayed in his memory.As of 2020, the light display was no longer functional.
+As a prototype feasibility demonstration, the Tech Model Railroad Club (located in Building N52) had years earlier added a scale model of the Green Building to its HO scale model railroad layout. Passersby inside Building N52 can view the model building and railway layout through a large window and play a monochromatic version of Tetris via remote control, accompanied by authentic-sounding music, even when the facility is closed.Other hacks utilize the height of the building, such as a 1974 failed attempt to operate a giant yoyo from the roof of the tower. Launching of projectiles from the roof is strongly discouraged, risking deflection by the unpredictable high wind gusts and posing a serious danger to passersby and to residents of nearby East Campus dormitory.
+
+
+== Events ==
+
+
+=== Pumpkin Drop ===
+At midnight on the last Saturday of October, First West (the smallest hall in the East Campus dorm) drops a large number of pumpkins (up to the low hundreds) off the roof of the Green Building. The event frequently attracts a large audience, and the area around the base of the building is quarantined off to prevent accidental injury.
+
+
+=== Green Building Challenge ===
+A traditional event in MIT's annual Bad Ideas weekend is the Green Building Challenge, a competition in which teams of students attempt to climb up the stairs of the Green Building as many times as possible in an evening. Winning teams tend to complete around 300 cumulative ascents of the 18-story building.
+
+
+== Art ==
+
+The Green Building faces McDermott Court (also known as The Dot). This grassy area is flanked by the 33-ton metal sculpture La Grande Voile (The Big Sail), one of Alexander Calder's "stabile" artworks.In May 2011, a temporary artwork was installed in the arched "breezeway" at the base of the Green Building, to take advantage of its legendary wind gusts.  Designed by Meejin Yoon, an Associate Professor of Architecture, Wind Screen was an array of wind-driven micro-turbine generators that would light up whenever there was enough air movement.  This installation was featured in the FAST (Festival of Art, Science, and Technology) celebration, part of the MIT 150 commemoration of MIT's 150th anniversary.
+On May 18, 2013, a night-time projection on the radome on the rooftop of the Green Building by artist David Yann Robert beamed the image of Bengali polymath and biophysicist Sir Jagadish Chandra Bose during a lecture-performance on plant signaling and behavior.
+
+
+== See also ==
+List of tallest buildings and structures in Cambridge, Massachusetts
+
+
+== References ==
+
+
+== External links ==
+EAPS Website
+Photos of the Green Building
+Green Building at Structurae

@@ -1,0 +1,98 @@
+Cadmium is a naturally occurring toxic metal with common exposure  in industrial workplaces, plant soils,  and from smoking. Due to its low permissible exposure in humans, overexposure may occur even in situations where trace quantities of cadmium are found. Cadmium is used extensively in electroplating, although the nature of the operation does not generally lead to overexposure. Cadmium is also found in some industrial paints and may represent a hazard when sprayed. Operations involving removal of cadmium paints by scraping or blasting may pose a significant hazard. The primary use of cadmium is in the manufacturing of NiCd rechargeable batteries. The primary source for cadmium is as a byproduct of refining zinc metal. Exposures to cadmium are addressed in specific standards for the general industry, shipyard employment, the construction industry, and the agricultural industry.
+
+
+== Signs and symptoms ==
+
+
+=== Acute ===
+Acute exposure to cadmium fumes may cause flu-like symptoms including chills, fever, and muscle ache sometimes referred to as "the cadmium blues." Symptoms may resolve after a week if there is no respiratory damage. More severe exposures can cause tracheobronchitis, pneumonitis, and pulmonary edema. Symptoms of inflammation may start hours after the exposure and include cough, dryness and irritation of the nose and throat, headache, dizziness, weakness, fever, chills, and chest pain.
+
+
+=== Chronic ===
+Complications of cadmium poisoning include cough, anemia, and kidney failure (possibly leading to death). Cadmium exposure increases one's chances of developing cancer. Similar to zinc, long-term exposure to cadmium fumes can cause life long anosmia.
+
+
+==== Bone and joints ====
+One of the main effects of cadmium poisoning is weak and brittle bones. The bones become soft (osteomalacia), lose bone mineral density (osteoporosis), and become weaker. This results in joint and back pain, and increases the risk of fractures. Spinal and leg pain is common, and a waddling gait often develops due to bone deformities caused by the long-term cadmium exposure. The pain eventually becomes debilitating, with fractures becoming more common as the bone weakens. Permanent deformation in bones can occur. In extreme cases of cadmium poisoning, more body weight causes a fracture.
+
+
+==== Renal ====
+The kidney damage inflicted by cadmium poisoning is irreversible. The kidneys can shrink up to 30 percent. The kidneys lose their function to remove acids from the blood in proximal renal tubular dysfunction. The proximal renal tubular dysfunction causes hypophosphatemia, leading to muscle weakness and sometimes coma. Hyperchloremia also occurs. Kidney dysfunction also causes gout, a form of arthritis due to the accumulation of uric acid crystals in the joints because of high acidity of the blood (hyperuricemia). Cadmium exposure is also associated with the development of kidney stones.
+
+
+== Sources of exposure ==
+Smoking is a significant source of cadmium exposure. Even small amounts of cadmium from smoking are highly toxic to humans, as the lungs absorb cadmium more efficiently than the stomach. Cadmium is emitted to the electronic cigarette (EC) aerosol but, on currently available data, the  lifetime  cancer  risk (LCR) calculated doesn’t  exceed the acceptable risk limit.
+
+
+=== Environmental ===
+Buildup of cadmium levels in the water, air, and soil has been occurring particularly in industrial areas. Environmental exposure to cadmium has been particularly problematic in Japan where many people have consumed rice that was grown in cadmium-contaminated irrigation water. This phenomenon is known as itai-itai disease.People who live near hazardous waste sites or factories that release cadmium into the air have the potential for exposure to cadmium in air. However, numerous state and federal regulations in the United States control the amount of cadmium that can be released to the air from waste sites and incinerators so that properly regulated sites are not hazardous. The general population and people living near hazardous waste sites may be exposed to cadmium in contaminated food, dust, or water from unregulated or accidental releases. Numerous regulations and use of pollution controls are enforced to prevent such releases.Some sources of phosphate in fertilizers contain cadmium in amounts of up to 100 mg/kg, which can lead to an increase in the concentration of cadmium in soil (for example in New Zealand).  Cadmium can be removed from soil using nanopolymers.
+
+
+=== Food ===
+Food is another source of cadmium. Plants may contain small or moderate amounts in non-industrial areas, but high levels may be found in the liver and kidneys of adult animals. The daily intake of cadmium through food varies by geographic region. Intake is reported to be approximately 8 to 30μg in Europe and the United States versus 59 to 113 μg in various areas of Japan.
+
+
+=== Occupational exposure ===
+In the 1950s and 1960s industrial exposure to cadmium was high, but as the toxic effects of cadmium became apparent, industrial limits on cadmium exposure have been reduced in most industrialized nations and many policy makers agree on the need to reduce exposure further. While working with cadmium it is important to do so under a fume hood to protect against dangerous fumes. Brazing fillers which contain cadmium should be handled with care. Serious toxicity problems have resulted from long-term exposure to cadmium plating baths.
+Workers can be exposed to cadmium in air from the smelting and refining of metals, or from the air in plants that make cadmium products such as batteries, coatings, or plastics. Workers can also be exposed when soldering or welding metal that contains cadmium. Approximately 512,000 workers in the United States are in environments each year where cadmium exposure may occur. Regulations that set permissible levels of exposure, however, are enforced to protect workers and to make sure that levels of cadmium in the air are considerably below levels thought to result in harmful effects.Artists who work with cadmium pigments, which are commonly used in strong oranges, reds, and yellows, can easily accidentally ingest dangerous amounts, particularly if they use the pigments in dry form, as with chalk pastels, or in mixing their own paints.
+
+
+=== Consumer products ===
+Cadmium is used in nickel-cadmium batteries; these are some of the most popular and most common cadmium-based products.
+In February 2010, cadmium was found in an entire line of Wal-Mart exclusive Miley Cyrus jewelry. The charms were tested at the behest of the Associated Press and were found to contain high levels of cadmium. Wal-Mart did not stop selling the jewelry until May 12 because "it would be too difficult to test products already on its shelves". On June 4 cadmium was detected in the paint used on promotional drinking glasses for the movie Shrek Forever After, sold by McDonald's Restaurants, triggering a recall of 12 million glasses.
+
+
+== Toxicology ==
+Cadmium is an extremely toxic industrial and environmental pollutant classified as a human carcinogen: Group 1, according to the International Agency for Research on Cancer; Group 2a, according to Environmental Protection Agency (EPA); and a 1B carcinogen as classified by European Chemical Agency.
+
+
+=== Toxicodynamics ===
+
+
+==== Cellular toxicology ====
+Inside cells, cadmium ions act as a catalytic hydrogen peroxide generator. This sudden surge of cytosolic hydrogen peroxide causes increased lipid peroxidation and additionally depletes ascorbate and glutathione stores. Hydrogen peroxide can also convert thiol groups on proteins into nonfunctional sulfonic acids and is also capable of directly attacking nuclear DNA. This oxidative stress causes the afflicted cell to manufacture large amounts of inflammatory cytokines.
+
+
+=== Toxicokinetics ===
+Inhaling cadmium-laden dust quickly leads to respiratory tract and kidney problems which can be fatal (often from kidney failure). Ingestion of any significant amount of cadmium causes immediate poisoning and damage to the liver and the kidneys. Compounds containing cadmium are also carcinogenic.
+
+
+== Diagnosis ==
+
+
+=== Biomarkers of excessive exposure ===
+Increased concentrations of urinary beta-2 microglobulin can be an early indicator of kidney dysfunction in persons chronically exposed to low but excessive levels of environmental cadmium. The urinary beta-2 microglobulin test is an indirect method of measuring cadmium exposure. Under some circumstances, the Occupational Health and Safety Administration requires screening for kidney damage in workers with long-term exposure to high levels of cadmium. Blood or urine cadmium concentrations provide a better index of excessive exposure in industrial situations or following acute poisoning, whereas organ tissue (lung, liver, kidney) cadmium concentrations may be useful in fatalities resulting from either acute or chronic poisoning. Cadmium concentrations in healthy persons without excessive cadmium exposure are generally less than 1 μg/L in either blood or urine. The ACGIH biological exposure indices for blood and urine cadmium levels are 5 μg/L and 5 μg/g creatinine, respectively, in random specimens. Persons who have sustained kidney damage due to chronic cadmium exposure often have blood or urine cadmium levels in a range of 25-50 μg/L or 25-75 μg/g creatinine, respectively. These ranges are usually 1000-3000 μg/L and 100-400 μg/g, respectively, in survivors of acute poisoning and may be substantially higher in fatal cases.
+
+
+== Treatment ==
+Any person with cadmium poisoning must seek immediate medical attention. For a single exposure by ingestion, gastric decontamination by emesis or gastric lavage may be beneficial soon after exposure. Administration of activated charcoal has not been proven effective.Chelation therapies to remove cadmium are not effective, so the most important action is to prevent additional exposure. Detoxification of Cadmium (Cd) with EDTA and other chelators is possible. Clinically available chelators include EDTA, DMPS, DMSA, and British Anti-Lewisite (BAL). BAL is more toxic than its derivatives, DMPS and DMSA, and is seldom used clinically. EDTA, DMPS, and DMSA increase urinary excretion of Cd. Studies in vitro and in vivo suggest that EDTA is superior to DMSA in mobilizing intracellular Cd. As EDTA is approved by the FDA for lead and other heavy metals, and has a long history of safe use, it is most widely accepted for clinical use. Use of such chelators as has been seen as therapeutically beneficial to humans and animals when done using established protocols.
+
+
+== Epidemiology ==
+In a mass cadmium poisoning in Japan, a marked prevalence for skeletal complications has been noted for older, postmenopausal women, however, the cause of the phenomenon is not fully understood, and is under investigation. Cadmium poisoning in postmenopausal women may result in an increased risk for osteoporosis. Current research has pointed to general malnourishment, as well as poor calcium metabolism relating to the women's age. Studies are pointing to damage of the mitochondria of kidney cells by cadmium as a key factor of the disease.
+
+
+== History ==
+An experiment during the early 1960s involving the spraying of cadmium over Norwich was declassified in 2005 by the UK government, as documented in a BBC News article.
+
+
+== See also ==
+Cobalt poisoning
+Itai-itai disease
+
+
+== References ==
+
+
+== Footnotes ==
+Shannon M.  Heavy Metal Poisoning, in Haddad LM, Shannon M, Winchester JF(editors): Clinical Management of Poisoning and Drug Overdose, Third Edition, 1998.
+"Cadmium and you" (PDF). Redgrave Court, Merton Road, Bootle, Merseyside, L20 7HS, United Kingdom: Health and Safety Executive. March 2010. Retrieved January 29, 2011.{{cite web}}:  CS1 maint: location (link)
+Hartwig, Andrea (2013). "Cadmium and Cancer". Cadmium: From Toxicity to Essentiality. Metal Ions in Life Sciences. Vol. 11. pp. 491–507. doi:10.1007/978-94-007-5179-8_15. ISBN 978-94-007-5178-1. PMID 23430782.
+
+
+== External links ==
+
+ATSDR Case Studies in Environmental Medicine: Cadmium Toxicity U.S. Department of Health and Human Services
+CDC - Cadmium - NIOSH Workplace Safety and Health Topic U.S. Department of Health and Human Services
+National Pollutant Inventory - Cadmium and compounds
+http://www.canoshweb.org/odp/html/cadmium.htm Archived 2021-03-09 at the Wayback Machine

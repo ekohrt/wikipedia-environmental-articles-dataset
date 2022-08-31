@@ -1,0 +1,70 @@
+A paperless office (or paper-free office) is a work environment in which the use of paper is eliminated or greatly reduced. This is done by converting documents and other papers into digital form, a process known as digitization. Proponents claim that "going paperless" can save money, boost productivity, save space, make documentation and information sharing easier, keep personal information more secure, and help the environment. The concept can be extended to communications outside the office as well.
+
+
+== Definition ==
+The paperless world was a publicist's slogan, intended to describe the office of the future. It was facilitated by the popularization of video display computer terminals like the 1964 IBM 2260. An early prediction of the paperless office was made in a 1975 Business Week article. The idea was that office automation would make paper redundant for routine tasks such as record-keeping and bookkeeping, and it came to prominence with the introduction of the personal computer. While the prediction of a PC on every desk was remarkably prophetic, the "paperless office" was not. Improvements in printers and photocopiers made it much easier to reproduce documents in bulk, causing the worldwide use of office paper to more than double from 1980 to 2000. This was attributed to the increased ease of document production and widespread use of electronic communication, which resulted in users receiving large numbers of documents that were often printed out. However, since about 2000, at least in the US, the use of office paper has leveled off and is now decreasing, which has been attributed to a generation shift; younger people are believed to be less inclined to print out documents, and more inclined to read them on a full-color interactive display screen. According to the United States Environmental Protection Agency, the average office worker generates approximately two pounds of paper and paperboard products each day.The term "The Paperless Office" was first used in commerce by Micronet, Inc., an automated office equipment company, in 1978.
+
+
+== History ==
+Traditional offices have paper-based filing systems, which may include filing cabinets, folders, shelves, microfiche systems, and drawing cabinets, all of which require maintenance, equipment, considerable space, and are resource-intensive. In contrast, a paperless office could simply have a desk, chair, and computer (with a modest amount of local or network storage), and all of the information would be stored in digital form. Speech recognition and speech synthesis could also be used to facilitate the storage of information digitally.
+Once computer data is printed on paper, it becomes out-of-sync with computer database updates. Paper is difficult to search and arrange in multiple sort arrangements, and similar paper data stored in multiple locations is often difficult and costly to track and update. A paperless office would have a single-source collection point for distributed database updates, and a publish-subscribe system. Modern computer screens make reading less exhausting for the eyes; a laptop computer can be used on a couch or in bed. With tablet computers and smartphones, with many other low-cost value-added features like video animation, video clips, and full-length movies, many argue that paper is now obsolete to all but those who are resistant to technological change. eBooks are often free or low cost compared to hard-copy books.
+Others argue that paper will always have a place because it affords different uses than screens.
+
+
+== Environmental impact of paper ==
+
+Some believe that paper product manufacturing contributes significantly to deforestation and man-made climate change, and produces greenhouse gases. Others argue that paper product manufacturing, especially in North America, supports the ecological and economic balance of sustainable forestry. According to the 2018 American Forest & Paper Association Sustainability Report, paper manufacturing decreased greenhouse gas emission by 20% in an eleven-year period. Measures such as recycling can help reduce the environmental impact of paper. Some paper production outside of North America may lead to air pollution with the release of nitrogen dioxide (NO2), sulfur dioxide (SO2), and carbon dioxide (CO2). Waste water discharged from pulp and paper mills outside of North America may contain solids, nutrients, and dissolved organic matter that are classified as pollutants. Nutrients such as nitrogen and phosphorus can cause or exacerbate eutrophication of fresh water bodies.
+Printing inks and toners are very expensive and use environment-damaging volatile organic compounds, heavy metals and non-renewable oils, although standards for the amount of heavy metals in ink have been set by some regulatory bodies. Deinking recycled paper pulp results in a waste slurry, sometimes weighing 22% of the weight of the recycled wastepaper, which may go to landfills.
+
+
+== Environmental impact of electronics ==
+
+A paperless work environment requires an infrastructure of electronic components to enable the production, transmission, and storage of information. The industry that produces these components is one of the least sustainable and most environmentally damaging sectors in the world. The process of manufacturing electronic hardware involves the extraction of precious metals and the production of plastic on an industrial scale. The transmission and storage of digital data is facilitated by data centers, which consume significant amounts of the electricity supply of a host country.
+
+
+== Eliminating paper via automation and electronic forms automation ==
+The need for paper is eliminated by using online systems, such as replacing index cards and rolodexes with databases, typed letters and faxes with email, and reference books with the internet. Another way to eliminate paper is to automate paper-based processes that rely on forms, applications and surveys to capture and share data. This method is referred to as "electronic forms" or e-forms and is typically accomplished by using existing print-perfect documents in electronic format to allow for prefilling of existing data, capturing data manually entered online by end-users, providing secure methods to submit form data to processing systems, and digitally signing the electronic documents without printing.
+The technologies that may be used with electronic forms automation include –
+
+Portable Document Format (PDF) – to create, display and interact with electronic documents and forms
+E-form (electronic form) management software – to create, integrate and route forms and form data with processing systems
+Databases – to capture data for prefilling and processing documents
+Workflow platforms – to route information, documents and direct process flow
+E-mail (electronics email) communication which allows sending and receiving information of all kinds and enable attachments
+Digital signature solutions – to digitally sign documents (used by end-users)
+Web servers – to host the process, receive submitted data, store documents and manage document rightsOne of the main issues that has kept companies from adopting paperwork automation is difficulty capturing digital signatures in a cost-effective and compliant manner. The E-Sign Act of 2000 in the United States provided that a document cannot be rejected on the basis of an electronic signature and required all companies to accept digital signatures on documents. Today there are sufficient cost-effective options available, including solutions that do not require end-users to purchase hardware or software.
+One of the great benefits of this type of software is that OCR (Optical character recognition) can be used, which enables the user to search the full text of any file. Additionally, user-defined tags can be added to each file to make it easier to locate certain files throughout the entire system.
+Some paperless software offers a scanner, hardware and software and works seamlessly in separating and organizing important documents. Paperless software might also allow people to enable online signatures for important documents that can be used in any small business or office. Document management and archiving systems do offer some methods of automating forms. Typically, the point in which document management systems start working with a document is when the document is scanned and/or sent into the system. Many document management systems include the ability to read documents via optical character recognition and use that data within the document management system's framework. While this technology is essential to achieving a paperless office it does not address the processes that generate paper in the first place.
+
+
+== Digitizing paper-based documents ==
+Another key aspect of the paperless office philosophy is the conversion of paper documents, photos, engineering plans, microfiche and all the other paper based systems to digital documents. Technologies that may be used for this include scanners, digital mail solutions, book copiers, wide format scanners (for engineering drawings), microfiche scanners, fax to PDF conversion, online post offices, multifunction printers and document management systems. Each of these technologies uses software that converts the raster formats (bitmaps) into other forms depending on need. Generally, they involve some form of image compression technology that produces smaller raster images or use optical character recognition (OCR) to convert a document into text. A combination of OCR and raster is used to enable search ability while maintaining the original form of the document. An important step is the labeling related to paper-to-digital conversion and the cataloging of scanned documents. Some technologies have been developed to do this, but they generally involve either human cataloging or automated indexing on the OCR document. However, scanners and software continue to improve with the development of small, portable scanners that are able to scan doubled-sided A4 documents at around 30-35ppm to a raster format (typically TIFF fax 4 or PDF).
+An issue faced by those wishing to take the paperless philosophy to the limit has been copyright laws. These laws may restrict the transfer of documents protected by copyright from one medium to another, such as converting books to electronic format.
+
+
+== Securing and tracing documents ==
+As awareness of identity theft and data breaches became more widespread, new laws and regulations were enacted, requiring companies that manage or store personally identifiable information to take proper care of those documents. Paperless office systems are easier to secure than traditional filing cabinets, and can track individual accesses to each document.
+
+
+== Difficulties in adopting the paperless office ==
+A major difficulty in "going paperless" is that much of a business's communication is with other businesses and individuals, as opposed to just being internal. Electronic communication requires both the sender and the recipient to have easy access to appropriate software and hardware.  Costs and temporary productivity losses when converting to a paperless office are also a factor, as are government regulations, industry standards, legal requirements, and business policies which may also slow down the change. Businesses may encounter technological difficulties such as file format compatibility, longevity of digital documents, system stability, and employees and clients not having appropriate technological skills.
+For these reasons, while there may be a reduction of paper, some uses of paper will likely remain indefinitely. However, a 2015 questionnaire suggested that nearly half of small/medium-sized businesses believed they were or could go paperless by the end of that year.
+
+
+== See also ==
+U.S. Paperwork Reduction Act, (1980)
+Environmental impact of paper
+Document management system
+Backup
+
+
+== References ==
+
+
+== Further reading ==
+Sellen, Abigail J.; Harper, Richard H. R. (2001), The Myth of the Paperless Office, Cambridge, Massachusetts, United States: The MIT Press, ISBN 0-262-19464-3 - discusses limitations of the paperless office, and the valuable role paper can play for knowledge workers.
+Gladwell, Malcolm (25 March 2002), "The Social Life of Paper", The New Yorker
+
+
+== External links ==
+The Paper Free Office – dream or reality? AIIM Market Intelligence

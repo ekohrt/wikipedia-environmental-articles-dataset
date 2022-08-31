@@ -1,0 +1,87 @@
+In agriculture, polyculture is the practice of growing more than one crop species in the same space, at the same time. In doing this, polyculture attempts to mimic the diversity of natural ecosystems. Polyculture is the opposite of monoculture, in which only one plant or animal species are cultivated together. Polyculture can improve control of some pests, weeds, and diseases while reducing the need for pesticides. Intercrops of legumes with non-legumes can increase yields on low-nitrogen soils due to biological nitrogen fixation. However, polycultures can also reduce crop yields due to competition between the mixed species for light, water, or nutrients. It also complicates management as species have different growth rates, days to maturity, and harvest requirements. Monocultures are more amenable to mechanization.  For these reasons, many farmers in large-scale agriculture continue to rely on monocultures and use crop rotation to add diversity to the system.
+Other forms of polyculture can be found in permaculture and integrated aquaculture.
+
+
+== Historical and modern uses ==
+Polyculture has traditionally been the most prevalent form of agriculture. A well-known example of historic polyculture is the intercropping of maize, beans, and squash plants in a group often referred to as "the three sisters". In this combination, the maize provides a structure for the bean to grow on, the bean provides nitrogen for all of the plants, while the squash suppresses weeds on the ground. This crop mixture can be traced back several thousand years ago to civilizations in Latin America and Africa and is representative of how species in polycultures sustain each other and minimize the need for human intervention. Integrated aquaculture, or the growing of seafood and plants together, has been common in parts of Eastern Asia for several thousand years as well. In China and Japan, for example, fish and shrimp have historically been grown in ponds with rice and seaweed. Other countries where polyculture has traditionally been a substantial part of agricultural and continues to be so today include those in the Himalayan region, Eastern Asia, South America, and Africa.Because of the development of pesticides, herbicides, and fertilizers, monoculture became the predominant form of agriculture in the 1950s. The prevalence of polyculture declined greatly in popularity at that time in more economically developed countries where it was deemed to produce less yield while requiring more labor. Polyculture farming has not disappeared entirely though as traditional polyculture systems continue to be an essential part of the food production system today. Around 15% to 20% of the world's agriculture is estimated as relying on traditional polyculture systems. The majority of Latin American farmers continue to intercrop their maize, beans, and squash. Due to climate change, polyculture is returning in popularity in more developed countries as well as food producers seek to reduce their environmental and health impacts.
+
+
+== Common practices ==
+The kinds of plants that are grown, their spatial distribution, and the time that they spend growing together determines the specific type of polyculture that is implemented. There is no limit for the types of plants or animals that can be grown together to form a polyculture. The time overlaps between plants can be asymmetrical as well, with one plant depending on the other for longer than is reciprocated, often due to differences in life spans.
+
+
+=== Annual polycultures ===
+
+
+==== Intercropping ====
+When more than two crops are grown in complete spatial and temporal overlap with each other, it is referred to as intercropping. Intercropping is particularly useful in plots with limited land availability. Legumes are one of the most commonly intercropped crops, specifically legume-cereal mixtures. Legumes fix atmospheric nitrogen into the soil so that it is available for consumption by other plants in a process known as nitrogen fixation. The presence of legumes consequently eliminates the need for man-made nitrogen fertilizers in intercrops.
+
+
+==== Cover cropping ====
+
+When a crop is grown alongside another plant that is not a crop, the combination is a form of cover cropping. If the non-crop plant is a weed, the combination is called a weedy culture. Grasses and legumes are the most common cover crops. Cover crops are greatly beneficial as they can help prevent soil erosion, physically suppress weeds, improve surface water retention, and, in the case of legumes, provide nitrogen compounds as well. Single-species cover cropping, in rotation with cash crops, increases agroecosystem diversity; a cover crop polyculture further increases that diversity, and there is evidence, using a range of cover crop treatments with or without legumes, that this increases ecosystem functionality, in terms of weed suppression, nitrogen retention, and above-ground biomass.
+
+
+==== Strip cropping ====
+Strip cropping is a form of polyculture that involves growing different plants in alternating rows. While strip cropping does not involve the complete intermixing of plant species, it still provides many of the same benefits such as preventing soil erosion and aiding with nutrient cycling.
+
+
+=== Permaculture ===
+
+Permacultures include polycultures of perennial plants such as legume-grass mixtures and wildflower mixtures, popular in Europe and more temperate climates. These increase soil fertility through nitrogen fixation, decrease soil erosion, regulate water consumption, and decrease the need for tillage thereby conserving soil nutrients. Permacultures require even less human intervention than other forms of polyculture because of lower harvest and tillage rates.In many Latin American countries, agroforestry is a popular form of permaculture as well where trees and crops are grown together. Trees provide shade for the crops alongside organic matter and nutrients when they shed their leaves or fruits. The elaborate root systems of trees also help prevent soil erosion and increase the presence of microbes in the soil. In addition to benefiting crops, trees act as commodities themselves for use in paper, medicine, firewood, etc. Growing coffee plants alongside other tree species in Mexico is a common practice of agroforestry.Coffee is a shade-loving crop, and is traditionally shade-grown. In India, it is often grown under a natural forest canopy, replacing the shrub layer. A different polyculture system is used for coffee in Mexico, where the Coffea bushes are grown under leguminous trees in the genus Inga.One approach to sustainability is to develop polyculture systems by breeding perennial crop varieties of traditional annual arable crops. Perennial crops require less tillage and often have longer roots than annual varieties, helping to reduce soil erosion and tolerate drought. Such varieties are being developed for rice, wheat, sorghum, pigeon pea, barley, and sunflowers. If these can be combined in polyculture with a leguminous cover crop such as alfalfa, fixation of nitrogen will be added to the system, reducing the need for fertilizer and pesticides.
+
+Some traditional systems have combined polyculture with sustainability. In South-East Asia, rice-fish systems on rice paddies have raised freshwater fish as well as rice, producing a valuable additional crop and reducing eutrophication of neighbouring rivers. A variant in Indonesia combines rice, fish, ducks and water fern for a resilient and productive permaculture system; the ducks eat the weeds that would otherwise limit rice growth, saving labour and herbicides, while the duck and fish manure substitute for fertilizer.
+
+
+=== Integrated aquaculture ===
+Integrated aquaculture is a form of aquaculture in which cultures of fish or shrimp are grown together with seaweed, shellfish, or micro-algae. Mono-species aquaculture, a form of aquaculture where only members of the species are grown together, poses several problems for farmers and the environment. The harvesting of seaweed crops in monocultures, for example, releases nitrates into the water and can lead to severe eutrophication as has occurred in the Venice Lagoon. In terms of seafood growth, the greatest problem in monocultures is the high cost of feed, which accounts for about half of production costs. However, more than half of seafood feed is shown to go to waste and can lead to further problems with excess nitrogen release and eutrophication or algal blooms of freshwater. Many technological approaches to lowering these harmful environmental effects such as bacterial bio-filters have proved to consume high levels of energy and be economically costly.As such, many farmers have transitioned towards integrated aquaculture. In integrated aquaculture farms, plants serve a dual purpose, acting as food for the sea animals and as a water filtration device for the surrounding environment by absorbing nitrates and excess oxygen. Nutrients can be recycled between plants and animals, reducing the need for chemical nutrient supplements. Plants that are grown alongside seafood such as seaweed often hold significant commercial value by themselves, so incorporating them into already existing seafood monocultures increases economic value.
+
+
+== Functions ==
+
+
+=== Pest management ===
+Pests are less predominant in polycultures than monocultures due to crop diversity. The lack of concentration of a single crop makes polycultures less appealing to pests who have a strong preference towards a specific crop. These specialized pests will often have more difficulty locating a favorable host plant inside of a polyculture than in a monoculture. If a pest has more generalized preferences, it will leave more quickly to other plants in the polyculture and as such have a lesser effect on any one plant. When pests are present in the nearby area, polycultures consequently experience lower yield loss than monocultures do in a theory known as the associational resistance hypothesis. Because polycultures mimic naturally diverse ecosystems, general pests are less likely to distinguish between polycultures and the surrounding environment as well. As such, pests travel more freely between the two environments, and have a relative smaller in presence in polycultures to begin with.
+Because of the diversity of plants in a polyculture, natural enemies, or predators, of pests are often attracted to the polyculture alongside pests themselves as well. These natural enemies help suppress pest populations while doing no harm to the plants themselves.
+
+
+=== Disease control ===
+Plant diseases are less predominant in polycultures than monocultures. The disease-diversity hypothesis states that a greater diversity of plants leads to a decreased severity of disease. Because different plants are susceptible to different diseases, if a disease negatively impacts one crop, it will not necessarily spread to another and so the overall impact is contained. However, the type of disease and the susceptibility of the specific plants inside the polyculture to a particular disease can vary greatly.
+
+
+=== Weed management ===
+Both the density of crops and the diversity affect weed growth in polycultures. Having a greater density of plants reduces the available water, sunlight, and nutrient concentrations in the environment. Such a reduction is heightened with greater crop diversity as more potential resources are fully utilized. This level of competition makes polycultures particularly inhospitable to weeds.When they do grow, weeds can help polycultures, assisting in pest management by attracting natural enemies of pests. They can also act as hosts to arthropods that are beneficial to other plants in the polyculture.
+
+
+=== Sequestering carbon ===
+A polyculture farming system that sequesters carbon is regenerative ocean farming. It grows a mix of seaweeds and shellfish for harvest, while helping to regenerate and restore local habitats like reef ecosystems.
+
+
+== Advantages ==
+
+
+=== Sustainability ===
+
+Because polycultures use methods of pest, disease, and weed control that do not rely on human intervention, they do not release pesticides into the environment. Fertilizer use is reduced as well, as diverse plants more fully share and use all available soil and atmospheric nutrients. As such, environmental impacts such as eutrophication of fresh water or the presence of excess atmospheric nitrogen are greatly reduced.Other negative impacts of modern agriculture are similarly reduced. Excessive tillage occurs in most modern agricultural practices, but removes essential microbes and nutrients from the soil that are conserved in polycultures, especially permacultures. Because polyculture relies on natural systems of crop maintenance, farmers save money on machinery.
+By growing multiple plants or animals together in the same space, agricultural land, a critical resource worldwide, taking up 40% of the world's land area, is used more productively.Polyculture increases local biodiversity. Increasing crop diversity can increase pollination in nearby environments, as diverse plants attract a broader array of pollinators. This is one example of reconciliation ecology, or accommodating biodiversity within human landscapes. This may also form part of a biological pest control program.
+
+
+=== Human health ===
+The chemicals used in monoculture food production can be directly harmful to human health when released into the environment. Nitrogen is a chemical found in especially high concentrations in fertilizers. Nitrates from these fertilizers often become integrated in water sources due to agricultural runoff. The consumption of nitrates at high doses has been shown to lead to methemoglobinemia in infants.Many of the crops consumed today are calorie-rich crops that can lead to illnesses such as obesity, hypertension, and type II diabetes. Because it encourages plant diversity, polyculture can help increase diet diversity by incorporating non-traditional foods into agriculture and people's diets.
+
+
+== Effectiveness ==
+The effects of interspecific competition and intraspecific competition can cause great damage to plants in certain polycultures. In order for a polyculture to be effective, the diverse species that are a part of it must have distinct biological needs such as absorbing different nutrients or requiring different amounts of sunlight as stated by the competitive exclusion principle. Due to the large number of plant species that are cultivated by humans, finding and testing combinations of plants where interspecific and intraspecific competition do not significantly negatively affect the individual plants is extremely difficult. As such, for crops where historic polycultures do not exist, such a multiplicity makes the creation of new polycultures a significant issue.Crop yield is also an issue in polycultures. While a polyculture produces more biomass overall than a monoculture, individual crops inside of the polyculture are not as prevalent. When there is a focal crop whose cultivation is especially important for a society a lower yield for a certain crop may pose food availability issues.
+Similarly, while diseases and pests affect a polyculture less as a group, they do not necessarily have a decreased effect on a focal crop. If targeted by a specialized pest or disease, a focal crop in a polyculture will likely experience the same yield loss as its monoculture counterpart.Polyculture also often requires more labor.
+
+
+== See also ==
+
+
+== References ==
+
+
+== External links ==
+Crop rotation and polyculture
+Polycultures in the Brazilian drylands
+Polyculture and disease prevention

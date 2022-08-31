@@ -1,0 +1,86 @@
+Heat recovery ventilation (HRV), also known as mechanical ventilation heat recovery (MVHR), is an energy recovery ventilation system which works between two sources at different temperatures. Heat recovery is a method which is used to reduce the heating and cooling demands of buildings. By recovering the residual heat in the exhaust gas, the fresh air introduced into the air conditioning system is preheated (pre-cooled) and the fresh air enthalpy is increased (reduced) before the fresh air enters the room or the air cooler of the air conditioning unit performs heat and moisture treatment. A typical heat recovery system in buildings consists of a core unit, channels for fresh and exhaust air, and blower fans. Building exhaust air is used as either a heat source or heat sink depending on the climate conditions, time of year and requirements of the building. Heat recovery systems typically recover about 60–95% of the heat in exhaust air and have significantly improved the energy efficiency of buildings .
+
+
+== Working principle ==
+A heat recovery system is designed to supply conditioned air to the occupied space to maintain a certain temperature. A heat recovery system keeps a house fully ventilated while recovering heat being emitted from the inside environment. The purpose of heat recovery systems is to transfer the thermal energy from one fluid to another fluid, from one fluid to a solid or from a solid surface to a fluid, at different temperatures and in thermal contact. There is no direct interaction between fluid and fluid or fluid and solid in most heat recovery systems. In some heat recovery systems fluid leakage is observed due to pressure differences between fluids, resulting in a mixture of the two fluids.
+
+
+== Types ==
+
+
+=== Rotary thermal wheels ===
+Rotary thermal wheels are a mechanical means of heat recovery. A rotating porous metallic wheel transfers thermal energy from one air stream to another by passing through each fluid alternately. The system operates by working as a thermal storage mass whereby the heat from the air is temporarily stored within the wheel matrix until it is transferred to the cooler air stream.Two types of rotary thermal wheel exist, heat wheels and enthalpy (desiccant) wheels. Though there is geometrical similarity between heat and enthalpy wheels, there are differences that affect the operation of each design. In a system utilizing a desiccant wheel, the moisture in the air stream with the highest relative humidity is transferred to the opposite air stream after flowing through the wheel. This can work in both directions of incoming air to exhaust air and exhaust air to incoming air. The supply air can then be used directly or employed to further cool the air. This is an energy intensive process.
+
+
+=== Fixed plate heat exchangers ===
+Fixed plate heat exchangers are the most commonly used type of heat exchanger and have been developed for 40 years. Thin metal plates are stacked with a small spacing between plates. Two different air streams pass through these spaces, adjacent to each other. The heat transfer occurs as the temperature transfers through the plate from one air stream to the other. The efficiency of these devices have shown values of 90% sensible heat efficiency in transferring sensible heat from one air stream to another. The high levels of efficiency are attributed to the high heat transfer coefficients of the materials used, operational pressure and temperature range.
+
+
+=== Heat pipes ===
+Heat pipes are a heat recovery device that use a multi-phase process to transfer heat from one air stream to another. Heat is transferred using an evaporator and condenser within a wicked, sealed pipe containing a fluid which undergoes constant phase change to transfer heat. The fluid within the pipes changes from a fluid to a gas in the evaporator section, absorbing the thermal energy from the warm air stream. The gas condenses back to a fluid in the condenser section where the thermal energy is dissipated into the cooler air stream raising the temperature. The fluid/gas is transported from one side of the heat pipe to the other through pressure, wick forces or gravity, depending on the arrangement of the heat pipe.
+
+
+=== Run-around ===
+Run-around systems are a hybrid heat recovery system that incorporates characteristics from other heat recovery technology to form a single device, capable of recovering heat from one air stream and delivering to another a significant distance away. There is the general case of run-around heat recovery, two fixed plate heat exchangers are located in two separate airstreams and are linked by a closed loop containing a fluid which is continually pumped between the two heat exchangers. The fluid is heated and cooled constantly as it flows around the loop, providing the heat recovery. The constant flow of the fluid through the loop requires pumps to move between the two heat exchangers. Though this is an additional energy demand, using pumps to circulate fluid is less energy intensive than fans to circulate air.
+
+
+=== Phase change materials ===
+Phase change materials, or PCMs, are a technology that is used to store sensible and latent heat within a building structure at a higher storage capacity than standard building materials. PCMs have been studied extensively due to the ability to store heat and transfer heating and cooling demands from conventional peak times to off-peak times.
+The concept of thermal mass of a building for heat storage, that the physical structure of the building absorbs heat to help cool the air, has long been understood and investigated. A study of PCMs in comparison to traditional building materials has shown that the thermal storage capacity of PCMs is twelve times higher than standard building materials over the same temperature range. The pressure drop across PCMs has not been investigated to be able to comment on the effect that the material may have on air streams. However, as the PCM can be incorporated directly into the building structure, this would not affect the flow in the same way other heat exchanger technologies do, it can be suggested that there is no pressure loss created by the inclusion of PCMs in the building fabric.
+
+
+== Applications ==
+
+
+=== Rotary thermal wheel ===
+O’Connor et al. studied the effect that a rotary thermal wheel has on the supply air flow rates into a building. A computational model was created to simulate the effects of a rotary thermal wheel on air flow rates when incorporated into a commercial wind tower system. The simulation was validated with a scale model experiment in a closed-loop subsonic wind tunnel. The data obtained from both tests were compared in order to analyze the flow rates. Although the flow rates were reduced compared to a wind tower which did not include a rotary thermal wheel, the guideline ventilation rates for occupants in a school or office building were met above a external wind speed of 3 m/s, which is lower than the average wind speed of the UK (4–5 m/s).
+No full scale experimental or field test data was completed in this study, therefore it cannot be conclusively proved that rotary thermal wheels are feasible for integration into a commercial wind tower system. However, despite the air flow rates decrease within the building after the introduction of the rotary thermal wheel, the reduction was not large enough to prevent the ventilation guideline rates being met. Sufficient research has not yet been conducted to determine the suitability of rotary thermal wheels in natural ventilation, ventilation supply rates can be met but the thermal capabilities of the rotary thermal wheel have not yet been investigated. Further work would beneficial to increase understanding of the system.
+
+
+=== Fixed plate heat exchangers ===
+Mardiana et al. integrated a fixed plate heat exchanger into a commercial wind tower, highlighting the advantages of this type of system as a means of zero energy ventilation which can be simply modified. Full scale laboratory testing was undertaken in order to determine the effects and efficiency of the combined system. A wind tower was integrated with a fixed plate heat exchanger and was mounted centrally on a sealed test room.
+The results from this study indicate that the combination of a wind tower passive ventilation system and a fixed plate heat recovery device could provide an effective combined technology to recover waste heat from exhaust air and cool incoming warm air with zero energy demand. Though no quantitative data for the ventilation rates within the test room was provided, it can be assumed that due to the high pressure loss across the heat exchanger that these were significantly reduced from standard operation of a wind tower. Further investigation of this combined of technology is essential in understanding the air flow characteristics of the system.
+
+
+=== Heat pipes ===
+Due to the low pressure loss of heat pipe systems, more research has been conducted into the integration of this technology into passive ventilation than other heat recovery systems. Commercial wind towers were again used as the passive ventilation system for integrating this heat recovery technology. This further enhances the suggestion that commercial wind towers provide a worthwhile alternative to mechanical ventilation, capable of supplying and exhausting air at the same time.
+
+
+=== Run-around systems ===
+Flaga-Maryanczyk et al. conducted a study in Sweden which examined a passive ventilation system which integrated a run-around system using a ground source heat pump as the heat source to warm incoming air. Experimental measurements and weather data were taken from the passive house used in the study. A CFD model of the passive house was created with the measurements taken from the sensors and weather station used as input data. The model was run to calculate the effectiveness of the run-around system and the capabilities of the ground source heat pump.
+Ground source heat pumps provide a reliable source of consistent thermal energy when buried 10–20 m below the ground surface. The ground temperature is warmer than ambient air in winter and cooler than ambient air in summer, providing both heat source and heat sink. It was found that in February, the coldest month in the climate, that the ground source heat pump was capable of delivering almost 25% of the heating needs of the house and occupants.
+
+
+=== Phase change materials ===
+The majority of research interest in PCMs is the application of phase change material integration into traditional porous building materials such as concrete and wall boards. Kosny et al. analyzed the thermal performance of buildings which have PCM enhanced construction materials within the structure. Analysis showed that the addition of PCMs is beneficial in terms of improving the thermal performance.
+A significant drawback of PCM use in a passive ventilation system for heat recovery is the lack of instantaneous heat transfer across different airstreams. Phase change materials are a heat storage technology, whereby the heat is stored within the PCM until the air temperature has fallen to a significant level where it can be released back into the air stream. No research has been conducted into the use of PCMs between two airstreams of different temperature where continuous, instantaneous heat transfer can occur. An investigation into this area would be beneficial for passive ventilation heat recovery research.
+
+
+== Advantages and disadvantages ==
+
+
+== Environmental impacts ==
+Energy saving is one of the key issues for both fossil fuel consumption and protection of global environment. The rising cost of energy and the global warming underlined that developing of the improved energy systems is necessary to increase the energy efficiency while reducing greenhouse gas emissions. The most effective way to reduce energy demand is to use energy more efficiently. Therefore, waste heat recovery is becoming popular in recent years since it improves energy efficiency. About 26% of industrial energy is still wasted as hot gas or fluid in many countries. However, during last two decades there has been remarkable attention to recover waste heat from various industries and to optimize the units which are used to absorb heat from waste gases. Thus, these attempts enhance reducing of global warming as well as of energy demand.
+
+
+=== Energy consumption ===
+In most industrialized countries, HVAC are responsible for one-third of the total energy consumption. Moreover, cooling and dehumidifying fresh ventilation air composes 20–40% of the total energy load for HVAC in hot and humid climatic regions. However, that percentage can be higher where 100% fresh air ventilation is required. This means more energy is needed to meet the fresh air requirements of the occupants. The heat recovery is getting a necessity due to an increasing energy cost for treatment of fresh air. The main purpose of heat recovery systems is to mitigate the energy consumption of buildings for heating, cooling and ventilation by recovering the waste heat. In this regard, stand alone or combined heat recovery systems can be incorporated into the residential or commercial buildings for energy saving. Reduction in energy consumption levels can also notably contribute in reducing greenhouse gas emissions for a sustainable world.
+
+
+=== Greenhouse gases ===
+CO2, N2O and CH4 are common greenhouse gases and CO2 is the largest contributor to climate change. Therefore, the greenhouse gas emissions are frequently denoted as CO2 equivalent emissions. Total global greenhouse gas emissions increased 12.7% between 2000 and 2005. In 2005, around 8.3 Gt CO2 was released by building sector. Moreover, buildings are responsible for more than 30% of greenhouse gas emissions each year in most of developed countries. According to another study, buildings in European Union countries cause about 50% of the CO2 emissions in the atmosphere. It is possible to mitigate the greenhouse gas emissions by 70% compared to the levels expected to be seen in 2030 if the proper measures are taken. The increase in greenhouse gas emissions due to high demand of energy use concluded as global warming. In this regard, mitigating gas emissions in the atmosphere stands out as one of the most crucial problems of the world today that should be resolved. Heat recovery systems have a remarkable potential to contribute in decreasing greenhouse gas emissions by reducing the energy required to heat and cool buildings. The Scotch Whisky Association has carried out a project at Glenmorangie distillery to recover latent heat from new wash stills to heat other process waters. They have found that 175 t a year of CO2 will be saved with a payback period of under one year. In another report, it is underlined that 10 MW of recovered heat can be utilized for saving €350,000 per year in emission costs. UK Climate Change Act of 2008 is targeting a 34% reduction in greenhouse gas emissions by 2020 compared with 1990 levels and an 80% reduction by 2050. They emphasize the notable potential and importance of heat recovery technologies to achieve this goal.
+
+
+== See also ==
+
+
+== References ==
+
+
+== External links ==
+AIVC Information Paper VIP6 "Air-to-Air Heat Recovery in Ventilation Systems"
+Heat recovery in Industry
+Energy and Heat Recovery Ventilators (ERV/HRV)
+Write-up of Single Room MHRV (SRMHRV) in UK home
+Heat Recovery Ventilation system Cost
+Builder Insight Bulletin - Heat Recovery Ventilation

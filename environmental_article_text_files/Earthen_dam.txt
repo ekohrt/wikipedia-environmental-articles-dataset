@@ -1,0 +1,27 @@
+An embankment dam is a large artificial dam. It is typically created by the placement and compaction of a complex semi-plastic mound of various compositions of soil or rock. It has a semi-pervious waterproof natural covering for its surface and a dense, impervious core. This makes the dam impervious to surface or seepage erosion. Such a dam is composed of fragmented independent material particles. The friction and interaction of particles binds the particles together into a stable mass rather than by the use of a cementing substance.
+
+
+== Types ==
+Embankment dams  come in two types: the earth-filled dam (also called an earthen dam or terrain dam) made of compacted earth, and the rock-filled dam.
+A cross-section of an embankment dam shows a shape like a bank, or hill.  Most have a central section or core composed of an impermeable material to stop water from seeping through the dam. The core can be of clay, concrete, or asphalt concrete.  This type of dam is a good choice for sites with wide valleys.  They can be built on hard rock or softer soils.  For a rock-fill dam, rock-fill is blasted using explosives to break the rock.  Additionally, the rock pieces may need to be crushed into smaller grades to get the right range of size for use in an embankment dam.
+
+
+== Safety ==
+The building of a dam and the filling of the reservoir behind it places a new weight on the floor and sides of a valley. The stress of the water increases linearly with its depth. Water also pushes against the upstream face of the dam, a nonrigid structure that under stress behaves semiplastically, and causes greater need for adjustment (flexibility) near the base of the dam than at shallower water levels. Thus the stress level of the dam must be calculated in advance of building to ensure that its break level threshold is not exceeded.Overtopping or overflow of an embankment dam beyond its spillway capacity will cause its eventual failure. The erosion of the dam's material by overtopping runoff will remove masses of material whose weight holds the dam in place and against the hydraulic forces acting to move the dam. Even a small sustained overtopping flow can remove thousands of tons of overburden soil from the mass of the dam within hours. The removal of this mass unbalances the forces that stabilize the dam against its reservoir as the mass of water still impounded behind the dam presses against the lightened mass of the embankment, made lighter by surface erosion. As the mass of the dam erodes, the force exerted by the reservoir begins to move the entire structure. The embankment, having almost no elastic strength, would begin to break into separate pieces, allowing the impounded reservoir  water to flow between them, eroding and removing even more material as it passes through. In the final stages of failure the remaining pieces of the embankment would offer almost no resistance to the flow of the water and continue to fracture into smaller and smaller sections of earth or rock until these would disintegrate into a thick mud soup of earth, rocks and water.
+Therefore, safety requirements for the spillway are high, and require it to be capable of containing a maximum flood stage. It is common for its specifications to be written such that it can contain at least a one-hundred-year flood. A number of embankment dam overtopping protection systems were developed around the turn of the third millennium. These techniques include concrete overtopping protection systems, timber cribs, sheet-piles, riprap and gabions, reinforced earth, minimum energy loss weirs, embankment overflow stepped spillways, and precast concrete block protection systems.
+
+
+== See also ==
+Earth structure
+Gravity dam
+List of largest dams in the world
+Phreatic line
+Teton Dam - an earthen dam that suffered a catastrophic dam failure in 1976
+
+
+== Notes ==
+
+
+== External links ==
+
+gn and Construction in the U.S. Bureau of Reclamation

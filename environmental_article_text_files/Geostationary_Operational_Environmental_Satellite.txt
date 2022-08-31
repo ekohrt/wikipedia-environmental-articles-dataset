@@ -1,0 +1,128 @@
+The Geostationary Operational Environmental Satellite (GOES), operated by the United States' National Oceanic and Atmospheric Administration (NOAA)'s National Environmental Satellite, Data, and Information Service division, supports weather forecasting, severe storm tracking, and meteorology research. Spacecraft and ground-based elements of the system work together to provide a continuous stream of environmental data. The National Weather Service (NWS) and the Meteorological Service of Canada use the GOES system for their North American weather monitoring and forecasting operations, and scientific researchers use the data to better understand land, atmosphere, ocean, and climate dynamics.
+The GOES system uses geosynchronous equatorial satellites that, since the launch of SMS-1 in 1974, have been a basic element of U.S. weather monitoring and forecasting.
+The procurement, design, and manufacture of GOES satellites is overseen by NASA.
+NOAA is the official provider of both GOES terrestrial data and GOES space weather data. Data can also be accessed using the SPEDAS software.
+
+
+== History ==
+The first GOES satellite, GOES-1, was launched in October 1975. Two more followed, launching almost two minutes short of a year apart, on 16 June 1977 and 1978 respectively. Prior to the GOES satellites two Synchronous Meteorological Satellites (SMS) satellites had been launched; SMS-1 in May 1974, and SMS-2 in February 1975. The SMS-derived satellites were spin-stabilized spacecraft, which provided imagery through a Visible and Infrared Spin Scan Radiometer, or VISSR.  The first three GOES satellites used a Philco-Ford bus developed for the earlier Synchronous Meteorological Satellites (SMS) generation.Following the three SMS GOES spacecraft, five satellites were procured from Hughes, which became the first generation GOES satellites. Four of these reached orbit, with GOES-G being lost in a launch failure.
+
+The next five GOES satellites were constructed by Space Systems/Loral, under contract to NASA. The imager and sounder instruments were produced by ITT Aerospace/Communication Division. GOES-8 and -9 were designed to operate for three years, while -10, -11 and -12 have expected lifespans of five years. GOES-11 and -12 were launched carrying enough fuel for ten years of operation, in the event that they survived beyond their expected lifespan.
+A contract to develop four third-generation GOES satellites was awarded to Hughes Corporation, with the satellites scheduled for launch on Delta III rockets between 2002 and 2010. After a merger with Hughes, Boeing took over the development contracts, with launches transferred to the Delta IV, following the Delta III's retirement. The contract for the fourth satellite, GOES-Q, was later cancelled, and that satellite will only be completed in the event that another third-generation satellite is lost in a launch failure or fails soon after launch. The first third-generation satellite, GOES-13, was launched in May 2006, originally serving as an on-orbit backup. However, in April 2010, GOES-12 was moved to South America coverage and GOES-13 was moved to the GOES-East role. Third generation satellites have an expected lifespan of seven years, but will carry excess fuel to allow them to operate for longer if possible, as with the last two-second generation satellites.
+
+The fourth-generation satellites, the GOES-R series, are being built by Lockheed Martin using the A2100 satellite bus. The GOES-R series is a four-satellite program (GOES-R, -S, -T and -U) that will extend the availability of the operational GOES satellite system through 2036. The first satellite of the series, the eponymous GOES-R, was launched on 19 November 2016. It was renamed GOES-16 upon reaching orbit. The second satellite of the series, GOES-S, was launched on 1 March 2018. It was renamed GOES-17 upon reaching orbit.
+
+
+== Satellites ==
+
+
+=== Operationally available ===
+Four GOES satellites are available for operational use.
+GOES-14 is in storage at 105° W. The launch of this satellite, which was designated GOES-O before orbiting, was delayed several times. It was launched successfully on 27 June 2009 from Space Launch Complex 37, piggybacking on a Delta IV rocket. It underwent Post-Launch Testing until December 2009 and then was placed in on-orbit storage. This satellite is a part of the GOES-N Series. GOES-14 has been and will be activated should another GOES satellite suffer a problem or be decommissioned. It was temporarily designated GOES-East because of technical difficulties with GOES-13 and moved towards the GOES-East location. After resolution of those problems, GOES-14 was returned to storage.GOES-15, which was designated GOES-P before orbiting, was launched successfully on 4 March 2010. From 2011 to 2018, it occupied the GOES-West position at 135°W over the Pacific Ocean. It moved eastward to 128° W beginning on 29 October 2018 in order to make room for GOES-17, which took over the GOES-West position on 10 December 2018. It is currently operating in parallel with GOES-17 for user evaluation purposes, but it is scheduled to be retired sometime after 2019.GOES-16 occupies the GOES-East position at 75° W. This satellite, which was designated GOES-R before orbiting, was launched by an Atlas V rocket from Space Launch Complex 41 at Cape Canaveral Air Force Station in Florida on 19 November 2016. It underwent Post-Launch Testing through early 2017 before replacing GOES-13 as GOES-East.
+GOES-17 occupies the GOES-West position at 137.2° W. The satellite, designated as GOES-S before orbiting, was launched by an Atlas V rocket from Space Launch Complex 41 on 1 March 2018. Following post-launch testing and troubleshooting of a problem in its imager, the satellite was declared operational in February 2019.
+
+
+=== Inactive or repurposed ===
+Several GOES satellites are still in orbit but are either inactive or have been re-purposed.
+Although GOES-3 ceased to be used for weather operations in 1989, it spent over 20 years as a critical part of communications between the U.S. and Amundsen–Scott South Pole Station before being decommissioned in 2016. Geostationary satellites expend fuel to keep themselves stationary over the equator, and thus cannot normally ordinarily be seen from the poles. When that fuel is depleted, solar and lunar perturbations increase the satellite's inclination so that its ground track begins to describe an analemma (a figure-8 in the north-south direction). This usually ends the satellite's primary mission. However, when the inclination is high enough the satellite may begin to rise above the polar horizons at the extremes of the figure-8, as was the case for GOES-3. A nine-meter dish was constructed at the station, and communication with the satellite could be obtained for about five hours per day. Data rates were around 2.048 megabytes/second (bi-directional) under optimum conditions.
+GOES-8, which was designated GOES-I before orbiting, was the GOES-East satellite when it was in operation. It is in a parking orbit and is drifting westerly at a rate of about 4° daily. It was decommissioned on 1 April 2003 and deactivated on 5 May 2004 after the failure of its propulsion system.GOES-10, which was designated GOES-K before orbiting, was decommissioned on 2 December 2009 and was boosted to a graveyard orbit. It no longer had the fuel for required maneuvers to keep it on station.GOES-11, which was designated GOES-L before orbiting, had a partial failure on 6 December 2011. It was decommissioned on 16 December 2011 and boosted into a graveyard orbit.
+GOES-12, which was designated GOES-M before orbiting, was decommissioned on 16 August 2013 and boosted into a graveyard orbit.GOES-13, which was designated GOES-N before orbiting, was decommissioned on 3 January 2018 and boosted into storage orbit. It is transferred to the U.S. Space Force and positioned at 61.5ºE under the new name EWS-G1.
+
+		
+		
+
+
+== Purpose ==
+
+Designed to operate in geostationary orbit 35,790 kilometres (22,240 mi) above the Earth, the GOES spacecraft continuously view the continental United States, the Pacific and Atlantic Oceans, Central America, South America, and southern Canada. The three-axis, body-stabilized design enables the sensors to "stare" at the Earth and thus more frequently image clouds, monitor the Earth's surface temperature and water vapour fields, and sound the atmosphere for its vertical thermal and vapor structures. The evolution of atmospheric phenomena can be followed, ensuring real-time coverage of meteorological events such as severe local storms and tropical cyclones. The importance of this capability was proven during hurricanes Hugo (1989) and Andrew (1992).
+The GOES spacecraft also enhance operational services and improve support for atmospheric science research, numerical weather prediction models, and environmental sensor design and development.
+Satellite data is broadcast on the L-band, and received at the NOAA Command and Data Acquisition ground station at Wallops Island, Virginia from which it is disseminated to users. Additionally, anyone may receive data directly from the satellites by utilizing a small dish, and processing the data with special software.The GOES satellites are controlled from the Satellite Operations Control Center in Suitland, Maryland. During significant weather or other events, the normal schedules can be altered to provide the coverage requested by the NWS and other agencies.
+
+GOES-12 and above also have provided a platform for the Solar X-Ray Imager (SXI) and space environment monitoring (SEM) instruments.
+The SXI provides high-cadence monitoring of large scale solar structures to support the Space Environment Services Center's (SESC) mission. The SXI unit on GOES-13, however, was damaged by a solar flare in 2006. The SESC, as the nation's "space weather" service, receives, monitors, and interprets a wide variety of solar-terrestrial data. It also issues reports, alerts, and forecasts for special events such as solar flares or geomagnetic storms. This information is important to the operation of military and civilian radio wave and satellite communication and navigation systems. The information also is important to electric power networks, the missions of geophysical explorers, Space Station astronauts, high-altitude aviators, and scientific researchers.
+The SEM measures the effect of the Sun on the near-Earth solar-terrestrial electromagnetic environment, providing real-time data to the SESC.
+
+
+== Payload ==
+The main mission of a GOES satellite is carried out by the primary payload instruments, which are the Imager and the Sounder. The Imager is a multichannel instrument that senses infrared radiant energy and visible reflected solar energy from the Earth's surface and atmosphere. The Sounder provides data for vertical atmospheric temperature and moisture profiles, surface and cloud top temperature, and ozone distribution.
+GOES also offers the Data Collection System, a ground-based meteorological platform satellite data collection and relay service.
+Other instruments on board the spacecraft are the SEM set, which consists of a magnetometer, an X-ray sensor, a high energy proton and alpha particle detector, and an energetic particles sensor.
+The GOES-N series (GOES-13 through GOES-15) spacecraft also have a sun-pointed extreme ultraviolet sensor.
+
+In addition, the GOES satellites carry a search and rescue repeater that collects data from Emergency Position-Indicating Radio Beacons and Emergency Locator Transmitter beacons, which are used during search-and-rescue operations by the U.S. Air Force Rescue Coordination Center.
+
+
+=== GOES-R Series ===
+The proposed instrument package for the GOES-R series initially included the following:
+Advanced Baseline Imager (ABI)
+Hyperspectral Environmental Suite (HES)
+Space Environment In-Situ Suite (SEISS), which includes two Magnetospheric Particle Sensors (MPS-HI and MPS-LO), an Energetic Heavy Ion Sensor, and a Solar and Galactic Proton Sensor
+Solar Imaging Suite, which includes the Solar Ultraviolet Imager (SUVI), the Solar X-Ray Sensor (XRS), and the Extreme Ultraviolet Sensor (EUVS)
+Geostationary Lightning Mapper (GLM)
+MagnetometerIn September 2006, the HES was canceled.
+
+
+== Satellite designations ==
+Before being launched, GOES satellites are designated by letters (A, B, C, etc.). Once a GOES satellite is launched successfully, it is redesignated with a number (1, 2, 3, etc.). So, GOES-A to GOES-F became GOES-1 to GOES-6. Because GOES-G was a launch failure, it never received a number. GOES-H to GOES-R became GOES-7 to GOES-16 (skipping GOES-Q, which was not built).
+Once operational, the different locations used by the satellites are given a name corresponding to the regions they cover. These are GOES-East and GOES-West, which watch the eastern and western halves of the U.S., respectively. GOES-East is occupied by GOES-16,  while GOES-West is occupied by GOES-17. The -East/-West designation is used more frequently than the satellite's number designation. GOES-IO (Indian Ocean), a new designation revealed in early May 2020, is currently occupied by GOES-13 (DOD-1).There was also a GOES-South position, which is meant to provide dedicated coverage of South America. Before the GOES-R series became operational, unless a satellite was dedicated to this continent, imagery of South America was updated every 3 hours instead of every 30 minutes. The GOES-South station was usually assigned to older satellites whose North American operations have been taken over by new satellites. For example, GOES-10 was moved from the GOES-West position to GOES-South after it was replaced in the -West station by GOES-11. When GOES-10 was decommissioned on 1 December 2009, GOES-South was taken over by GOES-12. Since the retirement of GOES-12 on 16 August 2013, the GOES-South station has been unoccupied. GOES-16 has since made the need for a dedicated GOES-South satellite obsolete; as of 2019, the satellite produces full disk images every 10 minutes.
+
+
+== Development of GOES-R Series ==
+In September 2006, NOAA reduced the planned number of GOES-R satellites from four to two because of cost overrun concerns. The planned delivery schedule was also slowed down to reduce costs. The expected cost of the series is $7.69 billion, a $670 million increase from the prior $7 billion estimate.The contract for constructing the satellites and manufacturing the magnetometer, SUVI, and GLM was awarded to Lockheed Martin. This award was challenged by losing bidder Boeing; however, the protest was subsequently dismissed.
+The ABI instrument was delivered by L3Harris (formerly ITT Exelis). The SEISS was delivered by Assurance Technology Corporation.
+XRS and EUVS are being combined into the Extreme Ultra Violet and X-Ray Irradiance Sensors (EXIS), which was delivered by the Laboratory for Atmospheric and Space Physics of the University of Colorado.The contract for the ground system, including data processing, was awarded to a team led by the Weather Systems division of L3Harris, including subcontracts to Boeing, Atmospheric and Environmental Research (AER), Honeywell, Carr Astronautics, Wyle Laboratories, and Ares.
+
+
+== Status of GOES satellites ==
+GOES spacecraft have been manufactured by Boeing (GOES-D through -H and GOES-N through -P) and Space Systems/Loral (GOES-A through -C and GOES-I through -M). The GOES-I series (I-M) and the GOES-N series (N-P) are documented in the "GOES I–M Databook" and the "GOES-N Series Databook", respectively. The GOES-R series is being built by Lockheed Martin with the first and second in the series, GOES-16 and -17, operational as of June 2019.
+Boeing would have built and launched GOES-Q only if GOES-O or GOES-P had failed to be delivered on-orbit in good working order.
+
+GOES-1, launched on 16 October 1975, decommissioned on 7 March 1985
+GOES-2, launched on 16 June 1977, decommissioned on 5 May 2001, before which a comsat for the South Pole, Peacesat
+GOES-3, launched on 16 June 1978, decommissioned on 29 June 2016, before which a comsat for the South Pole, Peacesat
+GOES-4, launched on 9 September 1980, decommissioned on 9 October 1988
+GOES-5, launched on 22 May 1981, decommissioned 18 July 1990
+GOES-6, launched on 28 April 1983, decommissioned on 19 May 1992
+GOES-G, launched on 3 May 1986, failed to achieve orbit
+GOES-7, launched on 26 February 1987, decommissioned on 12 April 2012, before which a comsat for Peacesat
+GOES-8, launched on 13 April 1994, decommissioned on 5 May 2004
+GOES-9, launched on 23 May 1995, decommissioned on 15 June 2007
+GOES-10, launched on 25 April 1997, decommissioned on 2 December 2009
+GOES-11, launched on 3 May 2000, decommissioned on 16 December 2011
+GOES-12, launched on 23 July 2001, decommissioned on 16 August 2013, before which provided coverage for South America
+GOES-13, launched on 24 May 2006, decommissioned on 3 January 2018, operational again for the Indian Ocean since 8 September 2020 as EWS-G1
+GOES-14, launched on 27 June 2009, in standby, located at 105° W
+GOES-15, launched on 4 March 2010, in operation since 14 December 2011, parallel to GOES-17 since 11 November 2018
+GOES-16, launched on 19 November 2016, in operation as GOES-East since 18 December 2017
+GOES-17, launched on 1 March 2018, in operation as GOES-West since 12 February 2019
+GOES-18, launched on 1 March 2022
+GOES-U, scheduled for launch in April 2024
+
+
+== See also ==
+Geostationary Extended Observations (GeoXO)
+Applications Technology Satellites
+Multi-Functional Transport Satellite
+Polar Operational Environmental Satellites
+Remote sensing
+Earth Polychromatic Imaging Camera
+
+
+== Further reading ==
+Lombardi, Michael A.; Hanson, D. Wayne (March–April 2005). "The GOES Time Code Service, 1974-2004: A Retrospective". Journal of Research of the National Institute of Standards and Technology. 110 (2): 79–96. doi:10.6028/jres.110.008. PMC 4847573. PMID 27308105.
+
+
+== References ==
+ This article incorporates public domain material from websites or documents of the National Aeronautics and Space Administration.
+
+
+== External links ==
+National Weather Service Satellite Images (current plus 3,6,12 and 24 hr loops)
+GOES Operations on NOAA website
+LM/SAIC/IBM partnership announced for GOES
+GOES gallery
+Introduction to satellite imagery
+Spherical panorama of GOES-O in the clean room
+Status of decommissioned GOES 8-12 satellites
+GOES terrestrial data
+GOES space weather data

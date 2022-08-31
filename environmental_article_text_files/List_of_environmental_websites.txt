@@ -1,0 +1,168 @@
+This list of environmental websites includes websites, blogs, podcasts and other web-based platforms associated with environmental issues.
+
+
+== General ==
+
+
+=== Blogs ===
+Chinadialogue— an independent, non-profit organisation dedicated to promoting a common understanding of China’s environmental challenges, based in London, Beijing, and San Francisco
+Delhi Greens—first environmental blog of India, at the forefront of Indian and global environmental movement. Award winning, UN endorsed project
+Dot Earth— environmental blog by Andrew Revkin at NYTimes.com
+Earther— environmental blog published by Gizmodo Media Group.
+HuffPost Green— section of the Huffington Post news website, content aggregator and blogs site
+Inhabitat— founded in 2004 by New York City designer and architecture graduate Jill Fehrenbacher—weblog about trends toward environmental sustainability
+TreeHugger— acquired by Discovery Communications on August 1, 2007—rated the top sustainability blog of 2007 by Nielsen Netratings
+
+
+=== Encyclopedias ===
+Encyclopedia of Earth (EoE)—a component of the Digital Universe project—about the Earth, its natural environments, and their interaction with society
+Encyclopedia of Life Support Systems (EOLSS)—sponsored by UNESCO—an interdisciplinary encyclopedia, inspired by the sustainable development movement
+
+
+=== Geographical information ===
+Geo-wiki—founded in 2009 by the project partners the International Institute for Applied Systems Analysis, University of Applied Sciences Wiener Neustadt and University of Freiburg—to help improve the quality of global land cover maps
+Global Change Master Directory—part of NASA's Earth Observing System Data and Information System (EOSDIS) and NASA's contribution to the Committee on Earth Observation Satellites (CEOS)—a directory of Earth Science data sets and related tools/services
+Global Earth Observation System of Systems (GEOSS)—being built by the Group on Earth Observations—to provide near-real-time environmental data, information and analyses
+Google Earth Engine—developed by Google, in partnership with Carnegie Mellon University and the United States Geological Survey—providing satellite images of environmental change
+GRASS GIS (Geographic Resources Analysis Support System)—whose development has involved a large number of federal US agencies, universities, and private companies—used in academic and commercial settings around the world, as well as many governmental agencies and many environmental consulting companies
+Gravity Recovery and Climate Experiment (GRACE)—using two satellites launched from Russia; overall mission managed by the Jet Propulsion Laboratory in California—to study climate and oceanography and geology
+Green Map—based in New York City—enabling local mapmakers to make environmentally themed maps
+OneGeology—launched on August 6, 2008, at the 33rd International Geological Congress (IGC) in Oslo, Norway—to enable online access to dynamic digital geological map of the world for everyone
+Semantic Sensor Web—using standardization efforts of the Open Geospatial Consortium (OGC) and Semantic Web Activity of the World Wide Web Consortium (W3C)—managing data about the global environment
+UNEP GEO Data Portal—the authoritative source for data sets used by the UNEP and its partners—covering themes like Freshwater, Population, Forests, Emissions, Climate, Disasters, Health and GDP
+
+
+=== News and analysis ===
+A\J: Alternatives Journal—based in Ontario, Canada, "Canada's Environmental Voice", website and bimonthly magazine
+Earth Negotiations Bulletin—published by the Reporting Services arm of the International Institute for Sustainable Development—covering negotiations, workshops and conferences on a variety of subjects in environmental policy and international law
+Ecology Law Currents—produced by students at the UC Berkeley School of Law—an online publication containing "short-form commentary and analysis on timely environmental law and policy issues"
+Environment and Energy Publishing—based in Washington, D.C.—covering environmental and energy policy and markets
+Environment News Service—environmental news agency and website—based in Lincoln City, Oregon
+Environmental Research Letters (ERL)—based in California—publishing peer-reviewed research across the whole of environmental science
+The Environmentalist—public interest news site covering politics, business, climate, history, lifestyle, world news, science, editorial, links and resources. Carried by major wire services (Reuters, USAToday, Sun-Times Group...).
+Environmentmagazine.org—hybrid, peer-reviewed magazine and website on "Science and Policy for Sustainable Development", based in Philadelphia
+Green Builder Media—based in Eastsound, Washington, publishes the North American monthly business-to-business sustainability and green construction magazine Green Builder Magazine.
+Green Matters—environmental news website based in New York City
+Grist—online, non-profit environmental magazine and blog(s)—based in Seattle, Washington—"A beacon in the smog"
+The Oil Drum—published by the Institute for the Study of Energy and Our Future—analysis and discussion of energy and its impact on society
+Our World 2.0—online magazine created by the United Nations University—based in Tokyo, Japan—focuses on climate change, peak oil, biodiversity and food security
+Sarawak Report—online investigative journalism news site focusing on deforestation and corruption in Sarawak, Malaysia
+Yahoo! Green—based in California—gathering news, ideas, and discussion
+
+
+=== Videos ===
+Green.TV—supported by UNEP—broadband TV channel for films about environmental issues
+How to Boil a Frog—managed by Jon Cooksey—a humor-oriented website with free short videos
+The Mother Nature Network—founded by Chuck Leavell and Joel Babbitt—eight channels: Earth Matters, Transportation, Business, Technology, Food, Home, Lifestyle, and Family
+
+
+=== Other ===
+BlueLink Information Network—based in Bulgaria—offering services (in Bulgarian and English) related to the environment
+Ecojesuit—published by the Global Ignatian Advocacy Network-Ecology (GIAN-Ecology) of the Society of Jesus in Brussels and Manila
+EnviroLink Network—based in Pittsburgh, Pennsylvania, USA—a clearinghouse for environmental information on the Internet, with chat rooms, bulletin boards, electronic mailing lists, and a worldwide forum
+Environment & Society Portal—the Rachel Carson Center's open-access digital archive and publication platform. It makes environmental humanities research accessible to academic communities and the interested public worldwide, reaching more than one million users. In addition to its peer-reviewed born-digital publications (Arcadia and Virtual Exhibitions) and the Rachel Carson Center's journal RCC Perspectives, the portal curates scholarly and popular materials in its Multimedia Library.
+GEOLibrary—materials posted from various governmental and non-profit institutions—occupational safety and health and environmental health information
+GLOBE Program—operated by the University Corporation for Atmospheric Research (UCAR) out of Boulder, Colorado—a worldwide, hands-on, primary and secondary school-based education and science program
+Greenlifestyle—originally a mailing list in June 2007—with an ongoing focus on the exchange of practical and cost-effective green living tips and information that can be applied in Indonesia
+MyEnvironment—built by the United States Environmental Protection Agency—providing information about local land, air and water
+National Environmental Information Exchange Network—managed by states, tribes, and the U.S. Environmental Protection Agency—exchanging environmental data
+National Institute for Environmental eScience (NIEeS)—was a collaboration between Natural Environment Research Council (NERC) and the University of Cambridge—promoting and supporting the use of e-Science and grid technologies within the field of environmental research (not updated since August 2008)
+Wiser.org—user-generated online community space for the social and environmental movement—maps and connects non-governmental organizations (NGOs), businesses, governments, and individuals addressing global issues
+
+
+== Topical ==
+
+
+=== Climate change ===
+Berkeley Earth Surface Temperature (BEST)—managed by a team of scientists—an effort to resolve criticism of the current records of the Earth's surface temperatures by preparing an open database and analysis of these temperatures and temperature trends
+Carbon Dioxide Information Analysis Center (CDIAC)—organization within the United States Department of Energy—providing global warming data and analysis as it pertains to energy issues
+Carbonfund.org—based in Silver Spring, Maryland—providing carbon offsetting and greenhouse gas reduction products to individuals, businesses, and organizations
+Climate Change TV—funded by companies, governments and organisations, and produced by the magazine Responding to Climate Change—the world's first web channel specific to climate change videos
+Climateprediction.net—maintained primarily by Oxford University in England—a distributed computing project
+CLIWOC (climatological database for the world's oceans)—funded by the European Union—drawing on British, Dutch, French and Spanish ships' logbook records for the immediate pre-instrumental period, 1750 to 1850
+CoolCalifornia.org—created by a team of California State agencies, universities and a nonprofit organization—a website for Californians with resources to help them reduce their impact on the environment and combat climate change
+DeSmogBlog—co-founded by Jim Hoggan, president of a public relations firm based in Vancouver, British Columbia, Canada—providing information about global warming
+Earth System Grid (ESG)—funded mainly by the United States Department of Energy—distributing data for the IPCC Fourth Assessment Report and the 2014 IPCC Fifth Assessment Report
+Global Atmosphere Watch (GAW)—established by the World Meteorological Organization—monitoring trends in the Earth's atmosphere
+Global Historical Climatology Network (GHCN)—managed by the National Climatic Data Center, Arizona State University and the Carbon Dioxide Information Analysis Center, a database of temperature, precipitation and pressure records
+How Global Warming Works—developed by Michael Ranney, a professor of cognitive psychology at the University of California, Berkeley—to educate the public on the mechanisms of global warming
+HURDAT—accessible from the website of the National Hurricane Center—database for all tropical cyclone's in the Atlantic Ocean, Gulf of Mexico and Caribbean Sea, since 1851
+InsideClimate News—based in Brooklyn, New York—online magazine that "covers clean energy, carbon energy, nuclear energy and environmental science"
+OneClimate—part of Internet portal uk.OneWorld.net—climate news, social activism and social networking site
+PRECIS (Providing Regional Climates for Impacts Studies)—required by the United Nations Framework Convention on Climate Change—enabling scientists from the around the globe to run a regional climate model towards carrying our research into climate change
+RealClimate—hosted by Environmental Media Services—a commentary site by working climate scientists
+Skeptical Science—created in 2007 by Australian blogger and author John Cook—publishing articles on current events relating to climate science and climate policy, and maintaining a large database of articles analyzing the merit of arguments commonly put forth by those who are skeptical of the mainstream scientific opinion on climate change
+TerraPass—based in San Francisco—a social enterprise that funds greenhouse gas reduction projects in the United States, and offers carbon offsets to individuals and businesses who wish to reduce their carbon footprints
+Watts Up With That?—created in 2006 by California meteorologist Anthony Watts—arguing for climate change denial
+
+
+=== Earthquakes ===
+Quake-Catcher Network—operated by Stanford University and UC Riverside—a distributed computing project using computer-based accelerometers to detect earthquakes
+
+
+=== Ecosystems ===
+ARKive—launched in the UK by Sir David Attenborough—a global initiative to locate and gather films, photographs and audio recordings of the world's species into one centralised digital library, for increased environmental awareness
+Biosafety Clearing-House—established by the Cartagena Protocol on Biosafety—to facilitate sharing of information on living modified organisms (also known as GMOs)
+Global Biodiversity Information Facility (GBIF)—whose Secretariat office is hosted by the University of Copenhagen—publishing data provided by many institutions from around the world
+Global Invasive Species Information Network (GISIN)—global network of organizations—for sharing information about invasive species
+
+
+=== Environmental art ===
+Greenmuseum.org—nonprofit online museum of environmental art, with a forum, a toolbox, and event listings
+
+
+=== Nuclear energy ===
+Alsos Digital Library for Nuclear Issues—part of the United States’ National Science Digital Library (NSDL)—a searchable collection of vetted annotations and bibliographic information for resources including books, articles, films, CD-ROMs, and websites pertaining to nuclear topics
+
+
+=== Oceanography ===
+Global Fishing Watch—initiated by Google in partnership with Oceana and Skytruth—a project to enable citizens to monitor fishing activities globally
+Global Oceanographic Data Archaeology and Rescue Project (GODAR Project)—initiated by the National Oceanographic Data Center (NODC) and the World Data Center system (WDC)—to provide oceanographic data to climate change and other researchers
+Global Temperature-Salinity Profile Program (GTSPP)—a cooperative international project—to develop and maintain a global ocean Temperature-Salinity resource
+World Ocean Database Project (WOD)—established by the World Data Center system (WDC) and the U.S. government's National Oceanographic Data Center (NODC)—intended to centrally store oceanographic data
+
+
+=== Public relations ===
+PR Watch—project of the Center for Media and Democracy—having a stated mission to expose deceptive and misleading public relations campaigns, especially about US environmental issues
+
+
+=== Radiation ===
+Globe at Night—initially a NASA educational program—crowdsourcing measurements of light pollution in the night sky
+Microwave News—independent and not aligned with any industry or government agency—reporting on the health and environmental impacts of electromagnetic fields (EMFs) and other types of non-ionizing radiation
+
+
+=== Renewable energy ===
+Clean Energy Project—by the Department of Chemistry and Chemical Biology at Harvard University—a distributed computing project researching organic compounds for solar cells, polymeric membranes for fuel cells, and molecule assembly
+Global Energy Network Institute (GENI)—non-profit research and education organization—with focus on the interconnection of electric power transmission networks between nations and continents, emphasizing tapping abundant renewable energy resources
+Wind ENergy Data & Information (WENDI) Gateway—launched by the Environmental Sciences Division of Oak Ridge National Laboratory—providing access to wind energy-related data and information from a wide spectrum of sources
+
+
+=== Resource management ===
+Downsizer—set up in October 2004 by the founder members—"a resource for people who want to live more sustainably"
+
+
+=== Sustainability ===
+Worldchanging (2003-2011)—was an online magazine about sustainability and social innovation
+
+
+=== Toxicology ===
+EcoCyc—bioinformatics database for the bacterium Escherichia coli K-12
+Registry of Toxic Effects of Chemical Substances (RTECS)—until 2001 maintained by US National Institute for Occupational Safety and Health (NIOSH)—database of toxicity information
+
+
+== See also ==
+.eco
+List of biodiversity databases
+List of environmental books
+List of environmental law reviews and journals
+List of environmental periodicals
+List of environmental reports
+Lists of environmental publications
+Lists of websites
+
+
+== References ==
+
+
+== External links ==
+eScholarship: Environmental Information Sources: Websites and Books

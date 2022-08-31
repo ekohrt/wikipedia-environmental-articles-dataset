@@ -1,0 +1,31 @@
+Water heat recycling (also known as drain water heat recovery, waste water heat recovery, greywater heat recovery, or sometimes shower water heat recovery) is the use of a heat exchanger to recover energy and reuse heat from drain water from various activities such as dish-washing, clothes washing and especially showers.  The technology is used to reduce primary energy consumption for water heating.
+
+
+== How it works ==
+
+The cold water that is put into a water heating device can be preheated using the reclaimed thermal energy from a shower so that the input water does not need as much energy to be heated before being used in a shower, dishwasher, or sink. The water entering a storage tank is usually close to 11 °C but by recovering the energy in the hot water from a bath or dishwasher, the temperature of the water entering the holding tank can be elevated to 25 °C, saving energy required to increase the temperature of a given amount of water by 14 °C. This water is then heated up a little further to 37 °C before leaving the tank and going to the average shower.When recycling water from a bath (100-150 litres) or shower (50-80 litres) the waste water temperature is circa 20-25 °C. An in-house greywater recycling tank holds 150-175 litres allowing for the majority of waste water to be stored. Utilizing a built in copper heat exchange with circulation pump the residual heat is recovered and transferred to the cold feed of a combi-boiler or hot-water cylinder, reducing the energy used by the existing central heating system to heat water.
+
+
+== Impact and cost ==
+Heating water accounts for 18% of the average household utility bill. Standard units save up to 60% of the heat energy that is otherwise lost down the drain when using the shower.Installing a water heat recycler reduces energy consumption and thus greenhouse gas emissions and the overall energy dependency of the household.
+Typical retail price for a domestic drain water heat recovery unit ranges from around $400 to $1,000 Canadian. For a regular household, water heating is usually the second highest source of energy demand.  The energy savings results in an average payback time for the initial investment of 2–10 years according to Natural Resources Canada, Canadian Center for Housing Technology and US DOE.A 2-year independent study of waste water heat recovery systems installed into residential houses in the UK found savings of 380kWh and 500kWh per person per year.
+
+
+== Industrial scale and HVAC ==
+A heat pump can be combined with municipal sewage lines to allow a large building's HVAC system recycle the winter heat or summer cool (compared to the outside air) of water flowing out of many homes and businesses.The reverse is also possible: heat from air conditioning and industrial chillers can be used to pre-heat water.
+Heat rejected by a chiller system for providing air-conditioning to larger buildings can be recovered by installing a heat-exchanger between the incoming domestic cold water, and condenser water return. 
+A conventional chilled water system rejects heat gathered by the condenser water loop from the refrigerant to a cooling tower. 
+By diverting a fraction of mass flow rate of condenser water away from the cooling tower, and circulating it through a heat-exchanger (usually a plate-and-frame configuration), incoming domestic cold water can be pre-heated before reaching the boiler. This reduces the required increase in temperature of the water before it can be supplied to the end user, and therefore lowering boiler fuel burn.
+
+
+== See also ==
+
+Heat recovery ventilation
+Green building
+Renewable heat
+Zero energy building
+Low-energy building
+Pinch analysis
+
+
+== References ==

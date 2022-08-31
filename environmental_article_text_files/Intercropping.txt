@@ -1,0 +1,64 @@
+Intercropping is a multiple cropping practice that involves growing two or more crops in proximity. In other words, intercropping is the cultivation of two or more crops simultaneously on the same field. The most common goal of intercropping is to produce a greater yield on a given piece of land by making use of resources or ecological processes that would otherwise not be utilized by a single crop.
+
+
+== Methods ==
+The degree of spatial and temporal overlap in the two crops can vary somewhat, but both requirements must be met for a cropping system to be an intercrop. Numerous types of intercropping, all of which vary the temporal and spatial mixture to some degree, have been identified. These are some of the more significant types:
+
+Mixed intercropping, as the name implies, is the most basic form in which the component crops are totally mixed in the available space.
+Row cropping involves the component crops arranged in alternate rows. Variations include alley cropping, where crops are grown in between rows of trees, and strip cropping, where multiple rows, or a strip, of one crop are alternated with multiple rows of another crop. A new version of this is to intercrop rows of solar photovoltaic modules with agriculture crops. This practice is called agrivoltaics.
+Temporal intercropping uses the practice of sowing a fast-growing crop with a slow-growing crop, so that the fast-growing crop is harvested before the slow-growing crop starts to mature.
+Further temporal separation is found in relay cropping, where the second crop is sown during the growth, often near the onset of reproductive development or fruiting, of the first crop, so that the first crop is harvested to make room for the full development of the second.Crop rotation is related, but is not intercropping, as the different types of crops are grown in a sequence of growing seasons rather than in a single season.
+
+
+== Potential benefits ==
+
+
+=== Resource partitioning ===
+
+Careful planning is required, taking into account the soil, climate, crops, and varieties. It is particularly important not to have crops competing with each other for physical space, nutrients, water, or sunlight. Examples of intercropping strategies are planting a deep-rooted crop with a shallow-rooted crop, or planting a tall crop with a shorter crop that requires partial shade. Inga alley cropping has been proposed as an alternative to the ecological destruction of slash-and-burn farming.When crops are carefully selected, other agronomic benefits are also achieved.
+
+
+=== Mutualism ===
+Planting two crops in close proximity can especially be beneficial when the two plants interact in a way that increases one or both of the plant's fitness (and therefore yield). For example, plants that are prone to tip over in wind or heavy rain (lodging-prone plants), may be given structural support by their companion crop. Climbing plants such as black pepper can also benefit from structural support. Some plants are used to suppress weeds or provide nutrients. Delicate or light-sensitive plants may be given shade or protection, or otherwise wasted space can be utilized. An example is the tropical multi-tier system where coconut occupies the upper tier, banana the middle tier, and pineapple, ginger, or leguminous fodder, medicinal or aromatic plants occupy the lowest tier.
+Intercropping of compatible plants can also encourage biodiversity, McDaniel et al. 2014 and Lori et al. 2017 finding a legume intercrop to increase soil diversity, or by providing a habitat for a variety of insects and soil organisms that would not be present in a single-crop environment. These organisms may provide crops valuable nutrients, such as through nitrogen fixation.
+
+
+=== Pest management ===
+
+There are several ways in which increasing crop diversity may help improve pest management. For example, such practices may limit outbreaks of crop pests by increasing predator biodiversity. Additionally, reducing the homogeneity of the crop can potentially increase the barriers against biological dispersal of pest organisms through the crop.
+There are several ways pests can be controlled through intercropping:
+
+Trap cropping, this involves planting a crop nearby that is more attractive for pests compared to the production crop, the pests will target this crop and not the production crop.
+Repellant intercrops, an intercrop that has a repellent effect to certain pests can be used. This system involved the repellant crop masking the smell of the production crop in order to keep pests away from it.
+Push-pull cropping, this is a mixture of trap cropping and repellant intercropping. An attractant crop attracts the pest and a repellant crop is also used to repel the pest away.
+
+
+==== Limitations ====
+Intercropping to reduce pest damage in agriculture, has been deployed with varying success. For example, while many trap crops have successfully diverted pests off of focal crops in small-scale greenhouse, garden and field experiments, only a small portion of these plants have been shown to reduce pest damage at larger commercial scales. Furthermore, increasing crop diversity through intercropping does not necessarily increase the presence of the predators of crop pests. In a systematic review of the literature, in 2008, in the studies examined, predators of pests tended to increase under crop diversification strategies in only 53 percent of studies, and crop diversification only led to increased yield in only 32% of the studies. A common explanation for reported trap cropping failures, is that attractive trap plants only protect nearby plants if the insects do not move back into the main crop.  In a review of 100 trap cropping examples in 2006, only 10 trap crops were classified as successful at a commercial scale,  and in all successful cases, trap cropping was supplemented with management practices that specifically limited insect dispersal from the trap crop back into the main crop.
+
+
+== Gallery ==
+
+		
+		
+
+
+== See also ==
+
+Agrivoltaics
+Companion planting
+Crop rotation
+Ecological sanitation
+Food-feed system
+Monoculture
+Organic farming
+Permaculture
+Sustainable agriculture
+Three Sisters (agriculture)
+
+
+== References ==
+
+
+== External links ==
+Intercropping at Washington State University

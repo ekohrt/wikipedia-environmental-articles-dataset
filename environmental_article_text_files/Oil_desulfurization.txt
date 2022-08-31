@@ -1,0 +1,551 @@
+Hydrodesulfurization (HDS) is a catalytic chemical process widely used to remove sulfur (S) from natural gas and from refined petroleum products, such as gasoline or petrol, jet fuel, kerosene, diesel fuel, and fuel oils. The purpose of removing the sulfur, and creating products such as ultra-low-sulfur diesel, is to reduce the sulfur dioxide (SO2) emissions that result from using those fuels in automotive vehicles, aircraft, railroad locomotives, ships, gas or oil burning power plants, residential and industrial furnaces, and other forms of fuel combustion.
+Another important reason for removing sulfur from the naphtha streams within a petroleum refinery is that sulfur, even in extremely low concentrations, poisons the noble metal catalysts (platinum and rhenium) in the catalytic reforming units that are subsequently used to upgrade the octane rating of the naphtha streams.
+The industrial hydrodesulfurization processes include facilities for the capture and removal of the resulting hydrogen sulfide (H2S) gas. In petroleum refineries, the hydrogen sulfide gas is then subsequently converted into byproduct elemental sulfur or sulfuric acid (H2SO4). In fact, the vast majority of the 64,000,000 metric tons of sulfur produced worldwide in 2005 was byproduct sulfur from refineries and other hydrocarbon processing plants.An HDS unit in the petroleum refining industry is also often referred to as a hydrotreater.
+
+
+== History ==
+Although some reactions involving catalytic hydrogenation of organic substances were already known, the property of finely divided nickel to catalyze the fixation of hydrogen on hydrocarbon (ethylene, benzene) double bonds was discovered by the French chemist Paul Sabatier in 1897. 
+Through this work, he found that unsaturated hydrocarbons in the vapor phase could be converted into saturated hydrocarbons by using hydrogen and a catalytic metal, laying the foundation of the modern catalytic hydrogenation process.
+Soon after Sabatier's work, a German chemist, Wilhelm Normann, found that catalytic hydrogenation could be used to convert unsaturated fatty acids or glycerides in the liquid phase into saturated ones. He was awarded a patent in Germany in 1902 and in Britain in 1903, which was the beginning of what is now a worldwide industry.
+In the mid-1950s, the first noble metal catalytic reforming process (the Platformer process) was commercialized. At the same time, the catalytic hydrodesulfurization of the naphtha feed to such reformers was also commercialized. In the decades that followed, various proprietary catalytic hydrodesulfurization processes, such as the one depicted in the flow diagram below, have been commercialized. Currently, virtually all of the petroleum refineries worldwide have one or more HDS units.
+By 2006, miniature microfluidic HDS units had been implemented for treating JP-8 jet fuel to produce clean feed stock for a fuel cell hydrogen reformer.  By 2007, this had been integrated into an operating 5 kW fuel cell generation system.
+
+
+== Process chemistry ==
+Hydrogenation is a class of chemical reactions in which the net result is the addition of hydrogen (H). Hydrogenolysis is a type of hydrogenation and results in the cleavage of the C-X chemical bond, where C is a carbon atom and X is a sulfur (S), nitrogen (N) or oxygen (O) atom. The net result of a hydrogenolysis reaction is the formation of C-H and H-X chemical bonds. Thus, hydrodesulfurization is a hydrogenolysis reaction. Using ethanethiol (C2H5SH), a sulfur compound present in some petroleum products, as an example, the hydrodesulfurization reaction can be simply expressed as 
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  C
+                  
+                    2
+                  
+                  
+                    
+                  
+                
+                
+                  H
+                  
+                    5
+                  
+                  
+                    
+                  
+                
+                SH
+              
+              Ethanethiol
+            
+          
+          +
+          
+            
+              
+                H
+                
+                  2
+                
+                
+                  
+                
+              
+              Hydrogen
+            
+          
+          ⟶
+          
+            
+              
+                
+                  C
+                  
+                    2
+                  
+                  
+                    
+                  
+                
+                
+                  H
+                  
+                    6
+                  
+                  
+                    
+                  
+                
+              
+              Ethane
+            
+          
+          +
+          
+            
+              
+                
+                  H
+                  
+                    2
+                  
+                  
+                    
+                  
+                
+                S
+              
+              
+                Hydrogen
+                 
+                sulfide
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {{\overset {Ethanethiol}{C2H5SH}}+{\overset {Hydrogen}{H2}}->{\overset {Ethane}{C2H6}}+{\overset {Hydrogen\ sulfide}{H2S}}}}}
+  For the mechanistic aspects of, and the catalysts used in this reaction see the section catalysts and mechanisms.
+
+
+== Process description ==
+In an industrial hydrodesulfurization unit, such as in a refinery, the hydrodesulfurization reaction takes place in a fixed-bed reactor at elevated temperatures ranging from 300 to 400 °C and elevated pressures ranging from 30 to 130 atmospheres of absolute pressure, typically in the presence of a catalyst consisting of an alumina base impregnated with cobalt and molybdenum (usually called a CoMo catalyst).  Occasionally, a combination of nickel and molybdenum (called NiMo) is used, in addition to the CoMo catalyst, for specific difficult-to-treat feed stocks, such as those containing a high level of chemically bound nitrogen.
+The image below is a schematic depiction of the equipment and the process flow streams in a typical refinery HDS unit.
+
+The liquid feed (at the bottom left in the diagram) is pumped up to the required elevated pressure and is joined by a stream of hydrogen-rich recycle gas. The resulting liquid-gas mixture is preheated by flowing through a heat exchanger. The preheated feed then flows through a fired heater where the feed mixture is totally vaporized and heated to the required elevated temperature before entering the reactor and flowing through a fixed-bed of catalyst where the hydrodesulfurization reaction takes place.
+The hot reaction products are partially cooled by flowing through the heat exchanger where the reactor feed was preheated and then flows through a water-cooled heat exchanger before it flows through the pressure controller (PC) and undergoes a pressure reduction down to about 3 to 5 atmospheres.  The resulting mixture of liquid and gas enters the gas separator vessel at about 35 °C and 3 to 5 atmospheres of absolute pressure.
+Most of the hydrogen-rich gas from the gas separator vessel is recycle gas, which is routed through an amine contactor for removal of the reaction product H2S that it contains. The H2S-free hydrogen-rich gas is then recycled back for reuse in the reactor section. Any excess gas from the gas separator vessel joins the sour gas from the stripping of the reaction product liquid.
+The liquid from the gas separator vessel is routed through a reboiled stripper distillation tower.  The bottoms product from the stripper is the final desulfurized liquid product from hydrodesulfurization unit.
+The overhead sour gas from the stripper contains hydrogen, methane, ethane, hydrogen sulfide, propane, and, perhaps, some butane and heavier components. That sour gas is sent to the refinery's central gas processing plant for removal of the hydrogen sulfide in the refinery's main amine gas treating unit and through a series of distillation towers for recovery of propane, butane and pentane or heavier components. The residual hydrogen, methane, ethane, and some propane is used as refinery fuel gas. The hydrogen sulfide removed and recovered by the amine gas treating unit is subsequently converted to elemental sulfur in a Claus process unit or to sulfuric acid in a wet sulfuric acid process or in the conventional Contact Process.
+Note that the above description assumes that the HDS unit feed contains no olefins.  If the feed does contain olefins (for example, the feed is a naphtha derived from a refinery fluid catalytic cracker (FCC) unit), then the overhead gas from the HDS stripper may also contain some ethene, propene, butenes and pentenes, or heavier components.
+The amine solution to and from the recycle gas contactor comes from and is returned to the refinery's main amine gas treating unit.
+
+
+== Sulfur compounds in refinery HDS feedstocks ==
+The refinery HDS feedstocks (naphtha, kerosene, diesel oil, and heavier oils) contain a wide range of organic sulfur compounds, including thiols, thiophenes, organic sulfides and disulfides, and many others. These organic sulfur compounds are products of the degradation of sulfur containing biological components, present during the natural formation of the fossil fuel, petroleum crude oil.
+When the HDS process is used to desulfurize a refinery naphtha, it is necessary to remove the total sulfur down to the parts per million range or lower in order to prevent poisoning the noble metal catalysts in the subsequent catalytic reforming of the naphthas.
+When the process is used for desulfurizing diesel oils, the latest environmental regulations in the United States and Europe, requiring  what is referred to as ultra-low-sulfur diesel (ULSD), in turn requires that very deep hydrodesulfurization is needed. In the very early 2000s, the governmental regulatory limits for highway vehicle diesel was within the range of 300 to 500 ppm by weight of total sulfur. As of 2006, the total sulfur limit for highway diesel is in the range of 15 to 30 ppm by weight.
+
+
+=== Thiophenes ===
+A family of substrates that are particularly common in petroleum are the aromatic sulfur-containing heterocycles called thiophenes.  Many kinds of thiophenes occur in petroleum ranging from thiophene itself to more condensed derivatives called benzothiophenes and dibenzothiophenes.  Thiophene itself and its alkyl derivatives are easier to hydrogenolyse, whereas dibenzothiophene, especially its 4,6-disubstituted derivatives, are considered the most challenging substrates.  Benzothiophenes are midway between the simple thiophenes and dibenzothiophenes in their susceptibility to HDS.
+
+
+== Catalysts and mechanisms ==
+The main HDS catalysts are based on molybdenum disulfide (MoS2) together with smaller amounts of other metals.  The nature of the sites of catalytic activity remains an active area of investigation, but it is generally assumed basal planes of the MoS2 structure are not relevant to catalysis, rather the edges or rims of these sheet.  At the edges of the MoS2 crystallites, the molybdenum centre can stabilize a coordinatively unsaturated site (CUS), also known as an anion vacancy.  Substrates, such as thiophene, bind to this site and undergo a series of reactions that result in both C-S scission and C=C hydrogenation.  Thus, the hydrogen serves multiple roles—generation of anion vacancy by removal of sulfide, hydrogenation, and hydrogenolysis.  A simplified diagram for the cycle is shown:
+
+
+=== Catalysts ===
+Most metals catalyse HDS, but it is those at the middle of the transition metal series that are most active.  Although not practical, ruthenium disulfide appears to be the single most active catalyst, but binary combinations of cobalt and molybdenum are also highly active.  Aside from the basic cobalt-modified MoS2 catalyst, nickel and tungsten are also used, depending on the nature of the feed.  For example, Ni-W catalysts are more effective for hydrodenitrogenation.
+
+
+=== Supports ===
+Metal sulfides are supported on materials with high surface areas.  A typical support for HDS catalyst is γ-alumina.  The support allows the more expensive catalyst to be more widely distributed, giving rise to a larger fraction of the MoS2 that is catalytically active.  The interaction between the support and the catalyst is an area of intense interest, since the support is often not fully inert but participates in the catalysis.
+
+
+== Other uses ==
+The basic hydrogenolysis reaction has a number of uses other than hydrodesulfurization.
+
+
+=== Hydrodenitrogenation ===
+The hydrogenolysis reaction is also used to reduce the nitrogen content of a petroleum stream in a process referred to as hydrodenitrogenation (HDN). The process flow is the same as that for an HDS unit.
+Using pyridine (C5H5N), a nitrogen compound present in some petroleum fractionation products, as an example, the hydrodenitrogenation reaction has been postulated as occurring in three steps:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  C
+                  
+                    5
+                  
+                  
+                    
+                  
+                
+                
+                  H
+                  
+                    5
+                  
+                  
+                    
+                  
+                
+                N
+              
+              Pyridine
+            
+          
+          +
+          
+            
+              
+                5
+                
+                
+                  H
+                  
+                    2
+                  
+                  
+                    
+                  
+                
+              
+              Hydrogen
+            
+          
+          ⟶
+          
+            
+              
+                
+                  C
+                  
+                    5
+                  
+                  
+                    
+                  
+                
+                
+                  H
+                  
+                    11
+                  
+                  
+                    
+                  
+                
+                N
+              
+              Piperdine
+            
+          
+          +
+          
+            
+              
+                2
+                
+                
+                  H
+                  
+                    2
+                  
+                  
+                    
+                  
+                
+              
+              Hydrogen
+            
+          
+          ⟶
+          
+            
+              
+                
+                  C
+                  
+                    5
+                  
+                  
+                    
+                  
+                
+                
+                  H
+                  
+                    11
+                  
+                  
+                    
+                  
+                
+                
+                  NH
+                  
+                    2
+                  
+                  
+                    
+                  
+                
+              
+              Amylamine
+            
+          
+          +
+          
+            
+              
+                H
+                
+                  2
+                
+                
+                  
+                
+              
+              Hydrogen
+            
+          
+          ⟶
+          
+            
+              
+                
+                  C
+                  
+                    5
+                  
+                  
+                    
+                  
+                
+                
+                  H
+                  
+                    12
+                  
+                  
+                    
+                  
+                
+              
+              Pentane
+            
+          
+          +
+          
+            
+              
+                NH
+                
+                  3
+                
+                
+                  
+                
+              
+              Ammonia
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {{\overset {Pyridine}{C5H5N}}+ {\overset {Hydrogen}{5H2}}-> {\overset {Piperdine}{C5H11N}}+ {\overset {Hydrogen}{2H2}}-> {\overset {Amylamine}{C5H11NH2}}+ {\overset {Hydrogen}{H2}}-> {\overset {Pentane}{C5H12}}+ {\overset {Ammonia}{NH3}}}}}
+  and the overall reaction may be simply expressed as:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  C
+                  
+                    5
+                  
+                  
+                    
+                  
+                
+                
+                  H
+                  
+                    5
+                  
+                  
+                    
+                  
+                
+                N
+              
+              Pyridine
+            
+          
+          +
+          
+            
+              
+                5
+                
+                
+                  H
+                  
+                    2
+                  
+                  
+                    
+                  
+                
+              
+              Hydrogen
+            
+          
+          ⟶
+          
+            
+              
+                
+                  C
+                  
+                    5
+                  
+                  
+                    
+                  
+                
+                
+                  H
+                  
+                    12
+                  
+                  
+                    
+                  
+                
+              
+              Pentane
+            
+          
+          +
+          
+            
+              
+                NH
+                
+                  3
+                
+                
+                  
+                
+              
+              Ammonia
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {{\overset {Pyridine}{C5H5N}}+ {\overset {Hydrogen}{5H2}}-> {\overset {Pentane}{C5H12}}+ {\overset {Ammonia}{NH3}}}}}
+  Many HDS units for desulfurizing naphthas within petroleum refineries are actually simultaneously denitrogenating to some extent as well.
+
+
+=== Saturation of olefins ===
+The hydrogenolysis reaction may also be used to saturate or convert olefins (alkenes) into paraffins (alkanes).  The process used is the same as for an HDS unit.
+As an example, the saturation of the olefin pentene can be simply expressed as:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  C
+                  
+                    5
+                  
+                  
+                    
+                  
+                
+                
+                  H
+                  
+                    10
+                  
+                  
+                    
+                  
+                
+              
+              Pentene
+            
+          
+          +
+          
+            
+              
+                H
+                
+                  2
+                
+                
+                  
+                
+              
+              Hydrogen
+            
+          
+          ⟶
+          
+            
+              
+                
+                  C
+                  
+                    5
+                  
+                  
+                    
+                  
+                
+                
+                  H
+                  
+                    12
+                  
+                  
+                    
+                  
+                
+              
+              Pentane
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {{\overset {Pentene}{C5H10}}+ {\overset {Hydrogen}{H2}}-> {\overset {Pentane}{C5H12}}}}}
+  Some hydrogenolysis units within a petroleum refinery or a petrochemical plant may be used solely for the saturation of olefins or they may be used for simultaneously desulfurizing as well as denitrogenating and saturating olefins to some extent.
+
+
+=== Hydrogenation in the food industry ===
+
+The food industry uses hydrogenation to completely or partially saturate the unsaturated fatty acids in liquid vegetable fats and oils to convert them into solid or semi-solid fats, such as those in margarine and shortening.
+
+
+== See also ==
+Claus process
+Hydrogen pinch
+Timeline of hydrogen technologies
+
+
+== References ==
+
+
+== External links ==
+Criterion Catalysts (Hydroprocessing Catalyst Supplier)
+Haldor Topsoe (Catalyzing Your Business)
+Albemarle Catalyst Company (Petrochemical catalysts supplier)
+UOP-Honeywell (Engineering design and construction of large-scale, industrial HDS plants)
+Hydrogenation for Low Trans and High Conjugated Fatty Acids by E.S. Jang, M.Y. Jung, D.B. Min, Comprehensive Reviews in Food Science and Food Safety, Vol.1, 2005
+Oxo Alcohols  (Engineered and constructed by Aker Kvaerner)
+Catalysts and technology for Oxo-Alcohols

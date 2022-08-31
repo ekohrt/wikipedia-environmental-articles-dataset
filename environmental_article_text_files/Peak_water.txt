@@ -1,0 +1,162 @@
+Peak water is a concept that underlines the growing constraints on the availability, quality, and use of freshwater resources.
+Peak water was defined in a 2010 peer-reviewed article in the Proceedings of the National Academy of Sciences by Peter Gleick and Meena Palaniappan. They distinguish between peak renewable, peak non-renewable, and peak ecological water in order to demonstrate the fact that although there is a vast amount of water on the planet, sustainably managed water is becoming scarce.Lester R. Brown, president of the Earth Policy Institute, wrote in 2013 that although there was extensive literature on peak oil, it was peak water that is "the real threat to our future". An assessment was published in August 2011 in the Stockholm International Water Institute's journal. Much of the world's water in underground aquifers and in lakes can be depleted and thus resembles a finite resource. The phrase peak water sparks debates similar to those about peak oil. In 2010, New York Times chose "peak water" as one of its 33 "Words of the Year".There are concerns about impending peak water in several areas around the world:
+
+Peak renewable water, where entire renewable flows are being consumed for human use
+Peak non-renewable water, where groundwater aquifers are being overpumped (or contaminated) faster than nature recharges them (this example is most like the peak oil debate)
+Peak ecological water, where ecological and environmental constraints are overwhelming the economic benefits provided by water useIf present trends continue, 1.8 billion people will be living with absolute water scarcity by 2025, and two-thirds of the world could be subject to water stress. Ultimately, peak water is not about running out of freshwater, but about reaching physical, economic, and environmental limits on meeting human demands for water and the subsequent decline of water availability and use.
+
+
+== Comparison with peak oil ==
+
+The Hubbert curve has become popular in the scientific community for predicting the depletion of various natural resources. M. King Hubbert created this measurement device in 1956 for a variety of finite resources such as coal, oil, natural gas and uranium. Hubbert's curve was not applied to resources such as water originally, since water is a renewable resource. Some forms of water, however, such as fossil water, exhibit similar characteristics to oil, and overpumping (faster than the rate of natural recharge of groundwater) can theoretically result in a Hubbert-type peak. A modified Hubbert curve applies to any resource that can be harvested faster than it can be replaced. Like peak oil, peak water is inevitable given the rate of extraction of certain water systems. A current argument is that growing populations and demands for water will inevitably lead to non-renewable use of water resources.
+
+
+== Water supply ==
+
+Fresh water is a renewable resource, yet the world's supply of clean, fresh water is under increasing demand for human activities. The world has an estimated 1.34 billion cubic kilometers of water, but 96.5% of it is salty. Almost 70% of fresh water can be found in the ice caps of Antarctica and Greenland. Less than 1% of this water on Earth is accessible to humans, the rest is contained in soil moisture or deep underground. Accessible freshwater is located in lakes, rivers, reservoirs and shallow underground sources. Rainwater and snowfall do very little to replenish many underground sources.
+The amount of available freshwater supply in some regions is decreasing because of (i) climate change, which has caused receding glaciers, reduced stream and river flow, and shrinking lakes; (ii) contamination of water by human and industrial wastes; and (iii) overuse of non-renewable groundwater aquifers. Many aquifers have been over-pumped and are not recharging quickly. Although the total freshwater supply is not used up, much has become polluted, salted, unsuitable or otherwise unavailable for drinking, industry, and agriculture.
+
+
+== Water demand ==
+Water demand already exceeds supply in many parts of the world, and as the world population continues to rise, many more areas are expected to experience this imbalance in the near future.
+Agriculture represents 70% of freshwater use worldwide.Agriculture, industrialization and urbanization all serve to increase water consumption.
+
+
+== Freshwater withdrawal by country ==
+The largest total use of water comes from India, China and the United States, countries with large populations, extensive agricultural irrigation, and demand for food. See the following table:
+
+
+=== India ===
+
+India has 20 percent of the Earth's population, but only four percent of its water. Water tables are dropping rapidly in some of India's main agricultural areas.
+India has the largest water withdrawal out of all the countries in the world. Eighty-six percent of that water supports agriculture. That heavy use is dictated in large part by what people eat. People in India consume a lot of rice. Rice farmers in India typically get less than half the yield per unit area while using ten times more water than their Chinese counterparts. Economic development can make things worse because as people's living standards rise, they tend to eat more meat, which requires much water to produce. Growing a tonne of grain requires 1,000 tonnes of water; producing a tonne of beef requires 15,000 tonnes. To make a single hamburger requires around 4,940 liters (1,300 gallons) of water. To produce a glass of orange juice requires 850 liters (225 gallons) of freshwater.
+
+
+=== China ===
+
+China, the world's most populous country, has the second largest water withdrawal; 68% supports agriculture while its growing industrial base consumes 26%. China is facing a water crisis where water resources are overallocated, used inefficiently, and severely polluted by human and industrial wastes. One-third of China's population lacks access to safe drinking water. Rivers and lakes are dead and dying, groundwater aquifers are over-pumped, uncounted species of aquatic life have been driven to extinction, and direct adverse impacts on both human and ecosystem health are widespread and growing.
+In western China's Qinghai province, through which the Yellow River’s main stream flows, more than 2,000 lakes have disappeared over the last 20 years. There were once 4,077 lakes. Global climate change is responsible for the reduction in flow of the (Huang He) Yellow River over the past several decades. The source of the Yellow River is the Qinghai-Xizang Tibetan Plateau where the glaciers are receding sharply.In Hebei Province, which surrounds Beijing, the situation is much worse. Hebei is one of China's major wheat and corn growing provinces. The water tables have been falling fast throughout Hebei. The region has lost 969 of its 1,052 lakes. About 500,000 people are affected by a shortage of drinking water due to continuing droughts. Hydro-power generation is also impacted. Beijing and Tianjin depend on Hebei Province to supply their water from the Yangtze River. Beijing gets its water via the newly constructed South-North Water Transfer Project. The river originates in a glacier on the eastern part of the Tibetan Plateau.
+
+
+=== United States ===
+
+The United States has about 5% of the world's population, yet it uses almost as much water as India (~1/5 of world) or China (1/5 of world) because substantial amounts of water are used to grow food exported to the rest of the world. The United States agricultural sector consumes more water than the industrial sector, though substantial quantities of water are withdrawn (but not consumed) for power plant cooling systems. 40 out of 50 state water managers expect some degree of water stress in their state in the next 10 years.The Ogallala Aquifer in the southern high plains (Texas and New Mexico) is being mined at a rate that far exceeds replenishment—a classic example of peak non-renewable water. Portions of the aquifer will not naturally recharge due to layers of clay between the surface and the water-bearing formation, and because rainfall rates simply do not match rates of extraction for irrigation. The term fossil water is sometimes used to describe water in aquifers that was stored over centuries to millennia. Use of this water is not sustainable when the recharge rate is slower than the rate of groundwater extraction.
+In California, large amounts of groundwater are also being withdrawn from Central Valley groundwater aquifers. California's Central Valley is home to one-sixth of all irrigated land in the United States, and the state leads the nation in agricultural production and exports. The inability to sustain groundwater withdrawals over time may lead to adverse impacts on the region's agricultural productivity.
+The Central Arizona Project (CAP) is a 336-mile (541 km) long canal that diverts 489 billion US gallons (1.85×109 m3) a year from the Colorado River to irrigate more than 300,000 acres (1,200 km2) of farmland. The CAP project also provides drinking water for Phoenix and Tucson. It has been estimated that Lake Mead, which dams the Colorado, has a 50-50 chance of running dry by 2021.The Ipswich River near Boston now runs dry in some years due to heavy pumping of groundwater for irrigation. Maryland, Virginia and the District of Columbia have been fighting over the Potomac River. In drought years like 1999 or 2003, and on hot summer days the region consumes up to 85 percent of the river's flow.
+
+
+== Per capita withdrawal of water ==
+
+Turkmenistan, Australia and Guyana use the most water per capita. See the table below:
+
+
+=== Turkmenistan ===
+
+Turkmenistan gets most of its water from the Amu Darya River. The Qaraqum Canal is a canal system that takes water from the Amu Darya River and distributes the water out over the desert for irrigation of its orchard crops and cotton. Turkmenistan uses the most water per capita in the world because only 55% of the water delivered to the fields actually reaches the crops.
+
+
+=== Kazakhstan and Uzbekistan ===
+The two rivers feeding the Aral Sea were dammed up and the water was diverted to irrigate the desert so that cotton could be produced. As a result, the Aral Sea's water has become much saltier and the sea's water level has decreased by over 60%. Drinking water is now contaminated with pesticides and other agricultural chemicals and contains bacteria and viruses. The climate has become more extreme in the area surrounding it.
+
+
+== Water shortfall by country ==
+Saudi Arabia, Libya, Yemen and United Arab Emirates have hit peaks in water production and are depleting their water supply. See the table below:
+
+
+=== Saudi Arabia ===
+
+According to Walid A. Abderrahman (2001), "Water Demand Management in Saudi Arabia", Saudi Arabia reached peak water in the early 1990s, at more than 30 billion cubic meters per year, and declined afterward. The peak had arrived at about midpoint, as expected for a Hubbert curve. Today, the water production is about half the peak rate. Saudi Arabian food production has been based on "fossil water"—water from ancient aquifers that is being recharged very slowly, if at all. Like oil, fossil water is non-renewable, and it is bound to run out someday. Saudi Arabia has abandoned its self-sufficient food production and is now importing virtually all of its food. Saudi Arabia has built desalination plants to provide about half the country's freshwater. The remainder comes from groundwater (40%), surface water (9%) and reclaimed wastewater (1%).
+
+
+=== Libya ===
+
+Libya is working on a network of water pipelines to import water, called the Great Manmade River. It carries water from wells tapping fossil water in the Sahara desert to the cities of Tripoli, Benghazi, Sirte and others. Their water also comes from desalination plants.
+
+
+=== Yemen ===
+
+Peak water has occurred in Yemen. Sustainability is no longer attainable in Yemen, according to the government's five-year water plan for 2005–2009.
+The aquifer that supplies Sana'a, the capital of Yemen, could be depleted as early as 2017."Sana'a running out of water with no plan to save it". The Global Urbanist. Retrieved 3 October 2017. In its search for water in the basin, the Yemeni government has drilled test wells that are 2 kilometers (1.2 mi) deep, depths normally associated with the oil industry, but it has failed to find water. Yemen must soon choose between relocating the city and building a pipeline to coastal desalination plants. The pipeline option is complicated by Sana'a's altitude of 2,250 m (7,380 ft).
+As of 2010, the threat of running out of water was considered greater than that of Al-Qaeda or instability. There was speculation that Yemenis would have to abandon mountain cities, including Sana'a, and move to the coast. The cultivation of khat and poor water regulation by the government were partly blamed.
+
+
+=== United Arab Emirates ===
+
+United Arab Emirates has a rapidly growing economy and very little water to support it. The UAE requires more water than is naturally available, thus, it has reached peak water. To solve this, the UAE has a desalination plant near Ruwais and ships its water via pipeline to Abu Dhabi.
+
+
+== Consequences ==
+
+
+=== Famine ===
+Water shortage may cause famine in Pakistan. Pakistan has approximately 35 million acres (140,000 km2) of arable land irrigated by canals and tube wells, mostly using water from the Indus River. Dams were constructed at Chashma, Mangla, and Tarbela to feed the irrigation system. Since the completion of the Tarbela Dam in 1976 no new capacity has been added despite astronomical growth in population. The gross capacity of the three dams has decreased because of sedimentation, a continual process. Per-capita surface-water availability for irrigation was 5,260 cubic meters per year in 1951. This has been reduced to a mere 1,100 cubic meters per year in 2006.
+
+
+=== Health problems ===
+The quality of drinking water is vital for human health. Peak water constraints result in people not having access to safe water for basic personal hygiene. "Infectious waterborne diseases such as diarrhea, typhoid, and cholera are responsible for 80 percent of illnesses and deaths in the developing world, many of them children. One child dies every eight seconds from a waterborne disease; 15 million children a year."Vital aquifers everywhere are becoming contaminated with toxins. Once an aquifer is contaminated, it is not likely that it can ever recover. Contaminants are more likely to cause chronic health effects. Water can be contaminated from pathogens such as bacteria, viruses, and parasites. Also, toxic organic chemicals can be a source of water contamination. Inorganic contaminants include toxic metals like arsenic, barium, chromium, lead, mercury, and silver. Nitrates are another source of inorganic contamination. Finally, leaching radioactive elements into the water supply can contaminate it.
+
+
+=== Human conflicts over water ===
+Some conflicts of the future may be fought over the availability, quality, and control of water. Water has also been used as a tool in conflicts or as a target during conflicts that start for other reasons. Water shortages may well result in water conflicts over this precious resource.In West Africa and other places like Nepal, Bangladesh, India (such as the Ganges Delta), and Peru, major changes in the rivers generate a significant risk of violent conflict in coming years. Water management and control could play a part in future resource wars over scarce resources.
+
+
+== Solutions ==
+Freshwater usage has great potential for better conservation and management as it is used inefficiently nearly everywhere, but until actual scarcity hits, people tend to take access to freshwater for granted.
+
+
+=== Water conservation ===
+
+There are several ways to reduce the use of water. For example, most irrigation systems waste water; typically, only between 35% and 50% of water withdrawn for irrigated agriculture ever reaches the crops. Most soaks into unlined canals, leaks out of pipes, or evaporates before reaching (or after being applied to) the fields. Swales and cisterns can be used to catch and store excess rainwater.
+Water should be used more efficiently in industry, which should use a closed water cycle if possible. Also, industry should prevent polluting water so that it can be returned into the water cycle. Whenever possible, gray wastewater should be used to irrigate trees or lawns. Water drawn from aquifers should be recharged by treating the wastewater and returning it to the aquifer.Water can be conserved by not allowing freshwater to be used to irrigate luxuries such as golf courses. Luxury goods should not be produced in areas where freshwater has been depleted. For example, 1,500 liters of water is used on average for the manufacturing of a single computer and monitor.In Ladakh, a high plateau behind the Himalaya, villagers helped by an engineer and school students build ice stupa as water storage to favour water at spring as natural glaciers retreat. 
+
+
+=== Water management ===
+ 
+Sustainable water management involves the scientific planning, developing, distribution and optimization of water resources under defined water policies and regulations. Examples of policies that improve water management include the use of technology for efficiency monitoring and use of water, innovative water prices and markets, irrigation efficiency techniques, and much more.Experience shows that higher water prices lead to improvements in the efficiency of use—a classical argument in economics, pricing, and markets. For example, Clark County, Nevada, raised its water rates in 2008 to encourage conservation. Economists propose to encourage conservation by adopting a system of progressive pricing whereby the price per unit of water used would start out very small, and then rise substantially for each additional unit of water used. This tiered-rate approach has been used for many years in many places, and is becoming more widespread. A Freakonomics column in the New York Times similarly suggested that people would respond to higher water prices by using less of it, just as they respond to higher gasoline prices by using less of it. The Christian Science Monitor has also reported on arguments that higher water prices curb waste and consumption.In his book The Ultimate Resource 2, Julian Simon claimed that there is a strong correlation between government corruption and lack of sufficient supplies of safe, clean water. Simon wrote, "there is complete agreement among water economists that all it takes to ensure an adequate supply for agriculture as well as for households in rich countries is that there be a rational structure of water law and market pricing. The problem is not too many people but rather defective laws and bureaucratic interventions; freeing up markets in water would eliminate just about all water problems forever... In poor water-short countries the problem with water supply—as with so many other matters—is lack of wealth to create systems to supply water efficiently enough. As these countries become richer, their water problems will become less difficult". This theoretical argument, however, ignores real-world conditions, including strong barriers to open water markets, the difficulty of moving water from one region to another, inability of some populations to pay for water, and grossly imperfect information on water use. Actual experience with peak water constraints in some wealthy, but water-short countries and regions still suggests serious difficulties in reducing water challenges.
+
+
+=== Climate change ===
+Extensive research has shown the direct links between water resources, the hydrologic cycle, and climatic change. As climate changes, there will be substantial impacts on water demands, precipitation patterns, storm frequency and intensity, snowfall and snowmelt dynamics, and more. Evidence from the IPCC to Working Group II, has shown climate change is already having a direct effect on animals, plants and water resources and systems. A 2007 report by the Intergovernmental Panel on Climate Change counted 75 million to 250 million people across Africa who could face water shortages by 2020. Crop yields could increase by 20% in East and Southeast Asia, but decrease by up to 30% in Central and South Asia. Agriculture fed by rainfall could drop by 50% in some African countries by 2020. A wide range of other impacts could affect peak water constraints.
+Loss of biodiversity can be attributed largely to the appropriation of land for agroforestry and the effects of climate change. The 2008 IUCN Red List warns that long-term droughts and extreme weather puts additional stress on key habitats and, for example, lists 1,226 bird species as threatened with extinction, which is one-in-eight of all bird species.
+
+
+=== Backstop water sources ===
+The concept of a "backstop" resource is a resource that is sufficiently abundant and sustainable to replace non-renewable resources. Thus, solar and other renewable energy sources are considered "backstop" energy options for unsustainable fossil fuels. Similarly, Gleick and Palaniappan defined "backstop water sources" to be those resources that can replace unsustainable and non-renewable use of water, albeit typically at a higher cost.
+The classic backstop water source is desalination of seawater. If the rate of water production is not sufficient in one area, another "backstop" could be increased interbasin transfers, such as pipelines to carry freshwater from where it is abundant to an area where water is needed. Water can be imported into an area using water trucks. The most expensive and last resort measures of getting water to a community such as desalination, water transfers are called “backstop” water sources. Fog catchers are the most extreme of backstop methods.
+To produce that fresh water, it can be obtained from ocean water through desalination. A January 17, 2008 article in the Wall Street Journal stated, "World-wide, 13,080 desalination plants produce more than 12 billion US gallons (45,000,000 m3) of water a day, according to the International Desalination Association". Israel is now desalinizing water at a cost of US$0.53 per cubic meter. Singapore is desalinizing water for US$0.49 per cubic meter. After being desalinized at Jubail, Saudi Arabia, water is pumped 200 miles (320 km) inland though a pipeline to the capital city of Riyadh.However, several factors prevent desalination from being a panacea for water shortages:
+High capital costs to build the desalination plant
+High cost of the water produced
+Energy required to desalinate the water
+Environmental issues with the disposal of the resulting brine
+High cost of transporting waterNevertheless, some countries like Spain increasingly rely on desalination because costs of the technology continue to drop.At last resort, it is possible in some particular regions to harvest water from fog using nets. The water from the nets drips into a tube. The tubes from several nets lead to a holding tank. Using this method, small communities on the edge of deserts can get water for drinking, gardening, showering and clothes washing. Critics say that fog catchers work in theory but have not succeeded as well in practice. This is due to the high expense of the nets and pipe, high maintenance costs and low quality of water.An alternative approach is that of the Seawater Greenhouse, which desalinates seawater inside a greenhouse, using evaporation and condensation powered by solar energy. Successful pilots have been conducted growing crops in desert locations.
+
+
+== See also ==
+
+Other resource peaks
+
+
+== References ==
+
+
+== External links ==
+Peak Water - myHydros.org | All About Water
+Water Conserve: Water Conservation Portal
+water "Drought"
+[1] Bloomberg News "Peak Water: The Rise and Fall of Cheap, Clean Water. From February 2012.
+Water Information Guide - From Middletown Thrall Library. Subjects include: Drinking Water, Government Information, International Challenges and Efforts, Global Water Issues, Oceanography, Sea Levels, Desalination, Water Scarcity, Pollution and Contaminants, Conservation and Recycling, News and Special Reports, and library catalog subject headings for further research.
+Google - public data "Improved water source (percent of population with access)"
+Google - public data "Renewable internal freshwater resources per capita (cubic meters)"
+Infographic: The Global Water Crisis
+
+
+=== Books ===
+Steven Solomon (c. 2010). Water: The Epic Struggle for Wealth, Power, and Civilization. Harper. p. 608. ISBN 978-0-06-054830-8.
+Alexander Bell (c. 2009). Peak Water : Civilisation and the world's water crisis. Edinburgh: Luath. p. 208. ISBN 978-1-906817-19-0.
+Peter H. Gleick, ed. (c. 2009). The World's Water 2008–2009: The Biennial Report on Freshwater Resources. Washington D.C. : Island Press. p. 402. ISBN 978-1-59726-505-8.
+Maude Barlow (c. 2007). Blue covenant : the global water crisis and the coming battle for the right to water. New York : New Press : Distributed by W.W. Norton. p. 196. ISBN 978-1-59558-186-0.
+Richard Heinberg (c. 2007). Peak Everything: Waking Up to the Century of Declines. Gabriola, BC : New Society Publishers. p. 213. ISBN 978-0-86571-598-1.
+
+
+=== Audio books ===
+Maude Barlow (2008). Peak Water. Boulder, CO : Alternative Radio.

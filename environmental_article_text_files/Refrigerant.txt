@@ -1,0 +1,87 @@
+A refrigerant is a working fluid used in the refrigeration cycle of air conditioning systems and heat pumps where in most cases they undergo a repeated phase transition from a liquid to a gas and back again. Refrigerants are heavily regulated due to their toxicity, flammability and the contribution of CFC and HCFC refrigerants to ozone depletion and that of HFC refrigerants to climate change.
+
+
+== History ==
+
+The first air conditioners and refrigerators employed toxic or flammable gases, such as ammonia, sulfur dioxide, methyl chloride, or propane, that could result in fatal accidents when they leaked.In 1928 Thomas Midgley Jr. created the first non-flammable, non-toxic chlorofluorocarbon gas, Freon (R-12). The name is a trademark name owned by DuPont (now Chemours) for any chlorofluorocarbon (CFC), hydrochlorofluorocarbon (HCFC), or hydrofluorocarbon (HFC) refrigerant. Following the discovery of better synthesis methods, CFCs such as R-11, R-12, R-123 and R-502 dominated the market.
+
+
+=== Phasing out of CFCs ===
+
+In the early 1980s, scientists discovered that CFCs were causing major damage to the ozone layer that protects the earth from ultra-violet radiation, and to the ozone holes over polar regions. This led to the signing of the Montreal Protocol in 1987 which aimed to phase-out CFCs and HCFC but did not address the contributions that HFCs made to climate change. The adoption of HCFCs such as R-22, and R-123 was accelerated and so were used in most U.S. homes in air conditioners and in chillers from the 1980s as they have a dramatically lower Ozone Depletion Potential (ODP) than CFCs, but their ODP was still not zero which led to their eventual phase-out.
+Hydrofluorocarbons (HFCs) such as R-134a, R-143a, R-407a, R-407c, R-404a and R-410a (a 50/50 blend of R-125/R-32) were promoted as replacements for CFCs and HCFCs in the 1990s and 2000s. HFCs were not ozone depleting but did have global warming potentials (GWPs) thousands of times greater than CO2 with atmospheric lifetimes that can extend for decades. This in turn, starting from the 2010s, led to the adoption in new equipment of Hydrocarbon and HFO (hydrofluoroolefin) refrigerants R-32, R-290, R-600a, R-454b, R-1234yf, R-514A, R-744 (CO2), R-1234ze and R-1233zd, which have both an ODP of zero and a lower GWP. Hydrocarbons and CO2 are sometimes called natural refrigerants because they can be found in nature.
+The environmental organization Greenpeace provided funding to a former East German refrigerator company to research alternative ozone- and climate-safe refrigerants in 1992. The company developed hydrocarbon mixes such as isopentane and isobutane, propane and isobutane, or pure isobutane, called "Greenfreeze", but as a condition of the contract with Greenpeace could not patent the technology, which led to their widespread adoption by other firms. Policy and political influence by corporate executives resisted change however, citing the flammability and explosive properties of the refrigerants, and DuPont together with other companies blocked them in the U.S. with the U.S. EPA.Beginning on 14 November 1994, the U.S. Environmental Protection Agency restricted the sale, possession and use of refrigerants to only licensed technicians, per rules under sections 608 and 609 of the Clean Air Act. In 1995, Germany made CFC refrigerators illegal.In 1996 Eurammon, a European non-profit initiative for natural refrigerants, was established and comprises European companies, institutions, and industry experts.In 1997, FCs and HFCs were included in the Kyoto Protocol to the Framework Convention on Climate Change.
+In 2000 in the UK, the Ozone Regulations came into force which banned the use of ozone-depleting HCFC refrigerants such as R22 in new systems. The Regulation banned the use of R22 as a "top-up" fluid for maintenance between 2010 for virgin fluid and from 2015 for recycled fluid.
+
+
+=== Addressing greenhouse gases ===
+With growing interest in natural refrigerants as alternatives to synthetic refrigerants such as CFCs, HCFCs and HFCs, in 2004, Greenpeace worked with multinational corporations like Coca-Cola and Unilever, and later Pepsico and others, to create a corporate coalition called Refrigerants Naturally!. Four years later, Ben & Jerry's of Unilever and General Electric began to take steps to support production and use in the U.S. It is estimated that almost 75 percent of the refrigeration and air conditioning sector has the potential to be converted to natural refrigerants.In 2006, the EU adopted a Regulation on fluorinated greenhouse gases (FCs and HFCs) to encourage to transition to natural refrigerants (such as hydrocarbons). It was reported in 2010 and some refrigerants are being used as recreational drugs, leading to an extremely dangerous phenomenon known as inhalant abuse.From 2011 the European Union started to phase out refrigerants with a global warming potential (GWP) of more than 150 in automotive air conditioning (GWP = 100 year warming potential of one kilogram of a gas relative to one kilogram of CO2) such as the refrigerant HFC-134a (known as R-134a in North America) which has a GWP of 1526. In the same year the EPA decided in favor of the ozone- and climate-safe refrigerant for U.S. manufacture.A 2018 study by the nonprofit organization "Drawdown" put proper refrigerant management and disposal at the very top of the list of climate impact solutions, with an impact equivalent to eliminating over 17 years of US carbon dioxide emissions.In 2019 it was estimated that CFCs, HCFCs, and HFCs were responsible for about 10% of direct radiative forcing from all long-lived anthropogenic greenhouse gases. and in the same year the UNEP published new voluntary guidelines, however many countries have not yet ratified the Kigali Amendment.
+With the begin of the 2020 HFCs (including R-404a, R-134a and R-410a) are being superseded: Residential air-conditioning systems and heat pumps are increasingly using R-32. This still has a GWP of more than 600. Progessive devices use refrigerants with a almost no climate impact: R-290 (propane), R-600 (isobutane) or R-1234yf (less flammable, in cars). In commercial refrigeration also CO2 (R-744) can be used.
+
+
+== Desirable properties ==
+The ideal refrigerant would be: non-corrosive, non-toxic, non-flammable, with no ozone depletion and global warming potential. It should preferably be natural with well-studied and low environmental impact. It also needs to have: a boiling point that is somewhat below the target temperature (although boiling point can be adjusted by adjusting the pressure appropriately), a high heat of vaporization, a moderate density in liquid form, a relatively high density in gaseous form (which can also be adjusted by setting pressure appropriately), and a high critical temperature. Extremely high pressures should be avoided. Newer refrigerants address the issue of the damage that CFCs caused to the ozone layer and the contribution that HCFCs make to climate change, but some do raise issues relating to toxicity and / or flammability.
+
+
+== Common refrigerants ==
+
+
+=== Refrigerants with very low climate impact ===
+With increasing regulations, refrigerants with a very low global warming potential are expected to play a dominant role in the 21st century, in particular R-290 and R-1234yf. Starting from almost no market share in 2018, low GWPO devices are gaining market share in 2022.
+
+
+=== Most used ===
+
+
+=== Banned / Phased out ===
+
+
+=== Other ===
+
+
+== Refrigerant reclamation and disposal ==
+
+Coolant and refrigerants are found throughout the industrialized world, in homes, offices, and factories, in devices such as refrigerators, air conditioners, central air conditioning systems (HVAC), freezers, and dehumidifiers. When these units are serviced, there is a risk that refrigerant gas will be vented into the atmosphere either accidentally or intentionally, hence the creation of technician training and certification programs in order to ensure that the material is conserved and managed safely. Mistreatment of these gases has been shown to deplete the ozone layer and is suspected to contribute to global warming.With the exception of isobutane and propane (R600a, R441a and R290), ammonia and CO2 under Section 608 of the United States' Clean Air Act it is illegal to knowingly release any refrigerants into the atmosphere.Refrigerant reclamation is the act of processing used refrigerant gas which has previously been used in some type of refrigeration loop such that it meets specifications for new refrigerant gas. In the United States, the Clean Air Act of 1990 requires that used refrigerant be processed by a certified reclaimer, which must be licensed by the United States Environmental Protection Agency (EPA), and the material must be recovered and delivered to the reclaimer by EPA-certified technicians.
+
+
+== Classification of refrigerants ==
+
+Refrigerants may be divided into three classes according to their manner of absorption or extraction of heat from the substances to be refrigerated:
+Class 1: This class includes refrigerants that cool by phase change (typically boiling), using the refrigerant's latent heat.
+Class 2: These refrigerants cool by temperature change or 'sensible heat', the quantity of heat being the specific heat capacity x the temperature change. They are air, calcium chloride brine, sodium chloride brine, alcohol, and similar nonfreezing solutions. The purpose of Class 2 refrigerants is to receive a reduction of temperature from Class 1 refrigerants and convey this lower temperature to the area to be cooled.
+Class 3: This group consists of solutions that contain absorbed vapors of liquefiable agents or refrigerating media. These solutions function by nature of their ability to carry liquefiable vapors, which produce a cooling effect by the absorption of their heat of solution. They can also be classified into many categories.The R-# numbering system was developed by DuPont (which owned the Freon trademark), and systematically identifies the molecular structure of refrigerants made with a single halogenated hydrocarbon. The meaning of the codes is as follows:
+For saturated hydrocarbons, subtracting 90 from the concatenated numbers of carbon, hydrogen and fluorine atoms, respectively gives the assigned R#.
+If bromine is present, the number is followed by a capital B and then the number of bromine atoms.
+Remaining bonds not accounted for are occupied by chlorine atoms.
+A suffix of a lower-case letter a, b, or c indicates increasingly unsymmetrical isomers.For example, R-134a has 2 carbon atoms, 2 hydrogen atoms, and 4 fluorine atoms, an empirical formula of tetrafluoroethane. The "a" suffix indicates that the isomer is unbalanced by one atom, giving 1,1,1,2-Tetrafluoroethane. R-134 (without the "a" suffix) would have a molecular structure of 1,1,2,2-Tetrafluoroethane.
+
+The R-400 series is made up of zeotropic blends (those where the boiling point of constituent compounds differs enough to lead to changes in relative concentration because of fractional distillation) and the R-500 series is made up of so-called azeotropic blends. The rightmost digit is assigned arbitrarily by ASHRAE, an industry standards organization.
+The R-700 series is made up of non-organic refrigerants, also designated by ASHRAE.The same numbers are used with an R- prefix for generic refrigerants, with a "Propellant" prefix (e.g., "Propellant 12") for the same chemical used as a propellant for an aerosol spray, and with trade names for the compounds, such as "Freon 12". Recently, a practice of using abbreviations HFC- for hydrofluorocarbons, CFC- for chlorofluorocarbons, and HCFC- for hydrochlorofluorocarbons has arisen, because of the regulatory differences among these groups.
+
+
+== See also ==
+Brine (Refrigerant)
+Section 608
+
+
+== References ==
+
+
+=== Sources ===
+
+
+==== IPCC reports ====
+IPCC (2013).  Stocker, T. F.; Qin, D.; Plattner, G.-K.; Tignor, M.;  et al. (eds.). Climate Change 2013: The Physical Science Basis (PDF). Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change. Cambridge, United Kingdom and New York, NY, USA: Cambridge University Press. ISBN 978-1-107-05799-9. (pb: 978-1-107-66182-0). https://archive.ipcc.ch/report/ar5/wg1/
+Myhre, G.; Shindell, D.; Bréon, F.-M.; Collins, W.;  et al. (2013). "Chapter 8: Anthropogenic and Natural Radiative Forcing" (PDF). Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change. pp. 659–740.
+
+
+==== Other ====
+"High GWP refrigerants". California Air Resources Board. Retrieved 13 February 2022.
+"BSRIA's view on refrigerant trends in AC and Heat Pump segments". 2020. Retrieved 2022-02-14.
+Yadav, Saurabh; Liu, Jie; Kim, Sung Chul (2022). "A comprehensive study on 21st-century refrigerants - R290 and R1234yf: A review". International Journal of Heat and Mass Transfer. 122. doi:10.1016/j.ijheatmasstransfer.2021.121947. Retrieved 2022-02-14.
+
+
+== External links ==
+US Environmental Protection Agency page on the GWPs of various substances
+Green Cooling Initiative on alternative natural refrigerants cooling technologies
+International Institute of Refrigeration Archived 2018-09-25 at the Wayback Machine

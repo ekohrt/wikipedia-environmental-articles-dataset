@@ -1,0 +1,26 @@
+Ecophagy is a term coined by Robert Freitas that means the literal consumption of an ecosystem. It derives from the Greek "οἶκος" (oikos), which refers to a "house" or "household", and the Greek "φαγεῖν" (phagein), "to eat".
+Freitas used the term to describe a scenario involving molecular nanotechnology gone awry. In this situation (called the grey goo scenario) out-of-control self-replicating nanorobots consume entire ecosystems, resulting in global ecophagy.
+However, the word "ecophagy" is now applied more generally in reference to any event—nuclear war, the spread of monoculture, massive species extinctions—that might fundamentally alter the planet. Scholars suggest that these events might result in ecocide in that they would undermine the capacity of the Earth's biological population to repair itself. Others suggest that more mundane and less spectacular events—the unrelenting growth of the human population, the steady transformation of the natural world by human beings—will eventually result in a planet that is considerably less vibrant, and one that is, apart from humans, essentially lifeless. These people believe that the current human trajectory puts us on a path that will eventually lead to ecophagy.
+In the paper in which Freitas coined the term he wrote:
+Perhaps the earliest-recognized and best-known danger of molecular nanotechnology is the risk that self-replicating nanorobots capable of functioning autonomously in the natural environment could quickly convert that natural environment (e.g., "biomass") into replicas of themselves (e.g., "nanomass") on a global basis, a scenario usually referred to as the "grey goo problem" but perhaps more properly termed "global ecophagy".
+
+
+== See also ==
+
+Ecocide
+Grey goo
+Molecular assembler
+
+
+== References ==
+
+Philip Ball, The Robot Within, New Scientist, 15 March 2003.
+
+
+== External links ==
+Some Limits to Global Ecophagy by Biovorous Nanoreplicators, with Public Policy Recommendations
+critical review of the Freitas article in biosafety group
+Green Goo - Life In The Era Of Humane Genocide by Nick Szabo
+Human Global Ecophagy (Or, How Quickly Can Humans Consume the Earth?)
+"Intentional Ecophagy" references
+"Nanotechnology Daily News"

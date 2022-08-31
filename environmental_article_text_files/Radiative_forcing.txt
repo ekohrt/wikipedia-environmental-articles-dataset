@@ -1,0 +1,445 @@
+Radiative forcing (or climate forcing) is the change in energy flux in the atmosphere caused by natural or anthropogenic factors of climate change as measured by watts / metre2. It is a scientific concept used to quantify and compare the external drivers of change to Earth's energy balance.: 1–4  System feedbacks and internal variability are related concepts,  encompassing other factors that also influence the direction and magnitude of imbalance. 
+Positive radiative forcing means Earth receives more incoming energy from sunlight than it radiates to space. This net gain of energy will cause warming. Conversely, negative radiative forcing means that Earth loses more energy to space than it receives from the sun, which produces cooling. A planet in radiative equilibrium with its parent star and the rest of space can be characterized by net-zero radiative forcing and by a planetary equilibrium temperature.Radiative forcing on Earth is meaningfully evaluated at the tropopause and at the top of the stratosphere.  It is quantified in units of watts per square meter, and often summarized as an average over the total surface area of the globe.  Radiative forcing varies with solar insolation, surface albedo, and the atmospheric concentrations of radiatively active gases - commonly known as greenhouse gases - and aerosols.
+
+
+== Radiation balance ==
+
+Almost all of the energy that affects Earth's climate is received as radiant energy from the Sun. The planet and its atmosphere absorb and reflect some of the energy, while long-wave energy is radiated back into space. The balance between absorbed and radiated energy determines the average global temperature. Because the atmosphere absorbs some of the re-radiated long-wave energy, the planet is warmer than it would be in the absence of the atmosphere: see greenhouse effect.
+The radiation balance is altered by such factors as the intensity of solar energy, reflectivity of clouds or gases, absorption by various greenhouse gases or surfaces and heat emission by various materials. Any such alteration is a radiative forcing, and changes the balance. This happens continuously as sunlight hits the surface, clouds and aerosols form, the concentrations of atmospheric gases vary and seasons alter the groundcover.
+
+
+== IPCC usage ==
+
+The Intergovernmental Panel on Climate Change (IPCC) AR4 report defines radiative forcings as:
+
+"Radiative forcing is a measure of the influence a factor has in altering the balance of incoming and outgoing energy in the Earth-atmosphere system and is an index of the importance of the factor as a potential climate change mechanism. In this report radiative forcing values are for changes relative to preindustrial conditions defined at 1750 and are expressed in Watts [sic] per square meter (W/m2)."
+
+In simple terms, radiative forcing is "...the rate of energy change per unit area of the globe as measured at the top of the atmosphere." In the context of climate change, the term "forcing" is restricted to changes in the radiation balance of the surface-troposphere system imposed by external factors, with no changes in stratospheric dynamics, no surface and tropospheric feedbacks in operation (i.e., no secondary effects induced because of changes in tropospheric motions or its thermodynamic state), and no dynamically induced changes in the amount and distribution of atmospheric water (vapour, liquid, and solid forms).
+
+
+== Basic estimates ==
+Radiative forcing can be evaluated for its dependence on different factors which are external to the climate system.  Except where necessary and noted, the basic estimates which follow do not include indirect feedbacks (positive or negative) which also occur via Earth system responses.  Forcings (ΔF) are expressed as changes over the total surface of the planet and over a specified time interval.  Estimates may be significant in the context of global climate forcing for times spanning decades or longer.
+
+
+=== Forcing due to changes in solar irradiance ===
+
+The intensity of solar irradiance including all wavelengths is the Total Solar Irradiance (TSI) and on average is the solar constant.  It is equal to about 1361 W m−2 at the distance of Earth's annual-mean orbital radius of one astronomical unit and as measured at the top of the atmosphere.  Earth TSI varies with both solar activity and planetary orbital dynamics.  Multiple satellite-based instruments including ERB, ACRIM 1-3, VIRGO, and TIM have continuously measured TSI with improving accuracy and precision since 1978.Approximating Earth as a sphere, the cross-sectional area exposed to the Sun (
+  
+    
+      
+        π
+        
+          r
+          
+            2
+          
+        
+      
+    
+    {\textstyle \pi r^{2}}
+  ) is equal to one quarter the area of the planet's surface (
+  
+    
+      
+        4
+        π
+        
+          r
+          
+            2
+          
+        
+      
+    
+    {\textstyle 4\pi r^{2}}
+  ). The globally and annually averaged amount of solar irradiance per square meter of Earth's atmospheric surface (
+  
+    
+      
+        
+          I
+          
+            0
+          
+        
+      
+    
+    {\textstyle I_{0}}
+  ) is therefore equal to one quarter of TSI, and has a nearly constant value of 
+  
+    
+      
+        
+          I
+          
+            0
+          
+        
+        =
+        340
+         
+         
+        
+          W
+        
+         
+        
+          
+            m
+          
+          
+            −
+            2
+          
+        
+      
+    
+    {\textstyle I_{0}=340~~\mathrm {W} ~\mathrm {m} ^{-2}}
+  .
+
+
+==== Annual cycles ====
+
+Earth follows an elliptical orbit around the Sun such that TSI received at any instance fluctuates between about 1321 W m−2 (at aphelion in early July) and 1412 W m−2 (at perihelion in early January), or thus by about ±3.4% during each year.  This change in irradiance has minor influences on Earth's seasonal weather patterns and its climate zones, which primarily result from the annual cycling in Earth's relative tilt direction.  Such repeating cycles contribute a net-zero forcing (by definition) in the context of decades-long climate changes.
+
+
+==== Sunspot activity ====
+
+Average annual TSI varies between about 1360 W m−2 and 1362 W m−2 (±0.05%) over the course of a typical 11-year sunspot activity cycle.  Sunspot observations have been recorded since about year 1600 and show evidence of lengthier oscillations (Gleissberg cycle, Devries/Seuss cycle, etc.) which modulate the 11-year cycle (Schwabe cycle).  Despite such complex behavior, the amplitude of the 11-year cycle has been the most prominent variation throughout this long-term observation record.TSI variations associated with sunspots contribute a small but non-zero net forcing in the context of decadal climate changes.  Some research suggests they may have partly influenced climate shifts during the Little Ice Age, along with concurrent changes in volcanic activity and deforestation.  Since the late 20th century, average TSI has trended slightly lower along with a downward trend in sunspot activity.
+
+
+==== Milankovitch shifts ====
+
+Climate forcing caused by variations in solar irradiance have occurred during Milankovitch cycles, which span periods of about 40,000 to 100,000 years.   Milankovitch cycles consist of long-duration cycles in Earth's orbital eccentricity (or ellipticity), cycles in its orbital obliquity (or axial tilt), and precession of its relative tilt direction.  Among these, the 100,000 year cycle in eccentricity causes TSI to fluctuate by about ±0.2%.  Currently, Earth's eccentricity is nearing its least elliptic (most circular) causing average annual TSI to very slowly decrease.  Simulations also indicate that Earth's orbital dynamics will remain stable including these variations for least the next 10 million years.
+
+
+==== Sun aging ====
+
+Our Sun has consumed about half its hydrogen fuel since forming approximately 4.5 billion years ago.  TSI will continue to slowly increase during the aging process at a rate of about 1% each 100 million years.   Such rate of change is far too small to be detectable within measurements and is insignificant on human timescales.
+
+
+==== TSI forcing summary ====
+The maximum fractional variations (Δτ) in Earth's solar irradiance during the last decade are summarized in the accompanying table.  Each variation previously discussed contributes a forcing of: 
+
+  
+    
+      
+        Δ
+        F
+        =
+         
+        
+          I
+          
+            0
+          
+        
+        ×
+        (
+        1
+        −
+        R
+        )
+        ×
+        Δ
+        τ
+         
+         
+        =
+         
+        238
+        ×
+        Δ
+        τ
+         
+         
+        (
+        
+          W
+        
+         
+        
+          
+            m
+          
+          
+            −
+            2
+          
+        
+        )
+        
+      
+    
+    {\displaystyle \Delta F=~I_{0}\times (1-R)\times \Delta \tau ~~=~238\times \Delta \tau ~~(\mathrm {W} ~\mathrm {m} ^{-2})\,}
+  ,where R=0.30 is Earth's reflectivity.  The radiative and climate forcings arising from changes in the Sun's insolation are expected to continue to be minor, notwithstanding some as-of-yet undiscovered solar physics.
+
+
+=== Forcing due to changes in albedo ===
+
+A fraction of incident solar radiation is reflected by clouds & aerosols, oceans and landforms, snow & ice, vegetation, and other natural & man-made surface features.  The reflected fraction is known as Earth's bond albedo (R), is evaluated at the top of the atmosphere, and has an average annual global value of about 0.30 (30%).  The overall fraction of solar power absorbed by Earth is then (1-R) or 0.70 (70%).Atmospheric components contribute about three-quarters of Earth albedo, and clouds alone are responsible for half.  The pronounced roles of clouds and water vapor are linked with the majority presence of liquid water covering the planet's crust.  Global patterns in cloud formation and circulation are highly complex phenomena with couplings to ocean heat flows, and with jet streams assisting their rapid transport.  Moreover, the albedos of Earth's northern and southern hemispheres have been observed to be essentially equal (within 0.2%). This is noteworthy since more than two-thirds of land and 85% of the human population are distributed north.Multiple satellite-based instruments including MODIS, VIIRs, and CERES have continuously monitored Earth's albedo since 1998.  Landsat imagery available since 1972 has also been used in some studies.  Measurement accuracy has improved and results have converged in recent years, enabling more confident assessment of the recent decadal forcing influence of planetary albedo.   Nevertheless, the existing data record is still too short to support longer-term predictions or to address other related questions.
+
+
+==== Annual cycles ====
+Seasonal variations in planetary albedo can be understood as a set of system feedbacks that occur largely in response to the yearly cycling of Earth's relative tilt direction.  Along with the atmospheric responses, most apparent to surface dwellers are the changes in vegetation, snow, and sea-ice coverage.  Intra-annual variations of about ±0.02 (± 7%) around Earth's mean albedo have been observed throughout the course of a year, with maxima occurring twice per year near the time of each solar equinox.  This repeating cycle contributes net-zero forcing in the context of decades-long climate changes.
+
+
+==== Interannual variability ====
+
+Regional albedos change from year to year due to shifts arising from natural processes, human actions, and system feedbacks.  For example, human acts of deforestion typically raise Earth's reflectivity while introducing water storage and irrigation to arid lands may lower it. Likewise considering feedbacks, ice loss in arctic regions decreases albedo while expanding desertification at low to middle latitudes increases it.
+During years 2000-2012, no overall trend in Earth's albedo was discernible within the 0.1% standard deviation of values measured by CERES.   Along with the hemispherical equivalence,  some researchers interpret the remarkably small interannual differences as evidence that planetary albedo may currently be constrained by the action of complex system feedbacks.  Nevertheless, historical evidence also suggests that infrequent events such as major volcanic eruptions can significantly perturb the planetary albedo for several years or longer.
+
+
+==== Albedo forcing summary ====
+The measured fractional variations (Δα) in Earth's albedo during the first decade of the 21st century are summarized in the accompanying table.  Similar to TSI, the radiative forcing due to a fractional change in planetary albedo (Δα) is:  
+
+  
+    
+      
+        Δ
+        F
+        =
+         
+        −
+        
+          I
+          
+            0
+          
+        
+        ×
+        R
+        ×
+        Δ
+        α
+         
+         
+        =
+         
+        −
+        102
+        ×
+        Δ
+        α
+         
+         
+        (
+        
+          W
+        
+         
+        
+          
+            m
+          
+          
+            −
+            2
+          
+        
+        )
+        
+      
+    
+    {\displaystyle \Delta F=~-I_{0}\times R\times \Delta \alpha ~~=~-102\times \Delta \alpha ~~(\mathrm {W} ~\mathrm {m} ^{-2})\,}
+  .Satellite observations show that various Earth system feedbacks have stabilized planetary albedo despite recent natural and human-caused shifts.  On longer timescales, it is more uncertain whether the net forcing which results from such external changes will remain minor.
+
+
+=== Forcing due to changes in atmospheric gas ===
+
+For a well-mixed greenhouse gas, radiative transfer codes that examine each spectral line for atmospheric conditions can be used to calculate the forcing ΔF as a function of a change in its concentration. These calculations may be simplified into an algebraic formulation that is specific to that gas.
+
+
+==== Carbon dioxide ====
+A simplified first-order approximation expression for carbon dioxide (CO2) is:
+
+  
+    
+      
+        Δ
+        F
+        =
+        5.35
+        ×
+        ln
+        ⁡
+        
+          
+            
+              (
+              
+                C
+                
+                  0
+                
+              
+              +
+              Δ
+              C
+              )
+            
+            
+              C
+              
+                0
+              
+            
+          
+        
+         
+         
+        (
+        
+          W
+        
+         
+        
+          
+            m
+          
+          
+            −
+            2
+          
+        
+        )
+        
+      
+    
+    {\displaystyle \Delta F=5.35\times \ln {(C_{0}+\Delta C) \over C_{0}}~~(\mathrm {W} ~\mathrm {m} ^{-2})\,}
+  ,where C0 is a reference concentration in parts per million (ppm) by volume and ΔC is the concentration change in ppm.  For the purpose of some studies (e.g. climate sensitivity), C0 is taken as the concentration prior to substantial anthropogenic changes and has a value of 278 ppm as estimated for the year 1750.
+
+ The atmospheric burden of greenhouse gases due to human activity has grown especially rapidly during the last several decades (since about year 1950).  For CO2, the 50% increase (C/C0 = 1.5) realized as of year 2020 since 1750 corresponds to a cumulative 
+  
+    
+      
+        Δ
+        F
+        =
+        +
+        2.17
+         
+         
+        
+          W
+        
+         
+        
+          
+            m
+          
+          
+            −
+            2
+          
+        
+      
+    
+    {\textstyle \Delta F=+2.17~~\mathrm {W} ~\mathrm {m} ^{-2}}
+  .  Assuming no change in the emissions growth path, a doubling (C/C0 = 2) within the next several decades would correspond to a cumulative 
+  
+    
+      
+        Δ
+        F
+        =
+        +
+        3.71
+         
+         
+        
+          W
+        
+         
+        
+          
+            m
+          
+          
+            −
+            2
+          
+        
+      
+    
+    {\textstyle \Delta F=+3.71~~\mathrm {W} ~\mathrm {m} ^{-2}}
+  .
+The relationship between CO2 and radiative forcing is logarithmic at concentrations up to around eight times the current value.  Constant concentration increases thus have a progressively smaller warming effect. However, the first-order approximation is inaccurate at higher concentrations and there is no saturation in the absorption of infrared radiation by CO2.
+
+
+==== Other trace gases ====
+Somewhat different formulae apply for other trace greenhouse gases such as methane and N2O (square-root dependence) or CFCs (linear), with coefficients that may be found for example in the IPCC reports.   A year 2016 study suggests a significant revision to the methane IPCC formula.  Forcings by the most influential trace gases in Earth's atmosphere are included in the section describing recent growth trends, and in the IPCC list of greenhouse gases.
+
+
+==== Water vapor ====
+Water vapor is Earth's primary greenhouse gas currently responsible for about half of all atmospheric gas forcing.  Its overall atmospheric concentration depends almost entirely on the average planetary temperature, and has the potential to increase by as much as 7% with every degree (°C) of temperature rise (see also: Clausius–Clapeyron relation).  Thus over long time scales, water vapor behaves as a system feedback that amplifies the radiative forcing driven by the growth of carbon dioxide and other trace gases.
+
+
+== Recent growth trends ==
+
+Radiative forcing can be a useful way to compare the growing warming influence of different anthropogenic greenhouse gases over time.  The table and figures below (derived by researchers at NOAA from atmospheric radiative transfer models) show changes since year 1979 in the radiative forcing of the long-lived and well-mixed greenhouse gases that have been increasing in earth's atmosphere since the industrial revolution. The table includes the direct forcing contributions from carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O); chlorofluorocarbons (CFCs) 12 and 11; and fifteen other halogenated gases. These data do not include the significant forcing contributions from shorter-lived and less-well-mixed gases or aerosols; including those indirect forcings from the decay of methane and some halogens.  They also do not account for changes in land or solar activity.
+
+These data show that CO2 dominates the total forcing, with methane and chlorofluorocarbons (CFC) becoming relatively smaller contributors to the total forcing over time. The five major greenhouse gases account for about 96% of the direct radiative forcing by long-lived greenhouse gas increases since 1750. The remaining 4% is contributed by the 15 minor halogenated gases.
+It might be observed that the total forcing for year 2016, 3.027 W m−2, together with the commonly accepted value of climate sensitivity parameter λ, 0.8 K /(W m−2), results in an increase in global temperature of 2.4 K, much greater than the observed increase, about 1.2 K. Part of this difference is due to lag in the global temperature achieving steady state with the forcing. The remainder of the difference is due to negative aerosol forcing, climate sensitivity being less than the commonly accepted value, or some combination thereof.The table also includes an "Annual Greenhouse Gas Index" (AGGI), which is defined as the ratio of the total direct radiative forcing due to long-lived greenhouse gases for any year for which adequate global measurements exist to that which was present in 1990. 1990 was chosen because it is the baseline year for the Kyoto Protocol. This index is a measure of the inter-annual changes in conditions that affect carbon dioxide emission and uptake, methane and nitrous oxide sources and sinks, the decline in the atmospheric abundance of ozone-depleting chemicals related to the Montreal Protocol. and the increase in their substitutes (hydrogenated CFCs (HCFCs) and hydrofluorocarbons (HFC). Most of this increase is related to CO2. For 2013, the AGGI was 1.34 (representing an increase in total direct radiative forcing of 34% since 1990). The increase in CO2 forcing alone since 1990 was about 46%. The decline in CFCs considerably tempered the increase in net radiative forcing.
+An alternative table prepared for use in climate model intercomparisons conducted under the auspices of IPCC and including all forcings, not just those of greenhouse gases.
+
+
+== Direct observation ==
+
+Earth's global radiation balance fluctuates as the planet rotates and orbits the Sun, and as global-scale thermal anomalies  arise and dissipate within the terrestrial, oceanic and atmospheric systems (e.g. ENSO).  Consequently, the planet's 'instantaneous radiative forcing' (IRF) is also dynamic and naturally fluctuates between states of overall warming and cooling. The combination of periodic and complex processes that give rise to these natural variations will typically revert over periods lasting as long as a few years to produce a net-zero average IRF.  Such fluctuations also mask the longer-term (decade-long) forcing trends due to human activities,  and thus make direct observation of such trends challenging.
+
+Earth's radiation balance has been continuously monitored by NASA's Clouds and the Earth's Radiant Energy System (CERES)  instruments since year 1998.  Each scan of the globe provides an estimate of the total (all-sky) instantaneous radiation balance.  This data record captures both the natural fluctuations and human influences on IRF; including changes in greenhouse gases, aerosols, land surface, etc.  The record also includes the lagging radiative responses to the radiative imbalances; occurring mainly by way of Earth system feedbacks in temperature, surface albedo, atmospheric water vapor and clouds.Researchers have used measurements from CERES, AIRS, CloudSat and other satellite-based instruments within NASA's Earth Observing System to parse out contributions by the natural fluctuations and system feedbacks.  Removing these contributions within the multi-year data record allows observation of the anthropogenic trend in top-of-atmosphere (TOA) IRF. The data analysis has also been done in a way that is computationally efficient and independent of most related modelling methods and results.  Radiative forcing was thus directly observed to have risen by +0.53 W m−2 (±0.11 W m−2) from years 2003 to 2018.  About 20% of the increase was associated with a reduction in the atmospheric aerosol burden, and most of the remaining 80% was attributed to the rising burden of greenhouse gases.A rising trend in the radiative imbalance due to increasing global CO2 has been previously observed by ground-based instruments.  For example, such measurements have been separately gathered under clear-sky conditions at two Atmospheric Radiation Measurement (ARM) sites in Oklahoma and Alaska.  Each direct observation found that the associated radiative (infrared) heating experienced by surface dwellers rose by +0.2 W m−2 (±0.07 W m−2) during the decade ending 2010.  In addition to its focus on longwave radiation and the most influential forcing gas (CO2) only, this result is proportionally less than the TOA forcing due to its buffering by atmospheric absorption.
+
+
+== Climate sensitivity ==
+
+Radiative forcing can be used to estimate a subsequent change in steady-state (often denoted "equilibrium") surface temperature (ΔTs) arising from that forcing via the equation:
+
+  
+    
+      
+        Δ
+        
+          T
+          
+            s
+          
+        
+        =
+         
+        λ
+         
+        Δ
+        F
+      
+    
+    {\displaystyle \Delta T_{s}=~\lambda ~\Delta F}
+  where λ is commonly denoted the climate sensitivity parameter, usually with units K/(W/m2), and ΔF is the radiative forcing in W/m2. A typical value of λ, 0.8 K/(W/m2), gives an increase in global temperature of about 1.6 K above the 1750 reference temperature due to the increase in CO2 over that time (278 to 405 ppm, for a forcing of 2.0 W/m2), and predicts a further warming of 1.4 K above present temperatures if the CO2 mixing ratio in the atmosphere were to become double its pre-industrial value; both of these calculations assume no other forcings.Historically, radiative forcing displays the best predictive capacity for specific types of forcing such as greenhouse gases. It is less effective for other anthropogenic influences like soot. A new framework called "effective radiative forcing" or ERF removes the effect of rapid adjustments within the atmosphere that are unrelated to longer term surface temperature responses. ERF means different factors driving climate change can be placed onto a level playing field to enable comparison of their effects and a more consistent view of how global surface temperature responds to various types of human forcing.
+
+
+== Related metrics ==
+Other metrics can be constructed for the same purpose as radiative forcing.  For example Shine et al. say "... recent experiments indicate that for changes in absorbing aerosols and ozone, the predictive ability of radiative forcing is much worse ... we propose an alternative, the 'adjusted troposphere and stratosphere forcing'. We present GCM calculations showing that it is a significantly more reliable predictor of this GCM's surface temperature change than radiative forcing. It is a candidate to supplement radiative forcing as a metric for comparing different mechanisms ...". In this quote, GCM stands for "global circulation model", and the word "predictive" does not refer to the ability of GCMs to forecast climate change. Instead, it refers to the ability of the alternative tool proposed by the authors to help explain the system response.
+Therefore, the concept of radiative forcing has been evolving from the initial proposal, named nowadays instantaneous radiative forcing (IRF), to other proposals that aims to relate better the radiative imbalance with global warming (global surface mean temperature). In this sense the adjusted radiative forcing, in its different calculation methodologies, estimates the imbalance once the stratosphere temperatures has been modified to achieve a radiative equilibrium in the stratosphere (in the sense of zero radiative heating rates). This new methodology is not estimating any adjustment or feedback that could be produced on the troposphere (in addition to stratospheric temperature adjustments), for that goal another definition, named effective radiative forcing has been introduced. In general the ERF is the recommendation of the CMIP6 radiative forcing analysis  although the stratospherically adjusted methodologies are still being applied in those cases where the adjustments and feedbacks on the troposphere are considered not critical, like in the well mixed greenhouse gases and ozone. A methodology named radiative kernel approach allows to estimate the climate feedbacks within an offline calculation based on a linear approximation 
+
+
+== See also ==
+
+Climate sensitivity
+Anthropogenic heat
+Emission standard
+Global warming potential
+
+
+== References ==
+
+
+== External links ==
+IPCC glossary 
+CO2: The Thermostat that Controls Earth's Temperature by NASA's Goddard Institute for Space Studies, October, 2010, Forcing vs. Feedbacks
+Intergovernmental Panel on Climate Change's Fourth Assessment Report (2007), Chapter 2, "Changes in Atmospheric Constituents and Radiative Forcing," pp. 133–134 (PDF, 8.6 MB, 106 pp.).
+U.S. EPA (2009), Climate Change – Science. Explanation of climate change topics including radiative forcing.
+United States National Research Council (2005), Radiative Forcing of Climate Change: Expanding the Concept and Addressing Uncertainties, Board on Atmospheric Sciences and Climate
+Small volcanoes add up to cooler climate; Airborne particles help explain why temperatures rose less last decade August 13, 2011; Vol.180 #4 (p. 5) Science News
+NASA: The Atmosphere's Energy Budget
+Energy balance: the simplest climate model
+Explore Mann's climate projections from Scientific American

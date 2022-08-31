@@ -1,0 +1,61 @@
+Environmental archaeology is a sub-field of archaeology which emerged in 1970s and is the science of reconstructing the relationships between past societies and the environments they lived in. The field represents an archaeological-palaeoecological approach to studying the palaeoenvironment through the methods of human palaeoecology. Reconstructing past environments and past peoples' relationships and interactions with the landscapes they inhabited provides archaeologists with insights into the origin and evolution of anthropogenic environments, and prehistoric adaptations and economic practices.Environmental archaeology is commonly divided into three sub-fields: 
+
+archaeobotany (the study of plant remains)
+zooarchaeology (the study of faunal remains)
+geoarchaeology (the study of geological processes and their relationship to the archaeological record)Environmental archaeology often involves studying plant and animal remains in order to investigate which plant and animal species were present at the time of prehistoric habitations, and how past societies managed them. It may also involve studying the physical environment and how similar or different it was in the past compared to the present day. An important component of such analyses represents the study of site formation processes. This field is particularly useful when artifacts may be absent from an excavated or surveyed site, or in cases of earth movement, such as erosion, which may have buried artifacts and archaeological features. While specialist sub-fields, for example bioarchaeology or geomorphology, are defined by the materials they study, the term "environmental" is used as a general template in order to denote a general field of scientific inquiry that is applicable across time periods and geographical regions studied by archaeology as a whole.
+
+
+== Subfields ==
+
+
+=== Archaeobotany ===
+
+Archaeobotany is the study and interpretation of plant remains. By determining the uses of plants in historical contexts, researchers can reconstruct the diets of past humans, as well as determine their subsistence strategies and plant economy. This provides greater insight into a people's social and cultural behaviors. Analysis of specimen like wood charcoal, for example, can reveal the source of fuel or construction for a society. Archaeobotanists also often study seed and fruit remains, along with pollen and starch. Plants can be preserved in a variety of ways, but the most common are carbonization, water logging, mineralization, and desiccation. A field within archaeobotany is ethnobotany, which looks more specifically at the relationship between plants and humans, and the cultural impacts plants have had and continue to have on human societies. Plant usage as food and as crops or as medicine is of interest, as well the plants' economic influences.
+
+
+=== Zooarchaeology ===
+Zooarchaeology is the study of animal remains and what these remains can tell us about the human societies the animals existed among. Animal remains can provide evidence of predation by humans (or vice versa) or domestication. Despite revealing the specific relationships between animals and humans, discovery of animal bones, hides, or DNA in a certain area can describe the location's past landscape or climate.
+
+
+=== Geoarchaeology ===
+Geoarchaeology is the study of landscape and of geological processes. It looks at environments within the human timeline to determine how past societies may have influenced or been influenced by the environment. Sediment and soil are often studied because this is where the majority of artifacts are found, but also because natural processes and human behavior can alter the soil and reveal its history. Apart from visual observation, computer programming and satellite imaging are often employed to reconstruct past landscapes or architecture.Other related fields include:
+
+landscape archaeology
+bioarchaeology and human ecology
+climatology
+palaeoecology
+archival research
+
+
+== History ==
+
+Environmental archaeology has emerged as a distinct discipline in the course of the last 50 years. In recent years it has grown rapidly in significance and is now an established component of most excavation projects. The field is multidisciplinary, and environmental archaeologists, as well as palaeoecologists, work side by side with archaeologists and anthropologists specialising in material culture studies in order to achieve a more holistic understanding of past human livelihood and people-environment interactions, especially how climatic stress affected humans and forced them to adapt.In archaeology in the 1960s, the environment was seen as having a "passive" interaction with humans. With the inclusion of Darwinism and ecological principles, however, this paradigm began to shift. Prominent theories and principles of the time (oasis theory, catastrophism, and longue duree) emphasized this philosophy. Catastrophism, for instance, discussed how catastrophes like natural disaster could be the determining factor in a society's survival. The environment could have social, political, and economic impacts on human communities. It became more important for researchers to look at the direct influence the environment could have on a society. This gave rise to middle range theory and the major questions asked by environmental archaeology in the 20th and 21st centuries. Research has since led environmental archaeology to two major conclusions: humanity originated in Africa and agriculture originated in south-west Asia. Another important shift in thinking within the field centered around the notion of cost-effectivity. Before, archaeologists thought that humans usually acted to maximize their use of resources, but have since come to believe that this is not the case. Subsequent theories/principles include sociality and agency, and the focus on relationships between archaeological sites. Government research audits and the 'commercialisation' of environmental archaeology have also shaped the sub-discipline in more recent times.
+
+
+=== Notable contributors ===
+Louis Leakey contributed to a vast amount of research in this field. Leakey and his wife Mary Leakey are most known for their work on human origins in Africa. Louis Binford developed the middle range theory. Under this theory, researchers study the relationship between humans and the environment, which can be depicted in models.
+Eric Higgs researched the development of agriculture in Asia and the method of "site catchment analysis", which looks at the exploitation of land based on the land's potential.Karl Butzer is a notable pioneer of environmental archaeology and has won numerous awards and conducted research in the fields of archaeology, geography, and geology.Douglas Kennett studies environmental archaeology and human behavioral ecology. He is most known for his work investigating how climate change affected Maya civilization in its development and disintegration.
+
+
+== Methods ==
+Environmental archaeologists approach a site through evaluation and/or excavation. Evaluation seeks to analyze the resources and artifacts given in an area and their potential significance. Excavation takes samples from different layers in the ground and uses a similar strategy to evaluation. The samples typically sought after are human and faunal remains, pollen and spores, wood and charcoal, insects, and even isotopes. Biomolecules like lipids, proteins, and DNA can be revelatory samples. With respect to geoarchaeology, computer systems for topography and satellites imaging are often used to reconstruct landscapes. The Geographic Information System (GIS) is a computer system that can process spatial data and construct virtual landscapes. Climate records are able to be reconstructed through paleoclimatology proxies, which can provide information on temperatures, precipitation, vegetation, and other climate-dependent conditions. These proxies can be used to provide context for present climate and compare past climate against the present.
+
+
+== Significance ==
+
+Each focus within environmental archaeology collects information about a different aspect of humans' relation with their surrounding environment. Together these components (along with methods from other fields) are combined to fully understand a past society’s lifestyle and interactions with their environment. Past aspects of land use, food production, tool use, and occupation patterns can all be established and the knowledge applied to current and future human-environment interactions. Through predation, agriculture, and introduction of foreign biota into new environments, humans have altered past environments. Understanding these past processes can help us pursue conservation and restorative processes in the present.Environmental archaeology provides insight on sustainability and why some cultures collapsed while others survived. Societal collapse has occurred many times throughout history, one of the most prominent examples being the Maya civilization. Using lake sediment core and climate reconstruction technology discussed earlier, archaeologists were able to reconstruct the climate present at the time of the Mayans. Although the Yucatán Peninsula was found to have extreme drought at the time Mayan society collapsed, many other factors contributed to their demise. Deforestation, overpopulation, and manipulating wetlands are only a few theories as to why the Maya civilization collapsed, but all of these worked in tandem to negatively impact the environment. From a sustainability perspective, studying how the Mayans impacted the environment allows researchers to see how these changes have permanently affected the landscape and subsequent populations living in the area.Archaeologists are increasingly under pressure to demonstrate that their work has impact beyond the discipline. This has prompted environmental archaeologists to argue that an understanding of past environmental changes is essential to model future outcomes in areas such as climate change, land cover change, soil health and food security.
+
+
+== References ==
+
+
+== External links ==
+What is Environmental Archaeology?
+A-Z of Archaeology: S - Seeds (Botanical Remains)
+A-Z of Archaeology: T - Taphonomy (Site Formation Processes)
+Aspects of Archaeology: Archaeozoology
+Animals, Food and Ancient Culture
+Association for Environmental Archaeology
+Historic England - Environmental Archaeology
+Archaeology Data Service - Environmental Archaeology Bibliography
+Environmental Archaeology - Theory and Practice: Looking Back, Moving Forwards - open access themed issue

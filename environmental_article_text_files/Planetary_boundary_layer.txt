@@ -1,0 +1,66 @@
+In meteorology, the planetary boundary layer (PBL), also known as the atmospheric boundary layer (ABL) or peplosphere, is the lowest part of the atmosphere and its behaviour is directly influenced by its contact with a planetary surface. On Earth it usually responds to changes in surface radiative forcing in an hour or less. In this layer physical quantities such as flow velocity, temperature, and moisture display rapid fluctuations (turbulence) and vertical mixing is strong. Above the PBL is the "free atmosphere", where the wind is approximately geostrophic (parallel to the isobars), while within the PBL the wind is affected by surface drag and turns across the isobars (see Ekman layer for more detail).
+
+
+== Cause of surface wind gradient ==
+
+Typically, due to aerodynamic drag, there is a wind gradient in the wind flow ~100 meters above the Earth's surface—the surface layer of the planetary boundary layer. Wind speed increases with increasing height above the ground, starting from zero due to the no-slip condition. Flow near the surface encounters obstacles that reduce the wind speed, and introduce random vertical and horizontal velocity components at right angles to the main direction of flow.
+This turbulence causes vertical mixing between the air moving horizontally at one level and the air at those levels immediately above and below it, which is important in dispersion of pollutants and in soil erosion.The reduction in velocity near the surface is a function of surface roughness, so wind velocity profiles are quite different for different terrain types. Rough, irregular ground, and man-made obstructions on the ground can reduce the geostrophic wind speed by 40% to 50%. Over open water or ice, the reduction may be only 20% to 30%.  These effects are taken into account when siting wind turbines.For engineering purposes, the wind gradient is modeled as a simple shear exhibiting a vertical velocity profile varying according to a power law with a constant exponential coefficient based on surface type. The height above ground where surface friction has a negligible effect on wind speed is called the "gradient height" and the wind speed above this height is assumed to be a constant called the "gradient wind speed". For example, typical values for the predicted gradient height are 457 m for large cities, 366 m for suburbs, 274 m for open terrain, and 213 m for open sea.Although the power law exponent approximation is convenient, it has no theoretical basis. When the temperature profile is adiabatic, the wind speed should vary logarithmically with height. Measurements over open terrain in 1961 showed good agreement with the logarithmic fit up to 100 m or so (within the surface layer), with near constant average wind speed up through 1000 m.The shearing of the wind is usually three-dimensional, that is, there is also a change in direction between the 'free' pressure gradient-driven geostrophic wind and the wind close to the ground. This is related to the Ekman spiral effect. 
+The cross-isobar angle of the diverted ageostrophic flow near the surface ranges from 10° over open water, to 30° over rough hilly terrain, and can increase to 40°-50° over land at night when the wind speed is very low.After sundown the wind gradient near the surface increases, with the increasing stability.Atmospheric stability occurring at night with radiative cooling tends to vertically constrain turbulent eddies, thus increasing the wind gradient. The magnitude of the wind gradient is largely influenced by the weather, principally atmospheric stability and the height of any convective boundary layer or capping inversion. This effect is even larger over the sea, where there is much less diurnal variation of the height of the boundary layer than over land.
+In the convective boundary layer, strong mixing diminishes vertical wind gradient.
+
+
+== Nocturnal and diurnal conditions ==
+The planetary boundary layer is different between day and night. During the day inversion layers formed during the night are broken up as a consequence of the turbulent rise of heated air. The boundary layer stabilises "shortly before sunset" and remains so during the night. All this make up a daily cycle. During winter and cloudy days the breakup of the nighttime layering is incomplete and atmospheric conditions established in previous days can persist. The breakup of the nighttime boundary layer structure is fast on sunny days. The driving force is convective cells with narrow updraft areas and large areas of gentle downdraft. These cells exceed 200–500 m in diameter.
+
+
+== Constituent layers ==
+
+As Navier–Stokes equations suggest, the planetary boundary layer turbulence is produced in the layer with the largest velocity gradients that is at the very surface proximity. This layer – conventionally called a surface layer – constitutes about 10% of the total PBL depth. Above the surface layer the PBL turbulence gradually dissipates, losing its kinetic energy to friction as well as converting the kinetic to potential energy in a density stratified flow. The balance between the rate of the turbulent kinetic energy production and its dissipation determines the planetary boundary layer depth. The PBL depth varies broadly. At a given wind speed, e.g. 8 m/s, and so at a given rate of the turbulence production, a PBL in wintertime Arctic could be as shallow as 50 m, a nocturnal PBL in mid-latitudes could be typically 300 m in thickness, and a tropical PBL in the trade-wind zone could grow to its full theoretical depth of 2000 m. The PBL depth can be 4000 m or higher in late afternoon over desert.
+In addition to the surface layer, the planetary boundary layer also comprises the PBL core (between 0.1 and 0.7 of the PBL depth) and the PBL top or entrainment layer or capping inversion layer (between 0.7 and 1 of the PBL depth). Four main external factors determine the PBL depth and its mean vertical structure: 
+
+the free atmosphere wind speed;
+the surface heat (more exactly buoyancy) balance;
+the free atmosphere density stratification;
+the free atmosphere vertical wind shear or baroclinicity.
+
+
+== Principal types ==
+
+
+=== Convective planetary boundary layer (CBL) ===
+
+A convective planetary boundary layer is a type of planetary boundary layer where positive buoyancy flux at the surface creates a thermal instability and thus generates additional or even major turbulence. (This is also known as having CAPE or convective available potential energy; see atmospheric convection.) A convective boundary layer is typical in tropical and mid-latitudes during daytime. Solar heating assisted by the heat released from the water vapor condensation could create so strong convective turbulence that the Free convective layer comprises the entire troposphere up to the tropopause (the boundary in the Earth's atmosphere between the troposphere and the stratosphere), which is at 10 km to 18 km in the Intertropical convergence zone).
+
+
+=== Stably stratified planetary boundary layer (SBL) ===
+The SBL is a PBL when negative buoyancy flux at the surface damps the turbulence; see Convective inhibition. An SBL is solely driven by the wind shear turbulence and hence the SBL cannot exist without the free atmosphere wind. An SBL is typical in nighttime at all locations and even in daytime in places where the Earth's surface is colder than the air above. An SBL plays a particularly important role in high latitudes where it is often prolonged (days to months), resulting in very cold air temperatures.
+Physical laws and equations of motion, which govern the planetary boundary layer dynamics and microphysics, are strongly non-linear and considerably influenced by properties of the Earth's surface and evolution of processes in the free atmosphere. To deal with this complexity, the whole array of turbulence modelling has been proposed. However, they are often not accurate enough to meet practical requirements. Significant improvements are expected from application of a large eddy simulation technique to problems related to the PBL.
+Perhaps the most important processes, which are critically dependent on the correct representation of the PBL in the atmospheric models (Atmospheric Model Intercomparison Project), are turbulent transport of moisture (evapotranspiration) and pollutants (air pollutants). Clouds in the boundary layer influence trade winds, the hydrological cycle, and energy exchange.
+
+
+== See also ==
+Aeroplankton
+Boundary layer
+Ekman layer
+Mixed layer
+Alpine planetary boundary layer
+Turbulence
+Wind shear
+Microburst
+Atmospheric physics
+Atmospheric sciences
+Atmospheric electricity
+Astronomical seeing
+Remote sensing atmospheric boundary layer
+Representations of the atmospheric boundary layer in global climate models
+Atmospheric dispersion modeling
+
+
+== References ==
+
+Foken, Thomas (2017). Micrometeorology. Translated by Nappo, Carmen J.; Klein. Berlin, Germany: Springer. ISBN 978-3-642-25439-0.
+
+
+== External links ==
+Description of the planetary boundary layer at theweatherprediction.com
+American Meteorological Society glossary entry

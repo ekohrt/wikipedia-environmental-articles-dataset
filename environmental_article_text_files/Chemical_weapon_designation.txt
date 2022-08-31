@@ -1,0 +1,230 @@
+Chemical, biological (CB) — and sometimes radiological — warfare agents were assigned what is termed a military symbol by the U.S. military until the American chemical and biological weapons programs were terminated (in 1990 and 1969, respectively).  Military symbols applied to the CB agent fill, and not to the entire weapon. A chemical or biological weapon designation would be, for example, "Aero-14/B", which could be filled with GB, VX, TGB, or with a biological modification kit – OU, NU, UL, etc. A CB weapon is an integrated device of (1) agent, (2) dissemination means, and (3) delivery system. 
+Military symbols can sometimes reflect the name of where a chemical agent is manufactured.  For example, chloropicrin has the symbol PS, which was derived from the British town in which it was manufactured during the First World War: Port Sunlight.
+
+
+== Chemical agents ==
+
+
+=== Blood agents ===
+
+AC – hydrogen cyanide
+CK – cyanogen chloride
+SA – Arsine
+
+
+=== Choking agents ===
+
+BBC – bromobenzyl cyanide
+CL – chlorine
+CG – phosgene
+DP – diphosgene
+KJ – stannic chloride
+NC – 80% chloropicrin, 20% stannic chloride
+PS – chloropicrin
+
+
+=== Blister agents ===
+
+H – mustard gas
+HD – distilled mustard gas
+T – O-Mustard
+Q – sesquimustard
+L – Lewisite
+HL – mustard-lewisite mixture
+HT – mustard-T mixture
+HQ – mustard-Q mixture
+HN – nitrogen mustard
+ED – ethyl dichloroarsine
+MD – methyl dichloroarsine
+PD – phenyl dichloroarsine
+CX – Phosgene oxime
+
+
+=== Tear agents ===
+
+CA – camite
+CN – mace
+CNB – mace-benzene mixture
+CNC – mace-chloroform mixture
+CND
+CNS – mace-chloropicrin-chloroform mixture
+CS – CS gas
+CS1 – micropulverized CS
+CS2 – microencapsulated CS
+CR – CR gas
+CH –
+
+
+=== Vomiting agents ===
+DA – diphenylchlorarsine
+DC – diphenylcyanoarsine
+DM – Adamsite
+
+
+=== Psycho agents ===
+
+BZ – 3-quinuclidinyl benzilate
+SN – sernyl (PCP)
+K – lysergic acid diethylamide (LSD) [EA 1729]
+
+
+=== Nerve agents ===
+
+GA – tabun [EA1205]
+GB – sarin [EA1208]
+GB2 – sarin as a binary agent from mixing OPA (isopropyl alcohol+isopropyl amine) + DF [EA5823]
+GD – soman [EA1210]
+GF – cyclosarin [EA1212]
+GE – ethyl sarin
+GH – O-isopentyl sarin [EA1221]
+GS – S-butyl sarin [EA1255]
+GV – (dimethylaminoethyl phosphorodimethyl amidoylfluoridate) [EA5365]
+VE – VE nerve agent [EA1517]
+VG – Amiton (O,O-diethyl-S-[2-(diethylamino)ethyl] phosphorothioate) [EA1508]
+VM – Edemo [EA1664]
+VS – (O-Ethyl S-2-(diisopropylamino)ethyl ethylphosphonothiolate) [EA1677]
+VP – (3-pyridyl 3,3,5-trimethylcyclohexyl methylphosphonate) [EA1511]
+VR – VR nerve agent (O-isobutyl S-(2-diethaminoethyl) methylphosphothioate)
+VX – VX nerve agent [EA1701]
+TZ – Saxitoxin
+
+
+=== Experimental agents ===
+
+Material Testing Program EA (Edgewood Arsenal) numbers:
+
+EA 1152 - Diisopropyl fluorophosphate (DFP)
+EA 1205 - Tabun (GA)
+EA 1208 - Sarin (GB)
+EA 1210 - Soman (GD)
+EA 1212 - Cyclosarin (GF)
+EA 1221 - O-isopentyl sarin
+EA 1255 - S-butyl sarin
+EA 1285 - Tetraethyl pyrophosphate (TEPP)
+EA 1298 - Methylenedioxyamphetamine (MDA), an analogue and active metabolite of MDMA
+EA 1475 - Methylenedioxymethamphetamine
+EA 1476 - A dimethylheptylpyran variant ("red oil")
+EA 1508 - VG
+EA 1517 - VE
+EA 1653 - LSD in tartrate form
+EA 1664 - Edemo (VM)
+EA 1677 - VS, a "V-series" nerve agent
+EA 1701 - VX
+EA 1729 - LSD in free base form
+EA 2092 - Benactyzine
+EA 2148-A - Phencyclidine (PCP)
+EA 2233 - A dimethylheptylpyran variant
+Eight individual isomers numbered EA-2233-1 through EA-2233-8
+EA 2277 - BZ ("Substance 78" to Soviets)
+EA 3148 - A "V-series" nerve agent, Cyclopentyl S-2-diethylaminoethyl methylphosphonothiolate ("Substance 100A" to Soviets)
+EA 3167 - A BZ variant
+EA 3443 - A BZ variant
+EA 3528 - LSD in malleate form
+EA 3580 - A BZ variant
+EA 3834 - A BZ variant
+EA 5365 - GV
+EA 5823 - Sarin (GB) as a binary agent from mixing OPA (isopropyl alcohol+isopropyl amine) + DF
+
+
+== Biological agents ==
+
+
+=== Mycotic biological agents ===
+
+OC - Coccidioides mycosis
+
+
+=== Bacterial biological agents ===
+
+N - anthrax
+TR - anthrax
+LE - plague
+UL - tularemia (schu S4)
+TT - wet-type UL
+ZZ - dry-type UL
+SR - tularemia
+JT - tularemia (425)
+HO - cholera
+AB - bovine brucellosis
+US - porcine brucellosis
+NX - porcine brucellosis
+AM - caprine brucellosis
+BX - caprine brucellosis
+Y - bacterial dysentery
+LA - Glanders
+HI - Melioidosis
+DK - diphtheria
+TQ - listeriosis
+
+
+=== Chlamydial biological agents ===
+SI - psittacosis
+
+
+=== Rickettsial biological agents ===
+RI - rocky mountain spotted fever
+UY - rocky mountain spotted fever
+OU - Q fever
+MN - wet-type OU
+NT - dry-type OU
+YE - human typhus
+AV - murine typhus
+
+
+=== Viral biological agents ===
+OJ - yellow fever
+UT - yellow fever
+LU - yellow fever
+FA - Rift Valley fever
+NU - Venezuelan equine encephalitis virus
+TD - Venezuelan Equine Encephalitis virus
+FX - Venezuelan Equine Encephalitis virus
+ZX - Eastern equine encephalitis virus
+ZL - smallpox
+AN - Japanese B encephalitis
+
+
+=== Biological vectors ===
+AP = Aedes aegypti mosquito
+
+
+=== Biological toxins ===
+
+X - botulinum toxin A
+XR - partially purified botulinum toxin A
+W - ricin toxin
+WA - ricin toxin
+UC - staphyloccocal enterotoxin B
+PG - staphylococcal enterotoxin B
+TZ - saxitoxin
+SS - saxitoxin
+PP - tetrodotoxin
+
+
+== Others ==
+
+
+=== Simulants ===
+MR - molasses residuum
+BG - Bacillus globigii
+BS - Bacillus globigii
+U - Bacillus globigii
+SM - Serratia marcescens
+P - Serratia marcescens
+AF - Aspergillus fumigatus mutant C-2
+EC - Escherichia coli
+BT - Bacillus thuringiensis
+EH - Erwinia hebicola
+FP - fluorescent particle
+
+
+=== Radiological agent ===
+
+RA -
+
+
+== References ==
+
+
+== Bibliography ==
+United States Army Chemical School. Potential Military Chemical/Biological Agents and Compounds (PDF) (Report). FM 3-11.9.

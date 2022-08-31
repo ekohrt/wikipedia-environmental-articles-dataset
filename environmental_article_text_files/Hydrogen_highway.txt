@@ -1,0 +1,38 @@
+A hydrogen highway is a chain of hydrogen-equipped public filling stations, along a road or highway, that allows hydrogen powered cars to travel. It is an element of the hydrogen infrastructure that is generally assumed to be a pre-requisite for mass utilization of hydrogen cars. For instance, William Clay Ford Jr. has stated that infrastructure is one of three factors (also including costs and manufacturability in high volumes) that hold back the marketability of fuel cell cars.[1]
+
+
+== Supply issues, cost and pollution ==
+Hydrogen fueling stations generally receive deliveries of hydrogen by tanker truck from hydrogen suppliers. An interruption at a hydrogen supply facility can shut down multiple hydrogen fueling stations. A hydrogen fueling station costs between $1 million and $4 million to build.As of 2019, 98% of hydrogen is produced by steam methane reforming, which emits carbon dioxide. The bulk of hydrogen is also transported in trucks, so pollution is emitted in its transportation.
+
+
+== Existing public stations ==
+
+
+=== Asia ===
+At the end of 2012 there were 17 private hydrogen stations. In 2014, Japan got its first commercial hydrogen fueling station.As of June 2020, there were 178 publicly available hydrogen fuel stations in operation in Asia. 114 of these were in Japan.
+
+
+=== Europe ===
+As of November 2014, there were 27 publicly available hydrogen fuel stations in operation in Western Europe. As of June 2020, there were more than 177 stations in Europe and 43 under construction; about half of these were in Germany.
+
+
+=== United States ===
+In 2013, The New York Times reported that there were "10 hydrogen stations available to the public in the United States: one in Columbia, S.C., eight in Southern California and the one in Emeryville, California". As of August 2020, there were 44 publicly accessible hydrogen refueling stations in the US, 42 of which were located in California.
+
+
+== See also ==
+Scandinavian hydrogen highway partnership
+BC hydrogen highway
+California Hydrogen Highway
+Hydrogen economy
+
+
+== References ==
+
+
+== External links ==
+California Hydrogen Highway
+Florida's Hydrogen Program
+Hydrogen Highway, Norway to Germany
+Interactive map of hydrogen stations in Europe and worldwide
+Interactive map of hydrogen stations in Europe and worldwide (includes non-public stations)

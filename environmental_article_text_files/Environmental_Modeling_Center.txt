@@ -1,0 +1,27 @@
+The Environmental Modeling Center (EMC) is a United States Government agency, which improves numerical weather, marine and climate predictions at the National Centers for Environmental Prediction (NCEP), through a broad program of research in data assimilation and modeling.  In support of the NCEP operational forecasting mission, the EMC develops, improves and monitors data assimilation systems and models of the atmosphere, ocean and coupled system, using advanced methods developed internally as well as cooperatively with scientists from universities, NOAA laboratories and other government agencies, and the international scientific community.
+
+
+== History ==
+In July 1954, the Joint Numerical Weather Prediction Unit (JNWPU) was created to test out numerical weather prediction techniques by computer.  Operational numerical weather prediction in the United States began in 1955 under the JNWPU.   This unit co-located with the Weather Bureau-Air Force-Navy (WBAN) analysis center to form the National Weather Analysis Center, which was located in Suitland, Maryland.  When the two units merged, the name changed to the National Meteorological Center (NMC) in January 1958.  When the JNWPU dissolved in 1961, NMC became an independent organization from Global Weather Central and Fleet Numerical Weather Central.  Research and computer processing abilities increased over the years, which allowed for the first global forecast model to run by June 1966.  NMC moved to the World Weather Building in Camp Springs, Maryland between 1974 and 1976.  NMC changed its name to NCEP, the National Centers for Environmental Prediction on October 1, 1995, with the Environmental Modeling Center (EMC) becoming one of its subunits.  EMC moved to the National Center for Weather and Climate Prediction building in September 2012.
+
+
+== Operations ==
+The Environmental Modeling Center is responsible for the development, running, and maintenance of more than 20 numerical weather prediction systems comprising NCEP's operational production suite.  These models include the Rapid Refresh (RAP), Global Forecast System (GFS), Global Ensemble Forecast System (GEFS), WaveWatch III, Short Range Ensemble Forecast (SREF), Climate Forecast System (CFS), Global Real-Time Ocean Forecast System (RTOFS), North American Mesoscale Model (NAM), Hurricane Weather Research and Forecasting model (HWRF), and Hurricanes in a Multi-scale Ocean-coupled Non-hydrostatic Model (HMON).
+
+
+== Branches ==
+Modeling and Data Assimilation Branch
+Verification, Post-processing and Product Generation Branch
+Engineering and Implementation Branch
+
+
+== See also ==
+National Hurricane Center
+Ocean Prediction Center
+Space Weather Prediction Center
+Storm Prediction Center
+Tropical cyclone forecast model
+Weather Prediction Center
+
+
+== References ==

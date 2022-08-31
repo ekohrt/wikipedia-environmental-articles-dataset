@@ -1,0 +1,55 @@
+Brominated flame retardants (BFRs) are organobromine compounds that have an inhibitory effect on combustion chemistry and tend to reduce the flammability of products containing them. The brominated variety of commercialized chemical flame retardants comprise approximately 19.7% of the market. They are effective in plastics and textile applications like electronics, clothes and furniture.
+
+
+== Types of compounds ==
+Many different BFRs are produced synthetically with widely varying chemical properties. There are several groups:
+Polybrominated diphenyl ethers (PBDEs): DecaBDE, OctaBDE (not manufactured anymore), PentaBDE (not manufactured anymore, the first BFR, commercialized in the 1950s)
+Polybrominated biphenyl (PBB), not manufactured anymore
+Brominated cyclohydrocarbons
+Other brominated flame retardants with different properties and mechanismsDecabromodiphenyl ether (Deca-BDE or DeBDE) - In August 2012, the UK authorities proposed decabromodiphenyl ether (Deca-BDE or DeBDE) as a candidate for Authorisation under the EU‘s regulatory regime on chemicals, REACH. On 5 July 2013 ECHA withdrew Deca-BDE from its list of priority substances for Authorisation under REACH, therefore closing the public consultation. On 1 August 2014, ECHA submitted a restriction proposal for Deca-BDE. The agency is proposing a restriction on the manufacture, use and placing on the market of the substance and of mixtures and articles containing it. On 17 September 2014, ECHA submitted the restriction report which initiates a six months public consultation. On 9 February 2017, the European Commission adopted Regulation EU 2017/227. Article 1 of this regulation states that Regulation (EC) No 1907/2006 is amended to include a ban on the use of decaBDE in quantities greater than 0.1% by weight, effective from 2 March 2019. Products placed on the market prior to 2 March 2019 are exempt. Furthermore, the use decaBDE in aircraft is permissible until 2 March 2027.Hexabromocyclododecane (HBCD or HBCDD) is a ring consisting of twelve carbon atoms with six bromine atoms tied to the ring. The commercially used HBCD is in fact a mixture of different isomers. HBCD is toxic to water-living organisms. The UNEP Stockholm Convention has listed HBCD for elimination, but allowing a temporary exemption for the use in polystyrene insulation foams in buildings.Tetrabromobisphenol A (TBBPA or TBBP-A) is regarded as toxic to water environment. This flame retardant is mainly used in printed circuit boards, as a reactive. Since TBBPA is chemically bound to the resin of the printed circuit board, it is less easily released than the loosely applied mixtures in foams such that an EU risk assessment concluded in 2005 that TBBPA poses no risk to human health in that application. TBBPA is also used as an additive in acrylonitrile butadiene styrene (ABS).
+
+
+== Contents in plastics ==
+Content of brominated flame retardants in different polymers:
+
+
+== Production ==
+390,000 tons of brominated flame retardants were sold in 2011. This represents 19.7% of the flame retardants market.
+
+
+== Types of applications ==
+The electronics industry accounts for the greatest consumption of BFRs. In computers, BFRs are used in four main applications: in printed circuit boards, in components such as connectors, in plastic covers, and in electrical cables. BFRs are also used in a multitude of products, including, but not exclusively, plastic covers of television sets, carpets, pillows, paints, upholstery, and domestic kitchen appliances.
+
+
+== Testing for BFR in plastics ==
+Until recently testing for BFR has been cumbersome. Cycle time, cost and level of expertise required for the test engineer has precluded the implementation of any screening of plastic components in a manufacturing or in a product qualification/validation environment.
+Recently, with the introduction of a new analytical instrument IA-Mass, screening of plastic material alongside a manufacturing line became possible. A five-minute detection cycle and a 20-minute quantification cycle is available to test and to qualify plastic parts as they reach the assembly line. IA-Mass identifies the presence of bromine (PBB, PBDE, and some others), but cannot characterize all the BFRs present in the plastic matrix.
+In February 2009, the Institute for Reference Materials and Measurements (IRMM) released two certified reference materials (CRMs) to help analytical laboratories better detect two classes of flame retardants, namely polybrominated diphenyl ethers (PBDEs) and polybrominated biphenyls (PBBs). The two reference materials were custom made to contain all relevant PBDEs and PBBs at levels close to the legal limit set out in the RoHS Directive of 1 g/kg for the sum of PBBs and PBDEs.
+
+
+== Environmental and safety issues ==
+Many brominated chemicals are under increasing criticism in their use in household furnishings and where children would come into contact with them. Some believe PBDEs could have harmful effects on humans and animals. Increasing concern has prompted some European countries to ban some of them, following the precautionary principle more common in Europe. Some PBDEs are lipophilic and bioaccumulative.  PBDEs have been found in people all over the world.Some brominated flame retardants were identified as persistent, bioaccumulative, and toxic to both humans and the environment and were suspected of causing neurobehavioral effects and endocrine disruption. One particular target group are firefighters who are exposed to brominated fire retardants during firefighting operations which is resulting in cancer rates that far exceed the general public. As an example, in Europe, brominated flame retardants have gone through REACH and when risks were identified appropriate risk management options were put in place; such was the case for commercial Penta-BDE and commercial Octa-BDE.
+Given the current state of waste disposal in the world, there is a potential for BFRs to be released into the environment.
+
+
+== See also ==
+Tris(2,3-dibromopropyl) phosphate
+
+
+== References ==
+
+
+== Further reading ==
+Kyle D'Silva, Alwyn Fernandes & Martin Rose (2004). "Brominated Organic Micropollutants—Igniting the Flame Retardant Issue". Critical Reviews in Environmental Science and Technology. 34 (2): 141–207. doi:10.1080/10643380490430672. S2CID 95008650.
+Law, Robin J.; Kohler, Martin; Heeb, Norbert V.; Gerecke, Andreas C.; Schmid, Peter; Voorspoels, Stefan; Covaci, Adrian; Becher, Georg; Janak, Karel (2005). "Hexabromocyclododecane Challenges Scientists and Regulators". Environmental Science & Technology. 39 (13): 281A–287A. Bibcode:2005EnST...39..281L. doi:10.1021/es053302f. PMID 16053062.
+Cynthia A. de Wit (2002). "An overview of brominated flame retardants in the environment". Chemosphere. 46 (5): 583–624. Bibcode:2002Chmsp..46..583D. doi:10.1016/S0045-6535(01)00225-9. PMID 11999784.
+Young Ran Kim;  et al. (2014). "Health consequences of exposure to brominated flame retardants: A systematic review" (PDF). Chemosphere. 106: 1–19. Bibcode:2014Chmsp.106....1K. doi:10.1016/j.chemosphere.2013.12.064. PMID 24529398.
+H. Fromme; G. Becher; B. Hilger; W. Völkel (2016). "Brominated flame retardants – Exposure and risk assessment for the general population". International Journal of Hygiene and Environmental Health. 219 (1): 1–23. doi:10.1016/j.ijheh.2015.08.004. PMID 26412400.
+J. de Boer; H. M. Stapleton (2019). "Toward fire safety without chemical risk". Science. 364 (6437): 231–232. Bibcode:2019Sci...364..231D. doi:10.1126/science.aax2054. hdl:1871.1/bb6014cc-f3d4-4f55-bf5f-26d48843889f. PMID 31000649. S2CID 121618800.
+
+
+== External links ==
+MPI Milebrome - Brominated Flame Retardants
+Bromine Science and Environmental Forum
+European Brominated Flame Retardant Industry Panel
+SFT: Current State of Knowledge and Monitoring requirements: Emerging "new" Brominated flame retardants in flame retarded products and the environment

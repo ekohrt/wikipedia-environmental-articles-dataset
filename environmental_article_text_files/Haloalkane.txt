@@ -1,0 +1,114 @@
+The haloalkanes (also known as halogenoalkanes or alkyl halides) are alkanes containing one or more halogen substituents. They are a subset of the general class of halocarbons, although the distinction is not often made. Haloalkanes are widely used commercially. They are used as flame retardants, fire extinguishants, refrigerants, propellants, solvents, and pharmaceuticals. Subsequent to the widespread use in commerce, many halocarbons have also been shown to be serious pollutants and toxins. For example, the chlorofluorocarbons have been shown to lead to ozone depletion. Methyl bromide is a controversial fumigant. Only haloalkanes that contain chlorine, bromine, and iodine are a threat to the ozone layer, but fluorinated volatile haloalkanes in theory may have activity as greenhouse gases. Methyl iodide, a naturally occurring substance, however, does not have ozone-depleting properties and the United States Environmental Protection Agency has designated the compound a non-ozone layer depleter. For more information, see Halomethane. Haloalkane or alkyl halides are the compounds which have the general formula "RX" where R is an alkyl or substituted alkyl group and X is a halogen (F, Cl, Br, I).
+Haloalkanes have been known for centuries. Chloroethane was produced in the 15th century. The systematic synthesis of such compounds developed in the 19th century in step with the development of organic chemistry and the understanding of the structure of alkanes. Methods were developed for the selective formation of C-halogen bonds. Especially versatile methods included the addition of halogens to alkenes, hydrohalogenation of alkenes, and the conversion of alcohols to alkyl halides. These methods are so reliable and so easily implemented that haloalkanes became cheaply available for use in industrial chemistry because the halide could be further replaced by other functional groups.
+While most haloalkanes are human-produced, non-artificial-source haloalkanes do occur on Earth, mostly through enzyme-mediated synthesis by bacteria, fungi, and especially sea macroalgae (seaweeds). More than 1600 halogenated organics have been identified, with bromoalkanes being the most common haloalkanes. Brominated organics in biology range from biologically produced methyl bromide to non-alkane aromatics and unsaturates (indoles, terpenes, acetogenins, and phenols). Halogenated alkanes in land plants are more rare, but do occur, as for example the fluoroacetate produced as a toxin by at least 40 species of known plants. Specific dehalogenase enzymes in bacteria which remove halogens from haloalkanes, are also known.
+
+
+== Classes ==
+From the structural perspective, haloalkanes can be classified according to the connectivity of the carbon atom to which the halogen is attached. In primary (1°) haloalkanes, the carbon that carries the halogen atom is only attached to one other alkyl group. An example is chloroethane (CH3CH2Cl). In secondary (2°) haloalkanes, the carbon that carries the halogen atom has two C–C bonds. In tertiary (3°) haloalkanes, the carbon that carries the halogen atom has three C–C bonds.
+Haloalkanes can also be classified according to the type of halogen on group 7 responding to a specific halogenoalkane. Haloalkanes containing carbon bonded to fluorine, chlorine, bromine, and iodine results in organofluorine, organochlorine, organobromine and organoiodine compounds, respectively. Compounds containing more than one kind of halogen are also possible. Several classes of widely used haloalkanes are classified in this way chlorofluorocarbons (CFCs), hydrochlorofluorocarbons (HCFCs) and hydrofluorocarbons (HFCs). These abbreviations are particularly common in discussions of the environmental impact of haloalkanes.
+
+
+== Properties ==
+Haloalkanes generally resemble the parent alkanes in being colorless, relatively odorless, and hydrophobic. The melting and boiling points of chloro-, bromo-, and iodoalkanes are higher than the analogous alkanes, scaling with the atomic weight and number of halides. This effect is due to the increased strength of the intermolecular forces—from London dispersion to dipole-dipole interaction because of the increased polarizability. Thus tetraiodomethane (CI4) is a solid whereas tetrachloromethane (CCl4) is a liquid. Many fluoroalkanes, however, go against this trend and have lower melting and boiling points than their nonfluorinated analogues due to the decreased polarizability of fluorine. For example, methane (CH4) has a melting point of -182.5 °C whereas tetrafluoromethane (CF4) has a melting point of -183.6 °C. 
+As they contain fewer C–H bonds, haloalkanes are less flammable than alkanes, and some are used in fire extinguishers. Haloalkanes are better solvents than the corresponding alkanes because of their increased polarity. Haloalkanes containing halogens other than fluorine are more reactive than the parent alkanes—it is this reactivity that is the basis of most controversies. Many are alkylating agents, with primary haloalkanes and those containing heavier halogens being the most active (fluoroalkanes do not act as alkylating agents under normal conditions). The ozone-depleting abilities of the CFCs arises from the photolability of the C–Cl bond.
+
+
+== Natural occurrence ==
+The oceans are estimated to release 1-2 million tons of bromomethane annually.
+
+
+== Nomenclature ==
+
+
+=== IUPAC ===
+The formal naming of haloalkanes should follow IUPAC nomenclature, which put the halogen as a prefix to the alkane. For example, ethane with bromine becomes bromoethane, methane with four chlorine groups becomes tetrachloromethane. However, many of these compounds have already an established trivial name, which is endorsed by the IUPAC nomenclature, for example chloroform (trichloromethane) and methylene chloride (dichloromethane). But nowadays, IUPAC nomenclature is used. For unambiguity, this article follows the systematic naming scheme throughout.
+
+
+== Production ==
+Haloalkanes can be produced from virtually all organic precursors. From the perspective of industry, the most important ones are alkanes and alkenes.
+
+
+=== From alkanes ===
+
+Alkanes react with halogens by free radical halogenation. In this reaction a hydrogen atom is removed from the alkane, then replaced by a halogen atom by reaction with a diatomic halogen molecule. Free radical halogenation typically produces a mixture of compounds mono- or multihalogenated at various positions.
+
+
+=== From alkenes and alkynes ===
+In hydrohalogenation, an alkene reacts with a dry hydrogen halide (HX) like hydrogen chloride (HCl) or hydrogen bromide (HBr) to form a mono-haloalkane. The double bond of the alkene is replaced by two new bonds, one with the halogen and one with the hydrogen atom of the hydrohalic acid. Markovnikov's rule states that hydrogen is attached to that carbon which have more number of hydrogen. 
+Alkenes also react with halogens (X2) to form haloalkanes with two neighboring halogen atoms in a halogen addition reaction. Alkynes react similarly, forming the tetrahalo compounds. This is sometimes known as "decolorizing" the halogen, since the reagent X2 is colored and the product is usually colorless and odorless.
+
+
+=== From alcohols ===
+Alcohol can be converted to haloalkanes. Tertiary alcohol reacts with hydrochloric acid to produce tertiary choloroalkane. Primary and secondary alcohol require an activator such as zinc chloride. This reaction is exploited in the Lucas test.
+In the "Darzens halogenation", thionyl chloride  (SOCl2) convert these less reactive alcohols to chlorides. Both phosphorus pentachloride (PCl5) and phosphorus trichloride (PCl3) function similarly.
+Alcohols may likewise be converted to bromoalkanes using hydrobromic acid or phosphorus tribromide (PBr3). A catalytic amount of PBr3 may be used for the transformation using phosphorus and bromine; PBr3 is formed in situ.
+Iodoalkanes may similarly be prepared using red phosphorus and iodine (equivalent to phosphorus triiodide). The Appel reaction is also useful for preparing alkyl halides. The reagent is tetrahalomethane and triphenylphosphine; the co-products are haloform and triphenylphosphine oxide.
+
+
+=== From carboxylic acids ===
+Two methods for the synthesis of haloalkanes from carboxylic acids are the Hunsdiecker reaction and the Kochi reaction.
+
+
+=== Biosynthesis ===
+Many chloro and bromoalkanes are formed naturally. The principal pathways involve the enzymes chloroperoxidase and bromoperoxidase.
+
+
+=== From amines by Sandmeyer's Method ===
+Primary aromatic amines yield diazonium ions in a solution of sodium nitrite. Upon heating this solution with cuprous(II) chloride, the diazonium group is replaced by -Cl. This is a comparatively easy method to make aryl halides as the gaseous product can be separated easily from aryl halide.
+When an iodide is to be made, copper chloride is not needed. Addition of potassium iodide with gentle shaking produces the haloalkane.
+
+
+== Reactions ==
+Haloalkanes are reactive towards nucleophiles. They are polar molecules: the carbon to which the halogen is attached is slightly electropositive where the halogen is slightly electronegative. This results in an electron deficient (electrophilic) carbon which, inevitably, attracts nucleophiles.
+
+
+=== Substitution ===
+Substitution reactions involve the replacement of the halogen with another molecule—thus leaving saturated hydrocarbons, as well as the halogenated product. Haloalkanes behave as the R+ synthon, and readily react with nucleophiles.
+Hydrolysis, a reaction in which water breaks a bond, is a good example of the nucleophilic nature of haloalkanes. The polar bond attracts a hydroxide ion, OH− (NaOH(aq) being a common source of this ion). This OH− is a nucleophile with a clearly negative charge, as it has excess electrons it donates them to the carbon, which results in a covalent bond between the two. Thus C–X is broken by heterolytic fission resulting in a halide ion, X−. As can be seen, the OH is now attached to the alkyl group, creating an alcohol. (Hydrolysis of bromoethane, for example, yields ethanol). Reaction with ammonia give primary amines.
+Chloro- and bromoalkanes are readily substituted by iodide in the Finkelstein reaction. The iodoalkanes produced easily undergo further reaction. Sodium iodide is used thus as a catalyst.
+Haloalkanes react with ionic nucleophiles (e.g. cyanide, thiocyanate, azide); the halogen is replaced by the respective group. This is of great synthetic utility: chloroalkanes are often inexpensively available. For example, after undergoing substitution reactions, cyanoalkanes may be hydrolyzed to carboxylic acids, or reduced to primary amines using lithium aluminium hydride. Azoalkanes may be reduced to primary amines by the Staudinger reduction or lithium aluminium hydride. Amines may also be prepared from alkyl halides in amine alkylation, the Gabriel synthesis and Delepine reaction, by undergoing nucleophilic substitution with potassium phthalimide or hexamine respectively, followed by hydrolysis.
+In the presence of a base, haloalkanes alkylate alcohols, amines, and thiols to obtain ethers, N-substituted amines, and thioethers respectively. They are substituted by Grignard reagents to give magnesium salts and an extended alkyl compound.
+
+
+=== Elimination ===
+
+In dehydrohalogenation reactions, the halogen and an adjacent proton are removed from halocarbons, thus forming an alkene.  For example, with bromoethane and sodium hydroxide (NaOH) in ethanol, the hydroxide ion HO− abstracts a hydrogen atom. Bromide ion is then lost, resulting in ethene, H2O and NaBr. Thus, haloalkanes can be converted to alkenes. Similarly, dihaloalkanes can be converted to alkynes.
+In related reactions, 1,2-dibromocompounds are debrominated by zinc dust to give alkenes and geminal dihalides can react with strong bases to give carbenes.
+
+
+=== Other ===
+Haloalkanes undergo free-radical reactions with elemental magnesium to give alkylmagnesium compounds: Grignard reagents. Haloalkanes also react with lithium metal to give organolithium compounds. Both Grignard reagents and organolithium compounds behave as the R− synthon. Alkali metals such as sodium and lithium are able to cause haloalkanes to couple in the Wurtz reaction, giving symmetrical alkanes. Haloalkanes, especially iodoalkanes, also undergo oxidative addition reactions to give organometallic compounds.
+
+
+== Applications ==
+
+Chlorinated or fluorinated alkenes undergo polymerization. Important halogenated polymers include polyvinyl chloride (PVC), and polytetrafluoroethene (PTFE, or teflon). 
+
+Alkyl fluorides
+An estimated one fifth of pharmaceuticals contain fluorine, including several of the top drugs. Most of these compounds are alkyl fluorides. Examples include 5-fluorouracil, flunitrazepam (Rohypnol), fluoxetine (Prozac), paroxetine (Paxil), ciprofloxacin (Cipro), mefloquine and fluconazole. Fluorine-substituted ethers are volatile anesthetics, including the commercial products methoxyflurane, enflurane, isoflurane, sevoflurane and desflurane.Alkyl chlorides
+Some low molecular weight chlorinated hydrocarbons such as chloroform, dichloromethane, dichloroethene, and trichloroethane are useful solvents. Several million tons of chlorinated methanes are produced annually. Chloromethane is a precursor to chlorosilanes and silicones. Chlorodifluoromethane (CHClF2) is used to make teflon.Alkyl bromides
+Large scale applications of alkyl bromides exploit their toxicity, which also limits their usefulness. Methyl bromide is also an effective fumigant, but its production and use are controversial.Alkyl iodides
+No large scale applications are known for alkyl iodides. Methyl iodide is a popular methylating agent in organic synthesis.Chlorofluorocarbons
+Chlorofluorocarbons were used almost universally as refrigerants and propellants due to their relatively low toxicity and high heat of vaporization. Starting in the 1980s, as their contribution to ozone depletion became known, their use was increasingly restricted, and they have now largely been replaced by HFCs.
+
+
+== Environmental considerations ==
+As potential toxins, even carcinogens, pollution by chlorocarbons has attracted attention.  Similarly, great interest has been shown in remediation of halocarbons.  Volatile halocarbons degrade photochemically because the carbon-halogen bond can be labile.  Some microorganisms dehalogenate halocarbons.  While this behavior is intriguing, the rates of remediation are generally very slow.
+
+
+== Safety ==
+As alkylating agents, haloalkanes are potential carcinogens. The more reactive members of this large class of compounds generally pose greater risk, e.g. carbon tetrachloride.
+
+
+== See also ==
+Halogenation
+Halomethane
+Halogenoarene
+Halon (disambiguation)
+
+
+== References ==
+
+
+== External links ==
+ Media related to Haloalkanes at Wikimedia Commons

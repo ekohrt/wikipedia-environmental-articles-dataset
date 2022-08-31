@@ -1,0 +1,34 @@
+Shell Eco-marathon is a world-wide energy efficiency competition sponsored by Shell. Participants build automotive vehicles to achieve the highest possible fuel efficiency. There are two vehicle classes within Shell Eco-marathon: Prototype and UrbanConcept. There are three energy categories within Shell Eco-marathon: battery-electric, hydrogen fuel cell, and internal combustion engine (gasoline, ethanol, or diesel). Prizes are awarded separately for each vehicle class and energy category. The pinnacle of the competition is the Shell Eco-marathon Drivers' World Championship, where the most energy-efficient UrbanConcept vehicles compete in a race with a limited amount of energy.
+Shell Eco-marathon competitions are held around the world with nine events as of 2018. The 2018 competition season includes events held in Singapore, California, Paris, London, Istanbul, Johannesburg, Rio de Janeiro, India, and China. Participants are students from various academic backgrounds including university teams such as past finalists University of British Columbia, Duke University, University of Toronto, and University of California, Los Angeles.In 2018, over 5,000 students from over 700 universities in 52 countries participated in Shell Eco-marathon. The digital reach of Shell Eco-marathon is approximately several million.
+
+
+== History ==
+In 1939, a group of Shell scientists based in a research laboratory in Wood River, Illinois, USA, had a friendly bet to see who could drive their own car furthest on one gallon of fuel. The winner managed a fuel economy of 49.73 mpg‑US (4.730 L/100 km; 59.72 mpg‑imp). A repeat of the challenge yielded dramatically improved results over the years:
+
+149.95 mpg‑US (1.5686 L/100 km; 180.08 mpg‑imp) with a 1947 Studebaker in 1949
+244.35 mpg‑US (0.9626 L/100 km; 293.45 mpg‑imp) with a 1959 Fiat 600 in 1968
+376.59 mpg‑US (0.62459 L/100 km; 452.27 mpg‑imp) with a 1959 Opel in 1973.The current record is 12,665 mpg‑US (0.018572 L/100 km; 15,210 mpg‑imp), set in 2005 by the PAC-Car II. The world record in Diesel efficiency was achieved by a team from the Universitat Politècnica de Valencia (Politechnical University of Valencia, Spain) in 2010 with 1396.8 kilometres per litre. In contrast, the most efficient production Diesel passenger cars achieve 60 mpg‑US (4 L/100 km; 72 mpg‑imp), and some high-powered sports cars achieve as little as 8 mpg‑US (29 L/100 km; 10 mpg‑imp).The current European Shell Eco-marathon record for a combustion engine entry was set in 2004 by the team from Lycée La Joliverie (France) at 3,410 km on the equivalent of a single litre of fuel. Prototype vehicles using fuel cells are capable of greater energy efficiency. In 2005, a hydrogen-powered vehicle built by Swiss team ETH Zurich achieved a projected 3,836 km on the equivalent of a single litre of fuel. This is equivalent to the distance between Paris and Moscow.  In 2013, ethanol efficiency world record was set by Toulouse Ingenerie Multidisciplinarie with 3100 km of a single litre of ethanol. This is equivalent to the distance between Toulouse and Istanbul.
+
+
+== Event ==
+The Eco-Marathon has different classes of competition, according to the energy source used: Fuel cells, solar cells, gasoline, Diesel fuel and LPG.  During the competition, cars must attain an average speed of at least 15 mph (23 km/h) over a distance of 10 miles (16 km). The course is typically a motor racing track or closed-off city streets. The fuel is strictly measured out for each entrant at the start and end of the course. The difference is used to calculate the vehicle's average fuel consumption. Solar-powered vehicles are not eligible for the grand prize for fuel efficiency.
+In 2017, more than 100 student teams from many countries across the Americas competed in the Shell-Eco Marathon Americas to a crowd of over 20,000 throughout the competitions at the Cobo Center in Detroit, Michigan.
+
+
+== Entrants ==
+The top performing vehicles are purpose designed for high efficiency. Some vehicles use a coast and burn technique whereby they briefly accelerate from 10 to 20 mph (from 16 to 32 km/h) and then switch the engine off and coast until the speed drops back down to 10 mph (16 km/h). This process is repeated resulting in average speed of 15 mph for the course. Typically the vehicles have:
+
+Automobile drag coefficients (Cd) below 0.1
+Rolling resistance coefficients less than 0.0015
+Weight without driver under 45 kg
+Engine efficiency under 200 specific fuel consumption (cc/bhp/hr)The vehicles are highly specialized and optimized for the event and are not intended for everyday use. The designs represent what can be achieved with current technology and offer a glimpse into the future of car design based on minimal environmental impact in a world with reduced oil reserves.  The work of the participants can be used to show ways manufacturers could redesign their products.
+
+
+== References ==
+
+
+== External links ==
+
+Official Shell Eco-Marathon website
+Shell Eco-Marathon 2010 Rules
+Shell Eco-Marathon Europe

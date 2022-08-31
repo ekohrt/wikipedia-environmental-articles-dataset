@@ -1,0 +1,175 @@
+The Massachusetts Water Resources Authority (MWRA) is a public authority in the Commonwealth of Massachusetts that provides wholesale drinking water and sewage services to certain municipalities and industrial users in the state, primarily in the Boston area.
+The authority receives water from the Quabbin and Wachusett Reservoirs and the Ware River in central and western Massachusetts. For sewage, it operates an effluent tunnel in Boston Harbor for treated sewage as well as a treatment center on Deer Island at the mouth of the harbor, among other properties.
+The modern MWRA was created in 1985 after being split from the Metropolitan District Commission. It gained the ability to raise its own revenues and issues its own bonds. The Department of Conservation and Recreation is the successor to the MDC, and still maintains the watershed lands.
+
+
+== Service area ==
+The MWRA service area covers mostly communities in Greater Boston and MetroWest.  Three communities (Chicopee, Wilbraham, and South Hadley) are in Western Massachusetts.  The table below shows which communities get which services.
+
+
+== Water system ==
+The Massachusetts Water Resources Authority and the Massachusetts Department of Conservation and Recreation (DCR) own and operate the collection, treatment, distribution, and storage facilities that supply drinking water to some forty municipalities in the metropolitan Boston area. This water system design was based upon the purchase and subsequent protection of an entire watershed. This design assures that the water remains as pristine as possible. However, modern regulations require that all supplies of drinking water be chemically treated regardless of the source. Additions to the MWRA water system throughout its history have resulted in redundancies that allow major sections of the water system to be shut down for repair or maintenance. The MWRA Operations Control Center is in Chelsea.
+
+
+=== Water sources ===
+Primary sources:
+Quabbin Reservoir – 412 billion US gallons (1.56×109 m3) storage capacity
+Wachusett Reservoir – 65 billion US gallons (250,000,000 m3) storage capacity
+Ware River (during high flow only)Backup sources:
+Sudbury Reservoir – 7.2 billion US gallons (27,000,000 m3) storage capacity
+Foss Reservoir, a.k.a. Framingham Reservoir No. 3 – 0.5 billion US gallons (1,900,000 m3) storage capacity
+
+
+=== Eastbound water flow ===
+Water bound for Greater Boston flows from the MWRA's main storage facility, the Quabbin Reservoir in central Massachusetts, through the Quabbin Aqueduct to the Wachusett Reservoir in and around Boylston and Clinton. Tributary rivers and streams comprising the Wachusett watershed, a 108 square mile (280 square kilometer) drainage basin, also feed the Wachusett Reservoir.
+The Cosgrove Tunnel carries water from there to the John J. Carroll Water Treatment Plant, located at the town lines of Marlborough, Northborough, and Southborough, Massachusetts. The plant replaced one used previously only for pH control. It comprises four ozone generators with diffusers and five concrete contact chambers with a volume of 11.3 million US gallons (43,000 m3). The plant has a capacity of 275 million US gallons (1,040,000 m3) per day, on an average day or 405 million US gallons (1,530,000 m3) per day, at peak level. It cost US$340 million.The MetroWest Water Supply Tunnel (MWWST) carries water further east, passing the Norumbega Reservoir, Schneck's Pond, and Norumbega Covered Storage in Weston. Near Route 128 and the Charles River, it splits in two, feeding regional distribution lines at the Loring Road Tanks and an interconnection with the City Tunnel passing into Newton. In the Chestnut Hill area, the City Tunnel splits into the City Tunnel Extension (northeast) and Dorchester Tunnel (southeast), which act as backbones for smaller distribution mains and feed various regional storage tanks.
+
+
+=== Westbound water flow ===
+The Chicopee Valley Aqueduct carries water from the Quabbin Reservoir to the Western Massachusetts communities of Chicopee, Wilbraham and South Hadley (Fire District No. 1). It passes through the Ware Water Treatment Facility and the Nash Hill Covered Reservoir in Ludlow.
+
+
+=== Pressure zones ===
+The water system is divided into seven pressure zones, needed because different consumers are at different altitudes. The seven zones, measured from "Boston City Base" level are approximately:
+185 ft – Low Service – Cambridge and lower portions of Boston, Somerville, Medford, Malden, Chelsea, Everett, and Winchester
+280 ft – Northern and Southern High Service – Downtown Boston towers, southern and western Boston, part of Milton, Quincy, Needham, Weston, Wellesley, Watertown, southern Waltham, Marblehead, Swampscott, Revere, Melrose, Peabody; parts of Newton, Brookline, Arlington, Somerville, Medford, Malden, Everett, Wakefield, and Stoneham
+320 ft – Intermediate High Service – parts of Belmont, Watertown, and Newton
+330 ft – Northern Intermediate High Service – Reading, Woburn; parts of Stoneham, Winchester
+400 ft – Southern Extra High Service – Stoughton, Canton, Norwood, Westwood, Dedham; parts of Milton, Boston, Brookline, and Newton
+440 ft – Northern Extra High Service – Bedford, Lexington; parts of Winchester, Arlington, Belmont, and Waltham
+
+
+=== Water storage facilities ===
+The major MWRA water storage facilities outside of the source reservoirs are listed below. Covered storage facilities (242.7 million US gallons (919,000 m3) total capacity) are in primary use, and surface reservoirs are used as backup only. (Uncovered reservoirs cannot store potable water without the need for later treatment).
+
+
+=== Redundancy ===
+The Wachusett Aqueduct is an older parallel conduit to the Cosgrove Tunnel, and is still available as standby transmission for moving water from the Wachusett Reservoir to the Carroll Water Treatment Plant. It was used for this purpose during a tunnel shutdown in 2003.
+The Hultman Aqueduct begins at the Carroll Water Treatment Plant and parallels the MetroWest Water Supply Tunnel (MWWST), which replaced it in 2003. After the MWWST's completion the Hultman Aqueduct underwent a major reconstruction project, which lasted from 2009 to 2014, with the goal of maintaining it as a standby alternative to the MWWST. With the completion of its refurbishment in 2014 it returned to standby status for use in the event the MWWST is unavailable.The Wachusett Aqueduct open channel extends past the Carroll Water Treatment Plant and connects the underground portion of the Wachusett Aqueduct to the Sudbury Reservoir. Before the Hultman and Cosgrove aqueducts were built this served as the primary method of transmission for water from the Wachusett Reservoir. Although no longer used for that purpose it is maintained as emergency transmission. In an emergency this can be used to feed untreated Quabbin and Wachusett Reservoir water into the emergency source reservoirs.
+The backup Weston Aqueduct runs from the Sudbury Reservoir in Framingham, running to the Loring Road storage tanks in Weston via the Weston Reservoir (a backup surface storage reservoir). The Hultman Aqueduct and the MWWST connect with the Sudbury Reservoir and Weston Aqueduct.
+The Sudbury Aqueduct runs from Foss Reservoir (Framingham Reservoir No. 3) in Framingham directly to the Chestnut Hill Reservoir, parallelling the MWWST. Sudbury Reservoir and Foss Reservoir are connected by a surface waterway. Framingham Reservoirs No. 1 and No. 2 are downstream on the Sudbury River from No. 3, and are no longer designated as emergency water supplies.
+Construction on a redundant barrel of the Chicopee Valley Aqueduct was substantially complete in 2008.During the failure of the interconnection between the MWWST and City Tunnel in May 2010, the MWRA drew water from the Chestnut Hill Reservoir, Spot Pond Reservoir, and Sudbury Reservoir via the Sudbury Aqueduct. The Hultman Aqueduct was unavailable as a backup as it was undergoing reconstruction at the time.In an emergency, water can be treated with sodium hypochlorite at any point in the system by deploying Mobile Disinfection Units – trailer-mounted units that the MWRA has stored at strategic locations throughout its system. Emergency chlorination was used during the main break of May 2010, but not quickly enough to prevent the need for a boil-water order; part of the delay was the need for follow-up testing.
+
+
+=== Electrical generation ===
+The system includes three hydropower stations (one inactive) and two wind turbines, with a total capacity of 19.8 MW. Water released to the Swift River flows through the Winsor Station below the Winsor Dam but the turbines were damaged in a fire and have not been reactivated. Water transferred from Quabbin to Wachusett can pass either through the turbines at Oakdale or through bypass pipes when flow requirements exceed turbine ratings. Water released from Wachusett into the Cosgrove Tunnel passes through the Cosgrove turbines. The 4 original turbines in the Wachusett Gatehouse, located at the start of the Wachusett Aqueduct, have not been used in over 40 years. A 1.54MW turbine is currently being installed at the dam. A turbine at Southborough at the start of the Weston Aqueduct has also been inactive for a long period.
+The Quabbin Aqueduct connects the two reservoirs, and relies upon gravity to accommodate the three separate operational needs. First, diversion of water from the Ware River into the Quabbin Reservoir uses this aqueduct. Second, water transfer from the Quabbin Reservoir to the Wachusett Reservoir, through a hydropower station or a bypass pipe, uses it as well. The bypass valves are non-regulating valves, and when opened, only the head in the Quabbin Reservoir and the physical characteristics of the aqueduct govern the flow. Because the turbines are flow limited, the bypass mechanism permits transfer rates nearly twice as high as are possible through the turbines. Operationally, the single aqueduct fulfills three purposes, but only one operational mode is possible at a given time.MRWA also owns and operates several solar power and wind power facilities to help meet Massachusetts' greenhouse gas emission reduction goals, and undertakes energy efficiency projects. As a large customer, it also generates its own electricity at Deer Island Sewage Treatment Plant and Carroll Water Treatment Plant during periods of high demand to earn money with demand response contracts and to avoid high peak-time prices. This further reduces emissions from less-efficient grid peaking power plants that would otherwise be needed.
+
+
+== Water system history and plans ==
+
+
+=== Major construction ===
+Local wells, springs (including one on Boston Common), and rain barrels were the first sources of water for Boston residents. Jamaica Pond was used as a water source for Boston starting in 1795, using wooden pipes (later with cast iron). After several epidemics and fires which exposed the inadequacy of the water supply, the Cochituate System was constructed by the Cochituate Water Board, starting in 1845 and opening in 1848. It included a dam on the Sudbury River, creating Lake Cochituate which fed the Cochituate Aqueduct leading to the Brookline Reservoir and local storage such as the Beacon Hill Reservoir. When Boston annexed Charlestown in 1873, the Mystic Lakes system was added to Boston's water supply. The Cochituate Reservoir and Aqueduct were abandoned in 1951; none of the other reservoirs or lakes are currently in use as part of the primary or backup water supply.The Boston Water Board constructed seven reservoirs in the Sudbury River watershed from 1875 to 1898.  Water impounded in these reservoirs was delivered to the Chestnut Hill Reservoir by the Sudbury Aqueduct, completed in 1878. Some distribution mains serving the Boston Low Service area date to the period when water was gravity-fed from the Brookline and Chestnut Hill Reservoirs. (These were transferred to Weston Reservoir by 1900, and covered storage in Weston by 1978, with supplemental service from the City Tunnel and City Tunnel Extension.) In the late 1800s, water was pumped from Chestnut Hill to the Waban Hill Reservoir in Newton and the Fisher Hill Reservoir in Brookline to create the Southern High Service zone. Other pumping stations were also added: one at Alewife Brook in Somerville and another at Spot Pond in Stoneham. Some of the distribution mains carrying the now-unused supply from the Mystic Lakes, and those connecting Chestnut Hill with these mains and Spot Pond, are still supplying the northern Low Service area.  Spot Pond served the northern Low Service zone, and pumped water to the Fells Reservoir to create the Northern High Service zone.Population growth and the increasing popularity of indoor plumbing continued to put pressure on the region's water supply. After considering Lake Winnipesaukee, Sebago Lake, and the Merrimack River, the Metropolitan Water Board decided to create the world record-setting Wachusett Reservoir by damming the Nashua River in Clinton, Massachusetts. It was completed in 1905 and filled in 1908, feeding the Wachusett Aqueduct. Water travelled to the Boston area via the Weston Aqueduct and the Weston Reservoir, or via the new Sudbury Reservoir and the older Sudbury Aqueduct.
+Continued growth in water demand prompted the 1926 construction of the Wachusett-Coldbrook Tunnel to tap seasonal excess water in the Ware River. The tunnel was extended to the Swift River to become the Quabbin Aqueduct. The Metropolitan Water Supply Commission began construction of the massive Quabbin Reservoir in 1936, and it took from 1939 to 1946 to fill the reservoir. The creation of the new reservoir resulted in the disincorporation of four Western Massachusetts towns.
+The Chicopee Valley Aqueduct was completed in 1950. Other pressure zones were created around Route 128 suburbs in 1951 by adding several pumping stations.Capacity was expanded in 1941 with the completion of the Hultman Aqueduct (which connected the Wachusett Aqueduct to the end of the Weston Aqueduct at Norumbega). The City Tunnel was added in 1951, connecting to the Chestnut Hill nexus. The City Tunnel Extension (1961) and Dorchester Tunnel (1978) carried high-pressure water part of the way to Fells and Blue Hills reservoirs, respectively. The Dorchester Tunnel allowed the relegation of the Sudbury Aqueduct and Chestnut Hill Reservoir to backup status, which also improved water quality. The redundant Cosgrove Tunnel was finished in 1965, allowing maintenance of the Wachusett Aqueduct.
+
+
+=== Conservation era ===
+Demand for water exceeded the "safe supply" of 300 million US gallons (1,100,000 m3) per day (for which precipitation is reliably available) starting in 1969.  Though diverting water from the yet further westward Connecticut River was considered several times, in 1986, the MWRA instead undertook a campaign of water conservation.  Demand was reduced to sustainable levels by 1989, and continued to drop to around 220 million US gallons (830,000 m3) per day by 2009.From 1996 to 2009, the MWRA constructed sanitary covered storage tanks.  These are now the primary local storage; the remaining small uncovered reservoirs are only used for backup because the water from these basins would require further treatment. The MetroWest Water Supply Tunnel was finished in 2003, allowing rehabilitation of the increasingly leaky Hultman Aqueduct.
+
+
+=== 2010 supply failure ===
+The 2010 Boston Water Emergency was caused by a catastrophic failure of a collar connecting two sections of 10-foot-wide (3.0 m) pipe that ruptured in Weston, Massachusetts, on May 1, disrupting the connection between the MetroWest Water Supply Tunnel and the City Tunnel.  This resulted in activation of the backup reservoir system for the first time, and a boil-water order for the entire MWRA system affecting approximately two million residents of 31 cities and towns.  On May 4, test results indicating the backup water supply was clean enabled lifting of the boil water order.
+
+
+=== System expansion ===
+Given that conservation efforts brought demand well below the MWRA-defined "safe yield", and desiring to amortize over more ratepayers the fixed costs of large projects like the MetroWest Tunnel and Deer Island sewage treatment plant, the MWRA is seeking to add more wholesale water customers, including municipalities and properties straddling the border of its service area.  At the same time, certain communities in Massachusetts are facing a shortage of available water due to population growth or other factors.From 2002 to 2009, the following municipalities and other customers have been added to the system:
+Stoughton, Massachusetts
+Avalon (private development on Danvers-Peabody border)
+Dedham/Westwood Water District
+YMCA (private customer on Salem-Marblehead border)
+Reading, Massachusetts
+Wilmington, Massachusetts
+
+
+=== Lead pipe removal ===
+MWRA and municipal water mains are made of concrete, steel, and iron, but as of 2016, about 5% of service lines (between the street and buildings, running from public to private property) in various municipalities were still made of lead. In 2016, during the Flint water crisis, the MWRA board approved $100 million in zero-interest loans for lead pipe removal. Each affected municipality is responsible for designing and operating its own program; MWRA estimates this funding will be enough to removal all lead service pipes from the entire system. MWRA has adjusted water pH since 1996 to avoid corrosion and leaching of lead from remaining pipes into drinking water.
+
+
+=== Planned expansions and upgrades ===
+Burlington, Massachusetts town meeting voted in 2018 to connect to the MWRA via Arlington, to make up for a partial shutdown of its Vine Brook Treatment Plant due to wells contaminated with 1,4 dioxane. Another vote to fund the second phase of construction is expected in 2021. In the meantime, Burlington gets MWRA water via Lexington if supplies drop to the point that a full outdoor watering ban is necessary (which happened during the drought of summer 2020).In June 2020, the Lynnfield Center Water District (one of two districts in Lynnfield, Massachusetts) reached its pumping capacity, due to a combination of drought and high residential water usage during the COVID-19 pandemic in Massachusetts. It started the process of making an emergency interconnection to the Lynnfield Water District, which is supplied by the MWRA.Because they have no alternative routes, City Tunnel, City Tunnel Extension, and Dorchester Tunnel cannot be taken out of service for more than a day for maintenance. Some of the valves that would allow that to happen are corroded or underwater. The MWRA is planning to use a tunnel boring machine to dig two new 10-foot-diameter tunnels from Shaft 55A in Weston. The new Northern Tunnel would go to the Waltham-Belmont border, and together with smaller service mains in Belmont, Arlington, and Medford, would form a loop with the City Extension Tunnel and City Tunnel. The new Southern Tunnel would go to Shaft 7C on the Dorchester Tunnel in Boston, forming a southern loop. A smaller service main in Boston would provide redundancy for the remainder of the Dorchester Tunnel. As of 2018, the project is expected to take 17 to 23 years to design and construct.Various other "Metropolitan Redundancy Interim Improvements" would increase reliability in the short term and in the long term help eliminate any single point of failure that would necessitate a boil-water order or cause a complete water outage in any given area. This includes making a new connection for the Commonwealth Avenue Pumping Station in Newtown to low service lines, to allow the city to continue to receive water in case the City Tunnel goes out of service. MWRA also has a program to finance replacement or lining of local water mains, to maintain quality for consumers.
+
+
+== Sewage system history ==
+
+In 1884, the Boston Main Drainage System was completed, carrying sewage from 18 towns to Moon Island to be held for an outgoing tide. In the early 1900s, the sewage was pumped directly into Boston Harbor. The Metropolitan District Commission built a sewage treatment plant at Nut Island in 1952, and another at Deer Island in 1968. The Clean Water Act of 1972 imposed more stringent requirements. Dumping of sludge into Boston Harbor ended in 1991 by using a facility in Quincy to convert it into fertilizer. Sewage processing was improved and consolidated at Deer Island in the 1990s, with a deep-water discharge system finished in 2000. Federally mandated projects to reduce combined sewer outflow events into Boston Harbor and local rivers were ongoing as of 2004.
+  The South Boston CSO Storage Tunnel was completed in 2011.
+
+
+== Water and sewage statistics ==
+MWRA Total Water Demand and Wastewater Generation
+[2]
+
+* Total withdrawals and water sales included an additional (temporary) demand from Cambridge while it rebuilt its own water treatment plant. For calendar year 1999, 15 mgd; calendar year 2000, 14 mgd; and calendar year 2001, 6 mgd.
+** Total withdrawals do not include an additional demand associated with Carroll Water Treatment Plant start up and testing activities. For calendar year 2003, 2,710 MG (annual average 7.4 mgd); calendar year 2004, 1,326 MG (annual average 3.6 mgd); calendar year 2005, 12,264 MG (annual average 33.6 mgd).
+
+
+== Rates ==
+Final FY08 Water and Sewer Assessments
+Annual Water and Sewer Retail Rate Survey"The MWRA Advisory Board...
+was established by the state Legislature to represent the 60 communities in the MWRA
+service area. Through annual comments and recommendations on the Authority’s proposed
+capital and current expense budgets and rates, the Advisory Board provides a ratepayer
+perspective on the MWRA’s plans and policies to improve the region’s water and sewer
+systems."
+"The water and sewer rates cited on the following pages for average annual household use are based
+on the industry standard of 120 hundred cubic feet (HCF), or approximately 90,000 US gallons (340,000 L). Actual
+usage per household will vary. The principal goal of the survey is to track retail rate increases from year to year using a consistent standard."
+Combined Annual Water & Sewer Charges in MWRA Communities
+
+1991 – 2007:
+$443 $523 $559 $570 $593 $626 $648 $674 $699 $724 $751 $794 $842 $889 $946 $1,006 $1,069MWRA SYSTEMWIDE SUMMARY DATA 2007
+
+Avg. combined water and sewer cost $1,068.54
+Percent change from prior year 6.2%WATER BILLING FREQUENCY
+
+Semi-Annual 16
+Tri-Annual 2
+Quarterly 38
+Monthly 4WATER RATE STRUCTURE
+
+Ascending Block with Base Charge 22
+Ascending Block only 15
+Flat Rate with Base Charge 7
+Flat Rate only 15
+Fixed Fee 1
+
+
+=== Combined annual water and sewer charges in MWRA municipalities ===
+(Charges include MWRA, community and alternatively supplied services;
+Rates based on average annual household use of 120 hundred cubic feet (HCF), or approximately 90,000 US gallons (340,000 L))
+2007 Water & Sewer Retail Rate Survey – MWRA Advisory Board
+
+
+=== MWRA debt ===
+"The biggest driver of MWRA's budget is debt service on the bonds that financed major capital improvement projects.
+Since its creation in 1985, MWRA has completed $6.8 billion worth of upgrades to its water and sewer systems. These projects have all but reversed the effects of neglect and underfunding of the previous decades.
+With the sewer treatment facilities on Deer Island complete, the clean-up of Boston Harbor has gained national acclaim as one of the greatest environmental success stories of our time. On the drinking water side, massive upgrades to water infrastructure, including a state-of-the-art ozone disinfection plant and covered storage tanks throughout the district guarantee some of the best drinking water in the country for generations to come. But these improvements have come at a price."
+
+
+== Annual test reports ==
+Water test results must be made public annually. The MWRA's drinking water test results for 2014 were published in June 2015.  Results from previous years are also available online.
+
+
+== Fluoridation ==
+The MWRA has fluoridated its drinking water since the 1980s, maintaining a target fluoride level of 0.7 parts per million.
+
+
+== See also ==
+Boston Water and Sewer Commission
+Nut Island effect
+
+
+== References ==
+
+
+== External links ==
+MWRA homepage
+Massachusetts Water Resources Authority, hdl:2452/36012. (Various documents).
+The history of Massachusetts water system components
+MWRA Enabling Act. MGL Ch.372 ACTS, 1984
+360 CMR Sewer Use 2003
+Community Assessments (Rates)
+MWRA Advisory Board
+MWRA Customer Community Websites

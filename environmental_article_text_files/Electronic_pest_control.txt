@@ -1,0 +1,49 @@
+Electronic pest control is the name given to any of several types of electrically powered devices designed to repel or eliminate pests, usually rodents or insects. Since these devices are not regulated under the Federal Insecticide, Fungicide, and Rodenticide Act in the United States, the EPA does not require the same kind of efficacy testing that it does for chemical pesticides.
+
+
+== Types of devices ==
+
+
+=== Ultrasonic ===
+Ultrasonic devices operate through emitting short wavelength, high frequency sound waves that are too high in pitch to be heard by the human ear (generally accepted to be frequencies greater than 20,000 Hz). Humans are usually unable to hear sounds higher than 20 kHz due to physiological limitations of the cochlea, though there is considerable variation between individuals, especially at such high frequencies. Some animals, such as bats, dogs, and rodents, can hear well into the ultrasonic range. Some insects, such as grasshoppers and locusts, can detect frequencies from 50,000 Hz to 100,000 Hz, and lacewings and moths can detect ultrasound as high as 240,000 Hz produced by insect-hunting bats. Contrary to popular belief, birds cannot hear ultrasonic sound. Some smartphone applications attempt to use this technology to produce high frequency sounds to repel mosquitoes and other insects, but the claims of effectiveness of these applications and of ultrasonic control of pest creatures in general has been questioned. The ultrasonic repeller has several inconvenient side effects in addition to its questionable effectiveness.
+
+
+=== Radio wave pest control ===
+The concept of radio wave (RW) or radio frequency (RF) to control the behavior of living organisms has shown promise. According to Drs. Juming Tang and Shaojin Wang at Washington State University (WSU) with colleagues at the University of California-Davis and USDA's Agricultural Research Service in Parlier, California, since RF energy generates heat through agitation of bound water molecules, it generates heat through ionic conduction and agitation of free water molecules in insects. As a result, more thermal energy is converted in insects.
+RF treatments control insect pests without negatively affecting food stuffs and storage locations. RF treatments may serve as a non-chemical alternative to chemical fumigants for post-harvest pest control in commodities (such as almonds, pecans, pistachios, lentils, peas, and soybeans), reducing the long-term impact on the environment, human health, and competitiveness of agricultural industries.
+
+
+== Ultrasound studies ==
+In 2003, the Federal Trade Commission required Global Instruments, the maker of the Pest-A-Cator/Riddex series of electromagnetic pest control devices, to discontinue any claims for their efficacy until they are backed by credible scientific evidence. This ban continues to be in effect.
+In 2007 a Cochrane report reviewed by the Infectious Diseases Group determined that there was no evidence based on 10 field studies, in which ultrasonic repellent devices had been put to the test to suggest that they had any repellent effect on mosquitoes, and therefore no evidence to support their promotion. They advised discontinuing further randomized controlled trials due to field studies showing no promise in the effort to combat malaria.
+
+
+=== Effects on animals ===
+
+
+==== Effects on mosquitoes ====
+Bart Knols, an entomologist who chairs the advisory board of the Dutch Malaria Foundation and edits the website Malaria World, states there is "no scientific evidence whatsoever" that ultrasound repels mosquitoes.
+In 2005, the British consumer magazine Holiday reported the results of its test of a range of mosquito deterrents. The magazine's editor Lorna Cowan described the four appliances that used a buzzer as "a shocking waste of money" which "should be removed from sale". One, the Lovebug, a ladybird-shaped gadget designed to be clipped onto a baby's cot or child's pushchair - was singled out as a particular cause for concern, because of the likelihood that parents would trust it to keep mosquitoes away, and their children would be hurt as a result. (The Lovebug is still readily available in Europe, though it was withdrawn from the US market after the Federal Trade Commission reprimanded the manufacturer Prince Lionheart.)
+
+
+==== Effects on rodents ====
+Based on a review of tests of six commercial products, a report made at the University of Lincoln, Nebraska in 1995 concluded that all the devices, when evaluated at a range of frequencies and decibel levels, were insufficient in repelling rodents. The EPA pursued legal action against purveyors of the products, and none were subsequently marketed as a result of fines against the manufacturers.
+
+
+== Safety ==
+Professor Tim Leighton at the Institute of Sound and Vibration Research, University of Southampton, U.K. produced an 83-page paper entitled "What is Ultrasound?" (2007), in which he expressed concern about the growth in commercial products which exploit the discomforting effects of in-air ultrasound (to pests for whom it is within their audible frequency range, or to humans for whom it is not, but who can experience unpleasant subjective effects and, potentially, shifts in the hearing threshold). Leighton claims that commercial products are often advertised with cited levels which cannot be critically accepted due to lack of accepted measurement standards for ultrasound in air, and little understanding of the mechanism by which they may represent a hazard. However, there has not yet been sufficient research to confirm or deny a link between inaudible ultrasound and hearing problems in humans.The UK's independent Advisory Group on Non-ionising Radiation (AGNIR) produced a 180-page report on the health effects of human exposure to ultrasound and infrasound in 2010. The UK Health Protection Agency (HPA) published their report, which recommended an exposure limit for the general public to airborne ultrasound sound pressure levels (SPL) of 70 dB (at 20 kHz), and 100 dB (at 25 kHz and above).
+
+
+== See also ==
+Bug zapper
+Fly-killing device
+Shark repellant
+
+
+== References ==
+
+
+== Further reading ==
+"News Release". Federal Trade Commission. 2001.
+"Consent Agreement". Federal Trade Commission. July 2003.
+"Press Release Radio Waves May Offer a New, Environmentally Safe Pest Control Method". USDA. 2008. Archived from the original on 2015-02-24.

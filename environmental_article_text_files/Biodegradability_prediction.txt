@@ -1,0 +1,21 @@
+Biodegradability prediction is biologically inspired computing and attempts to predict biodegradability of anthropogenic materials in the environment. Demand for biodegradability prediction is expected to increase with governments stepping up environmental regulations (see, for instance, testing for bioaccumulation in the REACH proposal).Example:
+
+Development of quantitative structure-activity relationship (QSARs) for biodegradation, for instance, biochemical oxygen demand for chemicals released into the environment with the aid of  machine learning and other artificial intelligence methods.
+The University of Minnesota Biocatalysis and Biodegradation Database (UM-BBD), which contains information on microbial biocatalytic reactions and biodegradation pathways for primarily xenobiotic, chemical compounds. One of its many features allows the prediction of microbial catabolic reactions using substructure searching, a rule-base, and atom-to-atom mapping.
+
+
+== See also ==
+Anaerobic digestion
+Biodegradation
+Composting
+Landfill gas monitoring
+List of environment topics
+List of ecology topics
+Petersen matrix
+
+
+== References ==
+
+
+== External links ==
+UM-BBD

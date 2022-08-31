@@ -1,0 +1,37 @@
+Concrete recycling is the use of rubble from demolished concrete structures. Recycling is cheaper and more ecological than trucking rubble to a landfill. Crushed rubble can be used for road gravel, revetments, retaining walls, landscaping gravel, or raw material for new concrete. Large pieces can be used as bricks or slabs, or incorporated with new concrete into structures, a material called urbanite.
+
+
+== Importance ==
+The demand of construction aggregate was projected to reach 48.3 billion metric tons by 2015; the highest consumption was to be in Asia and the Pacific. Demolition to make space for new structures generates a large volume of waste. The most common way to dispose this waste is to dump it in a landfill, which can pollute the air and water. This, along with the resource use of this construction, has caused more and more countries to consider the importance of recycling of demolition waste.
+Benefits include:
+
+Conserves natural resources compared gravel mining. Recycling one ton of cement can save 1,360 gallons water, 900 kg of CO2.
+Reduces pollution from transport to landfills and dumps
+Reduces costs of transporting materials and waste
+Saves landfill space
+Creates employment
+
+
+== Process ==
+
+Re-purposing urbanite (concrete rubble pieces) involves selecting and transporting the pieces, and using them as slabs or bricks. The pieces can be shaped, for example using a chisel; this can be labor-intensive.
+Crushing involves removing trash, wood and paper; removing metals such as rebar, using magnets and other devices, to be recycled separately; sorting the aggregate by size; crushing it using a crushing machine; and removing other particulates by methods such as hand-picking and water flotation.Crushing at the construction site using portable crushers is cheaper and causes less pollution than transporting material to and from a quarry. Large road-portable plants can crush concrete and asphalt rubble at 600 tons per hour. These systems normally include a side discharge conveyor, a screening plant, and a return conveyor from the screen back to the crusher for re-crushing large chunks. Compact, self-contained crushers can crush up to 150 tons per hour and fit into tighter areas. Crusher attachments to construction equipment such as excavators can crush up to 100 tons per hour and make crushing of smaller volumes economical.
+
+
+== Uses ==
+Large pieces of concrete rubble (urbanite) can be used in walls as building stones, as slabs in walkways, or as riprap revetments to reduce stream bank erosion.Small pieces are used as gravel for new construction projects. Sub-base gravel is laid as the lowest layer in a road, with fresh concrete or asphalt poured over it.  The US Federal Highway Administration may use such techniques to build new highways from the materials of old highways. Concrete pavements can be broken in place and used as a base layer for an asphalt pavement through a process called rubblization.Crushed concrete free of contaminants can be used as raw material (sometimes mixed with natural aggregate) to make new concrete.Well-graded and aesthetically pleasing materials can be used as landscaping stone and mulch.Wire gabions (cages), can be filled with crushed concrete and stacked as retaining walls or privacy walls (instead of fencing).
+
+
+== Precautions ==
+There have been concerns about the recycling of painted concrete due to possible lead content. The Army Corps of Engineers' Construction Engineering Research Laboratory (CERL) and others have studied the risks, and concluded that concrete with lead-based paint should be safely used as fill without an impervious cover as long as it is covered by soil.Some experiments showed that recycled concrete is less strong and durable than concrete from natural aggregate. This can be remedied by mixing in materials such as fly ash.
+
+
+== References ==
+
+
+== External links ==
+Construction Materials Recycling Association
+Information About The Benefits on Concrete Recycling
+Omer Haciomeroglu's ERO Concrete Recycling Robot
+Strength and Durability Evaluation of Recycled Aggregate Concrete
+Use of aggregates from recycled construction and demolition waste in concrete

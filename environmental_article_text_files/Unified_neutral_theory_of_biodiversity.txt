@@ -1,0 +1,2150 @@
+The unified neutral theory of biodiversity and biogeography (here "Unified Theory" or "UNTB") is a theory and the title of a monograph by ecologist Stephen P. Hubbell. It aims to explain the diversity and relative abundance of species in ecological communities. Like other neutral theories of ecology, Hubbell assumes that the differences between members of an ecological community of trophically similar species are "neutral", or irrelevant to their success. This implies that niche differences do not influence abundance and the abundance of each species follows a random walk. The theory has sparked controversy, and some authors consider it a more complex version of other null models that fit the data better."Neutrality" means that at a given trophic level in a food web, species are equivalent in birth rates, death rates, dispersal rates and speciation rates, when measured on a per-capita basis.  This can be considered a null hypothesis to niche theory.  Hubbell built on earlier neutral models, including Robert MacArthur and E.O. Wilson's theory of island biogeography and Stephen Jay Gould's concepts of symmetry and null models.An "ecological community" is a group of trophically similar, sympatric species that actually or potentially compete in a local area for the same or similar resources. Under the Unified Theory, complex ecological interactions are permitted among individuals of an ecological community (such as competition and cooperation), provided that all individuals obey the same rules. Asymmetric phenomena such as parasitism and predation are ruled out by the terms of reference; but cooperative strategies such as swarming, and negative interaction such as competing for limited food or light are allowed (so long as all individuals behave alike).
+The theory predicts the existence of a fundamental biodiversity constant, conventionally written θ, that appears to govern species richness on a wide variety of spatial and temporal scales.
+
+
+== Saturation ==
+Although not strictly necessary for a neutral theory, many stochastic models of biodiversity assume a fixed, finite community size (total number of individual organisms).  There are unavoidable physical constraints on the total number of individuals that can be packed into a given space (although space per se isn't necessarily a resource, it is often a useful surrogate variable for a limiting resource that is distributed over the landscape; examples would include sunlight or hosts, in the case of parasites).
+If a wide range of species are considered (say, giant sequoia trees and duckweed, two species that have very different saturation densities), then the assumption of constant community size might not be very good, because density would be higher if the smaller species were monodominant. Because the Unified Theory refers only to communities of trophically similar, competing species, it is unlikely that population density will vary too widely from one place to another.
+Hubbell considers the fact that community sizes are constant and interprets it as a general principle: large landscapes are always biotically saturated with individuals.  Hubbell thus treats communities as being of a fixed number of individuals, usually denoted by J.
+Exceptions to the saturation principle include disturbed ecosystems such as the Serengeti, where saplings are trampled by elephants and Blue wildebeests; or gardens, where certain species are systematically removed.
+
+
+=== Species abundances ===
+When abundance data on natural populations are collected, two observations are almost universal:
+
+The most common species accounts for a substantial fraction of the individuals sampled;
+A substantial fraction of the species sampled are very rare.  Indeed, a substantial fraction of the species sampled are singletons, that is, species which are sufficiently rare for only a single individual to have been sampled.Such observations typically generate a large number of questions.  Why are the rare species rare? Why is the most abundant species so much more abundant than the median species abundance?
+A non neutral explanation for the rarity of rare species might suggest that rarity is a result of poor adaptation to local conditions.  The UNTB suggests that it is not necessary to invoke adaptation or niche differences because neutral dynamics alone can generate such patterns.
+Species composition in any community will change randomly with time. Any  particular abundance structure will have an associated probability.  The UNTB  predicts that the probability of a community of J individuals composed of S  distinct species with abundances 
+  
+    
+      
+        
+          n
+          
+            1
+          
+        
+      
+    
+    {\displaystyle n_{1}}
+   for species 1, 
+  
+    
+      
+        
+          n
+          
+            2
+          
+        
+      
+    
+    {\displaystyle n_{2}}
+   for  species 2, and so on up to 
+  
+    
+      
+        
+          n
+          
+            S
+          
+        
+      
+    
+    {\displaystyle n_{S}}
+   for species S is given by
+
+  
+    
+      
+        Pr
+        (
+        
+          n
+          
+            1
+          
+        
+        ,
+        
+          n
+          
+            2
+          
+        
+        ,
+        …
+        ,
+        
+          n
+          
+            S
+          
+        
+        
+          |
+        
+        θ
+        ,
+        J
+        )
+        =
+        
+          
+            
+              J
+              !
+              
+                θ
+                
+                  S
+                
+              
+            
+            
+              
+                1
+                
+                  
+                    ϕ
+                    
+                      1
+                    
+                  
+                
+              
+              
+                2
+                
+                  
+                    ϕ
+                    
+                      2
+                    
+                  
+                
+              
+              ⋯
+              
+                J
+                
+                  
+                    ϕ
+                    
+                      J
+                    
+                  
+                
+              
+              
+                ϕ
+                
+                  1
+                
+              
+              !
+              
+                ϕ
+                
+                  2
+                
+              
+              !
+              ⋯
+              
+                ϕ
+                
+                  J
+                
+              
+              !
+              
+                Π
+                
+                  k
+                  =
+                  1
+                
+                
+                  J
+                
+              
+              (
+              θ
+              +
+              k
+              −
+              1
+              )
+            
+          
+        
+      
+    
+    {\displaystyle \Pr(n_{1},n_{2},\ldots ,n_{S}|\theta ,J)={\frac {J!\theta ^{S}}{1^{\phi _{1}}2^{\phi _{2}}\cdots J^{\phi _{J}}\phi _{1}!\phi _{2}!\cdots \phi _{J}!\Pi _{k=1}^{J}(\theta +k-1)}}}
+  where 
+  
+    
+      
+        θ
+        =
+        2
+        J
+        ν
+      
+    
+    {\displaystyle \theta =2J\nu }
+   is the fundamental biodiversity number (
+  
+    
+      
+        ν
+      
+    
+    {\displaystyle \nu }
+   is the speciation rate), and 
+  
+    
+      
+        
+          ϕ
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \phi _{i}}
+   is the number of species that have i individuals in the sample.
+This equation shows that the UNTB implies a nontrivial dominance-diversity equilibrium between speciation and extinction.
+As an example, consider a community with 10 individuals and three species "a", "b", and "c" with abundances 3, 6 and 1 respectively.  Then the formula above would allow us to assess the likelihood of different values of θ. There are thus S = 3 species and 
+  
+    
+      
+        
+          ϕ
+          
+            1
+          
+        
+        =
+        
+          ϕ
+          
+            3
+          
+        
+        =
+        
+          ϕ
+          
+            6
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle \phi _{1}=\phi _{3}=\phi _{6}=1}
+  , all other 
+  
+    
+      
+        ϕ
+      
+    
+    {\displaystyle \phi }
+  's being zero. The formula would give
+
+  
+    
+      
+        Pr
+        (
+        3
+        ,
+        6
+        ,
+        1
+        
+          |
+        
+        θ
+        ,
+        10
+        )
+        =
+        
+          
+            
+              10
+              !
+              
+                θ
+                
+                  3
+                
+              
+            
+            
+              
+                1
+                
+                  1
+                
+              
+              ⋅
+              
+                3
+                
+                  1
+                
+              
+              ⋅
+              
+                6
+                
+                  1
+                
+              
+              ⋅
+              1
+              !
+              1
+              !
+              1
+              !
+              ⋅
+              θ
+              (
+              θ
+              +
+              1
+              )
+              (
+              θ
+              +
+              2
+              )
+              ⋯
+              (
+              θ
+              +
+              9
+              )
+            
+          
+        
+      
+    
+    {\displaystyle \Pr(3,6,1|\theta ,10)={\frac {10!\theta ^{3}}{1^{1}\cdot 3^{1}\cdot 6^{1}\cdot 1!1!1!\cdot \theta (\theta +1)(\theta +2)\cdots (\theta +9)}}}
+  which could be maximized to yield an estimate for θ (in practice, numerical methods are used).  The maximum likelihood estimate for θ is about 1.1478.
+We could have labelled the species another way and counted the abundances being 1,3,6 instead (or 3,1,6, etc. etc.).  Logic tells us that the probability of observing a pattern of abundances will be the same observing any permutation of those abundances. Here we would have
+
+  
+    
+      
+        Pr
+        (
+        3
+        ;
+        3
+        ,
+        6
+        ,
+        1
+        )
+        =
+        Pr
+        (
+        3
+        ;
+        1
+        ,
+        3
+        ,
+        6
+        )
+        =
+        Pr
+        (
+        3
+        ;
+        3
+        ,
+        1
+        ,
+        6
+        )
+      
+    
+    {\displaystyle \Pr(3;3,6,1)=\Pr(3;1,3,6)=\Pr(3;3,1,6)}
+  and so on.
+To account for this, it is helpful to consider only ranked abundances (that is, to sort the abundances before inserting into the formula).  A ranked dominance-diversity configuration is usually written as 
+  
+    
+      
+        Pr
+        (
+        S
+        ;
+        
+          r
+          
+            1
+          
+        
+        ,
+        
+          r
+          
+            2
+          
+        
+        ,
+        …
+        ,
+        
+          r
+          
+            s
+          
+        
+        ,
+        0
+        ,
+        …
+        ,
+        0
+        )
+      
+    
+    {\displaystyle \Pr(S;r_{1},r_{2},\ldots ,r_{s},0,\ldots ,0)}
+   where 
+  
+    
+      
+        
+          r
+          
+            i
+          
+        
+      
+    
+    {\displaystyle r_{i}}
+   is the abundance of the ith most abundant species: 
+  
+    
+      
+        
+          r
+          
+            1
+          
+        
+      
+    
+    {\displaystyle r_{1}}
+   is the abundance of the most abundant, 
+  
+    
+      
+        
+          r
+          
+            2
+          
+        
+      
+    
+    {\displaystyle r_{2}}
+   the abundance of the second most abundant species, and so on.  For convenience, the expression is usually "padded" with enough zeros to ensure that there are J species (the zeros indicating that the extra species have zero abundance).
+It is now possible to determine the expected abundance of the ith most abundant species:
+
+  
+    
+      
+        E
+        (
+        
+          r
+          
+            i
+          
+        
+        )
+        =
+        
+          ∑
+          
+            k
+            =
+            1
+          
+          
+            C
+          
+        
+        
+          r
+          
+            i
+          
+        
+        (
+        k
+        )
+        ⋅
+        Pr
+        (
+        S
+        ;
+        
+          r
+          
+            1
+          
+        
+        ,
+        
+          r
+          
+            2
+          
+        
+        ,
+        …
+        ,
+        
+          r
+          
+            s
+          
+        
+        ,
+        0
+        ,
+        …
+        ,
+        0
+        )
+      
+    
+    {\displaystyle E(r_{i})=\sum _{k=1}^{C}r_{i}(k)\cdot \Pr(S;r_{1},r_{2},\ldots ,r_{s},0,\ldots ,0)}
+  where C is the total number of configurations, 
+  
+    
+      
+        
+          r
+          
+            i
+          
+        
+        (
+        k
+        )
+      
+    
+    {\displaystyle r_{i}(k)}
+   is the abundance of the ith ranked species in the kth configuration,  and 
+  
+    
+      
+        P
+        r
+        (
+        …
+        )
+      
+    
+    {\displaystyle Pr(\ldots )}
+   is the dominance-diversity probability.  This formula is difficult to manipulate mathematically, but relatively simple to simulate computationally.
+The model discussed so far is a model of a regional community, which Hubbell calls the metacommunity. Hubbell also acknowledged that on a local scale, dispersal plays an important role. For example, seeds are more likely to come from nearby parents than from distant parents. Hubbell introduced the parameter m, which denotes the probability of immigration in the local community from the metacommunity. If m = 1, dispersal is unlimited; the local community is just a random sample from the metacommunity and the formulas above apply. If m < 1, dispersal is limited and the local community is a dispersal-limited sample from the metacommunity for which different formulas apply.
+It has been shown that 
+  
+    
+      
+        ⟨
+        
+          ϕ
+          
+            n
+          
+        
+        ⟩
+      
+    
+    {\displaystyle \langle \phi _{n}\rangle }
+  , the expected number of species with abundance n, may be calculated by
+
+  
+    
+      
+        θ
+        
+          
+            
+              J
+              !
+            
+            
+              n
+              !
+              (
+              J
+              −
+              n
+              )
+              !
+            
+          
+        
+        
+          
+            
+              Γ
+              (
+              γ
+              )
+            
+            
+              Γ
+              (
+              J
+              +
+              γ
+              )
+            
+          
+        
+        
+          ∫
+          
+            y
+            =
+            0
+          
+          
+            γ
+          
+        
+        
+          
+            
+              Γ
+              (
+              n
+              +
+              y
+              )
+            
+            
+              Γ
+              (
+              1
+              +
+              y
+              )
+            
+          
+        
+        
+          
+            
+              Γ
+              (
+              J
+              −
+              n
+              +
+              γ
+              −
+              y
+              )
+            
+            
+              Γ
+              (
+              γ
+              −
+              y
+              )
+            
+          
+        
+        exp
+        ⁡
+        (
+        −
+        y
+        θ
+        
+          /
+        
+        γ
+        )
+        
+        d
+        y
+      
+    
+    {\displaystyle \theta {\frac {J!}{n!(J-n)!}}{\frac {\Gamma (\gamma )}{\Gamma (J+\gamma )}}\int _{y=0}^{\gamma }{\frac {\Gamma (n+y)}{\Gamma (1+y)}}{\frac {\Gamma (J-n+\gamma -y)}{\Gamma (\gamma -y)}}\exp(-y\theta /\gamma )\,dy}
+  where θ is the fundamental biodiversity number, J the community size,  
+  
+    
+      
+        Γ
+      
+    
+    {\displaystyle \Gamma }
+   is the gamma function, and 
+  
+    
+      
+        γ
+        =
+        (
+        J
+        −
+        1
+        )
+        m
+        
+          /
+        
+        (
+        1
+        −
+        m
+        )
+      
+    
+    {\displaystyle \gamma =(J-1)m/(1-m)}
+  . This formula is an approximation.  The correct formula is derived in a series of papers, reviewed and synthesized by Etienne and Alonso in 2005:
+
+  
+    
+      
+        
+          
+            θ
+            
+              (
+              I
+              
+                )
+                
+                  J
+                
+              
+            
+          
+        
+        
+          
+            
+              (
+            
+            
+              J
+              n
+            
+            
+              )
+            
+          
+        
+        
+          ∫
+          
+            0
+          
+          
+            1
+          
+        
+        (
+        I
+        x
+        
+          )
+          
+            n
+          
+        
+        (
+        I
+        (
+        1
+        −
+        x
+        )
+        
+          )
+          
+            J
+            −
+            n
+          
+        
+        
+          
+            
+              (
+              1
+              −
+              x
+              
+                )
+                
+                  θ
+                  −
+                  1
+                
+              
+            
+            x
+          
+        
+        
+        d
+        x
+      
+    
+    {\displaystyle {\frac {\theta }{(I)_{J}}}{J \choose n}\int _{0}^{1}(Ix)_{n}(I(1-x))_{J-n}{\frac {(1-x)^{\theta -1}}{x}}\,dx}
+  where 
+  
+    
+      
+        I
+        =
+        (
+        J
+        −
+        1
+        )
+        ∗
+        m
+        
+          /
+        
+        (
+        1
+        −
+        m
+        )
+      
+    
+    {\displaystyle I=(J-1)*m/(1-m)}
+   is a parameter that measures dispersal limitation.
+
+  
+    
+      
+        ⟨
+        
+          ϕ
+          
+            n
+          
+        
+        ⟩
+      
+    
+    {\displaystyle \langle \phi _{n}\rangle }
+   is zero for n > J, as there cannot be more species than individuals.
+This formula is important because it allows a quick evaluation of the Unified Theory. It is not suitable for testing the theory. For this purpose, the appropriate likelihood function should be used. For the metacommunity this was given above. For the local community with dispersal limitation it is given by:
+
+  
+    
+      
+        Pr
+        (
+        
+          n
+          
+            1
+          
+        
+        ,
+        
+          n
+          
+            2
+          
+        
+        ,
+        …
+        ,
+        
+          n
+          
+            S
+          
+        
+        
+          |
+        
+        θ
+        ,
+        m
+        ,
+        J
+        )
+        =
+        
+          
+            
+              J
+              !
+            
+            
+              
+                ∏
+                
+                  i
+                  =
+                  1
+                
+                
+                  S
+                
+              
+              
+                n
+                
+                  i
+                
+              
+              
+                ∏
+                
+                  j
+                  =
+                  1
+                
+                
+                  J
+                
+              
+              
+                Φ
+                
+                  j
+                
+              
+              !
+            
+          
+        
+        
+          
+            
+              θ
+              
+                S
+              
+            
+            
+              (
+              I
+              
+                )
+                
+                  J
+                
+              
+            
+          
+        
+        
+          ∑
+          
+            A
+            =
+            S
+          
+          
+            J
+          
+        
+        K
+        (
+        
+          
+            D
+            →
+          
+        
+        ,
+        A
+        )
+        
+          
+            
+              I
+              
+                A
+              
+            
+            
+              (
+              θ
+              
+                )
+                
+                  A
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \Pr(n_{1},n_{2},\ldots ,n_{S}|\theta ,m,J)={\frac {J!}{\prod _{i=1}^{S}n_{i}\prod _{j=1}^{J}\Phi _{j}!}}{\frac {\theta ^{S}}{(I)_{J}}}\sum _{A=S}^{J}K({\overrightarrow {D}},A){\frac {I^{A}}{(\theta )_{A}}}}
+  Here, the 
+  
+    
+      
+        K
+        (
+        
+          
+            D
+            →
+          
+        
+        ,
+        A
+        )
+      
+    
+    {\displaystyle K({\overrightarrow {D}},A)}
+   for 
+  
+    
+      
+        A
+        =
+        S
+        ,
+        .
+        .
+        .
+        ,
+        J
+      
+    
+    {\displaystyle A=S,...,J}
+   are coefficients fully determined by the data, being defined as
+
+  
+    
+      
+        K
+        (
+        
+          
+            D
+            →
+          
+        
+        ,
+        A
+        )
+        :=
+        
+          ∑
+          
+            {
+            
+              a
+              
+                1
+              
+            
+            ,
+            .
+            .
+            .
+            ,
+            
+              a
+              
+                S
+              
+            
+            
+              |
+            
+            
+              ∑
+              
+                i
+                =
+                1
+              
+              
+                S
+              
+            
+            
+              a
+              
+                i
+              
+            
+            =
+            A
+            }
+          
+        
+        
+          ∏
+          
+            i
+            =
+            1
+          
+          
+            S
+          
+        
+        
+          
+            
+              
+                
+                  s
+                  ¯
+                
+              
+              
+                (
+                
+                  
+                    n
+                    
+                      i
+                    
+                  
+                  ,
+                  
+                    a
+                    
+                      i
+                    
+                  
+                
+                )
+              
+              
+                
+                  s
+                  ¯
+                
+              
+              
+                (
+                
+                  
+                    a
+                    
+                      i
+                    
+                  
+                  ,
+                  1
+                
+                )
+              
+            
+            
+              
+                
+                  s
+                  ¯
+                
+              
+              
+                (
+                
+                  
+                    n
+                    
+                      i
+                    
+                  
+                  ,
+                  1
+                
+                )
+              
+            
+          
+        
+      
+    
+    {\displaystyle K({\overrightarrow {D}},A):=\sum _{\{a_{1},...,a_{S}|\sum _{i=1}^{S}a_{i}=A\}}\prod _{i=1}^{S}{\frac {{\overline {s}}\left(n_{i},a_{i}\right){\overline {s}}\left(a_{i},1\right)}{{\overline {s}}\left(n_{i},1\right)}}}
+  This seemingly complicated formula involves Stirling numbers and Pochhammer symbols, but can be very easily calculated.An example of a species abundance curve can be found in Scientific American.
+
+
+== Stochastic modelling of species abundances ==
+UNTB distinguishes between a dispersal-limited local community of size 
+  
+    
+      
+        J
+      
+    
+    {\displaystyle J}
+   and a so-called metacommunity from which species can (re)immigrate and which acts as a heat bath to the local community. The distribution of species in the metacommunity is given by a dynamic equilibrium of speciation and extinction. Both community dynamics are modelled by appropriate urn processes, where each individual is represented by a ball with a color corresponding to its species. With a certain rate 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+   randomly chosen individuals reproduce, i.e. add another ball of their own color to the urn. Since one basic assumption is saturation, this reproduction has to happen at the cost of another random individual from the urn which is removed. At a different rate 
+  
+    
+      
+        μ
+      
+    
+    {\displaystyle \mu }
+   single individuals in the metacommunity are replaced by mutants of an entirely new species. Hubbell calls this simplified model for speciation a point mutation, using the terminology of the Neutral theory of molecular evolution. The urn scheme for the metacommunity of 
+  
+    
+      
+        
+          J
+          
+            M
+          
+        
+      
+    
+    {\displaystyle J_{M}}
+   individuals is the following.
+At each time step take one of the two possible actions :
+
+With probability 
+  
+    
+      
+        (
+        1
+        −
+        ν
+        )
+      
+    
+    {\displaystyle (1-\nu )}
+   draw an individual at random and replace another random individual from the urn with a copy of the first one.
+With probability 
+  
+    
+      
+        ν
+      
+    
+    {\displaystyle \nu }
+   draw an individual and replace it with an individual of a new species.The size 
+  
+    
+      
+        
+          J
+          
+            M
+          
+        
+      
+    
+    {\displaystyle J_{M}}
+   of the metacommunity does not change. This is a point process in time. The length of the time steps is distributed exponentially. For simplicity one can assume that each time step is as long as the mean time between two changes which can be derived from the reproduction and mutation rates 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+   and 
+  
+    
+      
+        μ
+      
+    
+    {\displaystyle \mu }
+  . The probability 
+  
+    
+      
+        ν
+      
+    
+    {\displaystyle \nu }
+   is given as 
+  
+    
+      
+        ν
+        =
+        μ
+        
+          /
+        
+        (
+        r
+        +
+        μ
+        )
+      
+    
+    {\displaystyle \nu =\mu /(r+\mu )}
+  .
+The species abundance distribution for this urn process is given by Ewens's sampling formula which was originally derived in 1972 for the distribution of alleles under neutral mutations. The expected number 
+  
+    
+      
+        
+          S
+          
+            M
+          
+        
+        (
+        n
+        )
+      
+    
+    {\displaystyle S_{M}(n)}
+   of species in the metacommunity having exactly 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   individuals is:
+
+  
+    
+      
+        
+          S
+          
+            M
+          
+        
+        (
+        n
+        )
+        =
+        
+          
+            θ
+            n
+          
+        
+        
+          
+            
+              Γ
+              (
+              
+                J
+                
+                  M
+                
+              
+              +
+              1
+              )
+              Γ
+              (
+              
+                J
+                
+                  M
+                
+              
+              +
+              θ
+              −
+              n
+              )
+            
+            
+              Γ
+              (
+              
+                J
+                
+                  M
+                
+              
+              +
+              1
+              −
+              n
+              )
+              Γ
+              (
+              
+                J
+                
+                  M
+                
+              
+              +
+              θ
+              )
+            
+          
+        
+      
+    
+    {\displaystyle S_{M}(n)={\frac {\theta }{n}}{\frac {\Gamma (J_{M}+1)\Gamma (J_{M}+\theta -n)}{\Gamma (J_{M}+1-n)\Gamma (J_{M}+\theta )}}}
+  where 
+  
+    
+      
+        θ
+        =
+        (
+        
+          J
+          
+            M
+          
+        
+        −
+        1
+        )
+        ν
+        
+          /
+        
+        (
+        1
+        −
+        ν
+        )
+        ≈
+        
+          J
+          
+            M
+          
+        
+        ν
+      
+    
+    {\displaystyle \theta =(J_{M}-1)\nu /(1-\nu )\approx J_{M}\nu }
+   is called the fundamental biodiversity number. For large
+metacommunities and 
+  
+    
+      
+        n
+        ≪
+        
+          J
+          
+            M
+          
+        
+      
+    
+    {\displaystyle n\ll J_{M}}
+   one recovers the Fisher Log-Series as species distribution.
+
+  
+    
+      
+        
+          S
+          
+            M
+          
+        
+        (
+        n
+        )
+        ≈
+        
+          
+            θ
+            n
+          
+        
+        
+          
+            (
+            
+              
+                
+                  J
+                  
+                    M
+                  
+                
+                
+                  
+                    J
+                    
+                      M
+                    
+                  
+                  +
+                  θ
+                
+              
+            
+            )
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle S_{M}(n)\approx {\frac {\theta }{n}}\left({\frac {J_{M}}{J_{M}+\theta }}\right)^{n}}
+  The urn scheme for the local community of fixed size 
+  
+    
+      
+        J
+      
+    
+    {\displaystyle J}
+   is very similar to the one for the metacommunity.
+At each time step take one of the two actions :
+
+With probability 
+  
+    
+      
+        (
+        1
+        −
+        m
+        )
+      
+    
+    {\displaystyle (1-m)}
+   draw an individual at random and replace another random individual from the urn with a copy of the first one.
+With probability 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   replace a random individual with an immigrant drawn from the metacommunity.The metacommunity is changing on a much larger timescale and is assumed to be fixed during the evolution of the local community. The resulting distribution of species in the local community and expected values depend on four parameters, 
+  
+    
+      
+        J
+      
+    
+    {\displaystyle J}
+  , 
+  
+    
+      
+        
+          J
+          
+            M
+          
+        
+      
+    
+    {\displaystyle J_{M}}
+  , 
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+   and 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   (or 
+  
+    
+      
+        I
+      
+    
+    {\displaystyle I}
+  ) and are derived by Etienne and Alonso (2005), including several simplifying limit cases like the one presented in the previous section (there called 
+  
+    
+      
+        ⟨
+        
+          ϕ
+          
+            n
+          
+        
+        ⟩
+      
+    
+    {\displaystyle \langle \phi _{n}\rangle }
+  ). The parameter 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   is a dispersal parameter. If 
+  
+    
+      
+        m
+        =
+        1
+      
+    
+    {\displaystyle m=1}
+   then the local community is just a sample from the metacommunity. For 
+  
+    
+      
+        m
+        =
+        0
+      
+    
+    {\displaystyle m=0}
+   the local community is completely isolated from the metacommunity and all species will go extinct except one. This case has been analyzed by Hubbell himself. The case 
+  
+    
+      
+        0
+        <
+        m
+        <
+        1
+      
+    
+    {\displaystyle 0<m<1}
+   is characterized by a unimodal species distribution in a Preston Diagram and often fitted by a log-normal distribution. This is understood as an intermediate state between domination of the most common species and a sampling from the metacommunity, where singleton species are most abundant. UNTB thus predicts that in dispersal limited communities rare species become even rarer. The log-normal distribution describes the maximum and the abundance of common species very well but underestimates the number of very rare species considerably which becomes only apparent for very large sample sizes.
+
+
+== Species-area relationships ==
+The Unified Theory unifies biodiversity, as measured by species-abundance curves, with biogeography, as measured by species-area curves. Species-area relationships show the rate at which species diversity increases with area.  The topic is of great interest to conservation biologists in the design of reserves, as it is often desired to harbour as many species as possible.
+The most commonly encountered relationship is the power law given by
+
+  
+    
+      
+        S
+        =
+        c
+        
+          A
+          
+            z
+          
+        
+      
+    
+    {\displaystyle S=cA^{z}}
+  where S is the number of species found, A is the area sampled, and c and z are constants.  This relationship, with different constants, has been found to fit a wide range of empirical data.
+From the perspective of Unified Theory, it is convenient to consider S as a function of total community size  J.  Then 
+  
+    
+      
+        S
+        =
+        k
+        
+          J
+          
+            z
+          
+        
+      
+    
+    {\displaystyle S=kJ^{z}}
+   for some constant k, and if this relationship were exactly true, the species area line would be straight on log scales.  It is typically found that the curve is not straight, but the slope changes from being steep at small areas, shallower at intermediate areas, and steep at the largest areas.
+The formula for species composition  may be used to calculate the expected number of species present in a community under the assumptions of the Unified Theory.  In symbols
+
+  
+    
+      
+        E
+        
+          {
+          
+            S
+            
+              |
+            
+            θ
+            ,
+            J
+          
+          }
+        
+        =
+        
+          
+            θ
+            θ
+          
+        
+        +
+        
+          
+            θ
+            
+              θ
+              +
+              1
+            
+          
+        
+        +
+        
+          
+            θ
+            
+              θ
+              +
+              2
+            
+          
+        
+        +
+        ⋯
+        +
+        
+          
+            θ
+            
+              θ
+              +
+              J
+              −
+              1
+            
+          
+        
+      
+    
+    {\displaystyle E\left\{S|\theta ,J\right\}={\frac {\theta }{\theta }}+{\frac {\theta }{\theta +1}}+{\frac {\theta }{\theta +2}}+\cdots +{\frac {\theta }{\theta +J-1}}}
+  where θ is the fundamental biodiversity number.  This formula specifies the expected number of species sampled in a community of size J. The last term, 
+  
+    
+      
+        θ
+        
+          /
+        
+        (
+        θ
+        +
+        J
+        −
+        1
+        )
+      
+    
+    {\displaystyle \theta /(\theta +J-1)}
+  , is the expected number of new species encountered when adding one new individual to the community.  This is an increasing function of θ and a decreasing function of J, as expected.
+By making the substitution 
+  
+    
+      
+        J
+        =
+        ρ
+        A
+      
+    
+    {\displaystyle J=\rho A}
+   (see section on saturation above), then the expected number of species becomes 
+  
+    
+      
+        Σ
+        θ
+        
+          /
+        
+        (
+        θ
+        +
+        ρ
+        A
+        −
+        1
+        )
+      
+    
+    {\displaystyle \Sigma \theta /(\theta +\rho A-1)}
+  .
+The formula above may be approximated to an integral giving
+
+  
+    
+      
+        S
+        (
+        θ
+        )
+        =
+        1
+        +
+        θ
+        ln
+        ⁡
+        
+          (
+          
+            1
+            +
+            
+              
+                
+                  J
+                  −
+                  1
+                
+                θ
+              
+            
+          
+          )
+        
+        .
+      
+    
+    {\displaystyle S(\theta )=1+\theta \ln \left(1+{\frac {J-1}{\theta }}\right).}
+  This formulation is predicated on a random placement of individuals.
+
+
+=== Example ===
+Consider the following (synthetic) dataset of 27 individuals:
+a,a,a,a,a,a,a,a,a,a,b,b,b,b,c,c,c,c,d,d,d,d,e,f,g,h,i
+There are thus 27 individuals of 9 species ("a" to "i") in the sample. Tabulating this would give:
+
+ a  b  c  d  e  f  g  h  i
+10  4  4  4  1  1  1  1  1
+
+indicating that species "a" is the most abundant with 10 individuals and species "e" to "i" are singletons.  Tabulating the table gives:
+
+species abundance    1    2    3    4    5    6    7    8    9    10
+number of species    5    0    0    3    0    0    0    0    0     1
+
+On the second row, the 5 in the first column means that five species, species "e" through "i", have abundance one.  The following two zeros in columns 2 and 3 mean that zero species have abundance 2 or 3.  The 3 in column 4 means that three species, species "b", "c", and "d", have abundance four.  The final 1 in column 10 means that one species, species "a", has abundance 10.
+This type of dataset is typical in biodiversity studies.  Observe how more than half the biodiversity (as measured by species count) is due to singletons.
+For real datasets, the species abundances are binned into logarithmic categories, usually using base 2, which gives bins of  abundance 0–1, abundance 1–2, abundance 2–4, abundance 4–8, etc.  Such abundance classes are called octaves; early developers of this concept included F. W. Preston and histograms showing number of species as a function of abundance octave are known as Preston diagrams.
+These bins are not mutually exclusive: a species with abundance 4, for example, could be considered as lying in the 2-4 abundance class or the 4-8 abundance class.  Species with an abundance of an exact power of 2 (i.e.  2,4,8,16, etc.) are conventionally considered as having 50% membership in the lower abundance class 50% membership in the upper class.  Such species are thus considered to be evenly split between the two adjacent classes (apart from singletons which are classified into the rarest category).   Thus in the example above, the Preston abundances would be
+
+abundance class 1    1-2   2-4   4-8  8-16
+species         5     0    1.5   1.5   1
+
+The three species of abundance four thus appear, 1.5 in abundance class 2–4, and 1.5 in 4–8.
+The above method of analysis cannot account for species that are unsampled: that is, species sufficiently rare to have been recorded zero times.  Preston diagrams are thus truncated at zero abundance. Preston called this the veil line and noted that the cutoff point would move as more individuals are sampled.
+
+
+== Dynamics ==
+All biodiversity patterns previously described are related to time-independent quantities. For biodiversity evolution and species preservation, it is crucial to compare the dynamics of ecosystems with models (Leigh, 2007). An easily accessible index of the underlying evolution is the so-called species turnover distribution (STD), defined as the probability P(r,t) that the population of any species has varied by a fraction r after a given time t.
+A neutral model that can analytically predict both the relative species abundance (RSA) at steady-state and the STD at time t has been presented in Azaele et al. (2006). Within this framework the population of any species is represented by a continuous (random) variable x, whose evolution is governed by the following Langevin equation:
+
+  
+    
+      
+        
+          
+            
+              x
+              ˙
+            
+          
+        
+        =
+        b
+        −
+        x
+        
+          /
+        
+        τ
+        +
+        
+          
+            D
+            x
+          
+        
+        ξ
+        (
+        t
+        )
+      
+    
+    {\displaystyle {\dot {x}}=b-x/\tau +{\sqrt {Dx}}\xi (t)}
+  where b is the immigration rate from a large regional community, 
+  
+    
+      
+        −
+        x
+        
+          /
+        
+        τ
+      
+    
+    {\displaystyle -x/\tau }
+   represents competition for finite resources and D is related to demographic stochasticity; 
+  
+    
+      
+        ξ
+        (
+        t
+        )
+      
+    
+    {\displaystyle \xi (t)}
+   is a Gaussian white noise. The model can also be derived as a continuous approximation of a master equation, where birth and death rates are independent of species, and predicts that at steady-state the RSA is simply a gamma distribution.
+From the exact time-dependent solution of the previous equation, one can exactly calculate the STD at time t under stationary conditions: 
+
+  
+    
+      
+        P
+        (
+        r
+        ,
+        t
+        )
+        =
+        A
+        
+          
+            
+              λ
+              +
+              1
+            
+            λ
+          
+        
+        
+          
+            
+              (
+              
+                e
+                
+                  t
+                  
+                    /
+                  
+                  τ
+                
+              
+              
+                )
+                
+                  b
+                  
+                    /
+                  
+                  2
+                  D
+                
+              
+            
+            
+              1
+              −
+              
+                e
+                
+                  −
+                  t
+                  
+                    /
+                  
+                  τ
+                
+              
+            
+          
+        
+        
+          
+            (
+            
+              
+                
+                  sinh
+                  ⁡
+                  (
+                  
+                    
+                      t
+                      
+                        2
+                        τ
+                      
+                    
+                  
+                  )
+                
+                λ
+              
+            
+            )
+          
+          
+            
+              
+                b
+                D
+              
+            
+            +
+            1
+          
+        
+        
+          
+            (
+            
+              
+                
+                  4
+                  
+                    λ
+                    
+                      2
+                    
+                  
+                
+                
+                  (
+                  λ
+                  +
+                  1
+                  
+                    )
+                    
+                      2
+                    
+                  
+                  
+                    e
+                    
+                      t
+                      
+                        /
+                      
+                      τ
+                    
+                  
+                  −
+                  4
+                  λ
+                
+              
+            
+            )
+          
+          
+            
+              
+                b
+                D
+              
+            
+            +
+            
+              
+                1
+                2
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle P(r,t)=A{\frac {\lambda +1}{\lambda }}{\frac {(e^{t/\tau })^{b/2D}}{1-e^{-t/\tau }}}\left({\frac {\sinh({\frac {t}{2\tau }})}{\lambda }}\right)^{{\frac {b}{D}}+1}\left({\frac {4\lambda ^{2}}{(\lambda +1)^{2}e^{t/\tau }-4\lambda }}\right)^{{\frac {b}{D}}+{\frac {1}{2}}}.}
+  This formula provides good fits of data collected in the Barro Colorado tropical forest from 1990 to 2000. From the best fit one can estimate 
+  
+    
+      
+        τ
+      
+    
+    {\displaystyle \tau }
+   ~ 3500 years with a broad uncertainty due to the relative short time interval of the sample. This parameter can be interpreted as the relaxation time of the system, i.e. the time the system needs to recover from a perturbation of species distribution. In the same framework, the estimated mean species lifetime is very close to the fitted temporal scale 
+  
+    
+      
+        τ
+      
+    
+    {\displaystyle \tau }
+  . This suggests that the neutral assumption could correspond to a scenario in which species originate and become extinct on the same timescales of fluctuations of the whole ecosystem.
+
+
+== Testing ==
+The theory has provoked much controversy as it "abandons" the role of ecology when modelling ecosystems. The theory has been criticized as it requires an equilibrium, yet climatic and geographical conditions are thought to change too frequently for this to be attained.
+Tests on bird and tree abundance data demonstrate that the theory is usually a poorer match to the data than alternative null hypotheses that use fewer parameters (a log-normal model with two tunable parameters, compared to the neutral theory's three), and are thus more parsimonious.  The theory also fails to describe coral reef communities, studied by Dornelas et al., and is a poor fit to data in intertidal communities. It also fails to explain why families of tropical trees have statistically highly correlated numbers of species in phylogenetically unrelated and geographically distant forest plots in Central and South America, Africa, and South East Asia.While the theory has been heralded as a valuable tool for palaeontologists, little work has so far been done to test the theory against the fossil record.
+
+
+== See also ==
+Biodiversity Action Plan
+Functional equivalence (ecology)
+Ewens's sampling formula
+Metabolic theory of ecology
+Neutral theory of molecular evolution
+Warren Ewens
+
+
+== References ==
+
+
+== Further reading ==
+Gilbert, B; Lechowicz MJ (2004). "Neutrality, niches, and dispersal in a temperate forest understory". PNAS. 101 (20): 7651–7656. Bibcode:2004PNAS..101.7651G. doi:10.1073/pnas.0400814101. PMC 419661. PMID 15128948.
+Leigh E.G. (Jr) (2007). "Neutral theory: a historical perspective" (PDF). Journal of Evolutionary Biology. 20 (6): 2075–2091. doi:10.1111/j.1420-9101.2007.01410.x. PMID 17956380.
+Preston, F. W. (1962). "The Canonical Distribution of Commonness and Rarity: Part I". Ecology. Ecology, Vol. 43, No. 2. 43 (2): 185–215. doi:10.2307/1931976. JSTOR 1931976.
+Pueyo, S.; He, F.; Zillio, T. (2007). "The maximum entropy formalism and the idiosyncratic theory of biodiversity". Ecology Letters. 10 (11): 1017–1028. doi:10.1111/j.1461-0248.2007.01096.x. PMC 2121135. PMID 17692099.
+
+
+== External links ==
+Scientific American Interview with Steve Hubbell
+R package for implementing UNTB Archived September 18, 2019, at the Wayback Machine
+"Ecological neutral theory: useful model or statement of ignorance?" in Cell Press Discussions

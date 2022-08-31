@@ -1,0 +1,87 @@
+Pesticides vary in their effects on bees. Contact pesticides are usually sprayed on plants and can kill bees when they crawl over sprayed surfaces of plants or other areas around it. Systemic pesticides, on the other hand, are usually incorporated into the soil or onto seeds and move up into the stem, leaves, nectar, and pollen of plants.Of contact pesticides, dust and wettable powder pesticides tend to be more hazardous to bees than solutions or emulsifiable concentrates. When a bee comes in contact with pesticides while foraging, the bee may die immediately without returning to the hive. In this case, the queen bee, brood, and nurse bees are not contaminated and the colony survives. Alternatively, the bee may come into contact with an insecticide and transport it back to the colony in contaminated pollen or nectar or on its body, potentially causing widespread colony death.Actual damage to bee populations is a function of toxicity and exposure of the compound, in combination with the mode of application. A systemic pesticide, which is incorporated into the soil or coated on seeds, may kill soil-dwelling insects, such as grubs or mole crickets as well as other insects, including bees, that are exposed to the leaves, fruits, pollen, and nectar of the treated plants.Pesticides, especially neonicotinoids, have been investigated in relation to Colony Collapse Disorder. Potentially toxic effects studied in the laboratory have often been followed by field studies that fail to show effects on actual bee populations. Despite gaps in the scientific evidence, regulators have restricted the use of neonicotinoids in Europe and elsewhere largely on the basis of concerns for bee health.
+
+
+== Classification ==
+Insecticide toxicity is generally measured using acute contact toxicity values LD50 – the exposure level that causes 50% of the population exposed to die.  Toxicity thresholds are generally set at
+highly toxic (acute LD50 < 2μg/bee)
+moderately toxic (acute LD50 2 - 10.99μg/bee)
+slightly toxic (acute LD50 11 - 100μg/bee)
+nontoxic (acute LD50 > 100μg/bee) to adult bees.
+
+
+== Pesticide toxicity ==
+
+
+=== Acute toxicity ===
+The acute toxicity of pesticides on bees, which could be by contact or ingestion, is usually quantified by LD50. Acute toxicity of pesticides causes a range of effects on bees, which can include agitation, vomiting, wing paralysis, arching of the abdomen similar to sting reflex, and uncoordinated movement. Acute toxicity may depend on the mode of exposure, for instance, many pesticides cause toxic effects by contact while neonicotinoids are more toxic when consumed orally. The acute toxicity, although more lethal, is less common than sub-lethal toxicity or cumulative effects.
+
+
+=== Sublethal and chronic effects ===
+Field exposure to pesticides, especially with relation to neonicotinoids, may lead to multiple physiological and/or behavioral sublethal effects in exposed bees.  Sublethal effects to honey bees can include disruptions to behavioral and motor functions, compromised immunity, and delayed development.
+
+
+== Colony collapse disorder ==
+
+Colony collapse disorder (CCD) is a syndrome that is characterized by the sudden loss of adult bees from the hive.  Many possible explanations for it have been proposed, but no one primary cause has been found. The US Department of Agriculture indicated in a 2010 report to Congress that a combination of factors could be causing colony collapse disorder, including pesticides, pathogens, and parasites. Although pesticides were suspected to be part of the problem, a survey
+of healthy and CCD-affected colonies revealed similar levels of pesticides in wax and pollen.
+
+
+== Bee kill rate per hive ==
+The kill rate of bees in a single bee hive can be classified as:
+< 100 bees per day - normal die off rate
+200-400 bees per day - low kill
+500-900 bees per day - moderate kill
+1000+ bees per day - High Kill
+
+
+== Pesticide formulations ==
+Pesticides come in different formulations:
+Dusts (D)
+Wettable powders (WP)
+Soluble powders (SP)
+Emulsifiable concentrates (EC)
+Solutions (LS)
+Granulars (G)
+
+
+== Pesticides ==
+All substances listed are insecticides, except for 2,4-D, which is an herbicide. Some substances are arachnicides too.
+
+
+=== Highly toxic and banned in the US ===
+Aldrin Banned by US EPA in 1974.
+Dieldrin Banned by US EPA in 1974.
+Heptachlor
+Lindane, BHC Banned in California. Banned for agricultural use in the US by the EPA in 2006.
+
+
+== Regulatory policy ==
+Based on a risks to bee health as identified by the European Food Safety Authority (EFSA), in April 2013 the EU decided to restrict the use of the neonicotinoids thiamethoxam, clothianidin, and imidacloprid. Fipronil was also banned for use on maize and sunflowers.In 2015, the US Environmental Protection Agency (EPA) proposed to prohibit the application of certain pesticides and herbicides that are known to be toxic to bees during pollination periods when crops are in bloom. Seed treatments were not considered to present a risk to bee health. A modified form of these proposals was adopted as EPA policy in January 2017.In April 2018, member states of the European Union agreed upon a total ban on neonicotinoid insecticide use, except within closed greenhouses. The vote on the proposed ban followed a February 2018 report from the EFSA which concluded that neonicotinoids posed a high risk to both domestic and wild bees. The ban had strong public support, but faced criticism from the agrochemical industry, and from certain farmers' groups.In 2020, the EPA supplemented its policy with a proposal to restrict the use of neonicotinoids on residential lawns and turf, but otherwise confirmed that they would remain in use in the US.
+
+
+== General measures to prevent pesticide bee kills ==
+
+
+=== Application of pesticides at evening or night ===
+Avoiding the application of pesticides directly to blooming flowers can help limit the exposure of honeybees to toxic materials. If blooming flowers must be sprayed with pesticides for any reason, they should be sprayed in the evening or night hours when bees are not in the field. The usual foraging hours of honeybees are during the daytime when the temperature is above 55–60 °F (13–16 °C).
+
+
+== See also ==
+Bees and toxic chemicals
+Colony Collapse Disorder
+Neonicotinoids
+United States Environmental Protection Agency
+Pollination
+Endangered arthropod
+Pesticide misuse
+Pesticides
+Pollinator decline
+Fipronil
+Imidacloprid effects on bees
+Honey bee starvation
+
+
+== References ==
+
+
+== External links ==

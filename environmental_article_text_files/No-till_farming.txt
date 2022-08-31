@@ -1,0 +1,109 @@
+No-till farming (also known as zero tillage or direct drilling) is an agricultural technique for growing crops or pasture without disturbing the soil through tillage. No-till farming decreases the amount of soil erosion tillage causes in certain soils, especially in sandy and dry soils on sloping terrain. Other possible benefits include an increase in the amount of water that infiltrates into the soil, soil retention of organic matter, and nutrient cycling. These methods may increase the amount and variety of life in and on the soil. While conventional no-tillage systems use herbicides to control weeds, organic systems use a combination of strategies, such as planting cover crops as mulch to suppress weeds.There are three basic methods of no-till farming. "Sod seeding" is when crops are sown with seeding machinery into a sod produced by applying herbicides on a cover crop (killing that vegetation). "Direct seeding" is when crops are sown through the residue of previous crop. "Surface seeding" or "direct seeding" is when crops are left on the surface of the soil; on flatlands, this requires no machinery and minimal labor.Tillage is dominant in agriculture today, but no-till methods may have success in some contexts. In some cases minimum tillage or "low-till" methods combine till and no-till methods. For example, some approaches may use shallow cultivation (i.e. using a disc harrow) but no plowing or use strip tillage.
+
+
+== Background ==
+Tillage is the agricultural preparation of soil by mechanical agitation, typically removing weeds established in the previous season. Tilling can create a flat seed bed or one that has formed areas, such as rows or raised beds, to enhance the growth of desired plants. It is an ancient technique with clear evidence of its use since at least 3000 B.C.No-till farming is not equivalent to conservation tillage or strip tillage. Conservation tillage is a group of practices that reduce the amount of tillage needed. No-till and strip tillage are both forms of conservation tillage.  No-till is the practice of never tilling a field. Tilling every other year is called rotational tillage.
+The effects of tillage can include soil compaction; loss of organic matter; degradation of soil aggregates; death or disruption of soil microbes and other organisms including mycorrhizae, arthropods, and earthworms; and soil erosion where topsoil is washed or blown away.
+
+
+== Origin ==
+The idea of modern no-till farming started in the 1940s with Edward H. Faulkner, author of Plowman's Folly, but it was not until the development after WWII of powerful herbicides such as paraquat that various researchers and farmers started to try out the idea. The first adopters of no-till include Klingman (North Carolina), Edward Faulkner,  L.A. Porter (New Zealand), Harry and Lawrence Young (Herndon, Kentucky), the Instituto de Pesquisas Agropecuarias Meridional (1971 in Brazil) with Herbert Bartz.
+
+
+== Adoption across the world ==
+Land under no-till farming has increased across the world. In 1999, about 45 million ha was under no-till farming worldwide, which increased to 72 million ha in 2003 and to 111 million ha in 2009.
+
+
+=== Australia ===
+Per figures from the Australian Bureau of Statistics (ABS) Agricultural Resource Management Survey, in Australia the percentage of agricultural land under No-till farming methods was 26% in 2000–01, which more than doubled to 57% in 2007–08.  As at 30 June 2017, of the 20 million hectares of crop land cultivated 79% (or 16 million hectares) received no cultivation. Similarly, 70% (or 2 million hectares) of the 3 million hectares of pasture land cultivated received no cultivation, apart from sowing.
+
+
+=== South America ===
+South America had the highest adoption of No-till farming in the world, which in 2014 constituted 47% of the total global area under no-till farming.
+The countries with highest adoption are Argentina (80%), Brazil (50%), Paraguay (90%), and Uruguay (82%).In Argentina the usage of no-till resulted in reduction of soil erosion losses by 80%, cost reductions by more than 50% and increased farm incomes.In Brazil the usage of no-till resulted in reduction of soil erosion losses by 97%, higher farm productivity and income increase by 57% five years after the starting of no-till farming.In Paraguay, net farm incomes increased by 77% after adoption of no-till farming.
+
+
+=== United States ===
+No-till farming is used in the United States and the area managed in this way continues to grow. This growth is supported by a decrease in costs. No-till management results in fewer passes with equipment, and the crop residue prevents evaporation of rainfall and increases water infiltration into the soil.In 2017, no-till farming was being used in about 21% of the cultivated cropland in the US.
+
+
+== Benefits and issues ==
+
+
+=== Profit, economics, yield ===
+Some studies have found that no-till farming can be more profitable in some cases.In some cases it may reduce labour, fuel, irrigation and machinery costs. No-till can increase yield because of higher water infiltration and storage capacity, and less erosion. Another possible benefit is that because of the higher water content, instead of leaving a field fallow it can make economic sense to plant another crop instead.A problem of no-till farming is that in spring, the soil both warms and dries more slowly, which may delay planting. Harvest can thus occur later than in a conventionally tilled field. The slower warming is due to crop residue being a lighter color than the soil which would be exposed in conventional tillage, which then absorbs less solar energy. However, that is being affected by climate change, so warmer temperatures may offset these effects. But in the meantime, this can be managed by using row cleaners on a planter.A problem with no-till farming is that if production is impacted negatively by the implemented process then the profitability of the practice also may decrease in relation to increasing gas prices and high labor costs. As the prices for fuel and labor continue to rise, it may be more practical for farms and farming productions to turn toward a no-till operation. In spring, poor draining clay soil may have lower production due to a cold and wet year.The economic and ecological benefits of implementing no-till practices can require sixteen to nineteen years. The first decade of no-till implementation often will show trends of revenue decrease. Implementation periods greater than ten years in length usually show a gain in profit, rather than a decrease in profitability.
+
+
+=== Costs and management ===
+No-till farming requires some different skills from those of conventional farming. A combination of technique, equipment, pesticides, crop rotation, fertilization, and irrigation have to be used for local conditions.
+
+
+==== Equipment ====
+On some crops, like continuous no-till corn, the thickness of the residue on the surface of the field can become a problem without proper preparation and/or equipment. No-till farming requires specialized seeding equipment, such as heavier seed drills to penetrate through the residue. Ploughing requires more powerful tractors, so tractors can be smaller with no-tillage. Costs can be offset by selling ploughs and tractors, but farmers often keep their old equipment while trying out no-till farming. This results in a higher investment into equipment.
+
+
+==== Increased herbicide use ====
+One of the purposes of tilling is to remove weeds. No-till farming changes weed composition: faster growing weeds may be reduced as increased competition with eventual growth of perennials, shrubs and trees. This problem is usually solved with a herbicide such as glyphosate in lieu of tillage for seedbed preparation, so no-tillage often uses more herbicides in comparison to conventional tillage. Some alternatives can be winter cover crops, soil solarization or burning. However the use of herbicides is not strictly necessary, as demonstrated by Masanobu Fukuoka.
+No-till occasionally uses cover crops to help control weeds and increase organic residue in the soil (or nutrients by using legumes). Cover crops then need to be killed so that the newly planted crops can get enough light, water, nutrients, etc. This can be done by rollers, crimpers, choppers and other ways. The residue is then planted through, and left as a mulch. Cover crops typically must be crimped when they enter the flowering stage.With no-till farming, residue from the previous year's crops lie on the surface of the field, which can cause different, greater, or more frequent disease or weed problems compared to tillage farming.
+
+
+==== Fertilizer ====
+One of the most common yield reducers is nitrogen being immobilized in the crop residue, which can take a few months to several years to decompose, depending on the crop's C to N ratio and the local environment. Fertilizer needs to be applied at a higher rate. An innovative solution to this problem is to integrate animal husbandry in various ways to aid in decomposition. After a transition period (4–5 years for Kansas, USA) the soil may build up in organic matter. Nutrients in the organic matter are eventually released into the soil..
+
+
+=== Environmental Policy ===
+A legislative bill, H.R.2508 of the 117th Congress, also known as the NO EMITS act, has been proposed to amend the Food Security Act of 1985, that was introduced by Representative Rodney Davis of Illinois. Davis is a member of the House Committee on Agriculture. This bill proposes suggestions for offsetting emissions that are focused in agricultural means, doing so by implementing new strategies such as minimal tillage or no tillage. H.R.2508 is currently under reference by the House Committee of Agriculture. H.R.2508 is also backed by two other representatives from high agricultural states, Rep. Eric A. Crawford of Arkansas and Rep. Don Bacon of Nebraska. H.R.2508 is proposing to set up incentive programs to provide financial and mechanical assistance to farmers and agriculture plots that transition their production processes, as well as providing contacts to lower risk for producers. Funding has also been proposed for Conservation Innovation Trails.Farmers within the U.S. are encouraged through subsidies and other programs provided by the government to meet a defined level of tillage conservation. Such subsidies and programs provided by the U.S. government include: Environmental Quality Incentives Program (EQIP) and Conservation Stewardship Program (CSP). The EQIP is a voluntary program that attempts to assists farmers and other participants help through conservation and not financially suffer from doing so. Efforts are put out to help reduce the amount of contamination from the agricultural industry as well as increasing the health of the soil. The CSP attempts to assist those who are looking to implement conservation effort into their practices by giving suggestions on what might be done for their given circumstance and needs.
+
+
+=== Environmental ===
+
+
+==== Greenhouse gases ====
+According to one 2003 study agriculture has released an estimated 78 billion metric tons of carbon in the last few centuries. No-till farming has been claimed to increase soil organic matter, and thus increase carbon sequestration. While many studies report soil organic carbon increases in no-till systems, others conclude that these effects may not be observed in all systems, depending on factors, such as climate and topsoil carbon content. A 2020 study demonstrated that the combination of no-till and cover cropping sequesters more carbon than either practice alone, suggesting that the two practices have a synergistic effect in carbon capture.There is debate over whether the increased sequestration sometimes detected is actually occurring, or is due to flawed testing methods or other factors. A 2014 study claimed that certain no-till systems may sequester less carbon than conventional tillage systems, saying that the “no-till subsurface layer is often losing more soil organic carbon stock over time than is gained in the surface layer.” The study also pointed out the need for a uniform definition of soil organic carbon sequestration among researchers. The study concludes, "Additional investments in soil organic carbon (SOC) research is needed to better understand the agricultural management practices that are most likely to sequester SOC or at least retain more net SOC stocks."No-till farming reduces nitrous oxide (N2O) emissions by 40-70%, depending on rotation. Nitrous oxide is a potent greenhouse gas, 300 times stronger than CO2, and stays in the atmosphere for 120 years.
+
+
+==== Soil and desertification ====
+No-till farming improves aggregates and reduces erosion. Soil erosion might be reduced almost to soil production rates.Research from over 19 years of tillage studies at the United States Department of Agriculture Agricultural Research Service found that no-till farming makes soil less erodible than ploughed soil in areas of the Great Plains. The first inch of no-till soil contains more aggregates and is two to seven times less vulnerable than that of ploughed soil. More organic matter in this layer is thought to help hold soil particles together.As per the Food and Agriculture Organization (FAO) of the United Nations, no-till farming can stop desertification by maintaining soil organic matter and reducing wind and water erosion.No ploughing also means less airborne dust.
+
+
+==== Water ====
+No-till farming improves water retention: crop residues help water from natural precipitation and irrigation to infiltrate the soil. Residue limits evaporation, conserving water. Evaporation from tilling increases the amount of water by around 1/3 to 3/4 inches (0.85 to 1.9 cm) per pass.Gully formation can cause soil erosion in some crops such as soybeans with no-tillage, although models of other crops under no-tillage show less erosion than conventional tillage. Grass waterways can be a solution. Any gullies that form in fields not being tilled get deeper each year instead of being smoothed out by regular plowing.
+A problem in some fields is water saturation in soils. Switching to no-till farming may increase drainage because soil under continuous no-till include a higher water infiltration rate.
+
+
+==== Biota and wildlife ====
+No-tilled fields often have more annelids, invertebrates and wildlife such as deer mice.
+
+
+==== Albedo ====
+Tillage lowers the albedo of croplands. The potential for global cooling as a result of increased albedo in no-till croplands is similar in magnitude to other biogeochemical carbon sequestration processes.
+
+
+== See also ==
+Conventional tillage
+Carbon farming – Agricultural methods that capture carbon
+Broadfork, a tool to aerate the soil without overturning
+Masanobu Fukuoka – Japanese farmer and philosopher (1913–2008), one of the pioneers of no-till grain cultivation
+Natural farming
+Conservation agriculture
+No-dig gardening
+Permaculture – Agriculture practices using few energy resources and human intervention
+Regenerative agriculture
+Strip-till
+Tillage erosion
+
+
+== References ==
+
+
+== Further reading ==
+Allen, H. P. (1981). Direct Drilling and Reduced Cultivations. Farming Press. pp. 1–219. ISBN 0852361130.
+Monbiot, George (2022). "Regenesis: Feeding the World without Devouring the Planet". London: Penguin Books. ISBN 978-0143135968
+Montgomery, David R. (2007). Dirt: The Erosion of Civilizations. Berkeley: University of California Press. ISBN 9780520248700.
+Philpott, Tom (2013-09-09). "One Weird Trick to Fix Farms Forever". Mother Jones. Retrieved 2014-03-14.
+Wright, Sylvia (Winter 2006). "Pay Dirt". UC Davis Magazine. pp. 24–27. Archived from the original on 2011-07-18. Retrieved 2011-02-26.
+
+
+== External links ==
+Texas A&M AgriLife Research and Extension Center at Lubbock; along with New Mexico University Extension Service.  No-till and Cover Crops for Texas and New Mexico.
+VicNoTill at Horsham, Victoria.  No-Till Regenerative Farming Systems Australia.

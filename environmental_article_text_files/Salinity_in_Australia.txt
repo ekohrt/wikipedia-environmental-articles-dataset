@@ -1,0 +1,120 @@
+Soil salinity and dryland salinity are two problems degrading the environment of Australia. Salinity is a concern in most states, but especially in the south-west of Western Australia.The Eastern Mallee and the Western Mallee of Western Australia are areas that are prone to salinity with little remedial action being undertaken to rectify the problem. Lands surrounding Lake Bryde-East Lake Bryde and Dumbleyung Lake have also been affected.
+In the Murray River valley irrigation has caused salinity problems. Land surrounding the town of Werrimull in the northwest of Victoria have been affected by salinity due to land clearing.
+
+
+== Process ==
+The soil in Australia naturally contains salt, having accumulated over thousands of years. This salt may come from prevailing winds carrying ocean salt, the evaporation of inland seas, and from weathered parent rocks. Rainfall absorbs this salt on the surface, and carries it down into the subsoil where it is stored in unsaturated soil profiles, until it is once again mobilised by ground water and rising water tables. When this ground water comes closer to the surface, this salt is also brought up. As the water eventually evaporates, it leaves behind all this concentrated salt, resulting in soil salinity. 
+This can be caused by an imbalance in the hydrological cycle, or by irrigation.
+Prior to British settlement in 1788, groundwater levels were in equilibrium. Seasonal recharge, and year-round utilisation of ground water by deep rooted native vegetation resulted in ground water levels remaining static.Land clearing in Australia has resulted in a loss of this native vegetation, replaced largely by agriculture and pasture crops. These are often shallow rooted annual plants which are unable to intercept and adequately absorb stored and rising ground water. This creates an imbalance in the hydrological cycle, and results in dryland salinity.
+Salinity is classified as a dissolved salt content of a substance like soil or water. Salinity can prevent crops and other vegetation from growing leaving land empty.
+
+Irrigation is also a contributor to salinity. Firstly, the addition of irrigation acts to simulate rainfall, and if not applied at appropriate levels, can result in the recharge of water tables, and promotes rises in the water table. 
+Secondly, irrigation water itself can contain salts, which are deposited into the soil with its use. This level of salt can range from 0.5 - 2 tonne per hectare per year, and can greatly increase natural salt levels.
+
+
+== Effects and impacts ==
+Over time this process has caused the thin top-soil layers to become irreversibly salty and no longer suited for agriculture. By 1999 an estimated 2.5 million hectares of land had become salinised since the introduction of European farming methods.Currently, around 5.7 million hectares of land is classed as having 'high potential' for salinisation with that number expected to rise to 17 million hectares by 2050.High soil salt levels have dramatic impact on plant root zones, in both native vegetation as well as agricultural and pasture crops, natural wetlands and surrounding water ways. An increase in salt can decrease the ability of plants to absorb water through their roots by osmosis, cause leaf burn and necrosis through increased levels of sodium and chloride, and create nutrient and ionic imbalances resulting in poor growth and death. Salinity can also adversely affect infrastructure such as roads, buildings, underground pipes and cables through oxidation.Muehlenbeckia horrida subsp. abdita, commonly known as the Remote Thorny Lignum, is a critically endangered species due to its intolerance to salinity.
+
+
+=== Impacts by state ===
+
+
+==== New South Wales ====
+Currently 5% of New South Wales is affected by dry land salinity, and around 50% is under threat.
+15% of current irrigated land is impacted, and up to 30% is currently under threat. 
+The main regions currently affected, and at high risk, are The Murrumbidgee River catchment near Griffith, and Jemalong River Catchment near Forbes, as well as the Murray River irrigation area near Deniliquin.
+
+
+==== Victoria ====
+The current levels of salinity in Victoria are relatively small, with the main impact expected to occur in high risk areas in the coming years.
+These high risk areas include the Campaspe, Loddon, Corangamite, Glenelg-Hopkins, Goulburn-Broken catchments, and Wimmera and Mallee regions.
+The current cost to Victoria is estimated at $50million per year. This is expected to rise significantly with the impacts on agricultural land, wetlands and infrastructure in high risk areas to increase, mainly in part to an anticipated 10 fold increase in salt levels by 2050.
+
+
+==== Western Australia ====
+Western Australia contains the majority of land affected by salinity in Australia, with around 70%. 
+Over 2 million hectares are currently affected, and around 4 million hectares of land are currently listed as high risk, and 50% of divertible water is already considered overly saline.
+Around 450 plant species are endemic to areas that are at high risk of salinisation
+75% of water bird species in decline, a 75% reduction in sealed road life, and $400million in lost profits.
+
+
+==== South Australia ====
+Salinity in South Australia is a problem in all principal agricultural areas, with 370000 hectares of land and wetlands impacted. At current rates, this is expected to increase by 60% by 2050.
+It is expected to cost the state around $47million per year in lost agricultural profit, and is expected to taint more than 20% of ground water to levels above those safe for human consumption.
+
+
+==== Tasmania ====
+Tasmania is relatively unaffected by salinity, with around 1% of agricultural land, and 8% of farm land adversely affected by salt, resulting in a current cost to the state of around $5million per year, rising to around $13million by 2050. The majority of this salinity is irrigation based.
+
+
+==== Queensland ====
+Queensland is the least affected state of Australia, due to its unique seasonal rainfall. Around 15000 hectares are currently affected, with 3.1million hectares considered highrisk.
+At current rates however, salinity is predicted to have moderate scale impacts on land and infrastructure by 2050, with 12,000 km of roads, 1500 km of rail lines, and around 2.8million hectares of agricultural land, remnant vegetation, and wetlands and streams negatively affected
+
+
+== Impact reduction and management ==
+
+
+=== Government initiatives ===
+The Australian governments have taken an integrated approach to target different scales of management. The approach is to manage the salinity issue at national, regional and state levels, down to local and individual farmers. Since 1983 the Australian governments have actioned the National Soil Conservation Program, National Landcare Program, Natural Heritage Trust, National Action Plan for Salinity and Water and Caring for our Country.
+The National Landcare Program focused on improving resource management and practices at the farm and local level. The National Dryland Salinity Program (1993 to 2004), funded a broad range of research and development from which to roll out further government programs.The National Action Plan for Salinity and Water Quality (NAPSWQ), implemented together with the Natural Heritage Trust (NHT) program, ran from 2000 to 2008. The NAPSWQ was adopted through an intergovernmental agreement between Australian commonwealth, state and territory governments. The plan aimed to help support community action and land managers in adversely affected catchments, and was rolled out by regional Natural Resource Management (NRM) organisations. The governments committed $1.4 billion over seven years to tackle the salinity problem. The plan involved input and participation from government, community, local business and land managers. The NAPSWQ focused on 21 regions across Australia that were deemed; through hazard assessments and dryland salinity risk, to be most affected by salinity and water problems. The goal of the NAPSWQ was to motivate and enable regional communities in preventing, stabilising and reversing trends in salinity; improve water quality and secure reliable allocations for both human, industrial and environment use. The overarching objectives of the NHT were biodiversity conservation, sustainable use of natural resources, community capacity building and institutional change.
+The final report for the NAPSWQ states that ‘With few exceptions the massive efforts involved in delivering NAPSWQ and NHT programs have at best halted the degradation of these resources. This has reinforced the view of the State of Environment (SoE) Report that concluded that the condition of these resources continues to decline despite the best efforts of the community and government'.In 2008 the initiative Caring for our Country was started to replace the National Action Plan, which had ceased. This Australian Government initiative aims to build on the work done under the NAPSWQ, focusing on a more targeted asset-based approach,  and aims to build attitudes of environmental stewardship.
+
+
+==== Case study examples ====
+Salinity management in the Murray-Darling Basin has included investment in salt interception schemes, rehabilitation of irrigation areas, and programs to educate landholders and irrigators on better practicesIn the South-west rivers region of Western Australia, salinity impacts on potable and irrigation water supplies, and the areas unique biodiversity. Outcomes of NRM programs in Western Australia include re-vegetation, fencing, soil treatment, drainage works, treatment for soil erosion, monitoring programs, support of community projects, training, conservation agreements and a Strategic Tree Farming project.Tasmania faces different salinity management issues due to its unique topography. Under the Caring for our Country Project Tasmania has set up demonstration farm sites which test management strategies of surface and sub-surface drainage, and trees planting to intercept water, and salt tolerant plant species.
+
+
+=== Best management practice ===
+There is no clear agreement about what constitutes best management practice for salinity in Australia. While there are a range of techniques and strategies available, success is often varied from one context to the next; there is no simple solution. Location, time frame and personal circumstances may all influence the effectiveness of particular options.Possible management strategies include:
+The use of salt-tolerant plants, such as:
+Atriplex amnicola
+Saltgrow - a hybrid gum tree being utilized within Australia to try to reverse damage within affected high-salinity areas. The tree has been highly successful, and has been attributed to be able to completely remove salinity within damaged areas and allowed new grasses and shrubs that are not salt resistant, to grow.
+The use of perennial crops and pastures
+Engineering responses including deep drainage and pumping (to lower groundwater)
+Reverse banks and interceptor banks (to divert surface water)
+Revegetation with native species
+Establishing trees
+Preventing further clearing in vulnerable areasA number of organisations are seeking ways to reduce the impact of salinity on Australian agriculture, including the Cooperative Research Centre for Plant-Based Management of Dryland Salinity. Greening Australia and Australian Centre for Plant Functional Genomics have also implemented projects to alleviate salinity in Australia.
+
+
+=== Community-based management strategies ===
+Community-based approaches have been a key feature of many regional salinity management programs in Australia. This is in response to various government initiatives, notably the National Landcare Program (1989), Natural Heritage Trust (1997) and the National Action Plan for Salinity and Water Quality (2000).
+This approach provides the social platform required in many cases for the successful adoption of salinity management practices. Often lacking however, is the presence of scientific skills and detailed knowledge needed to develop viable technical and economic salinity management options. It is also suggested that community-based approaches may reinforce existing power structures, disadvantaging those who are already marginalised when making decisions about salinity management.Below are some examples of community-based programs currently operating in Australia and their contributions to salinity management.
+
+
+==== Landcare ====
+Landcare groups involve community members and landowners working together in a voluntary capacity to improve land management practices. In relation to the management of salinity, these groups have been effective in: raising awareness and educating the community about dryland salinity; allowing local knowledge and information to be shared in order to develop suitable management plans; developing skills, building capacity and empowering communities to address salinity issues.
+
+
+==== Saltwatch ====
+Established in Victoria in 1987, Saltwatch is an ongoing community- and school-based program focused on monitoring salinity levels in Australian waterways. Students, teachers and community members are involved in collecting water samples from their local area, conducting salinity tests and recording this data. It is an effective educational tool that provides opportunities for partnerships to be developed between government agencies and the wider community, however it is not necessarily linked directly to the implementation of salinity management strategies.
+
+
+== Climate change and its impact on salinity ==
+There are mixed predictions in relation to climate change's effect on salinity in Australia. Climate change could potentially ameliorate salinity in Australia in some circumstances, but in others it may have detrimental effects. It is predicted that in some instances climate change will result in the reduction in annual rainfall leading to a drier and warmer climate, which will ultimately reduce salinity.  Conversely climate changes impact on the salt concentration in water bodies is expected to be unfavourable.
+Where there is a reduction in rainfall it is expected that salinity will be reduced. This will occur as a result of the water table being recharged less often, reducing the chance of the water table transporting underground salts to the surface of the land. Climate change may also result in the offsetting of rainfall into different seasons, resulting in larger down pours and extreme weather events in some locations within Australia. In these instances as evaporation will not occur at a faster pace than rainfall, it is likely to result in excessive additions to aquifers, which is also known as deep drainage. This is an issue as dryland salinity is onset by additional deep drainage. In Australia this will be most evident in South Australia, Victoria and the lower half of Western Australia. However these changes are expected to be minimal as the water table may already be reduced from excessive periods of drought.On the other hand, the reduction of water in streams, rivers, water bodies and the like is likely to result in an increase of salt concentration in these water bodies. This will be particularly evident in groundwater flow systems of different catchments. Austin et al. of CSIRO  have predicted that water in the Murrumbidgee will drop by up to approximately 48% by 2070 which will result in salt yields on the surface of the land falling by approximately 30%, however the stream salinity concentrations are predicted to increase by 11%.
+
+
+== See also ==
+Conservation in Australia
+Fauna of Australia
+Geography of Australia
+Salinity control
+Agriculture in Australia
+Irrigation in Australia
+
+
+== References ==
+
+
+== Further reading ==
+Jared Diamond, Collapse: How Societies Choose to Fail or Succeed, Penguin Books, 2005 and 2011 (ISBN 9780241958681). See chapter 13 entitled « "Mining" Australia » (pages 378-416).
+
+
+== External links ==
+Australian Bureau of Statistics 2004 Year book
+Cooperative Research Centre for Plant-Based Management of Dryland Salinity
+David Pannell's publications of economic, social and policy aspects of dryland salinity
+Department of the Environment and Heritage
+National Dryland Salinity Program

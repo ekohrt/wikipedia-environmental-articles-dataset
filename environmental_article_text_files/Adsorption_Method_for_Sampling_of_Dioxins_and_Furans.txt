@@ -1,0 +1,8 @@
+Adsorption Method for Sampling of Dioxins and Furans (AMESA) is an automatic system for continuous monitoring of emissions of dioxins and furans from industrial processes which require official approval in compliance with environmental regulations. Applications include refuse incinerators and hazardous material incinerators.
+
+
+== Method ==
+A sample is continuously extracted from the gas stream being monitored using a titanium probe, which is water-cooled to below 70 °C. The sample flow rate is automatically adjusted to ensure isokinetic sampling (the velocity of gas entering the sampling system is equal to the velocity of the gas in the system under test). The sample gas is drawn through a quartz wool pre-filter and then across a cartridge filled with resin, such as XAD 2. The sample gas is also cooled to below 5 °C to condense and remove water vapour. All system parameters are recorded digitally during sampling. The resin cartridge and the condensate are removed at the end of a monitoring period, and the contents are analysed to determine levels of dioxins and furans.
+
+
+== References ==

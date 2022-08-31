@@ -1,0 +1,197 @@
+Solar power is the conversion of energy from sunlight into electricity, either directly using photovoltaics (PV), indirectly using concentrated solar power, or a combination.   Photovoltaic cells convert light into an electric current using the photovoltaic effect. Concentrated solar power systems use lenses or mirrors and solar tracking systems to focus a large area of sunlight to a hot spot, often to drive a steam turbine.
+Photovoltaics were initially solely used as a source of electricity for small and medium-sized applications, from the calculator powered by a single solar cell to remote homes powered by an off-grid rooftop PV system. Commercial concentrated solar power plants were first developed in the 1980s. Since then, as the cost of solar electricity has fallen, grid-connected solar PV systems have grown more or less exponentially. Millions of installations and gigawatt-scale photovoltaic power stations have been and are being built. Solar PV has rapidly become a viable low-carbon technology, and as of 2020, provides the cheapest source of electricity in history.As of 2021, solar generates 4% of the world's electricity, compared to 1% in 2015 when the Paris Agreement to limit climate change was signed. Along with onshore wind, the cheapest levelised cost of electricity is utility-scale solar. The International Energy Agency said in 2021 that under its "Net Zero by 2050" scenario solar power would contribute about 20% of worldwide energy consumption, and solar would be the world's largest source of electricity.
+
+
+== Mainstream technologies ==
+Many industrialized nations have installed significant solar power capacity into their grids to supplement or provide an alternative to fossil or nuclear energy sources while an increasing number of less developed nations have turned to solar to reduce dependence on expensive imported fuels (see solar power by country). Long-distance transmission allows remote renewable energy resources to displace fossil fuel consumption. Solar power plants use one of two technologies:
+
+Photovoltaic (PV) systems use solar panels, either on rooftops or in ground-mounted solar farms, converting sunlight directly into electric power.
+Concentrated solar power (CSP, also known as "concentrated solar thermal") plants use solar thermal energy to make steam, which is converted into electricity by a turbine.
+
+
+=== Photovoltaic cells ===
+
+A solar cell, or photovoltaic cell (PV), is a device that converts light into electric current using the photovoltaic effect. The first solar cell was constructed by Charles Fritts in the 1880s. The German industrialist Ernst Werner von Siemens was among those who recognized the importance of this discovery. In 1931, the German engineer Bruno Lange developed a photo cell using silver selenide in place of copper oxide, although the prototype selenium cells converted less than 1% of incident light into electricity. Following the work of Russell Ohl in the 1940s, researchers Gerald Pearson, Calvin Fuller and Daryl Chapin created the silicon solar cell in 1954. These early solar cells cost US$286/watt and reached efficiencies of 4.5–6%. In 1957, Mohamed M. Atalla developed the process of silicon surface passivation by thermal oxidation at Bell Labs. The surface passivation process has since been critical to solar cell efficiency.The array of a photovoltaic power system, or PV system, produces direct current (DC) power which fluctuates with the sunlight's intensity. 
+For practical use this usually requires conversion to certain desired voltages or alternating current (AC), through the use of inverters. 
+Multiple solar cells are connected inside modules. 
+Modules are wired together to form arrays, then tied to an inverter, which produces power at the desired voltage, and for AC, the desired frequency/phase.Many residential PV systems are connected to the grid wherever available, especially in developed countries with large markets. 
+In these grid-connected PV systems, use of energy storage is optional. 
+In certain applications such as satellites, lighthouses, or in developing countries, batteries or additional power generators are often added as back-ups. Such stand-alone power systems permit operations at night and at other times of limited sunlight.
+
+
+=== Concentrated solar power ===
+
+Concentrated solar power (CSP), also called "concentrated solar thermal", uses lenses or mirrors and tracking systems to concentrate sunlight, then use the resulting heat to generate electricity from conventional steam-driven turbines.A wide range of concentrating technologies exists: among the best known are the parabolic trough, the compact linear Fresnel reflector, the dish Stirling and the solar power tower. Various techniques are used to track the sun and focus light. In all of these systems a working fluid is heated by the concentrated sunlight, and is then used for power generation or energy storage. Thermal storage efficiently allows up to 24-hour electricity generation.A parabolic trough consists of a linear parabolic reflector that concentrates light onto a receiver positioned along the reflector's focal line. The receiver is a tube positioned along the focal points of the linear parabolic mirror and is filled with a working fluid. The reflector is made to follow the sun during daylight hours by tracking along a single axis. Parabolic trough systems provide the best land-use factor of any solar technology. The Solar Energy Generating Systems plants in California and Acciona's Nevada Solar One near Boulder City, Nevada are representatives of this technology.Compact Linear Fresnel Reflectors are CSP-plants which use many thin mirror strips instead of parabolic mirrors to concentrate sunlight onto two tubes with working fluid. This has the advantage that flat mirrors can be used which are much cheaper than parabolic mirrors, and that more reflectors can be placed in the same amount of space, allowing more of the available sunlight to be used. Concentrating linear fresnel reflectors can be used in either large or more compact plants.The Stirling solar dish combines a parabolic concentrating dish with a Stirling engine which normally drives an electric generator. The advantages of Stirling solar over photovoltaic cells are higher efficiency of converting sunlight into electricity and longer lifetime.
+Parabolic dish systems give the highest efficiency among CSP technologies. 
+The 50 kW Big Dish in Canberra, Australia is an example of this technology.A solar power tower uses an array of tracking reflectors (heliostats) to concentrate light on a central receiver atop a tower. Power towers can achieve higher (thermal-to-electricity conversion) efficiency than linear tracking CSP schemes and better energy storage capability than dish stirling technologies. The PS10 Solar Power Plant and PS20 solar power plant are examples of this technology.
+
+
+=== Hybrid systems ===
+A hybrid system combines (C)PV and CSP with one another or with other forms of generation such as diesel, wind and biogas. The combined form of generation may enable the system to modulate power output as a function of demand or at least reduce the fluctuating nature of solar power and the consumption of non-renewable fuel. Hybrid systems are most often found on islands.
+
+CPV/CSP system
+A novel solar CPV/CSP hybrid system has been proposed, combining concentrator photovoltaics with the non-PV technology of concentrated solar power, or also known as concentrated solar thermal.
+Integrated solar combined cycle (ISCC) system
+The Hassi R'Mel power station in Algeria is an example of combining CSP with a gas turbine, where a 25-megawatt CSP-parabolic trough array supplements a much larger 130 MW combined cycle gas turbine plant. Another example is the Yazd power station in Iran.
+Photovoltaic thermal hybrid solar collector (PVT)
+Also known as hybrid PV/T, convert solar radiation into thermal and electrical energy. Such a system combines a solar (PV) module with a solar thermal collector in a complementary way.
+Concentrated photovoltaics and thermal (CPVT)
+A concentrated photovoltaic thermal hybrid system is similar to a PVT system. It uses concentrated photovoltaics (CPV) instead of conventional PV technology, and combines it with a solar thermal collector.
+PV diesel system
+It combines a photovoltaic system with a diesel generator. Combinations with other renewables are possible and include wind turbines.
+PV-thermoelectric system
+Thermoelectric, or "thermovoltaic" devices convert a temperature difference between dissimilar materials into an electric current. Solar cells use only the high frequency part of the radiation, while the low frequency heat energy is wasted. Several patents about the use of thermoelectric devices in tandem with solar cells have been filed.The idea is to increase the efficiency of the combined solar/thermoelectric system to convert the solar radiation into useful electricity.
+
+
+== Development and deployment ==
+
+
+=== Early days ===
+The early development of solar technologies starting in the 1860s was driven by an expectation that coal would soon become scarce, such as experiments by Augustin Mouchot. Charles Fritts installed the world's first rooftop photovoltaic solar array, using 1%-efficient selenium cells, on a New York City roof in 1884. However, development of solar technologies stagnated in the early 20th century in the face of the increasing availability, economy, and utility of coal and petroleum.By the 1970s, solar power was being used on satellites, but the cost of solar power was considered to be unrealistic for conventional applications. In 1974 it was estimated that only six private homes in all of North America were entirely heated or cooled by functional solar power systems. However, the 1973 oil embargo and 1979 energy crisis caused a reorganization of energy policies around the world and brought renewed attention to developing solar technologies. Deployment strategies focused on incentive programs such as the Federal Photovoltaic Utilization Program in the US and the Sunshine Program in Japan. Other efforts included the formation of research facilities in the United States (SERI, now NREL), Japan (NEDO), and Germany (Fraunhofer ISE). 
+Between 1970 and 1983 installations of photovoltaic systems grew rapidly. In the United States, President Jimmy Carter had a 32-panel solar water heater installed on the White House roof in 1979, and set a target of producing 20% of U.S. energy from solar by the year 2000. His successor, Ronald Reagan, removed both the solar panels and the funding for research into renewables. Falling oil prices in the early 1980s moderated the growth of photovoltaics from 1984 to 1996.
+
+
+=== Mid-1990s to 2010 ===
+In the mid-1990s development of both, residential and commercial rooftop solar as well as utility-scale photovoltaic power stations began to accelerate again due to supply issues with oil and natural gas, global warming concerns, and the improving economic position of PV relative to other energy technologies. In the early 2000s, the adoption of feed-in tariffs—a policy mechanism, that gives renewables priority on the grid and defines a fixed price for the generated electricity—led to a high level of investment security and to a soaring number of PV deployments in Europe.
+
+
+=== 2010s ===
+For several years, worldwide growth of solar PV was driven by European deployment, but then shifted to Asia, especially China and Japan, and to a growing number of countries and regions all over the world. The largest manufacturers were located in China. Although concentrated solar power grew more than tenfold it remained a tiny proportion of the total.: 51 
+
+
+=== 2020s ===
+Despite the rising cost of materials, such as polysilicon, during the 2021–2022 global energy crisis; the cost of some other energy sources, such as natural gas, rose more thus making utility scale solar the cheapest energy source in many countries.
+
+
+=== Current status ===
+About half of installed capacity is utility scale.
+
+
+=== Forecasts ===
+
+Most new renewable capacity between 2021 and 2026 is forecast to be solar.: 26  Utility scale is forecast to become the largest capacity in all regions except sub-Saharan Africa.According to a 2021 study global electricity generation potential of rooftop solar panels is estimated at 27 PWh per year at cost ranging from $40 (Asia) to $240 per MWh (US, Europe). Its practical realization will however depend on the availability and cost of scalable electricity storage solutions.
+
+
+=== Photovoltaic power stations ===
+
+
+=== Concentrating solar power stations ===
+
+Commercial concentrating solar power (CSP) plants, also called "solar thermal power stations", were first developed in the 1980s. The 377  MW Ivanpah Solar Power Facility, located in California's Mojave Desert, is the world's largest solar thermal power plant project. Other large CSP plants include the Solnova Solar Power Station (150 MW), the Andasol solar power station (150 MW), and Extresol Solar Power Station (150 MW), all in Spain. The principal advantage of CSP is the ability to efficiently add thermal storage, allowing the dispatching of electricity over up to a 24-hour period. Since peak electricity demand typically occurs at about 5 pm, many CSP power plants use 3 to 5 hours of thermal storage.
+
+
+== Economics ==
+
+
+=== Cost per watt ===
+The typical cost factors for solar power include the costs of the modules, the frame to hold them, wiring, inverters, labour cost, any land that might be required, the grid connection, maintenance and the solar insolation that location will receive.
+Photovoltaic systems use no fuel, and modules typically last 25 to 40 years. Thus upfront capital and financing costs make up 80 to 90% of the cost of solar power.: 165 
+
+
+=== Installation prices ===
+Expenses of high power band solar modules has greatly decreased over time. Beginning in 1982, the cost per kW was approximately 27,000 American dollars, and in 2006 the cost dropped to approximately 4,000 American dollars per kW. The PV system in 1992 cost approximately 16,000 American dollars per kW and it dropped to approximately 6,000 American dollars per kW in 2008.In 2021 in the US, residential solar cost from 2 to 4 dollars/watt (but solar shingles cost much more) and utility solar costs were around $1/watt.
+
+
+=== Productivity by location ===
+
+The productivity of solar power in a region depends on solar irradiance, which varies through the day and year and is influenced by latitude and climate. PV system output power also depends on ambient temperature, wind speed, solar spectrum, the local soiling conditions, and other factors.
+Onshore wind power tends to be the cheapest source of electricity in Northern Eurasia, Canada, some parts of the United States, and Patagonia in Argentina: whereas in other parts of the world mostly solar power (or less often a combination of wind, solar and other low carbon energy) is thought to be best.: 8 The locations with highest annual solar irradiance lie in the arid tropics and subtropics. Deserts lying in low latitudes usually have few clouds, and can receive sunshine for more than ten hours a day. These hot deserts form the Global Sun Belt circling the world. This belt consists of extensive swathes of land in Northern Africa, Southern Africa, Southwest Asia, Middle East, and Australia, as well as the much smaller deserts of North and South America.So solar is (or is predicted to become) the cheapest source of energy in all of Central America, Africa, the Middle East, India, South-east Asia, Australia, and several other places.: 8 Different measurements of solar irradiance (direct normal irradiance, global horizontal irradiance) are mapped below :
+
+		
+		
+		
+		
+		
+		
+
+
+=== Self consumption ===
+In cases of self-consumption of solar energy, the payback time is calculated based on how much electricity is not purchased from the grid. However, in many cases, the patterns of generation and consumption do not coincide, and some or all of the energy is fed back into the grid. The electricity is sold, and at other times when energy is taken from the grid, electricity is bought. The relative costs and prices obtained affect the economics. In many markets, the price paid for sold PV electricity is significantly lower than the price of bought electricity, which incentivizes self consumption. Moreover, separate self consumption incentives have been used in e.g. Germany and Italy. Grid interaction regulation has also included limitations of grid feed-in in some regions in Germany with high amounts of installed PV capacity. By increasing self consumption, the grid feed-in can be limited without curtailment, which wastes electricity.A good match between generation and consumption is key for high self-consumption. The match can be improved with batteries or controllable electricity consumption. However, batteries are expensive and profitability may require the provision of other services from them besides self consumption increase. Hot water storage tanks with electric heating with heat pumps or resistance heaters can provide low-cost storage for self consumption of solar power. Shiftable loads, such as dishwashers, tumble dryers and washing machines, can provide controllable consumption with only a limited effect on the users, but their effect on self-consumption of solar power may be limited.
+
+
+=== Energy pricing and incentives ===
+
+The political purpose of incentive policies for PV is to facilitate an initial small-scale deployment to begin to grow the industry, even where the cost of PV is significantly above grid parity, to allow the industry to achieve the economies of scale necessary to reach grid parity. The policies are implemented to promote national energy independence, high tech job creation and reduction of CO2 emissions. Three incentive mechanisms are often used in combination as investment subsidies: the authorities refund part of the cost of installation of the system, the electricity utility buys PV electricity from the producer under a multiyear contract at a guaranteed rate, and Solar Renewable Energy Certificates (SRECs)
+
+
+==== Net metering ====
+
+In net metering the price of the electricity produced is the same as the price supplied to the consumer, and the consumer is billed on the difference between production and consumption. Net metering can usually be done with no changes to standard electricity meters, which accurately measure power in both directions and automatically report the difference, and because it allows homeowners and businesses to generate electricity at a different time from consumption, effectively using the grid as a giant storage battery. With net metering, deficits are billed each month while surpluses are rolled over to the following month. Best practices call for perpetual roll over of kWh credits. Excess credits upon termination of service are either lost or paid for at a rate ranging from wholesale to retail rate or above, as can be excess annual credits.
+
+
+==== Solar Renewable Energy Credits (SRECs) ====
+Alternatively, Solar Renewable Energy Certificates (SRECs) allow for a market mechanism to set the price of the solar-generated electricity subsidy. In this mechanism, renewable energy production or consumption target is set, and the utility (more technically the Load Serving Entity) is obliged to purchase renewable energy or face a fine (Alternative Compliance Payment or ACP). The producer is credited for an SREC for every 1,000 kWh of electricity produced. If the utility buys this SREC and retires it, they avoid paying the ACP. In principle, this system delivers the cheapest renewable energy since all solar facilities are eligible and can be installed in most economic locations. Uncertainties about the future value of SRECs have led to long-term SREC contract markets to give clarity to their prices and allow solar developers to pre-sell and hedge their credits.
+Financial incentives for photovoltaics differ across countries, including Australia, China, Germany, Israel, Japan, and the United States and even across states within the US.
+The Japanese government through its Ministry of International Trade and Industry ran a successful programme of subsidies from 1994 to 2003. By the end of 2004, Japan led the world in installed PV capacity with over 1.1 GW.
+
+
+== Grid integration ==
+
+The overwhelming majority of electricity produced worldwide is used immediately because traditional generators can adapt to demand and storage is usually more expensive. Both solar power and wind power are sources of variable renewable power, meaning that all available output must be used locally, carried on transmission lines elsewhere to be used, or stored (e.g. in a battery). Since solar energy is not available at night, storing its energy is potentially an important issue particularly in off-grid and for future 100% renewable energy scenarios to have continuous electricity availability.Solar electricity is inherently variable but somewhat predictable by time of day, location, and seasons. Solar is intermittent due to day/night cycles and unpredictable weather. How much of a special challenge solar power is in any given electric utility varies significantly. In places with hot summers and mild winters, solar is well matched to daytime cooling demands.Conventional hydroelectric dams work very well in conjunction with solar power; water can be held back or released from a reservoir as required. Where suitable geography is not available, pumped-storage hydroelectricity can use solar power to pump water to a high reservoir on sunny days, then the energy is recovered at night and in bad weather by releasing water via a hydroelectric plant to a low reservoir where the cycle can begin again. 
+This cycle can lose 20% of the energy to round trip inefficiencies, this plus the construction costs add to the expense of implementing high levels of solar power.
+
+
+=== Energy storage ===
+Concentrated solar power plants may use thermal storage to store solar energy, such as in high-temperature molten salts. These salts are an effective storage medium because they are low-cost, have a high specific heat capacity, and can deliver heat at temperatures compatible with conventional power systems. This method of energy storage is used, for example, by the Solar Two power station, allowing it to store 1.44 TJ in its 68 m3 storage tank, enough to provide full output for close to 39 hours, with an efficiency of about 99%.In stand alone PV systems batteries are traditionally used to store excess electricity. With grid-connected photovoltaic power system, excess electricity can be sent to the electrical grid. Net metering and feed-in tariff programs give these systems a credit for the electricity they produce. This credit offsets electricity provided from the grid when the system cannot meet demand, effectively trading with the grid instead of storing excess electricity. 
+When wind and solar are a small fraction of the grid power, other generation techniques can adjust their output appropriately, but as these forms of variable power grow, additional balance on the grid is needed. As prices are rapidly declining, PV systems increasingly use rechargeable batteries to store a surplus to be later used at night. Batteries used for grid-storage can stabilize the electrical grid by leveling out peak loads for around an hour or more. In the future, less expensive batteries could play an important role on the electrical grid, as they can charge during periods when generation exceeds demand and feed their stored energy into the grid when demand is higher than generation.
+Common battery technologies used in today's home PV systems include nickel-cadmium, lead-acid, nickel metal hydride, and lithium-ion. Lithium-ion batteries have the potential to replace lead-acid batteries in the near future, as they are being intensively developed and lower prices are expected due to economies of scale provided by large production facilities such as the Gigafactory 1. In addition, the Li-ion batteries of plug-in electric cars may serve as future storage devices in a vehicle-to-grid system. Since most vehicles are parked an average of 95% of the time, their batteries could be used to let electricity flow from the car to the power lines and back. Other rechargeable batteries used for distributed PV systems include, sodium–sulfur and vanadium redox batteries, two prominent types of a molten salt and a flow battery, respectively.
+
+
+=== Other technologies ===
+In an electricity system without grid energy storage, generation from stored fuels (coal, biomass, natural gas, nuclear) must go up and down in reaction to the rise and fall of solar electricity (see load following power plant). While hydroelectric and natural gas plants can quickly respond to changes in load, coal, biomass and nuclear plants usually take considerable time to respond to load and can only be scheduled to follow the predictable variation. Depending on local circumstances, beyond about 20–40% of total generation, grid-connected intermittent sources like solar tend to require investment in some combination of grid interconnections, energy storage or demand side management. Integrating large amounts of solar power with existing generation equipment has caused issues in some cases. For example, in Germany, California and Hawaii, electricity prices have been known to go negative when solar is generating a lot of power.The combination of wind and solar PV has the advantage that the two sources complement each other because the peak operating times for each system occur at different times of the day and year. The power generation of such solar hybrid power systems is therefore more constant and fluctuates less than each of the two component subsystems. Solar power is seasonal, particularly in northern/southern climates, away from the equator, suggesting a need for long term seasonal storage in a medium such as hydrogen or pumped hydroelectric.
+
+
+== Environmental effects ==
+
+Concentrated solar power may use much more water than gas-fired power. Unlike fossil fuel based technologies, solar power does not lead to any harmful emissions during operation, but the production of the panels leads to some amount of pollution.
+
+
+=== Greenhouse gases ===
+The life-cycle greenhouse-gas emissions of solar power are less than 50 gram (g) per kilowatt-hour (kWh). Whereas (without carbon capture and storage) a combined cycle gas-fired power plant emits around 500 g/kWh,  and a coal-fired power plant about 1000 g/kWh.The most critical parameter is the solar insolation of the site: GHG emissions factors for PV solar are inversely proportional to insolation. Similar to all energy sources where their total life cycle emissions are mostly from construction, the switch to low carbon power in the manufacturing and transportation of solar devices would further reduce carbon emissions.
+
+
+=== Land use ===
+Life-cycle surface power density of solar power is estimated at 6.63 W/m2 which is two orders of magnitude less than fossil fuels and nuclear power. As result, PV requires much larger amounts of land surface to produce the same nominal amount of energy as sources with higher surface power density and capacity factor. According to a 2021 study obtaining 80% from PV by 2050 would require up to 2.8% of total landmass in European Union and up to 5% in countries like Japan and South Korea. Occupation of such large areas for PV farms would be likely to drive residential opposition as well as lead to deforestation, removal of vegetation and conversion of farm land. However these countries are very unlikely to need 80% from PV on their own land, as they have other low-carbon power such as offshore wind and may also import solar power from sparsely populated countries. Worldwide land use has minimal ecological impact.Utility-scale photovoltaic farms use large amounts of space due to relatively low surface power density and occasionally face opposition from local residents, especially in countries with high population density or when the installation involves removal of existing trees or shrubs. Construction of Cleve Hill Solar Park in Kent (United Kingdom) composed of 880,000 panels up to 3.9 m high on 490 hectares of land faced opposition on the grounds of "destroying the local landscape". The solar farm divided Greenpeace (which opposed) and Friends of the Earth (which supported it). Similar concerns about deforestation were raised when large amounts of trees were removed for installation of solar farms in New Jersey and others.
+
+
+=== Manufacturing and recycling ===
+One issue that has often raised concerns is the use of cadmium (Cd), a toxic heavy metal that has the tendency to accumulate in ecological food chains. It is used as semiconductor component in CdTe solar cells and as a buffer layer for certain CIGS cells in the form of cadmium sulfide. 
+The amount of cadmium used in thin-film solar cells is relatively small (5–10 g/m2) and with proper recycling and emission control techniques in place the cadmium emissions from module production can be almost zero. Current PV technologies lead to cadmium emissions of 0.3–0.9 microgram/kWh over the whole life-cycle. Most of these emissions arise through the use of coal power for the manufacturing of the modules, and coal and lignite combustion leads to much higher emissions of cadmium. Life-cycle cadmium emissions from coal is 3.1 microgram/kWh, lignite 6.2, and natural gas 0.2 microgram/kWh.
+In the case of crystalline silicon modules, the solder material, that joins the copper strings of the cells, contains about 36 percent of lead (Pb). Moreover, the paste used for screen printing front and back contacts contains traces of Pb and sometimes Cd as well. It is estimated that about 1,000 metric tonnes of Pb have been used for 100 gigawatts of c-Si solar modules. However, there is no fundamental need for lead in the solder alloy.Manufacturing of solar panels requires rare-earth elements, producing low-level radioactive waste during the mining process.International Energy Agency study projects the demand for mined resources such as lithium, graphite, cobalt, copper, nickel and rare earths will rise 4x by 2040 and notes insufficient supply of these materials to match demand imposed by expected large-scale deployments of decentralized technologies solar and wind power, and required grid upgrades.As of 2021, out of the main solar PV markets, only the EU and the UK had specific regulations for the recycling of solar panels. This legislation requires that at least 80% of the solar panel material is recycled.
+
+
+== Political issues ==
+Majority of the PV panels is manufactured in China using silicon sourced from one particular region of Xinjiang, which raises concerns about human rights violations (Xinjang internment camps) as well as  supply chain dependency.In the United States, performance based incentives are being used instead of upfront incentives to increase the confidence and results of the use of solar power, but in Germany there is a reduction of the FIT (feed in tariff) levels, which has caused a decrease in the money spent towards solar energy.FIT is a policy that helped encourage faster development and use of solar energy, making Germany and Italy the leaders in the current solar energy market. FIT that encourages the faster development and use of solar energy, it does not currently subsidize up front costs.
+
+
+== Emerging technologies ==
+
+
+=== Concentrator photovoltaics ===
+
+Concentrator photovoltaics (CPV) systems employ sunlight concentrated onto photovoltaic surfaces for the purpose of electrical power production. Contrary to conventional photovoltaic systems, it uses lenses and curved mirrors to focus sunlight onto small, but highly efficient, multi-junction solar cells. Solar concentrators of all varieties may be used, and these are often mounted on a solar tracker in order to keep the focal point upon the cell as the sun moves across the sky. Luminescent solar concentrators (when combined with a PV-solar cell) can also be regarded as a CPV system. Concentrated photovoltaics are useful as they can improve efficiency of PV-solar panels drastically.In addition, most solar panels on spacecraft are also made of high efficient multi-junction photovoltaic cells to derive electricity from sunlight when operating in the inner Solar System.
+
+
+=== Floating solar ===
+Floating solar is an emerging form of PV systems that float on the surface of irrigation canals (see also: solar canal), water reservoirs and lakes. Several systems exist in France, India, Japan, Korea, the United Kingdom and the United States. These systems reduce the need of valuable land area, save drinking water that would otherwise be lost through evaporation, and show a higher efficiency of solar energy conversion, as the panels are kept at a cooler temperature than they would be on land. Although not floating, other dual-use facilities with solar power include fisheries.
+
+
+=== Solar updraft tower ===
+The solar updraft tower (SUT) is a design concept for a renewable-energy power plant for generating electricity from low temperature solar heat. Sunshine heats the air beneath a very wide greenhouse-like roofed collector structure surrounding the central base of a very tall chimney tower. The resulting convection causes a hot air updraft in the tower by the chimney effect. This airflow drives wind turbines, placed in the chimney updraft or around the chimney base, to produce electricity.
+As of mid 2018, although several prototype models have been built, no full-scale practical units are in operation. Scaled-up versions of demonstration models are planned to generate significant power. They may also allow development of other applications, such as to agriculture or horticulture, to water extraction or distillation, or to improvement of urban air pollution
+
+
+=== Perovskite solar cells ===
+
+
+== See also ==
+
+
+== References ==
+
+
+== Further reading ==
+Sivaram, Varun (2018). Taming the Sun: Innovation to Harness Solar Energy and Power the Planet. Cambridge, MA: MIT Press. ISBN 978-0-262-03768-6.
+
+
+== External links ==

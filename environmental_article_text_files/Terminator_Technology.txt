@@ -1,0 +1,47 @@
+Genetic use restriction technology (GURT), also known as terminator technology or suicide seeds, is the name given to proposed methods for restricting the use of genetically modified crops by activating (or deactivating) some genes only in response to certain stimuli, especially to cause second generation seeds to be infertile. The development and application of GURTs is primarily an attempt by private sector agricultural breeders to increase the extent of protection on their innovations. The technology was originally developed under a cooperative research and development agreement between the Agricultural Research Service of the United States Department of Agriculture and Delta and Pine Land company in the 1990s and is not yet commercially available.GURT was first reported on by the Subsidiary Body on Scientific, Technical and Technological Advice (SBSTTA) to the UN Convention on Biological Diversity and discussed during the 8th Conference of the Parties to the United Nations Convention on Biological Diversity in Curitiba, Brazil, March 20–31, 2006.
+
+
+== Process ==
+
+Because of the continued development of the technology and the continued protection of patents that develop it, many descriptions of GURT differ from others. Even so, the basic description of many GURTs are similar. The process is typically composed of four genetic components: a target gene, a promoter, a trait switch, and a genetic switch, sometimes with slightly different names in different papers.
+For example, a typical GURT works similarly to as follows: a plant with GURT technology has a target gene in its DNA that expresses when activated by a promoter gene. However, it is separated from the gene by a blocker sequence that prevents the promoter from accessing the target. When the plant receives a given external input, a genetic switch in the plant takes the input, amplifies it, and converts it into a biological signal. When a trait switch receives the amplified signal, it creates an enzyme that cuts the blocker sequence out. Finally, with the blocker sequence eliminated, the promoter gene is able to make the target gene to express itself in the plant.In other versions of the process, an operator must bind to the trait switch in order for it to make the enzymes that cut out the blocker sequence. However, there are repressors that bind to the trait switch and prevent it from doing so. In this case, when the external input is applied, the repressors bond to it instead of the trait switch, allowing for the enzymes to be created that cut the blocker sequence, and the trait is expressed.Other variations of GURT range widely, including systems such as letting the genetic switch directly affect the blocker sequence and bypass the need for a trait switch.
+
+
+== Variants ==
+There are conceptually two types of GURT. V-GURTs were developed first, with patents ranging throughout the 1990s, while T-GURTS were developed later and are sometimes considered the second generation of V-GURTS. The differences between the two types of GURT mainly rely on what the target gene does when it is activated.
+
+
+=== Variety specific ===
+Variety specific genetic use restriction technologies (V-GURT) produce sterile seeds, so the seed from the crop could not be used as seeds, but only for sale as food or fodder. When a plant reaches a given reproductive stage in its cycle, the process of activating the target gene begins. In V-GURTs, the target gene is known as a disrupter gene, and is usually a cytotoxin that degrades the DNA or RNA of the plant. This results in a non-functioning seed that cannot grow into a plant. V-GURTs would not have an immediate impact on the large number of primarily western farmers who use hybrid seeds, as they do not produce their own planting seeds, and instead buy specialized hybrid seeds from seed production companies. However, currently around 80 percent of farmers in both Brazil and Pakistan grow crops based on saved seeds from previous harvests. Consequentially, resistance to the introduction of GURT technology into developing countries is strong. The technology is restricted at the plant variety level, hence the term V-GURT.
+
+
+=== Trait specific ===
+Trait specific genetic use restriction technologies (T-GURT) are a second type of GURT that would modify a crop in such a way that the genetic enhancement engineered into the crop does not function until the plant is treated with a specific chemical. The chemical acts as the external input, activating the target gene. One difference in T-GURTs is the possibility that the gene could be toggled on and off with different chemical inputs, resulting in the same toggling on or off an associated trait. With T-GURTs, seeds could possibly be saved for planting with a condition that the new plants do not get any enhanced traits unless the external input is added. The technology is restricted at the trait level, hence the term T-GURT.
+
+
+== Potential uses ==
+There are several proposed uses for GURTs that could benefit both businesses and farms.
+Non-viable seeds produced on V-GURT plants may reduce the propagation of volunteer plants. Volunteer plants can become an economic problem for larger-scale mechanized farming systems that incorporate crop rotation. Furthermore, under warm, wet harvest conditions non V-GURT grain can sprout, lowering the quality of grain produced. It is likely that this problem would not occur with the use of V-GURT grain varieties. Use of V-GURT technology could also prevent escape of transgenes into wild relatives and help lessen impacts on biodiversity. Crops modified to produce non-food products could be armed with GURT technology to prevent accidental transmission of these traits into crops meant for foods.One of the original proposed uses for GURTs was to use them as alternatives to keep farmers from reusing patented seeds in the case that typical biological patents do not exist or are not enforced. The use of T-GURTs by companies has been proposed to allow for the selling of a traditional seed that gets special functions only when sprayed with a certain activator chemical sold by the company.Another proposed use is in synthetic biology, where a restricted activator chemical must be added fermentation medium to produce a desired output chemical.
+
+
+== Controversy ==
+As of 2006, GURT seeds have not been commercialized anywhere in the world due to opposition from farmers, consumers, indigenous peoples, NGOs, and some governments. Using the technology, companies that manufacture genetic use restriction technologies could potentially be able to make much more revenue because the seeds sold would not be able to be resown. Another concern is that farmers purchasing the seeds would be greatly impacted, given they would have to buy new seeds every year. It has been argued that this would result in higher prices in food. GURT seeds are worried to cause a significant decrease in biodiversity and threaten native species of plants. However, proponents of the technology dispute these claims, making the cases that because non-GMO hybrid plants are used in the same way and GURT seeds could help farmers deal with cross pollination, the benefits outweigh the potential negatives.In 2000, the United Nations Convention on Biological Diversity recommended a de facto moratorium on field-testing and commercial sale of terminator seeds; the moratorium was re-affirmed and the language strengthened in March 2006, at the COP8 meeting of the UNCBD. Specifically, the moratorium recommended that, due to a lack of research on the technology's potential risks, no field testing of GURTs nor products using them should be allowed until there was a sufficiently justified reason to do so. India and Brazil have passed national laws to prohibit the technology.
+
+
+== See also ==
+Cartagena Protocol on Biosafety
+Diamond v. Chakrabarty
+Digital rights management
+Genetic pollution
+Genetically modified organism
+Seed saving
+Transgenic maize
+
+
+== References ==
+
+
+== External links ==
+- UNEP/CBD/COP/5/2 - 11 November 1999 - Mention of genetic use restriction tech on pages 22, 42
+UN Convention on Biological Diversity - Cartagena Protocol on Biosafety
+USPTO Patent Number 5,723,765 - method for producing a seed incapable of germination, (claim no. 10)

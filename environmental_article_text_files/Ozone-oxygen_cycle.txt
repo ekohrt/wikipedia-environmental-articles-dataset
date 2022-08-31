@@ -1,0 +1,28 @@
+The ozone–oxygen cycle is the process by which ozone is continually regenerated in Earth's stratosphere, converting ultraviolet radiation (UV) into heat. In 1930 Sydney Chapman resolved the chemistry involved. The process is commonly called the Chapman cycle by atmospheric scientists.
+Most of the ozone production occurs in the tropical upper stratosphere and mesosphere. The total mass of ozone produced per day over the globe is about 400 million metric tons. The global mass of ozone is relatively constant at about 3 billion metric tons, meaning the Sun produces about 12% of the ozone layer each day.
+
+
+== Chemistry ==
+Creation: an oxygen molecule is split (photolyzed) by higher frequency UV light (top end of UV-B, UV-C and above) into two oxygen atoms (see figure):
+O2 + ℎν(<242 nm) → 2 O
+Each oxygen atom then quickly combines with an oxygen molecule to form an ozone molecule:
+O + O2 → O3
+The ozone–oxygen cycle: the ozone molecules formed by the reaction above absorb radiation having an appropriate wavelength between UV-C and UV-B. The triatomic ozone molecule becomes diatomic molecular oxygen plus a free oxygen atom (see figure):
+O3 + ℎν(240–310 nm) → O2 + O
+The  atomic oxygen produced quickly reacts with another oxygen molecule to reform ozone:
+O + O2 + A → O3 + A
+where A denotes another molecule or atom, like N2 or O2 which is needed in the reaction as otherwise energy and momentum wouldn't be conserved: There is an excess energy of the reaction which is manifested as extra kinetic energy. These two reactions form the ozone–oxygen cycle, in which the chemical energy released when O and O2 combine is  converted into kinetic energy of molecular motion. The overall effect is to convert penetrating UV-B light into heat, without any net loss of ozone. This cycle keeps the ozone layer in a stable balance while protecting the lower atmosphere from UV radiation, which is harmful to most living beings. It is also one of two major sources of heat in the stratosphere (the other being the kinetic energy released when O2 is photolyzed into O atoms).
+Removal: if an oxygen atom and an ozone molecule meet, they recombine to form two oxygen molecules:
+O3 + O → 2 O2
+And if two oxygen atoms meet, they react to form one oxygen molecule:
+2 O → O2The overall amount of ozone in the stratosphere is determined by a balance between production by solar radiation and removal.  The removal rate is slow, since the concentration of free O atoms is very low.
+In addition to the reactions just mentioned, certain free radicals, the most important being hydroxyl (OH), nitric oxide (NO) and atoms of chlorine (Cl) and bromine (Br), catalyze the recombination reaction, leading to an ozone layer that is thinner than it would be if the catalysts were not present.
+Most of the OH and NO are naturally present in the stratosphere, but human activity, especially emissions of chlorofluorocarbons (CFCs) and halons, has greatly increased the Cl and Br concentrations, leading to ozone depletion.  Each Cl or Br atom can catalyze tens of thousands of decomposition reactions before it is removed from the stratosphere.
+
+
+== External links ==
+Stratospheric Ozone: An Electronic Textbook
+The Sun and the Earth's Climate
+
+
+== References ==

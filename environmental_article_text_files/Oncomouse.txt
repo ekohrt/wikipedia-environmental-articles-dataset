@@ -1,0 +1,32 @@
+The OncoMouse or Harvard mouse is a type of laboratory mouse (Mus musculus) that has been genetically modified using modifications designed by Philip Leder and Timothy A Stewart of Harvard University to carry a specific gene called an activated oncogene (v-Ha-ras under the control of the mouse mammary tumor virus promoter). The activated oncogene significantly increases the mouse's susceptibility to cancer, and thus makes the mouse a suitable model for cancer research.OncoMouse was not the first transgenic mouse to be developed for use in cancer research. Ralph L. Brinster and Richard Palmiter had developed such mice previously.  However, OncoMouse was the first mammal to be patented. Because DuPont had funded Philip Leder's research, Harvard University agreed to give DuPont exclusive rights to any inventions commercialized as a result of the funding. Patent applications on the OncoMouse were filed back in the mid-1980s in numerous countries such as in the United States, in Canada, in Europe through the European Patent Office (EPO) and in Japan. Initially the rights to the OncoMouse invention were owned by DuPont. However, in 2011 the USPTO decided that the final patent actually expired in 2005, which meant that the Oncomouse became free for use by other parties (although the name is not, as "OncoMouse" is a registered trademark).
+The patenting of OncoMouse had a significant effect on mouse geneticists, who had previously shared their information and mice from their colonies openly. Once a strain of mice had been first described in published research, mice were stored and acquired through Jackson Laboratory, a nonprofit research institute. The patenting of OncoMouse, and the breadth of the claims made in those patents, were considered to be unreasonable by many of their contemporaries. More broadly, the patenting of OncoMouse was a first step in shifting academic research away from a culture of open and free (or very inexpensive) shared resources towards a commercial culture of expensive proprietary purchase and licensing requirements. This shift was felt far beyond the mouse genetics community. Harvard later said that it regretted the handling of the OncoMouse patents.
+
+
+== Patent procedures ==
+
+
+=== Canada ===
+In Canada, the Supreme Court in 2002 rejected the patent in Harvard College v. Canada (Commissioner of Patents), overturning a Federal Court of Appeal verdict which ruled in favor of the patent. However, on 7 October 2003, Canadian patent 1,341,442 CA 1341442  was granted to Harvard College. The patent was amended to omit the "composition of matter" claims on the transgenic mice. The Supreme Court had rejected the entire patent application on the basis of these claims, but Canadian patent law allowed the amended claims to grant under rules that predated the General Agreement on Tariffs and Trade, and the patent remains valid until 2020.
+
+
+=== Europe (through the EPO) ===
+European patent application 85304490.7 was filed in June 1985 by "The President and Fellows of Harvard College". It was initially refused in 1989 by an Examining Division of the European Patent Office (EPO) among other things on the grounds that the European Patent Convention (EPC) excludes patentability of animals per se. The decision was appealed and the Board of Appeal held that animal varieties were excluded of patentability by the EPC (and especially its Article 53(b) EPC), while animals (as such) were not excluded from patentability. The Examining Division then granted the patent in 1992 (its publication number is EP 0169672 ).
+The European patent was then opposed by several third parties, more precisely by 17 opponents, notably on the grounds laid out in Article 53(a) EPC, according to which "inventions, the publication or exploitation of which would be contrary to "ordre public" or morality are excluded from patentability. After oral proceedings took place in November 2001, the patent was maintained in amended form. This decision was then appealed and the appeal decision was taken on July 6, 2004. The case was eventually remitted to the first instance, i.e. the Opposition Division, with the order to maintain the patent on a newly amended form. However, revocation of the patent was eventually published on August 16, 2006, more than 20 years after the filing date (the normal term of a European patent under Article 63(1) EPC), for failure to pay the fees and to file the translations of the amended claims under Rule 58(5) EPC 1973.
+
+
+=== United States ===
+In 1988, the United States Patent and Trademark Office (USPTO) granted U.S. Patent 4,736,866  (filed Jun 22, 1984, issued Apr 12, 1988, expired April 12, 2005) to Harvard College claiming “a transgenic non-human mammal whose germ cells and somatic cells contain a recombinant activated oncogene sequence introduced into said mammal…” The claim explicitly excluded humans, apparently reflecting moral and legal concerns about patents on human beings, and about modification of the human genome. Remarkably, there were no US courts called to decide on the validity of this patent. Two separate patents were issued to Harvard College covering methods for providing a cell culture from a transgenic non-human animal (U.S. Patent 5,087,571; filed Mar 22, 1988, issued Feb 11, 1992, expired Feb 11, 2009) and testing methods using transgenic mice expressing an oncogene (U.S. Patent 5,925,803; filed Sep 19, 1991, issued Jul 20, 1999, expires July 20, 2016). Both these patents were found to expire in 2005 by the USPTO due to a terminal disclaimer. Dupont is currently bringing suit in the Eastern District of Virginia.
+
+
+== See also ==
+Biobreeding rat
+Biological patent
+Knockout mouse
+Animal testing
+
+
+== References ==
+
+
+== Further reading ==
+Sharples, Andrew (April 2003). "The EPO and the Oncomouse: good news for whales, giraffes and patent examiners". CIPA Journal.

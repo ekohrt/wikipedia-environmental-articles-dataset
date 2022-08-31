@@ -1,0 +1,13 @@
+The Long-term Ecological Observatory (LEO) is a project off the coast of New Jersey, United States, which monitors the processes in the ocean with online IT systems, spearheaded by the Institute of Marine and Coastal Sciences at Rutgers University. Already installed are sensors for temperature, salinity, transmission, light, light attenuation, fluorescence, pressure and velocity.
+With improvements in Internet infrastructure it will be possible to observe and evaluate plankton (like copepods) or juvenile fish (like Atlantic herring) online with a quantitative in situ microscope, known as the ecoSCOPE, in order to get more insight into some of the enigmatic life histories of ocean organisms, like predator–prey interaction between herring and copepods, the Eel story, or oxygen depletion.
+
+
+== References ==
+Schofield O, Bergmann T, Bissett P, Grassle JF, Haidvogel DB, Kohut J, Moline M and Glenn SM (2002) "The Long-Term Ecosystem Observatory: An Integrated Coastal Observatory", IEEE Journal of Oceanic Engineering, 27 (2): 146–154.
+Wilkin JL, HG Arango, DB Haidvogel CS Lichtenwalner, SM Glenn and KS Hedström (2005) "A regional ocean modeling system for the long-term ecosystem observatory" Journal of Geophysical Research, 110, C06S91. doi:10.1029/2003JC002218
+The Long-Term Ecosystem Observatory – A Key Piece of an Integrated Observing Network Puzzle Underseas Research Program, NOAA. Updated: November 2, 2005. Retrieved October 8, 2012.
+
+
+== External links ==
+Institute of Marine and Coastal Sciences, Rutgers University
+LEO15 university website

@@ -1,0 +1,99 @@
+Skyglow (or sky glow) is the diffuse luminance of the night sky, apart from discrete light sources such as the Moon and visible individual stars. It is a commonly noticed aspect of light pollution. While usually referring to luminance arising from artificial lighting, skyglow may also involve any scattered light seen at night, including natural ones like starlight, zodiacal light, and airglow.In the context of light pollution, skyglow arises from the use of artificial light sources, including electrical (or rarely gas) lighting used for illumination and advertisement and from gas flares. Light propagating into the atmosphere directly from upward-directed or incompletely shielded sources, or after reflection from the ground or other surfaces, is partially scattered back toward the ground, producing a diffuse glow that is visible from great distances. Skyglow from artificial lights is most often noticed as a glowing dome of light over cities and towns, yet is pervasive throughout the developed world.
+
+
+== Causes ==
+
+Light used for all purposes in the outdoor environment contributes to skyglow, by sometimes avoidable aspects such as poor shielding of fixtures, and through at least partially unavoidable aspects such as unshielded signage and reflection from intentionally illuminated surfaces. Some of this light is then scattered in the atmosphere back toward the ground by molecules and aerosols (see § Mechanism), and (if present) clouds, causing skyglow.
+Research indicates that when viewed from nearby, about half of skyglow arises from direct upward emissions, and half from reflected, though the ratio varies depending on details of lighting fixtures and usage, and distance of the observation point from the light source. In most communities, direct upward emission averages about 10–15%. Fully shielded lighting (with no light emitted directly upward) decreases skyglow by about half when viewed nearby, but by much greater factors when viewed from a distance.
+Skyglow is significantly amplified by the presence of snow, and within and near urban areas when clouds are present. In remote areas, snow brightens the sky, but clouds make the sky darker.
+
+
+== Mechanism ==
+There are two kinds of light scattering that lead to sky glow: scattering from molecules such as N2 and O2 (called Rayleigh scattering), and that from aerosols, described by Mie theory. Rayleigh scattering is much stronger for short-wavelength (blue) light, while scattering from aerosols is less affected by wavelength. Rayleigh scattering makes the sky appear blue in the daytime; the more aerosols there are, the less blue or whiter the sky appears. In many areas, most particularly in urban areas, aerosol scattering dominates, due to the heavy aerosol loading caused by modern industrial activity, power generation, farming and transportation.
+Despite the strong wavelength dependence of Rayleigh scattering, its effect on sky glow for real light sources is small. Though the shorter wavelengths suffer increased scattering, this increased scattering also gives rise to increased extinction: the effects approximately balance when the observation point is near the light source.For human visual perception of sky glow, generally the assumed context under discussions of sky glow, sources rich in shorter wavelengths produce brighter sky glow, but for a different reason (see § Dependence on light source).
+
+
+== Measurement ==
+Professional astronomers and light pollution researchers use various measures of luminous or radiant intensity per unit area, such as magnitudes per square arcsecond, watts per square meter per steradian,(nano-)Lamberts, or (micro-)candela per square meter. All-sky maps of skyglow brightness are produced with professional-grade imaging cameras with CCD detectors and using stars as calibration sources. Amateur astronomers have used the Bortle Dark-Sky Scale to approximately quantify skyglow ever since it was published in Sky & Telescope magazine in February 2001. The scale rates the darkness of the night sky inhibited by skyglow with nine classes and provides a detailed description of each position on the scale. Amateurs also increasingly use Sky Quality Meters (SQM) that nominally measure in astronomical photometric units of visual (Johnson V) magnitudes per square arcsecond.
+
+
+== Dependence on distance from source ==
+Sky glow brightness arising from artificial light sources falls steeply with distance from the light source, due to the geometric effects characterized by an inverse square law in combination with atmospheric absorption. An approximate relation is given by
+
+  
+    
+      
+        
+          intensity
+        
+         
+        ∝
+         
+        
+          
+            1
+            
+              
+                distance
+              
+              
+                2.5
+              
+            
+          
+        
+        
+      
+    
+    {\displaystyle {\text{intensity}}\ \propto \ {\frac {1}{{\text{distance}}^{2.5}}}\,}
+  which is known as "Walker's Law."
+Walker's Law has been verified by observation 
+to describe both the measurements of sky brightness at any given point or direction in the sky caused by a light source (such as a city), as well as to integrated measures such as the brightness of the "light dome" over a city, or the integrated brightness of the entire night sky. At very large distances (over about 50 km) the brightness falls more rapidly, largely due to extinction and geometric effects caused by the curvature of the Earth.
+
+
+== Dependence on light source ==
+
+Different light sources produce differing amounts of visual sky glow. The dominant effect arises from the Purkinje shift, and not as commonly claimed from Rayleigh scattering of short wavelengths (see § Mechanism). When observing the night sky, even from moderately light polluted areas, the eye becomes nearly or completely dark-adapted or scotopic. The scotopic eye is much more sensitive to blue and green light, and much less sensitive to yellow and red light, than the light-adapted or
+photopic eye. Predominantly because of this effect, white light sources such as metal halide, fluorescent, or white LED can produce as much as 3.3 times the visual sky glow brightness of the currently most-common high-pressure sodium lamp, and up to eight times the brightness of low-pressure sodium or amber Aluminium gallium indium phosphide LED.
+
+In detail, the effects are complex, depending both on the distance from the source as well as the viewing direction in the night sky. But the basic results of recent research are unambiguous: assuming equal luminous flux (that is, equal amounts of visible light), and matched optical characteristics of the fixtures (particularly the amount of light allowed to radiate directly upward), white sources rich in shorter (blue and green) wavelengths produce dramatically greater sky glow than sources with little blue and green. The effect of Rayleigh scattering on skyglow impacts of differing light source spectra is very small.
+Much discussion in the lighting industry and even by some dark-sky advocacy organizations (e.g. International Dark-Sky Association) of the sky glow consequences of replacing the currently prevalent high-pressure sodium roadway lighting systems with white LEDs neglects critical issues of human visual spectral sensitivity, or focuses exclusively on white LED light sources, or focuses concerns narrowly on the blue portion (<500 nm) of the spectrum. All of these deficiencies lead to the incorrect conclusion that increases in sky glow brightness arising from the change in light source spectrum are minimal, or that light-pollution regulations that limit the CCT of white LEDs to so-called "warm white" (i.e. CCT <4000K or 3500K) will prevent sky glow increases. Improved efficiency (efficiency in distributing light onto the target area – such as the roadway – with diminished "waste" falling outside of the target area and more uniform distribution patterns) can allow designers to lower lighting amounts. But efficiency improvement sufficient to overcome sky glow doubling or tripling arising from a switch to even warm-white LED from high-pressure sodium (or a 4–8x increase compared to low-pressure sodium) has not been demonstrated.
+
+
+== Negative effects ==
+
+Skyglow, and more generally light pollution, has various negative effects: from aesthetic diminishment of the beauty of a star-filled sky, through energy and resources wasted in the production of excessive or uncontrolled lighting, to impacts on birds and other biological systems,
+including humans. Skyglow is a prime problem for astronomers, because it reduces contrast in the night sky to the extent where it may become impossible to see all but the brightest stars.Many nocturnal organisms are believed to navigate using the polarization signal of scattered moonlight.  Because skyglow is mostly unpolarized, it can swamp the weaker signal from the moon, making this type of navigation impossible.Due to skyglow, people who live in or near urban areas see thousands fewer stars than in an unpolluted sky, and commonly cannot see the Milky Way. Fainter sights like the zodiacal light and Andromeda Galaxy are nearly impossible to discern even with telescopes.
+
+
+== Effects on the ecosystem ==
+The effects of sky glow in relation to the ecosystem have observed to be detrimental to a variety of different organisms. The lives of plants and animals alike (especially those which are nocturnal) are affected as their natural environment becomes subjected to unnatural change. It can be assumed that the rate of human development technology exceeds the rate of non-human natural adaptability to their environment, therefore, organisms such as plants and animals are unable to keep up and can suffer as a consequence. 
+Although sky glow can be the result of a natural occurrence, the presence of artificial sky glow has become a detrimental problem as urbanization continues to flourish. The effects of urbanization, commercialization, and consumerism are the result of human development; these developments in turn have ecological consequences. For example, lighted fishing fleets, offshore oil platforms, and cruise ships all bring the disruption of artificial night lighting to the world's oceans.As a whole, these effects derive from changes in orientation, disorientation, or misorientation, and attraction or repulsion from the altered light environment, which in turn may affect foraging, predator-prey dynamics, reproduction, migration, and communication. These changes can even result in the death of some species such as certain migratory birds, sea creatures, and nocturnal predators.Besides the effect on animals, crops and trees are also very susceptible to destruction. The constant exposure to light has an impact of the photosynthesis of a plant, as a plant needs a balance of both sun and darkness in order for it to survive. In turn, the effects of sky glow can affect production rates of agriculture, especially in farming areas that are close to large city centers.
+
+
+== See also ==
+Light pollution
+SKYGLOW
+Urbanization
+Polarized light pollution
+Over-illumination
+Dark-sky movement
+International Dark-Sky Association (IDA)
+Campaign for Dark Skies (CfDS)
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+List of peer reviewed research papers about sky glow
+Skyglow: the effect of poor lighting (CfDS) (examples of skyglow in the UK)
+Skyglow across the Great Lakes (examples of skyglow in the US)
+Filtering Skyglow (from CCD cameras)
+Towns and Skyglow (UK skyglow image collection)
+Loss of the Night an Android app for estimating skyglow by measuring naked eye limiting magnitude
+Dark Sky Meter an iPhone app for measuring skyglow luminance
+LED light pollution: Can we save energy and save the night? SPIE Newsroom article on reducing skyglow

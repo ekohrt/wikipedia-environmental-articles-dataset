@@ -1,0 +1,87 @@
+Bees can suffer serious effects from toxic chemicals in their environments. These include various synthetic chemicals, particularly insecticides, as well as a variety of naturally occurring chemicals from plants, such as ethanol resulting from the fermentation of organic materials. Bee intoxication can result from exposure to ethanol from fermented nectar, ripe fruits, and manmade and natural chemicals in the environment.The effects of alcohol on bees are sufficiently similar to the effects of alcohol on humans that honey bees have been used as models of human ethanol intoxication. The metabolism of bees and humans is sufficiently different that bees can safely collect nectars from plants that contain compounds toxic to humans. The honey produced by bees from these toxic nectars can be poisonous if consumed by humans.
+Natural processes can also introduce toxic substances into nontoxic honey produced from nontoxic nectar. Microorganisms in honey can convert some of the sugars in honey to ethanol. This process of ethanol fermentation is intentionally harnessed to produce the alcoholic beverage called mead from fermented honey.
+
+
+== Ethanol ==
+
+
+=== Effects of intoxication ===
+
+The introduction of certain chemical substances—such as ethanol or pesticides or defensive toxic biochemicals produced by plants—to a bee's environment can cause the bee to display abnormal or unusual behavior and disorientation. In sufficient quantities, such chemicals can poison and even kill the bee. The effects of alcohol on bees have long been recognized. For example, John Cumming described the effect in an 1864 publication on beekeeping.When bees become intoxicated from ethanol consumption or poisoned with other chemicals, their balance is affected, and they are wobbly when they walk. Charles Abramson's group at Oklahoma State University has put inebriated bees on running wheels, where they exhibit locomotion difficulties. They also put honey bees in shuttle-boxes that used a stimulus to encourage the bees to move, and found that they were less mobile as they became more intoxicated.A temulent bee is more likely to stick out its tongue, or proboscis. Inebriated bees spend more time flying. If a bee is sufficiently intoxicated, it will just lie on its back and wiggle its legs. Inebriated bees typically have many more flying accidents as well. Some bees that consume ethanol become too inebriated to find their way back to the hive, and will die as a result. Bozic et al. (2006) found that alcohol consumption by honeybees disrupts foraging and social behaviors, and has some similar effects to poisoning with insecticides. Some bees become more aggressive after consuming alcohol.Exposure to alcohol can have a prolonged effect on bees, lasting as long as 48 hours. This phenomenon is also observed in fruit flies and is connected to the neurotransmitter octopamine in fruit flies, which is also present in bees.
+
+
+=== Bees as ethanol inebriation models ===
+In 1999, research by David Sandeman led to the realization that bee inebriation models are potentially valuable for understanding vertebrate and even human ethanol intoxication:
+
+"Advances over the past three decades in our understanding of nervous systems are impressive and come from a multifaceted approach to the study of both vertebrate and invertebrate animals. An almost unexpected by-product of the parallel investigation of vertebrate and invertebrate nervous systems that is explored in this article is the emergent view of an intricate web of evolutionary homology and convergence exhibited in the structure and function of the nervous systems of these two large, paraphyletic groups of animals."
+The behavior of honey bees intoxicated by ethanol is being studied by scientists at Ohio State University, Oklahoma State University, University of Ljubljana in Slovenia, and other sites as a potential model of the effects of alcohol on humans. At the Oklahoma State University, for example, Abramson's research found significant correlations between the reactions of bees and other vertebrates to ethanol exposure:
+
+"The purpose of this experiment was to test the feasibility of creating an animal model of ethanol consumption using social insects.... The experiments on consumption, locomotion, and learning suggest that exposure to ethanol influences behavior of honey bees similarly to that observed in experiments with analogous vertebrates."
+It has thus been found that "the honey bee nervous system is similar to that of vertebrates". These similarities are pronounced enough to even make it possible to derive information on the functioning of human brains from how bees react to certain chemicals. Julie Mustard, a researcher at Ohio State, explained that:
+
+"On the molecular level, the brains of honey bees and humans work the same. Knowing how chronic alcohol use affects genes and proteins in the honey bee brain may help us eventually understand how alcoholism affects memory and behavior in humans, as well as the molecular basis of addiction."
+The evaluation of a bee model for ethanol inebriation of vertebrates has just begun, but appears to be promising. The bees are fed ethanol solutions and their behavior observed. Researchers place the bees in tiny harnesses, and feed them varying concentrations of alcohol introduced into sugar solutions. Tests of locomotion, foraging, social interaction and aggressiveness are performed. Mustard has noted that "Alcohol affects bees and humans in similar ways—it impairs motor functioning along with learning and memory processing." The interaction of bees with antabuse (disulfiram, a common medication administered as a treatment for alcoholism) has been tested as well.
+
+
+== Bee exposure to other toxic and inebriating chemicals ==
+
+
+=== Synthetic chemicals ===
+
+Bees can be severely and even fatally affected by pesticides, fertilizers, and other chemicals that man has introduced into the environment. They can appear inebriated and dizzy, and even die. This is serious because it has substantial economic consequences for agriculture.
+
+This problem has been the object of growing concern. For example, researchers at the University of Hohenheim are studying how bees can be poisoned by exposure to seed disinfectants. In France, the Ministry of Agriculture commissioned an expert group, the Scientific and Technical Committee for the Multifactorial Study on Bees (CST), to study the intoxicating and sometimes fatal effects of chemicals used in agriculture on bees. Researchers at the Bee Research Institute and the Department of Food Chemistry and Analysis in the Czech Republic have pondered the intoxicating effects of various chemicals used to treat winter rapeseed crops. Romania suffered a severe case of widespread bee intoxication and extensive bee mortality from deltamethrin in 2002. The United States Environmental Protection Agency (EPA) even has published standards for testing chemicals for bee intoxication.
+
+
+=== Natural compounds ===
+Bees and other Hymenoptera can also be substantially affected by natural compounds in the environment besides ethanol. For example, Dariusz L. Szlachetko of the Department of Plant Taxonomy and Nature Conservation, Gdańsk University observed wasps in Poland acting in a very sleepy (possibly  inebriated) manner after eating nectar derived from the North American orchid Neottia.Detzel and Wink (1993) published an extensive review of 63 types of plant allelochemicals (alkaloids, terpenes, glycosides, etc.) and their effects on bees when consumed. It was found that 39 chemical compounds repelled bees (primarily alkaloids, coumarins, and saponins) and three terpene compounds attracted bees. They report that 17 out of 29 allelochemicals are toxic at some levels (especially alkaloids, saponins, cardiac glycosides and cyanogenic glycosides).Various plants are known to have pollen which is toxic to honey bees, in some cases killing the adults (e.g., Toxicoscordion), in other cases creating a problem only when passed to the brood (e.g., Heliconia). Other plants which have toxic pollen are Spathodea campanulata and Ochroma lagopus. Both the pollen and nectar of the California Buckeye (Aesculus californica) are toxic to honeybees, and it is thought that other members of the Buckeye family are also.
+
+
+=== Bee inebriation in pollination ===
+
+Some plants reportedly rely on using intoxicating chemicals to produce inebriated bees, and use this inebriation as part of their reproductive strategy. One plant that some claim uses this mechanism is the South American bucket orchid (Coryanthes sp.), an epiphyte. The bucket orchid attracts male euglossine bees with its scent, derived from a variety of aromatic compounds. The bees store these compounds in specialized spongy pouches inside their swollen hind legs, as they appear to use the scent (or derivatives thereof) in order to attract females.
+The flower is constructed in such a way as to make the surface almost impossible to cling to, with smooth, downward-pointing hairs; the bees commonly slip and fall into the fluid in the bucket, and the only navigable route out is a narrow, constricting passage that either glues a "pollinium" (a pollen sack) on their body (if the flower has not yet been visited) or removes any pollinium that is there (if the flower has already been visited). The passageway constricts after a bee has entered, and holds it there for a few minutes, allowing the glue to dry and securing the pollinium. It has been suggested that this process involves "inebriation" of the bees, but this effect has never been confirmed.
+In this way, the bucket orchid passes its pollen from flower to flower. This mechanism is almost but not quite species specific, as it is possible for a few closely related bees to pollinate any given species of orchid, as long as the bees are similar in size and are attracted by the same compounds.Van der Pijl and Dodson (1966) observed that bees of the genera Eulaema and Xylocopa exhibit symptoms of inebriation after consuming nectar from the orchids Sobralia violacea and Sobralia rosea. The Gongora horichiana orchid was suspected by Lanau (1992) of producing pheromones like a female euglossine bee and even somewhat resembles a female euglossine bee shape, using these characteristics to spread its pollen:
+
+ "A hapless male bee, blind drunk with the flower's overpowering pheromones, might well mistake a toadstool for a suitable mate, but the flower has made at least a modest attempt at recreating a beelike gestalt."
+This seems unlikely, given that no one has ever documented that female euglossines produce pheromones; male euglossines produce pheromones using the chemicals they collect from orchids, and these pheromones attract females, rather than the converse, as Cullina (2004) suggests.
+
+
+== Toxic honey ==
+
+
+=== Grayanotoxin ===
+Some substances which are toxic to humans have no effect on bees. If bees obtain their nectar from certain flowers, the resulting honey can be psychoactive, or even toxic to humans, but innocuous to bees and their larvae. Poisoning from this honey is called mad honey disease.
+Accidental intoxication of humans by mad honey has been well documented by several Classical authors, notably Xenophon, while the deliberate use of such honey as a medicine and intoxicant (even hallucinogen) is still practiced by the Gurung tribe of Nepal, who have a long tradition of hazardous cliff-climbing to wrest the precious commodity from the nests of Apis laboriosa, the giant Himalayan honeybee. The honey thus collected by the Gurung owes its inebriating properties to the nectar which the giant bees gather from a deep red-flowered species of Rhododendron, which, in turn, owes its toxicity to the compound grayanotoxin, widespread in the plant family Ericaceae, to which the genus Rhododendron belongs.
+
+
+=== Morphine ===
+Morphine-containing honey has been reported in areas where opium poppy cultivation is widespread.
+
+
+=== Ethanol ===
+Honey made from the nectar of any plant can ferment, producing ethanol. Animals, such as birds, that have consumed honey fermented in the sun can be found incapable of flight or other normal movement. Sometimes honey is fermented intentionally to produce mead, an alcoholic beverage made of honey, water, and yeast. The word for "drunk" in classical Greek is sometimes translated as "honey-intoxicated" and indeed the shared Indo-European antiquity of such a conception is enshrined in the names of at least two (euhemerised) goddesses of personified intoxication : the Irish Medb (see also Maeve (Irish name) ) and the Indian Madhavi of the Mahabharata (- see page Yayati), cognate with the English word mead and the Russian word for bear медведь ( - medved -  literally 'honey-eater').
+
+
+== See also ==
+Colony collapse disorder
+Honey bee starvation
+Pesticide toxicity to bees
+Diseases of the honey bee
+Pollinator decline
+List of honey plants
+
+
+== Notes and references ==
+
+
+== Further reading ==
+How to Reduce Bee Poisoning from Pesticides, D.F. Mayer, C.A. Johansen, C.R. Baird, PNW518, A Pacific Northwest Extension Publication, Washington, Oregon, Idaho, Copyright 1999 Washington State University. Includes an extensive list of toxic chemicals such as pesticides that affect bees. (WSU 1999 version of the same publication)
+Protecting Honeybees From Pesticides, Dean K. McBride, 1997 North Dakota State University
+Honey Bees and Pesticides, 1978, Mid-Atlantic Apiculture Research and Extension Consortium
+Protecting Honey Bees From Pesticides Archived 2021-01-13 at the Wayback Machine, University of Florida Institute of Food and Agricultural Sciences Extension, Malcolm T. Sanford, April 1993
+
+
+== External links ==
+US EPA Pesticide Registration (PR) Notice 2001-5
+Pesticide-dosed bees lose future royalty, way home; Low doses of insecticides can lead to fewer queens, shrinking colonies May 5, 2012

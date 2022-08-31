@@ -1,0 +1,48 @@
+The Global Temperature and Salinity Profile Programme (GTSPP) is a cooperative international project that seeks to develop and maintain a global ocean Temperature-Salinity resource with up-to-date and high quality data.
+
+
+== Purpose ==
+Making global measurements of ocean temperature and salinity (T-S) quickly and easily accessible to users is the primary goal of the GTSPP. Both real time data transmitted over the Global Telecommunications System (GTS), and delayed-mode data received by NCEI are acquired and incorporated into a continuously managed database.
+
+
+== International contributors ==
+Several countries contribute to the GTSPP. They are:
+
+Australia
+Canada
+France
+Germany
+Japan
+Russia
+United StatesCanada's Marine Environmental Data Service (MEDS) leads the project, and has the operational responsibility to gather and process the real-time data. MEDS accumulates real-time data from several sources via the GTS. They check the data for several types of errors, and remove duplicate copies of the same observation before passing the data on to NCEI. The quality control procedures used in GTSPP were developed by MEDS, who also coordinated the publication of those procedures through the Intergovernmental Oceanographic Commission (IOC).  
+NOAA's National Centers for Environmental Information (NCEI) performs four functions for the GTSPP:
+
+Maintains the global database of temperature and salinity data and provides online access to the data.
+Adds real-time data supplied by MEDS to the database.
+Processes delayed mode copies of data by performing the same data quality tests as MEDS, then adds data to the database.
+Prepares monthly data sets and transfers them by network to participants in the U.S., Australia and France, as well as to requestors.In addition to MEDS and NCEI, three science centers participate in the project by independently evaluating the delayed-mode data sets for the Indian, Pacific, and Atlantic Oceans. Australia's Commonwealth Scientific and Industrial Research Organisation (CSIRO), the Scripps Institution of Oceanography (SIO), and NOAA's Atlantic Oceanographic & Meteorological Laboratory (AOML) perform this function as Data Assembly Centers for the World Ocean Circulation Program, which the GTSPP supports.
+
+
+== Infrastructure ==
+
+The GTSPP consists of four major components:
+
+Global Telecommunication System (GTS): Carries real-time data from ships and buoys in support of the IOC/WMO Integrated Global Ocean Services System (IGOSS).
+IODE Data Centers: Contribute data, monitor the project, and distribute products. These are national oceanographic data centers which participate in the International Oceanographic Data and Information Exchange (IODE) System of the International Oceanographic Commission.
+Continuously Managed Database (CMD): Maintains the up-to-date global temperature-salinity data, replaces near real-time records with higher quality delayed-mode records as they are received, and disseminates the data to users.
+WOCE Data Assembly Centers: Perform scientific quality control through data analysis, and issues products and predictions based on the global temperature-salinity data set.
+
+
+== GTSPP documents ==
+GTSPP Real-time Quality Control Manual (IOC Manuals and Guides #22)
+AOML Manual
+CSIRO "Cookbook"
+Data Quality Flags
+QC Intercomparison
+
+
+== External links ==
+Global Temperature and Salinity Profile Programme (GTSPP)
+Public access to real-time data from the GTSPP Continuously Managed Database
+Public access to best-copy data from the GTSPP Continuously Managed Database
+Emphasis of Temperature-Salinity on environment

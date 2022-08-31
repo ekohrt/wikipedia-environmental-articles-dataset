@@ -1,0 +1,123 @@
+A low-energy house is characterized by an energy-efficient design and technical features which enable it to provide high living standards and comfort with low energy consumption and carbon emissions. Traditional heating and active cooling systems are absent, or their use is secondary. Low-energy buildings may be viewed as examples of sustainable architecture. Low-energy houses often have active and passive solar building design and components, which reduce the house's energy consumption and minimally impact the resident's lifestyle. Throughout the world, companies and non-profit organizations provide guidelines and issue certifications to guarantee the energy performance of buildings and their processes and materials. Certifications include passive house, BBC - Bâtiment Basse Consommation - Effinergie (France), zero-carbon house (UK), and Minergie (Switzerland).
+
+
+== Background ==
+During the 1970s, experimental initiatives for low-energy buildings were made in Denmark, the United States, Sweden, Canada, and Germany. The German Passivhaus Institute introduced the first passive house in 1990. The implementation of standardized low-energy building concepts has developed differently in each country.Buildings alone are responsible for 38% of all human GHG emissions (20% residential, 18% commercial) as of 2008. According to the Intergovernmental Panel on Climate Change (IPCC), buildings is the sector which presents the most cost effective opportunities for GHG reductions.
+
+
+=== United States ===
+Interest in low-energy buildings has increased in the United States, primarily due to rising energy prices, decreasing costs for onsite renewable-energy systems, and increasing concern about climate change. California requires all new residential construction to be zero net energy by 2020.
+
+
+=== Germany ===
+Triggered in the 1970s by the first energy crisis and growing environmental awareness, energy conservation became increasingly important in Germany. In 1977, the country's first energy-related building standard was enacted. The annual heating requirement was introduced as an important parameter by the third German Thermal Insulation Ordinance (1995). In 2013, however, there was no clear legal requirement for a low-energy building standard in Germany. According to Maria Panagiotidou and Robert J. Fuller, definitions, policies and construction activity of zero-energy buildings must be clear. The European Union's Energy Performance Directive requires that beginning in 2021, only low-energy buildings may be built.
+
+
+=== United Kingdom ===
+Changes to national policies have occurred since May 2015 in the UK. One of the most significant has been the withdrawal of the Code for Sustainable Homes (CfSH) as a system for assessing and encouraging improvements in the environmental design of dwellings. This has abandoned the code's schematic which provided a framework of achievement levels and to which low-energy designers could aspire to meet or surpass. Although energy-conservation legislation still exists in the building regulations, there is a lack of suitable standards exceeding basic regulations. As a result, the Passive House Standard may expand its influence and impact on energy-efficient houses.
+
+
+== National standards ==
+The term "low-energy houses" may refer to national building standards. These standards sometimes seek to limit the energy used for space heating, which is the largest energy consumer in many climate zones. Other energy uses may also be regulated. The history of passive solar building design provides an international view of one form of low-energy-building development and standards.
+
+
+=== Europe ===
+Standards for low-energy buildings in Europe have proceeded differently in each country, and there is no common certification or legislation for low-energy buildings valid in all EU member states. As a movement towards reducing energy use and emissions, a common legislation concerning buildings’ energy performance, the Energy Performance of Buildings Directive (EPBD) was published in 2002 and became effective in January 2003.
+
+
+==== Norway ====
+In NS 3700, the draft official standard, low-energy buildings are defined. About the buildings' energy performance, two alternatives for rating their primary energy use are under discussion:
+
+A limit on a building's annual CO2 emissions, calculated by multiplying the annual supplied energy by a CO2 factor
+A percentage of its heating demand must be met with renewable energy.
+
+
+==== Denmark ====
+Low-energy houses are defined in the National Building Regulation Building Regulations 08, and are divided into two classes. They are regulated in the regulations' chapter 7.2.4: Low-energy.
+
+
+==== Germany ====
+Low-energy houses certified by RAL-GZ 965 have 30 percent less heat losses than regulated in the EnEV, a national building code. Other criteria affect insulation, air tightness and ventilation. Low-energy buildings may be certified by RAL-GZ 965 for planning or construction.
+
+
+==== Switzerland ====
+Low-energy buildings may receive the Minergie certification, a "quality label for new and refurbished buildings". The Minergie standard requires that buildings do not exceed 75 percent of average building energy consumption and fossil-fuel consumption must not exceed 50 percent of the average.
+
+
+=== North America ===
+The European Union directive has clarified low-energy houses in Europe, and a large portion of the discussions on zero-energy building in North America derives from the U.S. National Renewable Energy Laboratory (NREL).The Energy Star program is the largest certifier of low-energy homes and consumer products in the U.S. Although certified Energy Star homes use at least 15 percent less energy than standard new homes built in accordance with the International Residential Code, they  typically achieve a 20- to 30-percent savings. The United States Department of Energy introduced a program in 2008 to distribute zero-energy housing across the country.Canadian builders may use a range of standards, labels, and certification programs to demonstrate a high level of energy performance in a given project. These include:
+
+Net Zero Home and Net Zero Ready Home certifications, administered by the Canadian Home Builders' Association
+Built Green labels, administered by Built Green Canada
+Energy Star for Homes, administered by Natural Resources Canada
+The Canadian Passive House standard, administered by the Canadian Passive House InstituteIn British Columbia the above programs align with the BC Energy Step Code, a provincial regulation to incentivize (or require) a level of energy efficiency in new construction beyond the base building code. The code was designed as a technical road map to help the province reach its target of all new net-zero-energy-ready buildings by 2032.
+
+
+== Types ==
+Low-energy houses are broadly defined, but are generally known as houses with a lower energy demand than common buildings regulated by the national building code. The term "low-energy house" is used in some countries for a specific type of building.A low-energy house is a guideline rarely specified in actual values (heat load or space-heating minimum). A passive house is a standard, with specific recommendations to save heating energy.
+At one end of the spectrum are buildings with an ultra-low space-heating requirement which require low levels of imported energy (even in winter), approaching an autonomous building. At the opposite end are buildings where few attempts are made to reduce their space-heating requirement and which use high levels of imported energy in winter. Although this may be balanced by high levels of renewable-energy generation throughout the year, it imposes greater demands on the national energy infrastructure during winter.
+
+
+== Obstacles and opportunities ==
+Energy-efficient design often relies on new technologies and techniques. These may create technical obstacles in addition to social, cultural, and economic non-technical obstacles. Despite these obstacles, opportunities exist for skilled, knowledgeable professions to create cost-efficient solutions for energy efficiency in buildings.Buildings designed for good energy efficiency do not always live up to the design goals; various reasons lead to this performance gap.
+
+
+== Technology ==
+
+Low-energy building design is considered important to encourage resource efficiency and reduce global climate change associated with the burning of fossil fuels. Design involves two general strategies: minimizing the need for energy use in buildings (especially for heating and cooling) through energy-efficient measures (EEMs) and adopting renewable energy and other technologies (RETs) to meet  remaining energy needs. EEMs include building envelopes, internal conditions, and building-services systems; RETs include photovoltaic or building-integrated photovoltaic, wind turbines, solar thermal (solar water heaters), heat pumps, and district heating and cooling. Impacts include life-cycle costs, environmental impacts, and climate-change and social-policy issues. The best low-energy designs offer occupants a better environment and more stable, controlled thermal comfort in addition to reduced energy costs.
+GHG emissions associated with buildings construction are mainly coming from:
+
+Materials manufacturing (e.g., concrete)
+Materials transport
+Demolition wastes transport
+Demolition wastes treatmentThe construction, renovation, and deconstruction of a typical building is on average responsible for the emissions of 1,000-1,500 kgCO2e/m2 (around 500 kgCO2e/m2 for construction only).
+Strategies adopted by low-carbon buildings to reduce GHG emissions during construction include:
+
+Reduce quantity of materials used
+Select materials with low emissions factors associated (e.g., recycled materials)
+Select materials suppliers as close as possible to the construction.
+Divert demolition wastes to recycling instead of landfills or incineration
+
+
+=== Energy efficiency ===
+Reduction of energy consumption is more environmentally and financially advantageous than increasing onsite production to reach a low-energy goal. The less a home consumes, the smaller renewable-energy system it requires to reach net zero. Energy efficiency should always be the primary design strategy of a low-energy house.
+
+
+=== Improvements ===
+
+
+=== Passive solar design and landscaping ===
+
+Passive solar building design and energy-efficient landscaping support the low-energy house in conservation and can integrate it into a neighborhood and environment. Following passive solar building techniques, where buildings are compact in shape to reduce surface area and principal windows oriented towards the equator (south in the Northern Hemisphere and north in the Southern Hemisphere) maximizes passive solar gain. However, solar gain (especially in temperate climates) is secondary to minimizing the overall house-energy requirements. In hot temperatures, excess heat can create uncomfortable indoor conditions. Passive alternatives to air-conditioning systems, such as temperature-dependent venting, have been shown to be effective in regions with cooling needs. Other techniques to reduce excess solar heat include brise-soleils, trees, attached pergolas with vines, vertical gardens, and green roofs.
+Although low-energy houses can be constructed from dense or lightweight materials, internal thermal mass is normally incorporated to reduce summer peak temperatures, maintain stable winter temperatures, and prevent possible overheating in spring or autumn before the higher sun angle "shades" midday wall exposure and window penetration. Exterior wall color (when the surface allows choice) reflection or absorption depends on the predominant year-round outdoor temperature. The use of deciduous trees and wall trellised (or self-attaching) vines can assist in temperate climates.
+
+
+=== Lighting and electrical appliances ===
+   
+To minimize total primary energy consumption, passive and active daylighting are the first daytime solutions to employ. For low-light days, non-daylight spaces and nighttime, sustainable lighting design with low-energy sources (such as standard-voltage compact fluorescent lamps and solid-state lighting with LED lamps, OLEDs and polymer light-emitting diodes and low-voltage incandescent light bulbs, compact metal halide, xenon and halogen lamps) can be used.
+Solar-powered exterior security and landscape lighting, with solar cells on each fixture or connecting to a central solar panel, are available for gardens and outdoor needs. Low-voltage systems can be used for more controlled (or independent) illumination, using less electricity than conventional fixtures and lamps. Timers, motion detection and daylighting operation sensors further reduce energy consumption and light pollution.
+Home appliances meeting independent energy-efficiency testing and receiving Ecolabel certification marks for reduced electrical and natural-gas consumption and product-manufacturing carbon emission labels are preferred for low-energy houses. Energy Star and EKOenergy are other certification marks.
+
+
+== See also ==
+
+
+== References ==
+
+
+== Further reading ==
+Voss, Karsten and Musall, Eike. Net zero energy buildings - International projects of carbon neutrality in buildings. 2nd edition, November 2012, Institut für internationale Architektur-Dokumentation GmbH & Co. KG, München, ISBN 978-3-920034-80-5.
+Raad Z. Homod, Intelligent HVAC Control for High Energy Efficiency in Buildings. Lambert Academic Publishing (2014), ISBN 978-3-8473-0625-2.
+
+
+== External links ==
+bigEE - Your guide to energy efficiency in buildings
+IEA research program "Net Zero Energy Solar Buildings"
+IEA Energy Conservation in Buildings and Community Systems Programme.
+Common Fire Foundation overview of green building and information on the net-zero-energy Greenest Building in the Eastern US
+Article on Low-Energy Housing
+
+
+=== Examples ===
+World Map of international known Net Zero Energy Buildings
+Building of low energy houses with Insulating Concrete Forms

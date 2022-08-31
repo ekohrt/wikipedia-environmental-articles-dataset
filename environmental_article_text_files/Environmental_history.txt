@@ -1,0 +1,392 @@
+Environmental history is the study of human interaction with the natural world over time, emphasising the active role nature plays in influencing human affairs and vice versa.
+Environmental history first emerged in the United States out of the environmental movement of the 1960s and 1970s, and much of its impetus still stems from present-day global environmental concerns. The field was founded on conservation issues but has broadened in scope to include more general social and scientific history and may deal with cities, population or sustainable development. As all history occurs in the natural world, environmental history tends to focus on particular time-scales, geographic regions, or key themes. It is also a strongly multidisciplinary subject that draws widely on both the humanities and natural science.
+The subject matter of environmental history can be divided into three main components. The first, nature itself and its change over time, includes the physical impact of humans on the Earth's land, water, atmosphere and biosphere. The second category, how humans use nature, includes the environmental consequences of increasing population, more effective technology and changing patterns of production and consumption. Other key themes are the transition from nomadic hunter-gatherer communities to settled agriculture in the neolithic revolution, the effects of colonial expansion and settlements, and the environmental and human consequences of the industrial and technological revolutions. Finally, environmental historians study how people think about nature - the way attitudes, beliefs and values influence interaction with nature, especially in the form of myths, religion and science.
+
+
+== Origin of name and early works ==
+
+In 1967, Roderick Nash published "Wilderness and the American Mind", a work that has become a classic text of early environmental history. In an address to the Organization of American Historians in 1969 (published in 1970) Nash used the expression "environmental history", although 1972 is generally taken as the date when the term was first coined. The 1959 book by Samuel P. Hays, Conservation and the Gospel of Efficiency: The Progressive Conservation Movement, 1890-1920, while being a major contribution to American political history, is now also regarded as a founding document in the field of environmental history. Hays is Professor Emeritus of History at the University of Pittsburgh. Alfred W. Crosby's book The Columbian Exchange (1972) is another key early work of environmental history.
+
+
+== Historiography ==
+Brief overviews of the historiography of environmental history have been published by J. R. McNeill, Richard White, and J. Donald Hughes. In 2014 Oxford University Press published a volume of 25 essays in The Oxford Handbook of Environmental History.
+
+
+=== Definition ===
+There is no universally accepted definition of environmental history. In general terms it is a history that tries to explain why our environment is like it is and how humanity has influenced its current condition, as well as commenting on the problems and opportunities of tomorrow. Donald Worster's widely quoted 1988 definition states that environmental history is the "interaction between human cultures and the environment in the past".In 2001, J. Donald Hughes defined the subject as the “study of human relationships through time with the natural communities of which they are a part in order to explain the processes of change that affect that relationship”. and, in 2006, as "history that seeks understanding of human beings as they have lived, worked and thought in relationship to the rest of nature through the changes brought by time". "As a method, environmental history is the use of ecological analysis as a means of understanding human history...an account of changes in human societies as they relate to changes in the natural environment”. Environmental historians are also interested in "what people think about nature, and how they have expressed those ideas in folk religions, popular culture, literature and art”. In 2003, J. R. McNeill defined it as "the history of the mutual relations between humankind and the rest of nature".
+
+
+=== Subject matter ===
+Traditional historical analysis has over time extended its range of study from the activities and influence of a few significant people to a much broader social, political, economic, and cultural analysis. Environmental history further broadens the subject matter of conventional history. In 1988, Donald Worster stated that environmental history “attempts to make history more inclusive in its narratives” by examining the “role and place of nature in human life”, and in 1993, that “Environmental history explores the ways in which the biophysical world has influenced the course of human history and the ways in which people have thought about and tried to transform their surroundings”. The interdependency of human and environmental factors in the creation of landscapes is expressed through the notion of the cultural landscape. Worster also questioned the scope of the discipline, asking: "We study humans and nature; therefore can anything human or natural be outside our enquiry?"
+Environmental history is generally treated as a subfield of history. But some environmental historians challenge this assumption, arguing that while traditional history is human history – the story of people and their institutions, "humans cannot place themselves outside the principles of nature". In this sense, they argue that environmental history is a version of human history within a larger context, one less dependent on anthropocentrism (even though anthropogenic change is at the center of its narrative).
+
+
+==== Dimensions ====
+
+J. Donald Hughes responded to the view that environmental history is "light on theory" or lacking theoretical structure by viewing the subject through the lens of three "dimensions": nature and culture, history and science, and scale. This advances beyond Worster's recognition of three broad clusters of issues to be addressed by environmental historians although both historians recognize that the emphasis of their categories might vary according to the particular study as, clearly, some studies will concentrate more on society and human affairs and others more on the environment.
+
+
+==== Themes ====
+Several themes are used to express these historical dimensions. A more traditional historical approach is to analyse the transformation of the globe's ecology through themes like the separation of man from nature during the neolithic revolution, imperialism and colonial expansion, exploration, agricultural change, the effects of the industrial and technological revolution, and urban expansion. More environmental topics include human impact through influences on forestry, fire, climate change, sustainability and so on. According to Paul Warde, “the increasingly sophisticated history of colonization and migration can take on an environmental aspect, tracing the pathways of ideas and species around the globe and indeed is bringing about an increased use of such analogies and ‘colonial’ understandings of processes within European history.” The importance of the colonial enterprise in Africa, the Caribbean and Indian Ocean has been detailed by Richard Grove. Much of the literature consists of case-studies targeted at the global, national and local levels.
+
+
+==== Scale ====
+Although environmental history can cover billions of years of history over the whole Earth, it can equally concern itself with local scales and brief time periods. Many environmental historians are occupied with local, regional and national histories. Some historians link their subject exclusively to the span of human history – "every time period in human history" while others include the period before human presence on Earth as a legitimate part of the discipline. Ian Simmons's Environmental History of Great Britain covers a period of about 10,000 years. There is a tendency to difference in time scales between natural and social phenomena: the causes of environmental change that stretch back in time may be dealt with socially over a comparatively brief period.Although at all times environmental influences have extended beyond particular geographic regions and cultures, during the 20th and early 21st centuries anthropogenic environmental change has assumed global proportions, most prominently with climate change but also as a result of settlement, the spread of disease and the globalization of world trade.
+
+
+== History ==
+
+The questions of environmental history date back to antiquity, including Hippocrates, the father of medicine, who asserted that different cultures and human temperaments could be related to the surroundings in which peoples lived in Airs, Waters, Places. Scholars as varied as Ibn Khaldun and Montesquieu found climate to be a key determinant of human behavior. During the Enlightenment, there was a rising awareness of the environment and scientists addressed themes of sustainability via natural history and medicine. However, the origins of the subject in its present form are generally traced to the 20th century.
+In 1929 a group of French historians founded the journal Annales, in many ways a forerunner of modern environmental history since it took as its subject matter the reciprocal global influences of the environment and human society. The idea of the impact of the physical environment on civilizations was espoused by this Annales School to describe the long term developments that shape human history by focusing away from political and intellectual history, toward agriculture, demography, and geography. Emmanuel Le Roy Ladurie, a pupil of the Annales School, was the first to really embrace, in the 1950s, environmental history in a more contemporary form. One of the most influential members of the Annales School was Lucien Febvre (1878–1956), whose 1922 book A Geographical Introduction to History is now a classic in the field.
+The most influential empirical and theoretical work in the subject has been done in the United States where teaching programs first emerged and a generation of trained environmental historians is now active. In the United States environmental history as an independent field of study emerged in the general cultural reassessment and reform of the 1960s and 1970s along with environmentalism, "conservation history", and a gathering awareness of the global scale of some environmental issues. This was in large part a reaction to the way nature was represented in history at the time, which “portrayed the advance of culture and technology as releasing humans from dependence on the natural world and providing them with the means to manage it [and] celebrated human mastery over other forms of life and the natural environment, and expected technological improvement and economic growth to accelerate”. Environmental historians intended to develop a post-colonial historiography that was "more inclusive in its narratives".
+
+
+=== Moral and political inspiration ===
+Moral and political inspiration to environmental historians has come from American writers and activists such as Henry Thoreau, John Muir, Aldo Leopold, and Rachel Carson. Environmental history "frequently promoted a moral and political agenda although it steadily became a more scholarly enterprise". Early attempts to define the field were made in the United States by Roderick Nash in “The State of Environmental History” and in other works by frontier historians Frederick Jackson Turner, James Malin, and Walter Prescott Webb, who analyzed the process of settlement. Their work was expanded by a second generation of more specialized environmental historians such as Alfred Crosby, Samuel P. Hays, Donald Worster, William Cronon, Richard White, Carolyn Merchant, J. R. McNeill, Donald Hughes, and Chad Montrie in the United States and Paul Warde, Sverker Sorlin, Robert A. Lambert, T.C. Smout, and Peter Coates in Europe.
+
+
+=== British Empire ===
+Although environmental history was growing rapidly as a field after 1970 in the United States, it only reached historians of the British Empire in the 1990s. Gregory Barton argues that the concept of environmentalism emerged from forestry studies, and emphasizes the British imperial role in that research. He argues that imperial forestry movement in India around 1900 included government reservations, new methods of fire protection, and attention to revenue-producing forest management. The result eased the fight between romantic preservationists and laissez-faire businessmen, thus giving the compromise from which modern environmentalism emerged.In recent years numerous scholars cited by James Beattie have examined the environmental impact of the Empire. Beinart and Hughes argue that the discovery and commercial or scientific use of new plants was an important concern in the 18th and 19th centuries. The efficient use of rivers through dams and irrigation projects was an expensive but important method of raising agricultural productivity. Searching for more efficient ways of using natural resources, the British moved flora, fauna and commodities around the world, sometimes resulting in ecological disruption and radical environmental change. Imperialism also stimulated more modern attitudes toward nature and subsidized botany and agricultural research. Scholars have used the British Empire to examine the utility of the new concept of eco-cultural networks as a lens for examining interconnected, wide-ranging social and environmental processes.
+
+
+== Current practice ==
+
+In the United States the American Society for Environmental History was founded in 1975 while the first institute devoted specifically to environmental history in Europe was established in 1991, based at the University of St. Andrews in Scotland. In 1986, the Dutch foundation for the history of environment and hygiene Net Werk was founded and publishes four newsletters per year. In the UK the White Horse Press in Cambridge has, since 1995, published the journal Environment and History which aims to bring scholars in the humanities and biological sciences closer together in constructing long and well-founded perspectives on present day environmental problems and a similar publication Tijdschrift voor Ecologische Geschiedenis (Journal for Environmental History) is a combined Flemish-Dutch initiative mainly dealing with topics in the Netherlands and Belgium although it also has an interest in European environmental history. Each issue contains abstracts in English, French and German. In 1999 the Journal was converted into a yearbook for environmental history. In Canada the Network in Canadian History and Environment facilitates the growth of environmental history through numerous workshops and a significant digital infrastructure including their website and podcast.Communication between European nations is restricted by language difficulties. In April 1999 a meeting was held in Germany to overcome these problems and to co-ordinate environmental history in Europe. This meeting resulted in the creation of the European Society for Environmental History in 1999. Only two years after its establishment, ESEH held its first international conference in St. Andrews, Scotland. Around 120 scholars attended the meeting and 105 papers were presented on topics covering the whole spectrum of environmental history. The conference showed that environmental history is a viable and lively field in Europe and since then ESEH has expanded to over 400 members and continues to grow and attracted international conferences in 2003 and 2005. In 1999 the Centre for Environmental History was established at the University of Stirling. Some history departments at European universities are now offering introductory courses in environmental history and postgraduate courses in Environmental history have been established at the Universities of Nottingham, Stirling and Dundee and more recently a Graduierten Kolleg was created at the University of Göttingen in Germany. In 2009, the Rachel Carson Center for Environment and Society (RCC), an international, interdisciplinary center for research and education in the environmental humanities and social sciences, was founded as a joint initiative of Munich's Ludwig-Maximilians-Universität and the Deutsches Museum, with the generous support of the German Federal Ministry of Education and Research. The Environment & Society Portal (environmentandsociety.org) is the Rachel Carson Center's open access digital archive and publication platform.
+
+
+== Related disciplines ==
+Environmental history prides itself in bridging the gap between the arts and natural sciences although to date the scales weigh on the side of science. A definitive list of related subjects would be lengthy indeed and singling out those for special mention a difficult task. However, those frequently quoted include, historical geography, the history and philosophy of science, history of technology and climate science. On the biological side there is, above all, ecology and historical ecology, but also forestry and especially forest history, archaeology and anthropology. When the subject engages in environmental advocacy it has much in common with environmentalism.
+With increasing globalization and the impact of global trade on resource distribution, concern over never-ending economic growth and the many human inequities environmental history is now gaining allies in the fields of ecological and environmental economics.Engagement with sociological thinkers and the humanities is limited but cannot be ignored through the beliefs and ideas that guide human action. This has been seen as the reason for a perceived lack of support from traditional historians.
+
+
+== Issues ==
+The subject has a number of areas of lively debate. These include discussion concerning: what subject matter is most appropriate; whether environmental advocacy can detract from scholarly objectivity; standards of professionalism in a subject where much outstanding work has been done by non-historians; the relative contribution of nature and humans in determining the passage of history; the degree of connection with, and acceptance by, other disciplines - but especially mainstream history. For Paul Warde the sheer scale, scope and diffuseness of the environmental history endeavour calls for an analytical toolkit "a range of common issues and questions to push forward collectively" and a "core problem". He sees a lack of "human agency" in its texts and suggest it be written more to act: as of information for environmental scientists; incorporation of the notion of risk; a closer analysis of what it is we mean by "environment"; confronting the way environmental history is at odds with the humanities because it emphasises the division between "materialist, and cultural or constructivist explanations for human behaviour".
+
+
+=== Global sustainability ===
+
+Many of the themes of environmental history inevitably examine the circumstances that produced the environmental problems of the present day, a litany of themes that challenge global sustainability including: population, consumerism and materialism, climate change, waste disposal, deforestation and loss of wilderness, industrial agriculture, species extinction, depletion of natural resources, invasive organisms and urban development. The simple message of sustainable use of renewable resources is frequently repeated and early as 1864 George Perkins Marsh was pointing out that the changes we make in the environment may later reduce the environments usefulness to humans so any changes should be made with great care - what we would nowadays call enlightened self-interest. Richard Grove has pointed out that "States will act to prevent environmental degradation only when their economic interests are threatened".
+
+
+=== Advocacy ===
+
+It is not clear whether environmental history should promote a moral or political agenda. The strong emotions raised by environmentalism, conservation and sustainability can interfere with historical objectivity: polemical tracts and strong advocacy can compromise objectivity and professionalism. Engagement with the political process certainly has its academic perils although accuracy and commitment to the historical method is not necessarily threatened by environmental involvement: environmental historians have a reasonable expectation that their work will inform policy-makers.A recent historiographical shift has placed an increased emphasis on inequality as an element of environmental history. Imbalances of power in resources, industry, and politics have resulted in the burden of industrial pollution being shifted to less powerful populations in both the geographic and social spheres. An critical examination of the traditional environmentalist movement from this historical perspective notes the ways in which early advocates of environmentalism sought the aesthetic preservation of middle-class spaces and sheltered their own communities from the worst effects of air and water pollution, while neglecting the plight of the less privileged.
+Communities with less economic and sociopolitical power often lack the resources to get involved in environmental advocacy. Environmental history increasingly highlights the ways in which the middle-class environmental movement has fallen short and left behind entire communities. Interdisciplinary research now understands historic inequality as a lens through which to predict future social developments in the environmental sphere, particularly with regard to climate change. The United Nations Department of Economic and Social Affairs cautions that a warming planet will exacerbate environmental and other inequalities, particularly with regard to: "(a) increase in the exposure of the disadvantaged groups to the adverse effects of climate change; (b) increase in their susceptibility to damage caused by climate change; and (c) decrease in their ability to cope and recover from the damage suffered." As an interdisciplinary field that encompasses a new understanding of social justice dynamics in a rapidly changing global climate, environmental history is inherently advocative.
+
+
+=== Declensionist narratives ===
+Narratives of environmental history tend to be what scholars call "declensionist," that is, accounts of increasing decline under human activity.
+
+
+=== Presentism and culpability ===
+
+Under the accusation of "presentism" it is sometimes claimed that, with its genesis in the late 20th century environmentalism and conservation issues, environmental history is simply a reaction to contemporary problems, an "attempt to read late twentieth century developments and concerns back into past historical periods in which they were not operative, and certainly not conscious to human participants during those times". This is strongly related to the idea of culpability. In environmental debate blame can always be apportioned, but it is more constructive for the future to understand the values and imperatives of the period under discussion so that causes are determined and the context explained.
+
+
+=== Environmental determinism ===
+
+For some environmental historians "the general conditions of the environment, the scale and arrangement of land and sea, the availability of resources, and the presence or absence of animals available for domestication, and associated organisms and disease vectors, that makes the development of human cultures possible and even predispose the direction of their development" and that "history is inevitably guided by forces that are not of human origin or subject to human choice". This approach has been attributed to American environmental historians Webb and Turner and, more recently to Jared Diamond in his book Guns, Germs, and Steel, where the presence or absence of disease vectors and resources such as plants and animals that are amenable to domestication that may not only stimulate the development of human culture but even determine, to some extent, the direction of that development. The claim that the path of history has been forged by environmental rather than cultural forces is referred to as environmental determinism while, at the other extreme, is what may be called cultural determinism. An example of cultural determinism would be the view that human influence is so pervasive that the idea of pristine nature has little validity - that there is no way of relating to nature without culture.
+
+
+== Methodology ==
+
+Useful guidance on the process of doing environmental history has been given by Donald Worster, Carolyn Merchant, William Cronon and Ian Simmons. Worster's three core subject areas (the environment itself, human impacts on the environment, and human thought about the environment) are generally taken as a starting point for the student as they encompass many of the different skills required. The tools are those of both history and science with a requirement for fluency in the language of natural science and especially ecology. In fact methodologies and insights from a range of physical and social sciences is required, there seeming to be universal agreement that environmental history is indeed a multidisciplinary subject.
+
+
+=== Some key works ===
+Chakrabarti, Ranjan (ed), Does Environmental History Matter: Shikar, Subsistence, Sustenance and the Sciences (Kolkata: Readers Service, 2006)
+Chakrabarti, Ranjan (ed.), Situating Environmental History (New Delhi: Manohar, 2007)
+Cronon, William (ed), Uncommon Ground: Toward Reinventing Nature (New York: W.W. Norton & Company, 1995)
+Dunlap, Thomas R., Nature and the English Diaspora: Environment and History in the United States, Canada, Australia, and New Zealand . (New York/Cambridge: Cambridge University Press, 1999)
+Glacken, Clarence, Traces on the Rhodian Shore: Nature and Culture in Western Thought From Ancient Times to the End of the Nineteenth Century (Berkeley: University of California Press, 1967)
+Griffiths, Tom and Libby Robin (eds.), Ecology and Empire: The Environmental History of Settler Societies. (Keele: Keele University Press, 1997)
+Grove, Richard, Green Imperialism: Colonial Expansion, Tropical Island Edens and the Origins of Environmentalism, 1600-1860. (Cambridge University Press, 1995)
+Headrick, Daniel, Humans Versus Nature: A Global Environmental History. (New York: Oxford University Press, 2020)
+Hughes, J.D., An Environmental History of the World: Humankind's Changing Role in the Community of Life (Oxford: Routledge, 2001)
+Hughes, J.D., "Global Environmental History: The Long View", Globalizations, Vol. 2 No. 3, 2005, 293–208.
+LaFreniere, Gilbert F., 2007. The Decline of Nature: Environmental History and the Western Worldview, Academica Press, Bethesda, MD ISBN 978-1933146409
+MacKenzie, John M., Imperialism and the Natural World. (Manchester University Press, 1990)
+McCormick, John, Reclaiming Paradise: The Global Environmental Movement. (Bloomington: Indiana University Press, 1989)
+Rajan, Ravi S., Modernizing Nature: Forestry and Imperial Eco-Development, 1800-1950 (Oxford: Oxford University Press, 2006)
+Redclift, Michael R., Frontier: Histories of Civil Society and Nature (Cambridge, MA.: The MIT Press, 2006).
+Stevis, Dimitris, "The Globalizations of the Environment", Globalizations, Vol. 2 No. 3, 2005, 323–334.
+Williams, Michael, Deforesting the Earth: From Prehistory to Global Crisis. An Abridgement. (Chicago: University of Chicago Press, 2006)
+White, Richard, The Organic Machine: The Remaking of the Columbia River. (Hill and Wang, 1996)
+Worster, Donald, Nature's Economy: A Study of Ecological Ideals. (Cambridge University Press, 1977)
+Zeilinga de Boer, Jelle and Donald Theodore Sanders, Volcanoes in Human History, The Far-reaching Effects of Major Eruptions. (Princeton: Princeton University Press, 2002) ISBN 978-0691118383
+
+
+== Germinal works by region ==
+In 2004 a theme issue of Environment and History 10(4) provided an overview of environmental history as practiced in Africa, the Americas, Australia, New Zealand, China and Europe as well as those with global scope. J. Donald Hughes (2006) has also provided a global conspectus of major contributions to the environmental history literature.
+
+George Perkins Marsh, Man and Nature; or, Physical Geography as Modified by Human Action, ed. David Lowenthal (Cambridge, MA: Belknap Press of Harvard University Press, 1965 [1864])
+
+
+=== Africa ===
+
+Adams, Jonathan S. and Thomas McShane, The Myth of Wild Africa: Conservation without Illusion (Berkeley: University of California Press, 1996) 266p; covers 1900 to 1980s
+Anderson, David; Grove, Richard. Conservation in Africa: People, Policies & Practice (1988), 355pp
+Bolaane, Maitseo. "Chiefs, Hunters & Adventurers: The Foundation of the Okavango/Moremi National Park, Botswana". Journal of Historical Geography. 31.2 (April 2005): 241–259.
+Carruthers, Jane. "Africa: Histories, Ecologies, and Societies," Environment and History, 10 (2004), pp. 379–406;
+Cock, Jacklyn and Eddie Koch (eds.), Going Green: People, Politics, and the Environment in South Africa (Cape Town: Oxford University Press, 1991)
+Dovers, Stephen, Ruth Edgecombe, and Bill Guest (eds.), South Africa's Environmental History: Cases and Comparisons (Athens: Ohio University Press, 2003)
+Green Musselman, Elizabeth, “Plant Knowledge at the Cape: A Study in African and European Collaboration,” International Journal of African Historical Studies, Vol. 36, 2003, 367-392
+Jacobs, Nancy J., Environment, Power and Injustice: A South African History (Cambridge: Cambridge University Press, 2003)
+Maathai, Wangari, Green Belt Movement: Sharing the Approach and the Experience (New York: Lantern Books, 2003)
+McCann, James, Green Land, Brown Land, Black Land: An Environmental History of Africa, 1800-1990 (Portsmouth: Heinemann, 1999)
+Showers, Kate B. Imperial Gullies: Soil Erosion and Conservation in Lesotho (2005) 346pp
+Steyn, Phia, "The lingering environmental impact of repressive governance: the environmental legacy of the apartheid-era for the new South Africa", Globalizations, 2#3 (2005), 391-403
+
+
+=== Antarctica ===
+Pyne, S.J., The Ice: A Journey to Antarctica. (University of Iowa Press, 1986).
+
+
+=== Canada ===
+
+Dorsey, Kurkpatrick. The Dawn of Conservation Diplomacy: U.S.-Canadian Wildlife Protection Treaties in the Progressive Era. (Washington: University of Washington Press, 1998)
+Loo, Tina. States of Nature: Conserving Canada's Wildlife in the Twentieth Century. (Vancouver: UBC Press, 2006)
+Wynn, Graeme. Canada and Arctic North America: An Environmental History. (Santa Barbara: ABC-CLIO, 2007)
+Parr, Joy. Sensing Changes: Technologies, Environments, and the Everyday, 1953–2003. (Vancouver: UBC Press, 2010)
+
+
+=== United States ===
+Allitt, Patrick. A Climate of Crisis: America in the Age of Environmentalism (2014), wide-ranging scholarly history since 1950s excerpt
+Andrews, Richard N.L., Managing the Environment, Managing Ourselves: A History of American Environmental Policy (Yale University Press, 1999)
+Bates, J. Leonard. "Fulfilling American Democracy: The Conservation Movement, 1907 to 1921", The Mississippi Valley Historical Review, (1957) 44#1 pp. 29–57. in JSTOR
+Browning, Judkin and Timothy Silver. An Environmental History of the Civil War (2020) online review
+Brinkley, Douglas G. The Wilderness Warrior: Theodore Roosevelt and the Crusade for America, (2009) excerpt and text search
+Carson, Rachel, Silent Spring (Cambridge, Mass. : Riverside Press, 1962)
+Cawley, R. McGreggor. Federal Land, Western Anger: The Sagebrush Rebellion and Environmental Politics (1993), on conservatives
+Cronon, William, Changes in the Land: Indians, Colonists and the Ecology of New England (New York: Hill and Wang, 1983)
+Cronon, William, Nature's Metropolis: Chicago and the Great West (New York: W.W. Norton & Company, 1991)
+Flippen, J. Brooks. Nixon and the Environment (2000).
+Gottlieb, Robert, Forcing the Spring: The Transformation of the American Environmental Movement (Washington: Island Press, 1993)
+Hays, Samuel P. Conservation and the Gospel of Efficiency (1959), on Progressive Era.
+Hays, Samuel P. Beauty, Health, and Permanence: Environmental Politics in the United States, 1955–1985 (1987), the standard scholarly history
+Hays, Samuel, Conservation and the Gospel of Efficiency: The Progressive Conservation Movement1890-1920 (Cambridge, MA: Harvard University Press, 1959)
+Hays, Samuel P. A History of Environmental Politics since 1945 (2000), shorter standard history
+King, Judson. The Conservation Fight, From Theodore Roosevelt to the Tennessee Valley Authority (2009)
+Merchant, Carolyn. American environmental history: An introduction (Columbia University Press, 2007).
+Merchant, Carolyn. The Columbia guide to American environmental history (Columbia University Press, 2012).
+Merchant, Carolyn. The Death of Nature: Women, Ecology and the Scientific Revolution (New York: Harper & Row, 1980)
+Nash, Roderick. The Rights of Nature: A History of Environmental Ethics (Madison: University of Wisconsin Press, 1989)
+Nash, Roderick. Wilderness and the American Mind, (4th ed. 2001), the standard intellectual history
+Rice, James D. Nature and History in the Potomac Country: From Hunter-Gatherers to the Age of Jefferson (2009)
+Sale, Kirkpatrick. The Green Revolution: The American Environmental Movement, 1962-1999 (New York: Hill & Wang, 1993)
+Scheffer, Victor B. The Shaping of Environmentalism in America (1991).
+Stradling, David (ed), Conservation in the Progressive Era: Classic Texts (Washington: University of Washington Press, 2004), primary sources
+Strong, Douglas H. Dreamers & Defenders: American Conservationists. (1988) online edition, good biographical studies of the major leaders
+Turner, James Morton, "The Specter of Environmentalism": Wilderness, Environmental Politics, and the Evolution of the New Right. The Journal of American History 96.1 (2009): 123-47 online at History Cooperative
+Unger, Nancy C., Beyond Nature's Housekeepers: American Women in Environmental History. (New York: Oxford University Press, 2012)
+Worster, Donald, Under Western Skies: Nature and History in the American West (Oxford University Press, 1992)
+Melosi, Martin V., Coping with Abundance: Energy and Environment in Industrial America (Temple University Press, 1985)
+Steinberg, Ted, Down to Earth: Nature's Role in American History (Oxford University Press, 2002)
+Rothman, Hal K. (1998). The Greening of a Nation? Environmentalism in the United States since 1945. Fort Worth, TX: Harcourt Brace College Publishers. ISBN 0155028553.
+
+
+=== Latin America and the Caribbean ===
+Boyer, Christopher R. Political Landscapes: Forests, Conservation, and Community in Mexico. (Durham: Duke University Press 2015.)
+Dean, Warren. With Broadax and Firebrand: The Destruction of the Brazilian Atlantic Forest. (Berkeley: University of California Press, 1995)
+Funes Monzote, Reinaldo. From Rainforest to Cane Field in Cuba: An Environmental History since 1492. (2008)
+Matthews, Andrew S. Instituting Nature: Authority, Expertise, and Power in Mexican Forests. (Cambridge: Massachusetts Institute of Technology Press, 2011.)
+Melville, Elinor. A Plague of Sheep: Environmental Consequences of the Conquest of Mexico. (Cambridge: Cambridge University Press, 1994)
+Miller, Shawn William. An Environmental History of Latin America. (2007)
+Miller, Shawn William. Fruitless Trees: Portuguese Conservation and Brazil's Colonial Timber. Stanford: Stanford University Press 2000.
+Noss, Andrew and Imke Oetting. "Hunter Self-Monitoring by the Izoceño-Guarani in the Bolivian Chaco". Biodiversity & Conservation. 14.11 (2005): 2679–2693.
+Raffles, Hugh, et al. "Further Reflections on Amazonian Environmental History: Transformations of Rivers and Streams". Latin American Research Review. Vol. 38, Number 3, 2003: 165–187
+Santiago, Myrna I. The Ecology of Oil: Environment, Labor, and the Mexican Revolution, 1900-1938. Cambridge: Cambridge University Press 2006.
+Simonian, Lane. Defending the Land of the Jaguar: A History of Conservation in Mexico. (Austin: University of Texas Press, 1995)
+Wakild, Emily. Revolutionary Parks: Conservation, Social Justice, and Mexico's National Parks, 1910-1940. Tucson: University of Arizona Press 2012.
+
+
+=== South and South East Asia ===
+
+Boomgaard, Peter, ed. Paper Landscapes: Explorations in the Environment of Indonesia (Leiden: KITLV Press, 1997)
+David, A. & Guha, R. (eds) 1995. Nature, Culture, Imperialism: Essays on the Environmental History of South Asia. Delhi, India: Oxford University Press.
+Fisher, Michael. An Environmental History of India: From Earliest Times to the Twenty-First Century (Cambridge UP, 2018)
+Gadgil, M. and R. Guha. This Fissured Land: An Ecological History of India (University of California Press, 1993)
+Grove, Richard, Vinita Damodaran, and Satpal Sangwan (eds.) Nature & the Orient: The Environmental History of South and Southeast Asia (Oxford University Press, 1998)
+Hill, Christopher V., South Asia: An Environmental History (Santa Barbara: ABC-Clio, 2008)
+Shiva, Vandana, Stolen Harvest: the Hijacking of the Global Food Supply (Cambridge MA: South End Press, 2000), ISBN 0-89608-608-9
+Yok-shiu Lee and Alvin Y. So, Asia's Environmental Movements: Comparative Perspectives (Armonk: M.E. Sharpe, 1999)
+Iqbal, Iftekhar. The Bengal Delta: Ecology, State and Social Change, 1840-1943 (London: Palgrave Macmillan, 2010)
+
+
+=== East Asia ===
+Elvin, Mark & Ts'ui-jung Liu (eds.), Sediments of Time: Environment and Society in Chinese History (Cambridge University Press, 1998)
+Totman, Conrad D., The Green Archipelago: Forestry in Preindustrial Japan (Berkeley: University of California Press, 1989)
+Totman, Conrad D., Pre-industrial Korea and Japan in Environmental Perspective (Leiden: Brill, 2004)
+Ts'ui-jung Liu, Sediments of Time: Environment and Society in Chinese History (Cambridge University Press, 1998)
+Liu, Ts'ui-jung and James Beattie, eds, Environment, Modernization and Development in East Asia: Perspectives from Environmental History (Basingstoke: Palgrave Studies in World Environmental History, 2016)
+Tull, Malcolm, and A. R. Krishnan. "Resource Use and Environmental Management in Japan, 1890-1990", in: J.R. McNeill (ed), Environmental History of the Pacific and the Pacific Rim ( Aldershot Hampshire: Ashgate Publishing, 2001)
+Menzie, Nicholas, Forest and Land Management in Late Imperial China (London, Macmillan Press. 1994)
+Maohong, Bao, "Environmental History in China", Environment and History, Volume 10, Number 4, November 2004, pp. 475–499
+Marks, R. B., Tigers, rice, silk and silt. Environment and economy in late imperial South China (Cambridge: Cambridge University Press, 1998)
+Perdue, Peter C., "Lakes of Empire: Man and Water in Chinese History”, Modern China, 16 (January 1990): 119 - 29
+Shapiro, Judith, Mao's War against Nature: Politics and the Environment in Revolutionary China (New York: Cambridge University Press. 2001) ISBN 978-0521786805
+
+
+=== Middle East and North Africa ===
+McNeill, J. R. "The Eccentricity of the Middle East and North Africa’s Environmental History." Water on Sand: Environmental Histories of the Middle East and North Africa (2013): 27–50.
+Mikhail, Alan, ed. Water on sand: Environmental histories of the Middle East and North Africa. Oxford University Press, 2013.
+Dursun, Selçuk. "A call for an environmental history of the Ottoman Empire and Turkey: Reflections on the fourth ESEH conference." New Perspectives on Turkey 37 (2007): 211–222.
+Dursun, Selçuk. "Forest and the state: history of forestry and forest administration in the Ottoman Empire." Unpublished PhD. Sabanci University (2007).
+Mikhail, Alan. Nature and empire in Ottoman Egypt: An environmental history. Cambridge University Press, 2011.
+White, Sam. "Rethinking disease in Ottoman history." International Journal of Middle East Studies 42, no. 4 (2010): 549–567.
+* Burke III, Edmund, "The Coming Environmental Crisis in the Middle East: A Historical Perspective, 1750-2000 CE" (April 27, 2005). UC World History Workshop. Essays and Positions from the World History Workshop. Paper 2.
+Tal, Alon, Pollution in a Promised Land: An Environmental History of Israel (Berkeley: University of California Press, 2002)
+
+
+=== Europe ===
+
+Brimblecombe, Peter and Christian Pfister, The Silent Countdown: Essays in European Environmental History (Berlin: Springer-Verlag, 1993)
+Crosby, Alfred W., Ecological Imperialism: The Biological Expansion of Europe, 900-1900 (Cambridge: Cambridge University Press, 1986)
+Christensen, Peter, Decline of Iranshahr: Irrigation and Environments in the History of the Middle East, 500 B.C. to 1500 A.D (Austin: University of Texas Press, 1993)
+Ditt, Karl, 'Nature Conservation in England and Germany, 1900-1970: Forerunner of Environmental Protection?', Contemporary European History 5:1-28.
+Hughes, J. Donald, Pan's Travail: Environmental Problems of the Ancient Greeks and Romans (Baltimore: Johns Hopkins, 1994)
+Hughes, J. Donald, The Mediterranean. An Environmental History (Santa Barbara: ABC-Clio, 2005)
+Martí Escayol, Maria Antònia. La construcció del concepte de natura a la Catalunya moderna (Barcelona: Universitat Autonoma de Barcelona, 2004)
+Netting, Robert, Balancing on an Alp: Ecological Change and Continuity in a Swiss Mountain Community (Cambridge University Press, 1981)
+Parmentier, Isabelle, dir., Ledent, Carole, coll., La recherche en histoire de l'environnement : Belgique, Congo, Rwanda, Burundi, Namur, 2010 (Coll. Autres futurs).
+Stephen J. Pyne, Vestal Fire. An Environmental History, Told through Fire, of Europe and Europe's Encounter with the World (Seattle, University of Washington Press, 1997)
+Richards, John F., The Unending Frontier: Environmental History of the Early Modern World (Berkeley: University of California Press, 2003)
+Whited, Tamara L. (ed.), Northern Europe. An Environmental History (Santa Barbara: ABC-Clio, 2005)
+
+
+=== Australia, New Zealand & Oceania ===
+
+Beattie, James, Empire and Environmental Anxiety: Health, Science, Art and Conservation in South Asia and Australasia, 1800-1920 (Basingstoke: Palgrave Macmillan, 2011)
+Beattie, James, Emily O'Gorman and Matt Henry, eds, Climate, Science and Colonization: Histories from Australia and New Zealand (New York: Palgrave Macmillan, 2014).
+Bennett, Judith Ann, Natives and Exotics: World War II and Environment in the Southern Pacific (Honolulu: University of Hawai'i Press, 2009)
+Bennett, Judith Ann, Pacific Forest: A History of Resource Control and Contest in Solomon Islands, c. 1800-1997 (Cambridge and Leiden: White Horse Press and Brill, 2000)
+Bridgman, H. A., "Could climate change have had an influence on the Polynesian migrations?", Palaeogeography, Palaeoclimatology, Palaeoecology, 41(1983) 193–206.
+Brooking, Tom and Eric Pawson, Environmental Histories of New Zealand (Oxford: Oxford University Press, 2002).
+Carron, L.T., A History of Forestry in Australia (Canberra, 1985).
+Cassels, R., "The Role of Prehistoric Man in the Faunal Extinctions of New Zealand and other Pacific Islands", in Martin, P. S. and Klein, R. G. (eds.) Quaternary Extinctions: A Prehistoric Revolution (Tucson, The University of Arizona Press, 1984)
+D'Arcy, Paul, The People of the Sea: Environment, Identity, and History in Oceania (Honolulu: University of Hawai'i Press, 2006)
+Dargavel, John (ed.), Australia and New Zealand Forest Histories. Short Overviews, Australian Forest History Society Inc. Occasional Publications, No. 1 (Kingston: Australian Forest History Society, 2005)
+Dovers, Stephen (ed), Essays in Australian Environmental History: Essays and Cases (Oxford: OUP, 1994).
+Dovers, Stephen (ed.), Environmental History and Policy: Still Settling Australia (South Melbourne: Oxford University Press, 2000).
+Flannery, Tim, The Future Eaters, An Ecological History of the Australian Lands and People (Sydney: Reed Books,1994) ISBN 0-8021-3943-4
+Garden, Don, Australia, New Zealand, and the Pacific. An Environmental History (Santa Barbara: ABC-Clio, 2005)
+Hughes, J. Donald, "Nature and Culture in the Pacific Islands", Leidschrift, 21 (2006) 1, 129–144.
+Hughes, J. Donald, "Tahiti, Hawaii, New Zealand: Polynesian impacts on Island Ecosystems", in: An Environmental History of the World. Humankind"s Changing Role in the Community of Life, (London & New York, Routledge, 2002)
+James Beattie, "Environmental Anxiety in New Zealand, 1840-1941: Climate Change, Soil Erosion, Sand Drift, Flooding and Forest Conservation", Environment and History 9(2003): 379-392
+Knight, Catherine, New Zealand's Rivers: An Environmental History (Christchurch: Canterbury University Press, 2016).
+McNeill, John R., "Of Rats and Men. A Synoptic Environmental History of the Island Pacific", Journal of World History, Vol. 5, no. 2, 299-349
+Pyne, Stephen, Burning Bush: A Fire History of Australia (New York, Henry Holt, 1991).
+Robin, Libby, Defending the Little Desert: The Rise of Ecological Consciousness in Australia (Melbourne: MUP, 1998)
+Robin, Libby, How a Continent Created a Nation (Sydney: University of New South Wales Press, 2007)
+Robin, Libby, The Flight of the Emu: A Hundred Years of Australian Ornithology 1901–2001, (Melbourne: Melbourne University Press, 2000)
+Smith, Mike, Hesse, Paul (eds.), 23 Degrees S: Archaeology and Environmental History of the Southern Deserts (Canberra: National Museum of Australia Press, 2005)
+Star, Paul, "New Zealand Environmental History: A Question of Attitudes", Environment and History 9(2003): 463-475
+Young, Ann R.M, Environmental Change in Australia since 1788 (Oxford University Press, 2000)
+Young, David, Our Islands, Our Selves: A History of Conservation in New Zealand ( Dunedin: Otago University Press, 2004)
+
+
+=== United Kingdom ===
+Beinart, William and Lotte Hughes, Environment and Empire (Oxford, 2007).
+Clapp, Brian W., An Environmental History of Britain Since the Industrial Revolution (London, 1994). excerpt
+Grove, Richard, Green Imperialism: Colonial Expansion, Tropical Island Edens and the Origins of Environmentalism, 1600–1860 (Cambridge, 1994).
+Lambert, Robert, Contested Mountains (Cambridge, 2001).
+Mosley, Stephen, The Chimney of the World: A History of Smoke Pollution in Victorian and Edwardian Manchester (White Horse, 2001).
+Porter, Dale, The Thames Embankment: Environment, Technology, and Society in Victorian London, (University of Akron, 1998).
+Simmonds, Ian G., Environmental History of Great Britain from 10,000 Years Ago to the Present (Edinburgh, 2001).
+Sheail, John, An Environmental History of Twentieth-Century Britain (Basingstoke, 2002).
+Thorsheim, Peter, Inventing Pollution: Coal, Smoke, and Culture in Britain since 1800 (Ohio University, 2006).
+
+
+== Future ==
+
+Environmental history, like all historical studies, shares the hope that through an examination of past events it may be possible to forge a more considered future. In particular a greater depth of historical knowledge can inform environmental controversies and guide policy decisions.
+The subject continues to provide new perspectives, offering cooperation between scholars with different disciplinary backgrounds and providing an improved historical context to resource and environmental problems. There seems little doubt that, with increasing concern for our environmental future, environmental history will continue along the path of environmental advocacy from which it originated as “human impact on the living systems of the planet bring us no closer to utopia, but instead to a crisis of survival” with key themes being population growth, climate change, conflict over environmental policy at different levels of human organization, extinction, biological invasions, the environmental consequences of technology especially biotechnology, the reduced supply of resources - most notably energy, materials and water. Hughes comments that environmental historians “will find themselves increasingly challenged by the need to explain the background of the world market economy and its effects on the global environment. Supranational instrumentalities threaten to overpower conservation in a drive for what is called sustainable development, but which in fact envisions no limits to economic growth”. Hughes also notes that "environmental history is notably absent from nations that most adamantly reject US, or Western influences".Michael Bess sees the world increasingly permeated by potent technologies in a process he calls “artificialization” which has been accelerating since the 1700s, but at a greatly accelerated rate after 1945. Over the next fifty years, this transformative process stands a good chance of turning our physical world, and our society, upside-down. Environmental historians can “play a vital role in helping humankind to understand the gale-force of artifice that we have unleashed on our planet and on ourselves”.Against this background “environmental history can give an essential perspective, offering knowledge of the historical process that led to the present situation, give examples of past problems and solutions, and an analysis of the historical forces that must be dealt with” or, as expressed by William Cronon, "The viability and success of new human modes of existing within the constraints of the environment and its resources requires both an understanding of the past and an articulation of a new ethic for the future."
+
+
+== Related journals ==
+Key journals in this field include: 
+
+Environment and History
+Environmental History, co-published by the American Society for Environmental History and Forest History Society
+Global Environment: A Journal of History and Natural and Social Sciences
+International Review of Environmental History
+
+
+== See also ==
+2020s in environmental history
+American Society for Environmental History (ASEH)
+Conservation Movement
+Conservation in the United States
+Ecosemiotics
+Environmental history of Latin America
+Environment & Society Portal
+List of environmental history topics
+Network in Canadian History and Environment
+Rachel Carson Center for Environment and Society
+
+
+== References ==
+
+
+== Bibliography ==
+
+
+=== Global ===
+
+
+=== Asia & Middle East ===
+
+
+=== Europe and Russia ===
+
+
+=== Historiography ===
+
+
+== Further reading ==
+Biasillo, Roberta, Claudio de Majo, eds. “Storytelling and Environmental History: Experiences from Germany and Italy,” RCC Perspectives: Transformations in Environment and Society 2020, no. 2. doi.org/10.5282/rcc/9116.
+Hall, Marcus, and Patrick Kupper (eds.), “Crossing Mountains: The Challenges of Doing Environmental History,” RCC Perspectives 2014, no. 4. doi.org/10.5282/rcc/6510.
+Mauch, Christof, “Notes From the Greenhouse: Making the Case for Environmental History,” RCC Perspectives 2013, no. 6. doi.org/10.5282/rcc/5661.
+
+
+== External links ==
+
+PodcastsJan W.Oosthoek podcasts on many aspects of the subject including interviews with eminent environmental historians
+Nature's Past: Canadian Environmental History Podcast features monthly discussions about the environmental history research community in Canada.
+EnvirohistNZ Podcast is a podcast that looks at the environmental history of New Zealand.Institutions & resourcesInternational Consortium of Environmental History Organizations (ICE-HO)
+Oosthoek, K.J.W. What is environmental history?
+Historiographies of different countries
+H-Environment web resource for students of environmental history
+American Society for Environmental History
+European Society for Environmental History
+Environmental History Now
+Environmental History Resources
+Environmental History Timeline
+Environmental History on the Internet
+Rachel Carson Center for Environment and Society and its Environment & Society Portal
+Forest History Society
+Australian and New Zealand Environmental History Network
+Brazilian Environmental History Network
+Centre for Environmental History at the Australian National University
+Network in Canadian History and the Environment
+Centre for World Environmental History, University of Sussex
+Croatian journal for environmental history in croatian, english, german and slovenian
+Environmental History Virtual Library
+Environmental History Top News
+Environmental History Mobile Application Project
+HistoricalClimatology.com Explores climate history, a form of environmental history.
+Climate History Network Network of climate historians.
+Turkish Society for Environmental HistoryJournalsJSTOR: All Volumes and Issues - Browse - Environmental History [1996–2007 (Volumes 1–12)]
+JSTOR: All Volumes and Issues - Browse - Forest & Conservation History [1990–1995 (Volumes 34–39)]
+JSTOR: All Volumes and Issues - Browse - Environmental Review: ER [1976–1989 (Volumes 1–13)]
+JSTOR: All Volumes and Issues - Browse - Environmental History Review [1990–1995 (Volumes 14–19)]
+JSTOR: All Volumes and Issues - Browse - Journal of Forest History [1974–1989 (Volumes 18–33)]
+JSTOR: All Volumes and Issues - Browse - Forest History [1957–1974 (Volumes 1–17)]
+Environment and History, Published by White Horse Press with British-based Editorial collective
+Environmental History, Co-published quarterly by the American Society for Environmental History and the (US) Forest History Society
+Global Environment: A Journal of History and Natural and Social Sciences, Published in New Zealand with special regard to the modern and contemporary ages
+Historia Ambiental Latinoamericana y Caribeña (HALAC)
+Journal of the North Atlantic
+Economic and Ecohistory: Research Journal for Economic and Environmental History (Croatia)
+Pacific Historical Review
+Arcadia: Explorations in Environmental History, published by the Rachel Carson Center for Environment and Society and ESEHVideosNotes from the Field public television episodes on U.S. environmental history subjects

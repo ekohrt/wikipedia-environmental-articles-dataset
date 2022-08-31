@@ -1,0 +1,112 @@
+Biofuel is a fuel that is produced over a short time span from biomass, rather than by the very slow natural processes involved in the formation of fossil fuels, such as oil. Since biomass can be used as a fuel directly (e.g. wood logs), some people use the words biomass and biofuel interchangeably. However, the word biofuel is usually reserved for liquid or gaseous fuels, used for transportation. The U.S. Energy Information Administration (EIA) follows this naming practice.Biofuel can be produced from plants or from agricultural, domestic or industrial biowaste. The greenhouse gas mitigation potential of biofuel varies considerably, from emission levels comparable to fossil fuels in some scenarios to negative emissions in others. For an overview over this debate, see the biomass page.
+The two most common types of biofuel are bioethanol and biodiesel. The USA is the largest producer of bioethanol, while the EU is the largest producer of biodiesel. The energy content in the global production of bioethanol and biodiesel is 2.2 and 1.5 EJ per year, respectively.
+Bioethanol is an alcohol made by fermentation, mostly from carbohydrates produced in sugar or starch crops such as corn, sugarcane, or sweet sorghum. Cellulosic biomass, derived from non-food sources, such as trees and grasses, is also being developed as a feedstock for ethanol production. Ethanol can be used as a fuel for vehicles in its pure form (E100), but it is usually used as a gasoline additive to increase octane ratings and improve vehicle emissions.
+Biodiesel is produced from oils or fats using transesterification. It can be used as a fuel for vehicles in its pure form (B100), but it is usually used as a diesel additive to reduce levels of particulates, carbon monoxide, and hydrocarbons from diesel-powered vehicles.In 2019, worldwide biofuel production provided 3% of the world's fuels for road transport, and a very small amount of aviation biofuel. The International Energy Agency wants biofuels to meet more than a quarter of the world demand for transportation fuels by 2050, in order to reduce dependency on petroleum. However, the production and consumption of biofuels are not on track to meet the IEA's sustainable development scenario. From 2020 to 2030 global biofuel output has to increase by 10% each year to reach IEA's goal.
+
+
+== Generations ==
+
+
+=== First ===
+First-generation biofuels are fuels made from food crops grown on arable land. The crop's sugar, starch, or oil content is converted into biodiesel or ethanol, using transesterification, or yeast fermentation. Researchers disagree about the climate impact from first-generation biofuels. For instance in the United States, some argue that emissions from corn-based ethanol are higher than from petroleum, while others argue that it is lower.Up to 40% of corn produced in the United States is used to make ethanol, and worldwide 10% of all grain is turned into biofuel. A 50% reduction in grain used for biofuels in the US and Europe would replace all of Ukraine's grain exports.
+
+
+=== Second ===
+
+Second-generation biofuels are fuels made from lignocellulosic or woody biomass, or agricultural residues/waste. The feedstock used to make the fuels either grow on arable land but are byproducts of the main crop, or they are grown on marginal land. Second-generation feedstocks include straw, bagasse, perennial grasses, jatropha, waste vegetable oil, municipal solid waste and so forth. The use of this class of biofuels is thought to increase environmental sustainability, since the non-food part of plants is being used to produce second-generation biofuels, instead of being disposed.  But the use of this class of biofuels increases the competition for lignocellulosic biomass, increasing the cost of producing these biofuels. Although the use of this class of biofuels reduces carbon emissions, their use does not yield net zero carbon emission.
+
+
+=== Third ===
+
+Algae can be produced in ponds or tanks on land, and out at sea. Algal fuels have high yields, can be grown with minimal impact on fresh water resources, can be produced using saline water and wastewater, have a high ignition point, and are biodegradable and relatively harmless to the environment if spilled. Production requires large amounts of energy and fertilizer, the produced fuel degrades faster than other biofuels, and it does not flow well in cold temperatures. By 2017, due to economic considerations, most efforts to produce fuel from algae have been abandoned or changed to other applications.
+
+
+=== Fourth ===
+This class of biofuels includes electrofuels and solar fuels. Electrofuels are made by storing electrical energy in the chemical bonds of liquids and gases. The primary targets are butanol, biodiesel, and hydrogen, but include other alcohols and carbon-containing gases such as methane and butane. A solar fuel is a synthetic chemical fuel produced from solar energy. Light is converted to chemical energy, typically by reducing protons to hydrogen, or carbon dioxide to organic compounds.Fourth-generation biofuels also include biofuels that are produced by bioengineered organisms i.e. algae and cyanobacteria. Algae and cyanobacteria will use water, carbon dioxide, and solar energy to produce biofuels. This method of biofuel production is still at the research level. The biofuels that are secreted by the bioengineered organisms are expected to have higher photon-to-fuel conversion efficiency, compared to older generations of biofuels. One of the advantages of this class of biofuels is that the cultivation of the organisms that produce the biofuels does not require the use of arable land. The disadvantages include the cost of cultivating the biofuel-producing organisms being very high.
+
+
+== Types ==
+The following fuels can be produced using first, second, third or fourth-generation biofuel production procedures. Most of these can be produced using two or three of the different biofuel generation procedures.
+
+
+=== Gaseous ===
+
+
+==== Biogas and biomethane ====
+
+Biogas is methane produced by the process of anaerobic digestion of organic material by anaerobes. It can be produced either from biodegradable waste materials or by the use of energy crops fed into anaerobic digesters to supplement gas yields. The solid byproduct, digestate, can be used as a biofuel or a fertilizer. When CO2 and other impurities are removed from biogas, it is called biomethane.
+Biogas can be recovered from mechanical biological treatment waste processing systems. Landfill gas, a less clean form of biogas, is produced in landfills through naturally occurring anaerobic digestion. If it escapes into the atmosphere, it acts as a greenhouse gas.
+Farmers can produce biogas from manure from their cattle by using anaerobic digesters.
+
+
+==== Syngas ====
+
+Syngas, a mixture of carbon monoxide, hydrogen and various hydrocarbons, is produced by partial combustion of biomass, that is, combustion with an amount of oxygen that is not sufficient to convert the biomass completely to carbon dioxide and water. Before partial combustion, the biomass is dried, and sometimes pyrolysed. The resulting gas mixture, syngas, is more efficient than direct combustion of the original biofuel; more of the energy contained in the fuel is extracted.
+Syngas may be burned directly in internal combustion engines, turbines or high-temperature fuel cells. The wood gas generator, a wood-fueled gasification reactor, can be connected to an internal combustion engine.
+Syngas can be used to produce methanol, DME and hydrogen, or converted via the Fischer–Tropsch process to produce a diesel substitute, or a mixture of alcohols that can be blended into gasoline. Gasification normally relies on temperatures greater than 700 °C.
+Lower-temperature gasification is desirable when co-producing biochar, but results in syngas polluted with tar.
+
+
+=== Liquid ===
+
+
+==== Ethanol ====
+
+Biologically produced alcohols, most commonly ethanol, and less commonly propanol and butanol, are produced by the action of microorganisms and enzymes through the fermentation of sugars or starches (easiest), or cellulose (which is more difficult). Biobutanol (also called biogasoline) is often claimed to provide a direct replacement for gasoline, because it can be used directly in a gasoline engine.Ethanol fuel is the most common biofuel worldwide, particularly in Brazil. Alcohol fuels are produced by fermentation of sugars derived from wheat, corn, sugar beets, sugar cane, molasses and any sugar or starch from which alcoholic beverages such as whiskey, can be made (such as potato and fruit waste, etc.). The ethanol production methods used are enzyme digestion (to release sugars from stored starches), fermentation of the sugars, distillation and drying. The distillation process requires significant energy input for heat (sometimes unsustainable natural gas fossil fuel, but cellulosic biomass such as bagasse, the waste left after sugar cane is pressed to extract its juice, is the most common fuel in Brazil, while pellets, wood chips and also waste heat are more common in Europe) Waste steam fuels ethanol factory – where waste heat from the factories also is used in the district heating grid.
+Ethanol can be used in petrol engines as a replacement for gasoline; it can be mixed with gasoline to any percentage. Most existing car petrol engines can run on blends of up to 15% bioethanol with petroleum/gasoline. Ethanol has a smaller energy density than that of gasoline; this means it takes more fuel (volume and mass) to produce the same amount of work. An advantage of ethanol (CH3CH2OH) is that it has a higher octane rating than ethanol-free gasoline available at roadside gas stations, which allows an increase of an engine's compression ratio for increased thermal efficiency. In high-altitude (thin air) locations, some states mandate a mix of gasoline and ethanol as a winter oxidizer to reduce atmospheric pollution emissions.Corn-to-ethanol and other food stocks has led to the development of cellulosic ethanol.Ethanol has roughly one-third lower energy content per unit of volume compared to gasoline. This is partly counteracted by the better efficiency when using ethanol (in a long-term test of more than 2.1 million km, the BEST project found FFV vehicles to be 1–26% more energy efficient than petrol cars, but the volumetric consumption increases by approximately 30%, so more fuel stops are required).
+
+
+==== Other bioalcohols ====
+Methanol is currently produced from natural gas, a non-renewable fossil fuel. In the future it is hoped to be produced from biomass as biomethanol. This is technically feasible, but the production is currently being postponed for concerns that the economic viability is still pending. The methanol economy is an alternative to the hydrogen economy to be contrasted with today's hydrogen production from natural gas.
+Butanol (C4H9OH) is formed by ABE fermentation (acetone, butanol, ethanol) and experimental modifications of the process show potentially high net energy gains with butanol as the only liquid product. Butanol will produce more energy than ethanol and allegedly can be burned "straight" in existing gasoline engines (without modification to the engine or car), and is less corrosive and less water-soluble than ethanol, and could be distributed via existing infrastructures. DuPont and BP are working together to help develop butanol. Escherichia coli strains have also been successfully engineered to produce butanol by modifying their amino acid metabolism. One drawback to butanol production in E. coli remains the high cost of nutrient rich media, however, recent work has demonstrated E. coli can produce butanol with minimal nutritional supplementation.
+
+
+==== Biodiesel ====
+
+Biodiesel is the most common biofuel in Europe. It is produced from oils or fats using transesterification and is a liquid similar in composition to fossil/mineral diesel. Chemically, it consists mostly of fatty acid methyl (or ethyl) esters (FAMEs). Feedstocks for biodiesel include animal fats, vegetable oils, soy, rapeseed, jatropha, mahua, mustard, flax, sunflower, palm oil, hemp, field pennycress, Pongamia pinnata and algae. Pure biodiesel (B100, also known as "neat" biodiesel) currently reduces emissions with up to 60% compared to diesel Second generation B100. As of 2020, researchers at Australia's CSIRO have been studying safflower oil as an engine lubricant, and researchers at Montana State University's Advanced Fuels Center in the US have been studying the oil's performance in a large diesel engine, with results described as a "game-changer".
+Biodiesel can be used in any diesel engine and modified equipment when mixed with mineral diesel. It can also be used in its pure form (B100) in diesel engines, but some maintenance and performance problems may then occur during wintertime utilization, since the fuel becomes somewhat more viscous at lower temperatures, depending on the feedstock used.In some countries, manufacturers cover their diesel engines under warranty for B100 use, although Volkswagen of Germany, for example, asks drivers to check by telephone with the VW environmental services department before switching to B100. In most cases, biodiesel is compatible with diesel engines from 1994 onwards, which use 'Viton' (by DuPont) synthetic rubber in their mechanical fuel injection systems. Note however, that no vehicles are certified for using pure biodiesel before 2014, as there was no emission control protocol available for biodiesel before this date.
+Electronically controlled 'common rail' and 'Unit Injector' type systems from the late 1990s onwards may only use biodiesel blended with conventional diesel fuel. These engines have finely metered and atomized multiple-stage injection systems that are very sensitive to the viscosity of the fuel. Many current-generation diesel engines are made so that they can run on B100 without altering the engine itself, although this depends on the fuel rail design.
+Since biodiesel is an effective solvent and cleans residues deposited by mineral diesel, engine filters may need to be replaced more often, as the biofuel dissolves old deposits in the fuel tank and pipes. It also effectively cleans the engine combustion chamber of carbon deposits, helping to maintain efficiency. In many European countries, a 5% biodiesel blend is widely used and is available at thousands of gas stations. Biodiesel is also an oxygenated fuel, meaning it contains a reduced amount of carbon and higher hydrogen and oxygen content than fossil diesel. This improves the combustion of biodiesel and reduces the particulate emissions from unburnt carbon. However, using pure biodiesel may increase NOx-emissionsBiodiesel is also safe to handle and transport because it is non-toxic and biodegradable, and has a high flash point of about 300 °F (148 °C) compared to petroleum diesel fuel, which has a flash point of 125 °F (52 °C).In France, biodiesel is incorporated at a rate of 8% in the fuel used by all French diesel vehicles. Avril Group produces under the brand Diester, a fifth of 11 million tons of biodiesel consumed annually by the European Union. It is the leading European producer of biodiesel.
+
+
+==== Green diesel ====
+
+Green diesel is produced through hydrocracking biological oil feedstocks, such as vegetable oils and animal fats. Hydrocracking is a refinery method that uses elevated temperatures and pressure in the presence of a catalyst to break down larger molecules, such as those found in vegetable oils, into shorter hydrocarbon chains used in diesel engines. It may also be called renewable diesel, hydrotreated vegetable oil (HVO fuel) or hydrogen-derived renewable diesel. Unlike biodiesel, green diesel has exactly the same chemical properties as petroleum-based diesel. It does not require new engines, pipelines or infrastructure to distribute and use, but has not been produced at a cost that is competitive with petroleum. Gasoline versions are also being developed. Green diesel is being developed in Louisiana and Singapore by ConocoPhillips, Neste Oil, Valero, Dynamic Fuels, and Honeywell UOP as well as Preem in Gothenburg, Sweden, creating what is known as Evolution Diesel.
+
+
+==== Straight vegetable oil ====
+
+Straight unmodified edible vegetable oil is generally not used as fuel, but lower-quality oil has been used for this purpose. Used vegetable oil is increasingly being processed into biodiesel, or (more rarely) cleaned of water and particulates and then used as a fuel.As with 100% biodiesel (B100), to ensure the fuel injectors atomize the vegetable oil in the correct pattern for efficient combustion, vegetable oil fuel must be heated to reduce its viscosity to that of diesel, either by electric coils or heat exchangers. This is easier in warm or temperate climates. MAN B&W Diesel, Wärtsilä, and Deutz AG, as well as a number of smaller companies, such as Elsbett, offer engines that are compatible with straight vegetable oil, without the need for after-market modifications.Vegetable oil can also be used in many older diesel engines that do not use common rail or unit injection electronic diesel injection systems. Due to the design of the combustion chambers in indirect injection engines, these are the best engines for use with vegetable oil. This system allows the relatively larger oil molecules more time to burn. Some older engines, especially Mercedes, are driven experimentally by enthusiasts without any conversion. A handful of drivers have experienced limited success with earlier pre-"Pumpe Duse" VW TDI engines and other similar engines with direct injection. Several companies, such as Elsbett or Wolf, have developed professional conversion kits and successfully installed hundreds of them over the last decades.Oils and fats reacted with 10 pounds of a short-chain alcohol (usually methanol) in the presence of a catalyst (usually sodium hydroxide [NaOH] can be hydrogenated to give a diesel substitute. The resulting product is a straight-chain hydrocarbon with a high cetane number, low in aromatics and sulfur and does not contain oxygen. Hydrogenated oils can be blended with diesel in all proportions. They have several advantages over biodiesel, including good performance at low temperatures, no storage stability problems and no susceptibility to microbial attack.
+
+
+==== Bioethers ====
+Bioethers (also referred to as fuel ethers or oxygenated fuels) are cost-effective compounds that act as octane rating enhancers."Bioethers are produced by the reaction of reactive iso-olefins, such as iso-butylene, with bioethanol." Bioethers are created from wheat or sugar beets, and also be produced from the waste glycerol that results from the production of biodiesel. They also enhance engine performance, while significantly reducing engine wear and toxic exhaust emissions. Although bioethers are likely to replace petroethers in the UK, it is highly unlikely they will become a fuel in and of itself due to the low energy density. By greatly reducing the amount of ground-level ozone emissions, they contribute to air quality.When it comes to transportation fuel there are six ether additives: dimethyl ether (DME), diethyl ether (DEE), methyl tert-butyl ether (MTBE), ethyl tert-butyl ether (ETBE), tert-amyl methyl ether (TAME), and tert-amyl ethyl ether (TAEE).The European Fuel Oxygenates Association (EFOA) identifies methyl tert-butyl ether (MTBE) and ethyl tert-butyl ether (ETBE) as the most commonly used ethers in fuel to replace lead. Ethers were introduced in Europe in the 1970s to replace the highly toxic compound. Although Europeans still use bioether additives, the US no longer has an oxygenate requirement therefore bioethers are no longer used as the main fuel additive.
+
+
+== See also ==
+
+
+== References ==
+
+
+=== Sources ===
+Avril Group, ed. (2015). A new springtime for the oils and proteins sectors : Activity Report 2014 (PDF) (Report). Paris: Avril. p. 65.
+EurObserv (July 2014). Biofuel barometer (PDF) (Report).
+
+
+== Further reading ==
+
+
+== External links ==
+
+Biofuels Journal
+Alternative Fueling Station Locator (EERE)
+Towards Sustainable Production and Use of Resources: Assessing Biofuels by the United Nations Environment Programme, October 2009.
+Biofuels guidance for businesses, including permits and licences required on NetRegs.gov.uk
+How Much Water Does It Take to Make Electricity?—Natural gas requires the least water to produce energy, some biofuels the most, according to a new study.
+International Conference on Biofuels Standards – European Union Biofuels Standardization
+Biofuels from Biomass: Technology and Policy Considerations Thorough overview from MIT
+The Guardian news on biofuels
+The US DOE Clean Cities Program – links to the 87 US Clean Cities coalitions, as of 2004.
+Biofuels Factsheet by the University of Michigan's Center for Sustainable Systems
+Learn Biofuels – Educational Resource for Students

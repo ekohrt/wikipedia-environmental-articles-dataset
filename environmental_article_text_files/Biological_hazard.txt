@@ -1,0 +1,69 @@
+A biological hazard, or biohazard, is a biological substance that poses a threat to the health of living organisms, primarily humans.  This could include a sample of a microorganism, virus or toxin that can adversely affect human health. A biohazard could also be a substance harmful to other animals.The term and its associated symbol are generally used as a warning, so that those potentially exposed to the substances will know to take precautions.  The biohazard symbol was developed in 1966 by Charles Baldwin, an environmental-health engineer working for the Dow Chemical Company on the containment products.It is used in the labeling of biological materials that carry a significant health risk, including viral samples and used hypodermic needles.
+In Unicode, the biohazard symbol is U+2623 (☣).
+
+
+== ANSI Z535/OSHA/ISO regulation ==
+Biohazardous safety issues are identified with specified labels, signs and paragraphs established by the American National Standards Institute (ANSI). Today, ANSI Z535 standards for biohazards are used worldwide and should always be used appropriately within ANSI Z535 Hazardous Communications (HazCom) signage, labeling and paragraphs. The goal is to help workers rapidly identify the severity of a biohazard from a distance and through colour and design standardization.
+Biological hazard symbol design:
+
+A red or white-coloured background is used behind a black biohazard symbol when integrated with a DANGER sign, label or paragraph.
+An orange or white-coloured background is used behind a black biohazard symbol when integrated with a WARNING sign, label or paragraph.
+A yellow or white-coloured background is used behind a black biohazard symbol when integrated with a CAUTION sign, label or paragraph.
+A green or white-coloured background is used behind a black biohazard symbol when integrated with a NOTICE sign, label or paragraph.DANGER is used to identify a biohazard that will cause death. WARNING is used to identify a biohazard that may cause death. CAUTION is used to identify a biohazard that will cause injury, but not death. NOTICE is used to identify a non-injury biohazard message (e.g. hygiene, cleanup or general lab policies).
+OSHA requires the use of proper ANSI HazCom where applicable in American workplaces. States and local governments also use these standards as codes and laws within their own jurisdictions. Proper use of ANSI Z535 signs, labels and paragraphs are written into many of OSHA's standards for HazCom and crafted to integrate with ISO symbols. 
+Reference ANSI Z535 for a complete description on how to use DANGER, WARNING, CAUTION and NOTICE signs, labels or paragraphs.
+
+
+== UN/ISO Classification ==
+Biohazardous agents are classified for transportation by UN number:
+Category A, UN 2814 – Infectious substance, affecting humans: An infectious substance in a form capable of causing permanent disability or life-threatening or fatal disease in otherwise healthy humans or animals when exposure to it occurs.
+Category A, UN 2900 – Infectious substance, affecting animals (only): An infectious substance that is not in a form generally capable of causing permanent disability or life-threatening or fatal disease in otherwise healthy humans and animals when exposure to themselves occurs.
+Category B, UN 3373 – Biological substance transported for diagnostic or investigative purposes.
+Regulated Medical Waste, UN 3291 – Waste or reusable material derived from medical treatment of an animal or human, or from biomedical research, which includes the production and testing.
+
+
+== Levels of biohazard ==
+
+The United States Centers for Disease Control and Prevention (CDC) categorizes various diseases in levels of biohazard, Level 1 being minimum risk and Level 4 being extreme risk.  Laboratories and other facilities are categorized as BSL (Biosafety Level) 1–4 or as P1 through P4 for short (Pathogen or Protection Level).
+
+Biohazard Level 1: Bacteria and viruses including Bacillus subtilis, canine hepatitis, Escherichia coli, and varicella (chickenpox), as well as some cell cultures and non-infectious bacteria. At this level precautions against the biohazardous materials in question are minimal, most likely involving gloves and some sort of facial protection.
+Biohazard Level 2: Bacteria and viruses that cause only mild disease to humans, or are difficult to contract via aerosol in a lab setting, such as hepatitis A, B, and C, some influenza A strains, Human respiratory syncytial virus, Lyme disease, salmonella, mumps, measles, scrapie, dengue fever, and HIV. Routine diagnostic work with clinical specimens can be done safely at Biosafety Level 2, using Biosafety Level 2 practices and procedures. Research work (including co-cultivation, virus replication studies, or manipulations involving concentrated virus) can be done in a BSL-2 (P2) facility, using BSL-3 practices and procedures.
+Biohazard Level 3: Bacteria and viruses that can cause severe to fatal disease in humans, but for which vaccines or other treatments exist, such as anthrax, West Nile virus, Venezuelan equine encephalitis, SARS coronavirus, MERS coronavirus, SARS-CoV-2, Influenza A H5N1, hantaviruses, tuberculosis, typhus, Rift Valley fever, Rocky Mountain spotted fever, yellow fever, and malaria.
+Biohazard Level 4: Viruses that cause severe to fatal disease in humans, and for which vaccines or other treatments are not available, such as Bolivian hemorrhagic fever, Marburg virus, Ebola virus, Lassa fever virus, Crimean–Congo hemorrhagic fever, and other hemorrhagic diseases, as well as Nipah virus. Variola virus (smallpox) is an agent that is worked with at BSL-4 despite the existence of a vaccine, as it has been eradicated and thus the general population is no longer routinely vaccinated.  When dealing with biological hazards at this level, the use of a positive pressure personnel suit with a segregated air supply is mandatory. The entrance and exit of a Level Four biolab will contain multiple showers, a vacuum room, an ultraviolet light room, autonomous detection system, and other safety precautions designed to destroy all traces of the biohazard. Multiple airlocks are employed and are electronically secured to prevent    doors from both opening at the same time. All air and water service going to and coming from a Biosafety Level 4 (P4) lab will undergo similar decontamination procedures to eliminate the possibility of an accidental release. Currently there are no bacteria classified at this level.
+
+
+== See also ==
+Anthropogenic hazard – Hazard caused by human action or inaction
+Biocontainment – Physical containment of pathogenic organisms or agents in microbiology laboratories
+Biological agent – Pathogen that can be weaponized
+Biosafety level – Level of the biocontainment precautions required to isolate dangerous biological agents
+Chemical hazard – Non-biological substance that has the potential to cause harm to life or health
+Hazard – Situation or object that can cause damage or harm
+Health hazard
+Interplanetary contamination – Biological contamination of a planetary body by a space probe or spacecraft
+List of laboratory biosecurity incidents
+Mechanical hazard – Hazard with a mechanical energy source
+Occupational hazard – Hazard experienced in the workplace
+Physical hazard – Hazard due to a physical agent
+Planetary protection – Guiding principle of a space mission
+Psychosocial hazard – Occupational hazard to one's psychological well-being
+Public health – Promoting health through organized efforts and informed choices of society and individuals
+
+
+== Notes ==
+
+
+== References ==
+
+
+=== Bibliography ===
+
+
+== External links ==
+"Biosafety in Microbiological and Biomedical Laboratories", official CDC guide.
+"Prevention of Biological Hazards", EU-OSHA
+"Symbol Making", an account of the development of the symbol in 1966.
+"BioSeal Systems", Biosafety level 4 containment.
+Biohazard Remediation Compliance Overview
+"Example of Reclassified Biohazard to Level 4", article from The Lancet concerning the reclassification of Ebola after observation.
+"Biological hazards related to working alone safety", an article focusing on working alone safety when dealing with biological hazards

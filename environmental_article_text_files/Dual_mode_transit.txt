@@ -1,0 +1,35 @@
+A dual-mode vehicle (DMV) is a vehicle that can operate on conventional road surfaces as well as a railway track or a dedicated track known as a "guideway". The development of these vehicles started together with personal rapid transport systems in 1950s or even earlier. Dual-mode vehicles are commonly electrically powered and run in dual-mode for power too, using batteries for short distance and low speeds, and track-fed power for longer distances and higher speeds. Dual-mode vehicles were originally studied as a way to make electric cars suitable for inter-city travel without the need for a separate engine. Dual mode transit describes transportation systems in which dual-mode vehicles operate on both public roads and on a guideway; thus using two modes of transport. In a typical dual mode transit system, private vehicles comparable to automobiles would be able to travel under driver control on the street, but then enter a guideway, which may be a specialized form of railway or monorail, for automated travel over an extended distance. More recently, starting in the 1990s, a number of dual-mode mass transit systems have appeared, most notably a number of rubber tyred trams and guided buses. The subset of dual-mode vehicles using conventional railtracks and roads are called road–rail vehicles.
+
+
+== Technology ==
+
+Similar to model trains, the ground level power supply is transported through the metal track to the vehicle.  Because of the health risks with higher voltages in real systems, the power rail is only switched on when a vehicle is covering the section, to  prevent pedestrians from being injured. This system is used for trams in Bordeaux is called Alimentation par Sol .Hybrid vehicles differ from dual-mode vehicles because they may not be fed by another energy source during operation.
+Dual-mode systems under development include the TriTrack, the RUF, Roam Transport's CargoRail and JR Hokkaido DMV. Dual-mode transit seeks to address a similar audience as personal rapid transit but with the capability to "travel the first and last miles off-guideway using onboard energy storage". A recent dual-mode transit system was put into operation on 25 December 2021 by Asa Seaside Railway Company in the Shikoku region.
+
+
+== Logistics ==
+On the main urban arterial streets a catenary system may serve both public transport and freight forwarders. This has great synergic effects making the operation of trolleybuses more efficient because of the additional income from freight forwarders.
+The operation of dual-mode trucks is not bound to the electric system. The distance from the logistics center to the inner city is driven in a conventional way. Also, there is the possibility to reach all clients aside the catenary system.
+
+
+== Motivation ==
+Cities with slow air exchange (inversion) and high emission figures (particulate matter PM10, PM2.5, NOx, Ozone) caused by diesel-powered vehicles, need a way to reduce big pollution sources. Commercial diesel-fueled vehicles are prime targets because of their high NOx and PM emissions caused by the lack of sufficient pollution controls. Dual-mode vehicles are also considered as a solution to the first-mile and last-mile problem. The same dual-mode vehicle can make the journey to a station and from the station on using infrastructure.
+
+
+== See also ==
+
+
+== References ==
+
+
+== External links ==
+EV-World: "The DualMode EV Revolution"
+RUF Dual Mode Transport Systems
+TriTrack Dual Mode Transport Systems
+Puget Pullway
+Japanese dual mode, also about dual-way vehicle
+Blade Runner
+MonoMobile DM Vehicle
+Freedom Mass Transport
+Center for Energy, Environment, and Transportation Innovation
+ASA Seaside Railway Corporation

@@ -1,0 +1,14 @@
+The Global Oceanographic Data Archaeology and Rescue Project, or GODAR Project was established to increase the volume of historical oceanographic data available to climate change and other researchers. The project attempts to locate ocean profile and plankton data sets not yet in digital form, digitizes these data, and ensures their submission to national data centers and the World Data Center system (WDC). In addition, data on electronic media that are at risk of loss due to media degradation are also candidates for rescue.
+
+
+== History ==
+In December 1992, the National Oceanographic Data Center (NODC) and WDC presented an initial proposal for the GODAR Project at the 14th Session of the Committee on International Oceanographic Data and Information Exchange (IODE) where it was approved. The proposal was subsequently endorsed by the Intergovernmental Oceanographic Commission (IOC)--the parent body of the IODE--at the 17th IOC Assembly held in March 1993. At that time, it was further agreed that the WDC for Oceanography in Silver Spring, Maryland, would lead this project.
+All profile and plankton data acquired as part of the GODAR project were included in World Ocean Database 2001 (WOD01), which was released in March 2002. 
+
+
+== See also ==
+Data archaeology
+
+
+== External links ==
+Global Oceanographic Data Archaeology and Rescue (GODAR) and the World Ocean Database Project

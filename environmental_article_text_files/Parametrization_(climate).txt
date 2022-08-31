@@ -1,0 +1,36 @@
+Parameterization in a weather or climate model in the context of numerical weather prediction is a method of replacing processes that are too small-scale or complex to be physically represented in the model by a simplified process. This can be contrasted with other processes—e.g., large-scale flow of the atmosphere—that are explicitly resolved within the models.  Associated with these parameterizations are various parameters used in the simplified processes. Examples include the descent rate of raindrops, convective clouds, simplifications of the atmospheric radiative transfer on the basis of atmospheric radiative transfer codes, and cloud microphysics.  Radiative parameterizations are important to both atmospheric and oceanic modeling alike.  Atmospheric emissions from different sources within individual grid boxes also need to be parameterized to determine their impact on air quality.
+
+
+== Clouds ==
+
+Weather and climate model gridboxes have sides of between 5 kilometres (3.1 mi) and 300 kilometres (190 mi).  A typical cumulus cloud has a scale of less than 1 kilometre (0.62 mi), and would require a grid even finer than this to be represented physically by the equations of fluid motion.  Therefore, the processes that such clouds represent are parameterized, by processes of various sophistication.  In the earliest models, if a column of air in a model gridbox was unstable (i.e., the bottom warmer than the top) then it would be overturned, and the air in that vertical column mixed.  More sophisticated schemes add enhancements, recognizing that only some portions of the box might convect and that entrainment and other processes occur.  Weather models that have gridboxes with sides between 5 kilometres (3.1 mi) and 25 kilometres (16 mi) can explicitly represent convective clouds, although they still need to parameterize cloud microphysics.The formation of large-scale (stratus-type) clouds is more physically based: they form when the relative humidity reaches some prescribed value.  Still, sub grid scale processes need to be taken into account.  Rather than assuming that clouds form at 100% relative humidity, the cloud fraction can be related to a critical relative humidity of 70% for stratus-type clouds, and at or above 80% for cumuliform clouds, reflecting the sub grid scale variation that would occur in the real world.  Portions of the precipitation parameterization include the condensation rate, energy exchanges dealing with the change of state from water vapor into liquid drops, and the microphysical component which controls the rate of change from water vapor to water droplets.
+
+
+== Radiation and atmosphere-surface interaction ==
+The amount of solar radiation reaching ground level in rugged terrain, or due to variable cloudiness, is parameterized as this process occurs on the molecular scale.  This method of parameterization is also done for the surface flux of energy between the ocean and the atmosphere in order to determine realistic sea surface temperatures and type of sea ice found near the ocean's surface.  Also, the grid size of the models is large when compared to the actual size and roughness of clouds and topography.  Sun angle as well as the impact of multiple cloud layers is taken into account.  Soil type, vegetation type, and soil moisture all determine how much radiation goes into warming and how much moisture is drawn up into the adjacent atmosphere.  Thus, they are important to parameterize.
+
+
+== Air quality ==
+
+Air quality forecasting attempts to predict when the concentrations of pollutants will attain levels that are hazardous to public health.  The concentration of pollutants in the atmosphere is determined by transport, diffusion, chemical transformation, and ground deposition.  Alongside pollutant source and terrain information, these models require data about the state of the fluid flow in the atmosphere to determine its transport and diffusion.  Within air quality models, parameterizations take into account atmospheric emissions from multiple relatively tiny sources (e.g. roads, fields, factories) within specific grid boxes.
+
+
+== Problems with increased resolution ==
+As model resolution increases, errors associated with moist convective processes are increased as assumptions which are statistically valid for larger grid boxes become questionable once the grid boxes shrink in scale towards the size of the convection itself.  At resolutions greater than T639, which has a grid box dimension of about 30 kilometres (19 mi), the Arakawa-Schubert convective scheme produces minimal convective precipitation, making most precipitation unrealistically stratiform in nature.
+
+
+== Calibration ==
+When a physical process is parameterized, two choices have to be made: what is the structural form (for instance, two variables can be related linearly) and what is the exact value of the parameters (for instance, the constant of proportionality). The process of determining the exact values of the parameters in a parameterization is called calibration, or sometimes less precise, tuning. Calibration is a difficult process, and different strategies are used to do it. One popular method is to run a model, or a submodel, and compare it to a small set of selected metrics, such as temperature. The parameters that lead to the model run which resembles reality best are chosen.
+
+
+== See also ==
+Global climate model
+Climate ensemble
+Parametrization
+
+
+== References ==
+
+
+== Further reading ==
+Plant, Robert S; Yano, Jun-Ichi (2015). Parameterization of Atmospheric Convection. Imperial College Press. ISBN 978-1-78326-690-6.

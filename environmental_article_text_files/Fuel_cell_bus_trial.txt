@@ -1,0 +1,72 @@
+A fuel cell bus is a bus that uses a hydrogen fuel cell as its power source for electrically driven wheels, sometimes augmented in a hybrid fashion with batteries or a supercapacitor.
+Several companies have conducted hydrogen fuel cell research and practical fuel cell bus trials. These include:
+
+Daimler AG, with thirty-six experimental units powered by Ballard Power Systems fuel cells completing a three-year trial, in eleven cities, in 2007.
+Thor Industries, based on UTC Power fuel cell technology
+Irisbus, based on UTC Power fuel cell technology
+TATA Motors and Indian Oil Corporation (Starbus, fuel cell)
+Van Hool, and Ballard, which have had commercial fleets in passenger service in Aberdeen, Scotland
+Wrightbus, which has had a fleet in London, England.
+Fuel Cell Buses Program (FCBP), focuses on the expansion and commercialization of fuel cell buses in the United States.There are fuel cell powered buses active or in production, such as a fleet of Thor buses with UTC Power fuel cells in California, operated by SunLine Transit Agency.
+
+
+== History ==
+Hydrogen-powered fuel-cell buses began operating in Beijing on an experimental basis in 2006. Three fuel cell buses, made by Daimler in Germany and purchased with a grant from the U.N. Development Programme, were the first fuel cell buses to enter operation in China. The technology has not gained broader use in the city because air pollution reduced the efficiency and operating life of fuel cells.The first Brazilian hydrogen fuel cell bus prototype began operation in São Paulo in 2009. The hydrogen bus was manufactured in Caxias do Sul. The programme, called "Ônibus Brasileiro a Hidrogênio" (Brazilian Hydrogen Autobus), includes three additional buses.The town of Whistler in British Columbia, Canada owned and operated the largest fuel-cell bus fleet in the world, having been put in operation for the 2010 Winter Olympics. However, the costs were too high, and the program halted in 2015.In Aberdeen, Scotland, the Aberdeen Hydrogen Bus Project has 10 single-decker hydrogen fuel cell buses operating, the largest fleet in Europe.  In 2020, double-decker buses were also activated on routesJapan intended to use the 2020 Olympics to boost hydrogen technologies and 100 fuel cell buses had to be in operation for the event In 2022, the city of Montpellier, France, cancelled a contract to procure 51 buses powered by hydrogen fuel cells, when it found that "the cost of operation for hydrogen [buses] is 6 times the cost of electricity".
+
+
+== Fuel Cell Bus Club ==
+The Fuel Cell Bus Club is a global cooperative effort in trial fuel cell buses. Ford began leasing E-350 shuttle buses in late 2006. It conducted some trials:
+
+
+=== 1998 ===
+In Chicago and Vancouver, there were two-year three-bus demonstration projects. The six buses in those trials, which used an earlier version of Ballard fuel cell than the Fuel Cell Bus Club's trial and New Flyer Industries 40 foot low floor F40LF bodies, carried more than 200,000 passengers and traveled over 118,000 kilometers (73,000 mi). The 3 Vancouver units were deactivated, some were sold back to Ballard, who made the fuel cells and the others were converted to diesel- electric hybrids and eventually scrapped.
+
+
+=== 2004–2006 ===
+A two-year, three-bus trial took place in Oakland and California. During this period, AC Transit and SunLine Transit Agency (Palm Springs, California) have been operating three buses and one bus respectively. The initial trial had shown promising results and was extended until new buses were delivered.
+Santa Clara Valley Transportation Authority operated 3 buses Manufactured by Gilig Corp of Hayward California which were equipped with Ballard fuel cells. VTA reported in the press that these buses were too expensive to operate and that they would not continue with their trial.
+
+
+=== 2009 ===
+A 12-bus trial program was conducted by AC Transit in Oakland, California which featured buses specially designed by Van Hool of Belgium. These buses use near ambient pressure, PEM fuel cells manufactured by the Hartford, Connecticut-based United Technologies Corporation (UTC). AC Transit is joined by operating partners Santa Clara Valley Transportation Authority (VTA) of Santa Clara County, SamTrans of San Mateo County, Golden Gate Transit of Marin and Sonoma counties, and San Francisco Municipal Railway (SF Muni) in the City and County of San Francisco which planned to operate these buses occasionally. UTC also purchased four additional buses for use in Hartford, Connecticut under AC Transit's contract with Van Hool. Deliveries began in the third quarter of 2009 and were completed in 2010.
+
+
+== Fuel Cell Bus Program (FCBP) ==
+With the current goal to decrease GHG emissions to address the impact of climate change, there has been a push to consider alternatives other than natural gas. The proposal of fuel cells and public transportation such as buses has been put to the test with several projects funded by the DOE's Fuel Cell Technologies Office called the Fuel Cell Bus Program (FCBP). Their goal is to promote the use of fuel celled buses by increasing their accessibility and durability whilst also making it affordable to do so.Implementing fuel cells into buses is the ideal way of increasing the use of fuel cells because buses are already an exemplary mode of transportation that is environmentally friendly and efficient. The addition of the fuel cells allows buses to decrease their emissions and promote the use of public transportation. In comparison to a diesel system or any other, the fuel cell system consumes more energy in exchange for energy efficiency. They don't have any emissions other than water vapor which makes it ideal for mass public transportation.
+
+
+== Japan hydrogen fuel cell project ==
+
+The FCHV-BUS is manufactured by Hino Motors and Toyota Motors and has been trialled in many Japanese cities as part of the Japan hydrogen fuel cell project.
+
+2003–2004 – Tokyo, one year and four months one-bus demonstration operated by Toei Bus.
+2005 – Expo 2005 Aichi, six-month eight-fleet trial as inter-site shuttle. During Expo, 8 FCHV-BUSes carried one million visitors and traveled about 130,000 kilometers.
+2006 – Tokoname, Aichi, ex-Expo 2005 fleets are leasing 1 to Chita Noriai as route bus in Chūbu Centrair International Airport island, and two to Chubu Sky Support as ramp bus in Centrair.
+
+
+== Photos ==
+
+		
+		
+		
+		
+		
+		
+		
+
+
+== See also ==
+
+Fuel cell vehicle
+List of fuel cell vehicles
+List of buses
+
+
+== References ==
+
+
+== External links ==
+
+H2mobility.org Hydrogen buses worldwide [Dead Link]
+Toyota FCHV-BUS data sheet
+International Fuel Cell Bus Collaborative [Dead Link]

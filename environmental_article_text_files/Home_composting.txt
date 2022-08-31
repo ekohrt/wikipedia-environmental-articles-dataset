@@ -1,0 +1,76 @@
+Home composting is the process of using household waste to make compost at home. Composting is the biological decomposition of organic waste by recycling food and other organic materials into compost. Home composting can be practiced within households for various environmental advantages, such as increasing soil fertility, reduce landfill and methane contribution, and limit food waste.
+
+
+== History ==
+While composting was cultivated during the Neolithic Age in Scotland, home composting experienced a much later start. Indoor composting, also known as home composting, was discovered in 1905 by Albert Howard who went on to develop the practice for the next 30 years.J.I. Rodale, considered the pioneer of the organic method in America, continued Howard’s work and further developed indoor composting from 1942 on. Since then, various methods of composting have been adapted. Indoor composting aided in organic gardening and farming and the development of modern composting. It originally entailed a layering method, where materials are stacked in alternating layers and the stack is turned at least twice.
+
+
+== Fundamentals ==
+
+
+=== Aerobic vs. Anaerobic ===
+Two ways to home compost are through the aerobic and anaerobic method. Aerobic composting involves the decomposition of organic materials using oxygen and is the recommended method for home composting. There are several benefits of aerobic (with oxygen) composting over anaerobic (without oxygen) composting such as less harmful byproducts. While aerobic composting does produce some carbon dioxide, anaerobic composting releases methane, which is a greenhouse gas significantly more harmful than carbon dioxide. Aerobic compost is a faster process due to availability of oxygen allowing for growth of composting microorganisms. Aerobic composting calls for larger bins, oxygen, moisture, and turning (only if without worms).
+
+
+=== Organic Waste ===
+
+There are various types of organic waste that can be used to compost at home. Composting requires two types of organic materials: "green" waste and "brown" waste. This is due to organic waste requiring four elements to decompose: nitrogen, carbon, oxygen, and water. A proper carbon-to-nitrogen ratio must be maintained along with proper oxygen and water levels in order to create compost. An effective ratio is 25-30 parts carbon to 1 part nitrogen.All compostable material has carbon, but have different levels of nitrogen. Greens have a lower carbon-to-nitrogen ratio. Greens refer to leafy or fresh organic ingredients and are generally wet. Browns are richer in carbon and are generally dry ingredients. Too much carbon will result in a drier compost pile that will take more time to decompose while too much nitrogen will result in a more moist, slimy, and pungent pile. To obtain an effective ratio for decomposition, include two to four parts brown compost to one part green compost in the pile.
+
+
+== Implementation ==
+
+
+=== Step 1: Set Up Bin ===
+The first step of composting at home is to secure a composting bin and location.
+
+Bin Type - Composting indoors usually calls for a closed bin method while composting outside in the garden or yard allows for the open bin method without a cover. Compost bins can be purchased online but various alternatives for closed compost bins are old wooden dressers, garbage cans, wine crates, and more while open compost bins can be made using wooden posts, metal stakes, and wire mesh.
+Bin Size - Bin size can range from 5 gallon bins for a small household to 18 gallons for a large household. A 3 x 3 x 3 foot container will also suffice.
+Drainage - Bins need ample drainage and may require holes to be drilled at the bottom.
+Location - Whether indoor or outdoor, locating the bin in a dry and shady spot is suggested.
+Securing an additional smaller compost bin to collect food scraps is recommended if the primary bin is further from the main area where compost materials are frequently produced. This will avoid the inconvenience of constantly moving to the location of the main compost bin.
+
+
+=== Step 2: Gather Materials ===
+The next step to home composting is to gather materials for the compost layers. Most items available in a household include various food scraps, coffee grounds, tea bags, shredded paper, and more. To maintain a proper carbon-to-nitrogen ratio, collect approximately two to four parts of brown compost matter to one part green compost matter. Breaking down ingredients before adding them to the compost pile will allow them to decompose more easily and quickly.
+
+
+=== Step 3: Add to Bin ===
+There are various methods of composting but the suggested method at home involves aerobic composting with worms (vermicomposting) or without worms.
+
+
+==== Layering ====
+Home composting can be completed through a layering process. Start with a layer of coarse ingredients to allow for airflow, then alternate with layers of nitrogen-rich (greens) and carbon-rich materials (browns), and mix together. Bury food scraps in the center of the pile and add soil on top for every few layers.  
+
+
+==== Vermicomposting ====
+To vermicompost, approximately one pound of worms can be added to the top of the soil layer but will need ample bedding (newspaper, shredded paper, etc.). Red wiggler worms (Eisenia fetida) are suggested as they are able to eat half their body weight in one day. Vermicomposting can take place indoors or outdoors. However, it is recommended to keep the worm bin indoors since worms can die from extreme temperatures. Vermicomposting is faster (2–3 months) than no-worm composting (3–9 months), involves minimal maintenance, limits odor, and provides multiple nutrients to the soil.
+
+
+=== Step 4: Aftercare ===
+
+
+==== Maintenance ====
+Regardless of the method used, a proportionally small amount of water may need to be added to the pile when dry to ensure proper moisture content. Composting without worms will require turning the pile every few weeks to guarantee proper aeration. The more often it is turned, the faster the compost will decompose. Vermicomposting does not require turning.
+
+
+==== Usage ====
+Compost is finished if the material is dark, crumbly, smells earthy, and contains no added scraps. Finished compost can be used in a multitude of ways such as for mulch, amending soil, fertilizer, and compost tea.
+
+
+== Environmental Benefits ==
+
+
+=== Increase Soil Health ===
+Home composting will promote soil health biologically, chemically, and structurally. It contains three major nutrients (nitrogen, phosphorus, and potassium) as well as other elements like calcium, iron, magnesium, and zinc that assist in soil and plant health. It works as a natural and organic fertilizer as opposed to using synthetic fertilizers with harmful chemicals. Home compost is also able to improve soil water retention, capacity, and productivity. It provides beneficial microbes that increase nutrients and humus formation in the soil. Humus acts like a glue agent and binds soil together, which helps prevent soil erosion.
+
+
+=== Reduce Greenhouse Gas Emissions ===
+
+One benefit of aerobic home composting is the reduction in methane emissions, one of the most threatening greenhouse gases to the environment. Food waste and packaging are responsible for 70% of household waste that resides in landfills. Over 95% of food waste ends up at landfills where it produces methane, carbon dioxide, and other greenhouse gases through anaerobic digestion. These greenhouse gases trap heat within the atmosphere and further contribute to climate change. It is predicted that by 2050, global greenhouse gas emissions will increase by 80% from food production alone. Home composting can limit landfill waste and therefore, methane emissions as well.When food waste is thrown out and ends up in waterways, it can contribute to algae blooms. Algae blooms can produce toxic emissions that have harmful health effects on mammals and organisms, including humans. Eutrophication, or extreme nutrient levels, leads to dense algae bloom formation which can damage drinking water and develop “dead zones” that harm marine life. Algae blooms also heavily contribute to global methane emissions.Greenhouse gases are emitted in the manufacturing of synthetic fertilizers so by using organic compost material to fertilize home gardens instead, these emissions will be reduced. By limiting the amount of food waste that ends up in landfills and using homemade fertilizer through home composting, households will reduce their carbon footprint.
+
+
+=== Reduce Waste ===
+Food waste contributes to the hunger crisis, in which 690 million people in the world are undernourished and households are the reason behind a significant fraction of food waste. A food chain waste study of Melbourne demonstrated that 40% of waste occurs post-consumer. This adds to the wastage of energy, emissions, and cost of production and supply. Almost an equal amount of food that is produced is disposed of (approximately 40%). The U.S Department of Agriculture estimates that approximately 133 billion pounds and $161 billion worth of food were wasted in 2010 alone. Home composting can limit the amount of waste contributed by households since it will not be disposed of but instead be used productively.
+
+
+== References ==

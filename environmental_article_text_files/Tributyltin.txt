@@ -1,0 +1,57 @@
+Tributyltin (TBT) is an umbrella term for a class of organotin compounds which contain the (C4H9)3Sn group, with a prominent example being tributyltin oxide. For 40 years TBT was used as a biocide in anti-fouling paint, commonly known as bottom paint, applied to the hulls of oceangoing vessels. Bottom paint improves ship performance and durability as it reduces the rate of biofouling, the growth of organisms on the ship's hull. The TBT slowly leaches out into the marine environment where it is highly toxic toward nontarget organisms. TBT is also an obesogen. After it led to collapse of local populations of organisms, TBT was banned.
+
+
+== Chemical properties ==
+TBT, or tributyltin, tributylstannyl or tributyl stannic hydride compounds are organotin compounds. They have three butyl groups covalently bonded to a tin(IV) centre.   A general formula  for these compounds is (n-C4H9)3Sn-X. The “X”, typically occurs in three forms, each an electronegative compound bound to a chloride, hydroxide, or a carboxylate.TBT compounds have a low water solubility, a property that is ideal for antifouling agents. The toxicity of TBT prevents the growth of algae, barnacles, molluscs and other organisms on ships hulls. When introduced into a marine or aquatic environment, TBT adheres to bed sediments.  TBT has a low Log Kow of 3.19 – 3.84 in distilled water and 3.54 for sea water, this makes TBT moderately hydrophobic. TBT compounds have a high fat solubility and tend to absorb more readily to organic matter in soils or sediment. The  bioaccumulation of TBT in organisms such as molluscs, oysters and dolphins, have extreme effects on their reproductive systems, central nervous systems and endocrine systems. However, the adsorption of TBT to sediments is reversible and depends on pH.
+Although an effective biocide, tributyltin was wrongly deemed safe environmentally. TBT has a half-life of one or two weeks in marine water.  When it accumulates in sediments its half life is about 2 years. TBT often bonds to suspended material and sediments, where it can remain and be released for up to 30 years.Studies have shown that 95% of TBT can be released from the sediments back into the aquatic environment. This absorption process can complicate quantification of TBT in an environment, since its concentration in the water is not representative of its availability.
+
+
+== Uses ==
+Tributyltin compounds are biocides. TBT's antifouling properties were discovered in the 1950s in the Netherlands by van der Kerk and coworkers. It prevents microorganisms from settling on the hull of a ship and poisons the organisms that do. By the mid 1960s it had become the most popular anti-fouling paint around the globe. TBT was mixed into paints to extend the life of antifouling coatings, and ships were able to continue operations for a longer time frame. The paints ensured fuel efficiency and delayed costly ship repairs. It is also relatively inexpensive.TBT is also an ingredient in some disinfectants, for example in combination with quaternary ammonium compounds.
+
+
+== Toxicity ==
+The effects of antifouling paint go beyond the organisms that it is intended to kill. By poisoning barnacles, algae, and other organisms at the bottom of the food chain, the bioaccumulation of TBT increases over time affecting more and more of the bottom feeders of the aquatic food web environment, which are mainly invertebrates and are effected from TBT. There is a slight biomagnification of TPT that has been demonstrated in the lower part of the marine food chain (i.e., planktonic organisms, invertebrates, and fishes). However the biomagnification of TBT into larger marine animals such as marine mammals is debatable.  Toxic effects in some species occur at 1 nano-gram per liter of water.
+
+
+=== Bioaccumulation and biomagnification ===
+As TBT is most often used as a biofouling agent, it bioaccumulates in marine wildlife such as molluscs, with levels being higher in organisms and sediments in and around areas of high maritime activity, such as ports and harbours.The bioaccumulation increases over time, leading to a biomagnification in organisms higher up the food chain, although the biomagnification is not that considerable in size. As TBT can remain in the environment for up to 30 years due to often bonding to suspended material and sediments, This means that TBT can remain in an ecosystem for a very long time, meaning that bioaccumulation readily occurs in marine environments. This can lead to very high amounts of TBT being accumulated, especially in smaller organisms lower down the food chain, which in turn has various health effects.
+
+
+=== Invertebrates ===
+Exposure to organotin compounds causes the development of male accessory sex organs in female prosobranch gastropods. This phenomenon has been termed imposex. TBT has been shown to affect invertebrate development. Marine snails, such as the dog whelk (Nucella lapillus), has often been used as an indicator species. In gastropods, the normal process of accessory sex organ development is retinoid dependent, as has been proven by the effect 9cisRA has on male penises. TBTs mimic the endogenous ligand of Retinoid X Receptor (9cisRA), and thus activates the signalling cascades that are retinoid acid dependent, promoting female penis growth.There have been many theories as to why molluscs are affected by TBT. For example, previous literature has stated that TBT would cause the inhibition of aromatase which would lead to an increase in testosterone and therefore, causing imposex.  It was theorised that TBT disrupts endocrine system by inhibiting cytochrome P450 molecule. Among its myriad functions,  P450 converts androgen, which has male-hormone properties, into oestrogen, which has female hormone properties.  It was theorised that the high concentration of androgen lead to the masculinization of females.  Another indicator species is Chironomus riparius, a species of non-biting midge, which has been used to test the effects of TBT on development and reproduction at sublethal concentrations found in marine environments.  
+It was found that only 0.05 ng/ml range is enough to have developmental effects on their larvae, and 10-100 ng/l  was enough to seriously offset the female to male ratio in the population. At 10 ng/l females were at 55.6% of the population and 85.7% at 100 ng/l. These results are interesting because unlike the masculinization of the stengoglassan gastropods, this experiment shows feminization.
+
+
+=== Vertebrates ===
+Vertebrates become affected by the waters contaminated with TBT as well as by consuming organisms that have already been poisoned. Oryzias latipes, commonly called Japanese rice fish, has been used as a model vertebrate organism to test for effects of TBT at developmental stages of the embryo.  It was observed that developmental rate was slowed by TBT in a concentration-related manner and that tail abnormalities occurred.Illustrating the infiltration of TBT in the food chain, one study showed that most samples of skipjack tuna tested positive for presence of TBT. Tuna from waters around developing Asian nations had particularly high levels of TBT.  Regulation of TBT is not enforced in Asia as rigorously as in Europe or US.Studies have shown that TBT is detrimental to the immune system. Research shows that TBT reduces resistance to infection in fish which live on the seabed and are exposed to high levels of TBT. These areas tend to have silty sediment like harbours and estuaries.TBT compounds have been described to interfere with glucocorticoid metabolism in the liver, by inhibiting the activity of the enzyme 11beta-hydroxysteroiddehydrogenase type 2, which converts cortisol to cortisone.
+
+
+==== Mammals ====
+TBT can enter the diet of humans and other mammals. As of 2008 high levels of tributyltin had been detected in the livers of sea otters (Enhydra lutris) and stranded bottlenose dolphins. Otters dying of infectious causes tended to have higher levels of tissue butyltins than those dying of trauma or other causes. TBT has been shown to lead to immunosuppression in sea-otters and dolphins. TBT has also been linked to hearing loss in mammalian top predators such as toothed whales.
+
+
+== Regulation ==
+Bans on TBT on boats less than 25 metres long first started in the 1980s. In 1990, the Marine Environment Protection Committee adopted Resolution MEPC 46(30), which recommended that the Government eliminate the use of TBT-containing antifouling paints on smaller vessels. This resolution was intended to be a temporary restriction until the International Maritime Organization could implement a ban of TBT anti-fouling agents for ships. Several countries followed, and in 1997 Japan banned the production of TBT-based anti-fouling paints. In 2008 organotin compounds acting as biocide like TBT compounds were banned in anti-fouling paint and included in the Rotterdam Convention and have been banned by the International Convention on the Control of Harmful Anti-fouling Systems on Ships of the International Maritime Organization. It states that ships cannot bear organotin compounds on their hulls or external parts or surfaces, unless there is a coating that forms a barrier so that organotin compounds cannot leach out to reduce exposure by allowing recovery to occur.
+
+
+=== Violations of the ban on TBT ===
+Even though banned by some international agencies, TBT anti-fouling paints are still used in countries with poor regulation enforcement, as  in the Caribbean.
+
+
+=== US violations ===
+In November 2018, the US Department of Justice announced that three people they had charged and arrested in New Jersey for manufacturing and selling tributyltin based marine paint had pleaded guilty. Sentencing is scheduled for February 2019.
+
+
+== See also ==
+Triphenyltin
+Organotin chemistry
+Biomimetic antifouling coating
+
+
+== References ==
+
+
+== External links ==
+Newcastle University Biofouling Group
+"Ambient Aquatic Life Water Quality Criteria for Tributyltin (TBT)" United States Environmental Protection Agency, December 2003

@@ -1,0 +1,40 @@
+Ecological psychology is the scientific study of perception-action from a direct realist approach. Ecological psychology is a school of psychology that follows much of the writings of Roger Barker and James J. Gibson. Those in the field of Ecological Psychology reject the mainstream explanations of perception laid out by cognitive psychology. The ecological psychology can be broken into a few sub categories: perception, action, and dynamical systems. As a clarification, many in this field would reject the separation of perception and action, stating that perception and action are inseparable. These perceptions are shaped by an individual's ability to engage with their emotional experiences in relation to the environment and reflect on and process these. This capacity for emotional engagement leads to action, collective processing, social capital, and pro environmental behaviour.
+
+
+== Barker ==
+Roger Barker's work was based on his empirical work at the Midwest Field Station. He wrote later: "The Midwest Psychological Field Station was established to facilitate the study of human behavior and its environment in situ by bringing to psychological science the kind of opportunity long available to biologists: easy access to phenomena of the science unaltered by the selection and preparation that occur in laboratories." (Barker, 1968).  The study of environmental units (behavior settings) grew out of this research.  In his classic work "Ecological Psychology" (1968) he argued that human behaviour was radically situated: in other words, you couldn't make predictions about human behaviour unless you know what situation or context or environment the human in question was in. For example, there are certain behaviours appropriate to being in church, attending a lecture, working in a factory etc., and the behaviour of people in these environments is more similar than the behaviour of an individual person in different environments. He has since developed these theories in a number of books and articles.
+
+
+== Gibson ==
+James J. Gibson, too, stressed the importance of the environment, in particular, the (direct) perception of how the environment of an organism affords various actions to the organism. Thus, an appropriate analysis of the environment was crucial for an explanation of perceptually guided behaviour. He argued that animals and humans stand in a 'systems' or 'ecological' relation to the environment, such that to adequately explain some behaviour it was necessary to study the environment or niche in which the behaviour took place and, especially, the information that 'epistemically connects' the organism to the environment.
+It is Gibson's emphasis that the foundation for perception is ambient, ecologically available information – as opposed to peripheral or internal sensations – that makes Gibson's perspective unique in perceptual science in particular and cognitive science in general. The aphorism: "Ask not what's inside your head, but what your head's inside of" captures that idea. Gibson's theory of perception is information-based rather than sensation-based and to that extent, an analysis of the environment (in terms of affordances), and the concomitant specificational information that the organism detects about such affordances, is central to the ecological approach to perception. Throughout the 1970s and up until his death in 1979, Gibson increased his focus on the environment through development of the theory of affordances - the real, perceivable opportunities for action in the environment, that are specified by ecological information.
+Gibson rejected outright indirect perception, in favour of ecological realism, his new form of direct perception that involves the new concept of ecological affordances. He also rejected the emerging constructivist, information processing and cognitivist views that assume and emphasize internal representation and the processing of meaningless, physical sensations ('inputs') in order to create meaningful, mental perceptions ('output'), all supported and implemented by a neurological basis (inside the head).
+His approach to perception has often been criticised and dismissed when compared to widely publicised advances made in the fields of neuroscience and visual perception by the computational and cognitive approaches.However, developments in cognition studies which consider the role of embodied cognition and action in psychology can be seen to support his basic position.Given that Gibson's tenet was that "perception is based on information, not on sensations", his work and that of his contemporaries today can be seen as crucial for keeping prominent the primary question of what is perceived (i.e., affordances, via information) – before questions of mechanism and material implementation are considered. Together with a contemporary emphasis on dynamical systems theory and complexity theory as a necessary methodology for investigating the structure of ecological information, the Gibsonian approach has maintained its relevance and applicability to the larger field of cognitive science.
+
+
+== See also ==
+Action-specific perception
+Ambient optic array
+Community psychology
+Conservation psychology
+Embodied cognition
+Environmental Design Research Association
+Evolutionary psychology
+Information ecology
+Situated cognition
+Urie Bronfenbrenner
+
+
+== References ==
+
+
+== External links ==
+Viridis Graduate Institute
+Ecological Psychology Information
+International Society for Ecological Psychology
+Centre for the Ecological Study of Perception and Action
+Teaching Psychology for Sustainability
+Direct Perception; An early classic and a good introduction to the theoretical background and available research (circa 1980) on ecological psychology and direct perception; by Claire Michaels and Claudia Carello.
+Ecological Psychology in Context
+YouTube channel PERCEIVINGACTING A collection of video and audio resources in ecological psychology, direct perception, coordination, and related topics.
+Environmental Psychologist and Wellbeing Consultant

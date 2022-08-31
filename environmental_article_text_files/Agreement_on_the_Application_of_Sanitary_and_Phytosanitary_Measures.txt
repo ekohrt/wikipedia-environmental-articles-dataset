@@ -1,0 +1,72 @@
+The Agreement on the Application of Sanitary and Phytosanitary Measures, also known as the SPS Agreement or just SPS, is an international treaty of the World Trade Organization (WTO). It was negotiated during the Uruguay Round of the General Agreement on Tariffs and Trade (GATT), and entered into force with the establishment of the WTO at the beginning of 1995. Broadly, the sanitary and phytosanitary ("SPS") measures covered by the agreement are those aimed at the protection of human, animal or plant life or health from certain risks.Under the SPS agreement, the WTO sets constraints on member-states' policies relating to food safety (bacterial contaminants, pesticides, inspection and labelling) as well as animal and plant health (phytosanitation) with respect to imported pests and diseases. There are 3 standards organizations who set standards that WTO members should base their SPS methodologies on.  As provided for in Article 3, they are the Codex Alimentarius Commission (Codex), World Organization for Animal Health (OIE) and the Secretariat of the International Plant Protection Convention (IPPC).
+The SPS agreement is closely linked to the Agreement on Technical Barriers to Trade, which was signed in the same year and has similar goals. The TBT Emerged from the Tokyo Round of WTO negotiations and was negotiated with the aim of ensuring non-discrimination in the adoption and implementation of technical regulations and standards.
+
+
+== History and framework ==
+As GATT's preliminary focus had been lowering tariffs, the framework that preceded the SPS Agreement was not adequately equipped to deal with the problems of non-tariff barriers (NTBs) to trade and the need for an independent agreement addressing this became critical. The SPS Agreement is an ambitious attempt to deal with NTBs arising from cross-national differences in technical standards without diminishing governments prerogative to implement measures to guard against diseases and pests.
+
+
+== Main provisions ==
+Article 1 – General Provisions - Outlines the application of the Agreement.
+Annex A.1 – Definition of SPS measures.
+Article 2 – Basic Rights and Obligations. Article 2.2 - requires measures to be based on sufficient scientific analysis. Article 2.3 - states that Members shall ensure that their sanitary and phytosanitary measures do not arbitrarily or unjustifiably discriminate between Members where identical or similar conditions prevail, including between their own territory and that of other Members.  Sanitary and phytosanitary measures shall not be applied in a manner which would constitute a disguised restriction on international trade.
+Article 3 – Harmonization. Article 3.1- To harmonize sanitary and phytosanitary measures on as wide a basis as possible, Members shall base their sanitary or phytosanitary measures on international standards, guidelines or recommendations, where they exist, except as otherwise provided for in this Agreement, and in particular in paragraph 3. Article 3.3 – allows Members to implement SPS measures higher than if they were basing them on international standards where there is a scientific justification or the Member determines the measure to be appropriate in accordance with 5.1-5.8.
+Annex A.3 – outlines the standard-setting bodies.
+Article 5 – Risk Assessment and Determination of the Appropriate Level of SPS Protection. Article 5.1 - Members shall ensure that their sanitary or phytosanitary measures are based on an assessment, as appropriate to the circumstances, of the risks to human, animal or plant life or health, taking into account risk assessment techniques developed by the relevant international organizations.
+Annex A.4 – outlines risk assessment process.
+Article 5.5 - each Member shall avoid arbitrary or unjustifiable distinctions in the levels it considers to be appropriate in different situations, if such distinctions result in discrimination or a disguised restriction on international trade. Article 5.7– echoes the 'Precautionary Principle' where there is no science available with which to justify a measure.
+
+
+== Cases ==
+Some of the most important WTO 'cases' regarding the implementation of SPS measures include:
+
+EC – Hormones (Beef Hormone Dispute) (1998)
+Japan – Agricultural Products (1999)
+Australia – Salmon (1999)
+Japan – Apples (2003)
+
+
+== Genetically modified organisms ==
+In 2003, the United States challenged a number of EU laws restricting the importation of Genetically Modified Organisms (GMOs) in a dispute known as EC-Biotech, arguing they are "unjustifiable" and illegal under SPS agreement. In May 2006, the WTO's dispute resolution panel issued a complex ruling which took issue with some aspects of the EU's regulation of GMOs, but dismissed many of the claims made by the USA.  A summary of the decision can be found here.
+
+
+== Hormone-treated beef ==
+
+Another prominent SPS case is the hormone-treated beef case. In 1996, the United States and Canada challenged before the WTO Dispute Settlement Body (DSB) a number of EU directives prohibiting the importation and sale of meat and meat products treated with certain growth hormones. The complainants alleged that the EU directives violated, among other things, several provisions of the SPS Agreement. The EU contended that the presence of the banned hormones in food may present a risk to consumers' health and that, as a consequence, the directives were justified under several WTO provisions authorizing the adoption of trade-restrictive measures that are necessary to protect human health. In 1997 and 1998, the WTO adjudicating bodies admitted USA and Canada claims and invited the EU to bring the directives into conformity with WTO law before end of May 1999. EU did not comply and the DSB authorized the US and Canada to take countermeasures against the EU. The countermeasures took the form of increased custom duties applied by the US and Canada on certain EU products, including the notorious Roquefort cheese. In 2004, while the ban on hormone-treated meat was still in place, the EU initiated before the DSB new proceedings seeking the lifting of the countermeasures applied by the US and Canada. EU alleged that it had collected new scientific data evidencing that the banned hormones may cause harm to consumers. According to the EU, the new scientific data provides sufficient ground for the ban on hormones, which may no more be sanctioned by the countermeasures imposed by the US and Canada. As of January 2007, the proceedings initiated by the EU were still pending.
+
+
+== Interaction with other World Trade Organization instruments ==
+While Article 1.5 of the TBT precludes the inclusion of SPS measures from its ambit, in EC-Biotech, the panel recognised that situations could arise where a measure is only partly an SPS measure, and in those cases, the SPS part of the measure will be considered under the SPS Agreement. If a measure conforms with SPS, under Article 2.4 of the SPS Agreement, it is assumed that the measure falls within the scope of GATT, Article XX(b).
+
+
+== Criticism ==
+
+
+=== Economic considerations ===
+Trade in the products subject to SPS-type measures have the potential to result in significant economic gains for national economies. Favouring economic concerns over other important public health policy issues, however, is something that requires close scrutiny by governments and the international community.The SPS Agreement reflects the precautionary principle – a principle which allows them to act on the side of caution if there is no scientific certainty about potential threats to human health and the environment. Under Article 5.7 Members who enact provisional measures are obligated to seek further information on possible risks and review the measure 'within a reasonable period of time'. The Appellate Body in Japan– Measures Affecting Agricultural Products, stated that the length of a 'reasonable period of time' is to be assessed on a case-by-case basis.  Under SPS rules, the burden of proof is on the complainant country to demonstrate that a measure violates Article 2.2 and Articles 5.1-5.8 before it can be regulated even though scientific evidence can never be conclusive and it is not possible to test for all health risks that could arise from importation of a certain product.
+
+
+=== Impact on developing countries ===
+It is important that the views of developing countries are incorporated into the standard-setting process as the effect of exporting countries enacting SPS measures can be damaging to developing economies. This is partly due to these states not possessing the technology and resources needed to readily comply with certain SPS requirements.
+
+
+=== Impact of consumer pressure on adherence ===
+Some commentators pose that the WTO's assumption that trade liberalisation enhances consumer welfare, has resulted in the SPS Agreement being ill-equipped to deal with trade restrictions put in place by governments responding to protectionist pressure from consumers. This was most noticeable in the Beef Hormones Dispute where, although the science pointed to the relative safety of the growth hormones in question, European consumers pressured governments to ban the import of hormone-treated beef.
+
+
+== See also ==
+Codex Alimentarius
+International Plant Protection Convention
+Free trade
+Phytosanitary certificate
+World Organisation for Animal Health
+
+
+== References ==
+
+
+== External links ==
+Text of the SPS Agreement:html(1), html(2), doc, pdf, wpf
+Penn Program on Regulation's Import Safety Page
+Concerted Action on Trade & Environment (CAT&E) Technical barriers to trade, sanitary and phytosanitary standards and eco-labelling
+World Trade Organization and Health, Sanitary and Phytosanitary Measures: Selective Bibliography, prepared by Hugo H.R. van Hamel, Peace Palace Library

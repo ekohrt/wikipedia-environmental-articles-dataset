@@ -1,0 +1,102 @@
+Ecotoxicology is the study of the effects of toxic chemicals on biological organisms, especially at the population, community, ecosystem, and biosphere levels. Ecotoxicology is a multidisciplinary field, which integrates toxicology and ecology.
+The ultimate goal of ecotoxicology is to reveal and predict the effects of pollution within the context of all other environmental factors. Based on this knowledge the most efficient and effective action to prevent or remediate any detrimental effect can be identified. In those ecosystems that are already affected by pollution, ecotoxicological studies can inform the choice of action to restore ecosystem services, structures, and functions efficiently and effectively.Ecotoxicology differs from environmental toxicology in that it integrates the effects of stressors across all levels of biological organisation from the molecular to whole communities and ecosystems, whereas environmental toxicology includes toxicity to humans and often focuses upon effects at the organism level and below.
+
+
+== History ==
+Ecotoxicology is a relatively young discipline that made its debuts in the 1970s in the realm of the environmental sciences. Its methodological aspects, derived from toxicology, are widened to encompass the human environmental field and the biosphere at large. While conventional toxicology limits its investigations to the cellular, molecular and organismal scales, ecotoxicology strives to assess the impact of chemical, physicochemical and biological stressors, on populations and communities exhibiting the impacts on entire ecosystems. In this respect, ecotoxicology again takes into consideration dynamic balance under strain.
+Ecotoxicology emerged after pollution events that occurred after World War II heightened awareness on the impact of toxic chemical and wastewater discharges towards humankind and the environment. The term "Ecotoxicology" was uttered for the first time in 1969 by René Truhaut, a toxicologist, during an environmental conference in Stockholm. As a result, he was de facto recognized as the originator of this discipline. In fact, the pioneering role of Jean-Michel Jouany, Truhaut's assistant, in conceptualising the discipline and in defining its objectives, is now fully recognized. In Jouany's mindset, ecotoxicology is primarily linked to ecology for its goal seeks to circumscribe the influence that stress factors can have on relationships existing between organisms and their habitat. Jean-Michel Jouany was indeed the young and brilliant mentor of René Truhaut who was at the time empowered to disseminate the emerging discipline proposed by his young assistant at the international level. Jean-Michel Jouany was promoted to the rank of full professor at the University of Nancy in 1969. He then laid out the teaching and research principles for ecotoxicology at the University of Metz with his colleague, Jean-Marie Pelt, as early as 1971.In France, two universities (Metz and Paris-Sud) markedly contributed to expand this burgeoning discipline during the 1980s and 1990s. Several institutes followed suit in this respect. Indeed, CEMAGREF (now IRSTEA), INERIS, IFREMER and CNRS created research units in ecotoxicology, as did other French universities (in Rouen, Bordeaux, Le Havre, Lyon, Lille, Caen...). During the 1990s, a new offshoot of ecotoxicology casually appears known as Landscape ecotoxicology, whose objective seeks to take into account interactions between landscape ecological processes and environmental toxicants, in particular for species undergoing impediments linked to migratory passageways* (e.g., salmonids).
+
+
+== Common environmental toxicants ==
+PCBs (polychlorinated biphenyls) – found in coolant and insulating fluids, pesticide extenders, adhesives, and hydraulic fluids.
+Pesticides – used widely for preventing, destroying, or repelling any organism that may be considered harmful. Commonly found in commercially grown fruits, vegetables, and meats. Methyl parathion is a commonly used pesticide used for agricultural reasons.  Methyl parathion causes the formation of toxic mediums for humans, soil and water, fresh water fish, and other hydrophilous organisms in the ecosystem.  Methyl parathion proposes numerous health risk factors that are life-threatening.
+Mold and other mycotoxins.
+Phthalates are found in plastic wrap, plastic bottles, and plastic food storage containers, all of which make up a considerable part of household plastic waste.
+VOCs (volatile organic compounds) – such as formaldehyde; can be found in drinking water and sewage systems.
+Dioxins are a class of chemical compounds that are formed as a result of combustion processes such as waste incineration and from burning fuels like wood, coal, and oil.
+Asbestos is found in the insulation of flows, ceilings, water pipes, and heating ducts.
+Heavy metals include arsenic, mercury, lead, aluminum, and cadmium, which are found in fish, and pesticides.
+Chloroform is used to make other chemicals.
+Chlorine is commonly found in household cleaners.
+
+
+== Exposure to toxic chemicals ==
+Chemicals propose the risk of killing off another animal's food supply that changes the overall population of the prey
+Animals can go to the brink of extinction because of the food chain that exists through the different communities.  For example, bald eagles, ospreys, and peregrine falcons were facing extinction because their food sources (fish and other birds) were contaminated with toxins.
+We are all connected between the communities of living things.  Plants can absorb toxins through their roots and leaves.  Animals and humans are always exposed to chemicals by the air we breathe, things we touch, and what we put in our mouth.
+Animals and humans can also eat other animals or plants that are already poisoned, which will continue the spread of chemicals, which is referred to as secondary poisoning
+
+
+== Effects on individuals and entire population ==
+Direct effects – direct consumption of a toxin or something that has been contaminated with a toxin by breathing, eating, or drinking.
+Developmental and reproductive problems
+Indirect effects – organisms directly affected by the loss of food, which has declined due to toxins.
+Sublethal effects –  toxins or compounds that do not induce significant mortality but make the organism sick or make it change its behavior
+Increased sensitivity to toxicants when additional environmental stressors are present
+With chronic use of pesticides, this runs the risk of causing abnormalities in chromosome structure in humans, as well as affecting the reproduction, nervous and cardiovascular system of any animals exposed.
+The genetics can be affected by toxicant exposure, direct changes can occur to the DNA, and if not repaired, the changes can lead to the appearance mutations
+Contaminants can modify the distribution of individuals in a population, effective population size, mutation rate and migration rate
+
+
+== Effects of ecotoxicity on a community ==
+Predator-prey relationships – either the predator is affected by the toxin resulting in a decline of predator population and thus increasing the prey population; or the prey population is affected by the toxin resulting in a decline in the prey population that, in essence, will cause a decline in the predator population due to lack of food resources
+Community ecotoxicology studies the effects of all contaminants on patterns and species abundance, diversity, community composition, and species interactions.  Communities that rely heavily on competition and predation will have a difficult time responding and thriving in disturbances from contaminants.  A community that is species-rich will have a better chance recovering from an exotoxin disturbance, rather than a community that is not species-rich.  A species could be easily wiped out to the expense of a contamination from foreign chemicals.  Protecting distinct community levels, such as species richness and diversity is essential for maintaining a healthy, well-balanced ecosystem
+
+
+== Overall effects ==
+Chemicals are shown to prohibit the growth of seed germination of an arrangement of different plant species.  Plants are what make up the most vital trophic level of the biomass pyramids, known as the primary producers.  Because they are at the bottom of the pyramid, every other organism in an ecosystem relies on the health and abundance of the primary producers in order to survive.   If plants are battling problems with diseases relating to exposure to chemicals, other organisms will either die because of starvation or obtain the disease by eating the plants or animals already infected.  So ecotoxicology is an ongoing battle that stems from many sources and can affect everything and everyone in an ecosystem 
+
+
+== Ways of prevention ==
+Regulation:
+
+In the United States, the Environmental Protection Agency (EPA) reviews all pesticides before the products are registered for sale to ensure that the benefits will outweigh the risks.
+Food Quality Protection Act and the Safe Drinking Water Act were passed in 1996, which required EPA to screen pesticide chemical for potential to produce harmful effects.
+Keep close track of the labeling when using a fertilizer, or pesticide.  Try to look for products that will have less of an impact on the environment 
+There are many federal and state laws protecting birds, animals, and rare plants.  But the first order of protection comes from us taking steps to avoid harm since we are the main source of all the toxins.
+Proper waste disposal
+
+
+== Ecotoxicity testing ==
+Acute and chronic toxicity tests are performed terrestrial and aquatic organisms including fish, invertebrates, avians, mammalians, non-target arthropods, earthworms and rodents.
+The Organization for Economic Cooperation and Development (OECD) test guideline has developed specific tests to test toxicity level in organisms.  Ecotoxicological studies are generally performed in compliance with international guidelines, including EPA, OECD, EPPO, OPPTTS, SETAC, IOBC, and JMAFF.
+LC50 is the acute toxicity, the lethal concentration at which 50% of the test organism dies within the test-specified time. The test may start with eggs, embryos, or juveniles and last from 24 hours to 96 hours.
+EC50 is the concentration that causes adverse effects in 50% of the test organisms (for a binary yes/no effect such as mortality or a specified sublethal effect) or causes a 50% (usually) reduction in a non-binary parameter such as growth.
+No observed effect concentration (NOEC) is the highest dose of stressor at which there is no statistically significant difference of effect (p<0.05) seen in the test organism.
+Endocrine Disruptor Screening Program (EDSP)
+Tier 1 screening battery
+Endangered species assessments.
+Persistent, Bioaccumulative, and Inherently Toxic (PBiT) assessments using the Quantitative Structure-Activity Relationships (QSARs) to categorize regulated substances.
+Bioaccumulation in fish using the Bioconcentration Factor (BCF) methods.
+
+
+== Classification of ecotoxicity ==
+Total amount of acute toxicity is directly related to the classification of toxicity.
+< 1 part per million → Class I
+1–10 parts per million → Class II
+10–100 parts per million → Class III
+
+
+== See also ==
+Aquatic toxicology
+Ecology
+Ecotoxicity
+Environmental toxicology
+Toxicity
+Toxicology
+
+
+== References ==
+
+
+== Bibliography ==
+
+
+== Further reading ==
+
+
+== External links ==
+European Centre for Ecotoxicology and Toxicology of Chemicals
+ecotoxmodels website on ecotoxicology & models
+Online biomonitoring of water quality by a 24/7 record of various bivalve molluscs' behavior and physiology worldwide (biological rhythms, growth rate, spawning, daily behavior): the MolluSCAN eye project
+SPEAR Indicatorsystem informs on pesticide contamination in streams.

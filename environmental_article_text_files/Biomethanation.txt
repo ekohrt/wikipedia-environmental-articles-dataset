@@ -1,0 +1,73 @@
+Methanogenesis or biomethanation is the formation of methane by microbes known as methanogens. Organisms capable of producing methane have been identified only from the domain Archaea, a group phylogenetically distinct from both eukaryotes and bacteria, although many live in close association with anaerobic bacteria. The production of methane is an important and widespread form of microbial metabolism. In anoxic environments, it is the final step in the decomposition of biomass.  Methanogenesis is responsible for significant amounts of natural gas accumulations, the remainder being thermogenic.
+
+
+== Biochemistry ==
+
+Methanogenesis in microbes is a form of anaerobic respiration. Methanogens do not use oxygen to respire; in fact, oxygen prohibits the growth of methanogens.  The terminal electron acceptor in methanogenesis is not oxygen, but carbon monoxide. The two best described pathways involve the use of acetic acid or inorganic carbon dioxide as per a greater depressive terminal electron donors:
+
+CO2 + 4 H2 → CH4 + 2 H2OCH3COOH → CH4 + CO2During anaerobic respiration of carbohydrates, H2 and acetate are formed in a ratio of 2:1 or lower, so H2 contributes only c. 33% to methanogenesis, with acetate contributing the greater proportion. In some circumstances, for instance in the rumen, where acetate is largely absorbed into the bloodstream of the host, the contribution of H2 to methanogenesis is greater.However, depending on pH and temperature, methanogenesis has been shown to use carbon from other small organic compounds, such as formic acid (formate), methanol, methylamines, tetramethylammonium, dimethyl sulfide, and methanethiol.  The catabolism of the methyl compounds is mediated by methyl transferases to give methyl coenzyme M.
+
+
+=== Proposed mechanism ===
+The biochemistry of methanogenesis involves the following coenzymes and cofactors: F420, coenzyme B, coenzyme M, methanofuran, and methanopterin.
+The mechanism for the conversion of CH3–S bond into methane involves a ternary complex of methyl coenzyme M and coenzyme B fit into a channel terminated by the axial site on nickel of the cofactor F430.  One proposed mechanism invokes electron transfer from Ni(I) (to give Ni(II)), which initiates formation of CH4.  Coupling of the coenzyme M thiyl radical (RS.) with HS coenzyme B releases a proton and re-reduces Ni(II) by one-electron, regenerating Ni(I).
+
+
+=== Reverse methanogenesis ===
+Some organisms can oxidize methane, functionally reversing the process of methanogenesis, also referred to as the anaerobic oxidation of methane (AOM). Organisms performing AOM have been found in multiple marine and freshwater environments including methane seeps, hydrothermal vents, coastal sediments and sulfate-methane transition zones. These organisms may accomplish reverse methanogenesis using a nickel-containing protein similar to methyl-coenzyme M reductase used by methanogenic archaea. Reverse methanogenesis occurs according to the reaction:
+
+SO2−4 +  CH4   →   HCO−3  + HS− + H2O
+
+
+=== Importance in carbon cycle ===
+Methanogenesis is the final step in the decay of organic matter.  During the decay process, electron acceptors (such as oxygen, ferric iron, sulfate, and nitrate) become depleted, while hydrogen (H2) and carbon dioxide accumulate.  Light organics produced by fermentation also accumulate.  During advanced stages of organic decay, all electron acceptors become depleted except carbon dioxide.  Carbon dioxide is a product of most catabolic processes, so it is not depleted like other potential electron acceptors.
+Only methanogenesis and fermentation can occur in the absence of electron acceptors other than carbon.  Fermentation only allows the breakdown of larger organic compounds, and produces small organic compounds.  Methanogenesis effectively removes the semi-final products of decay: hydrogen, small organics, and carbon dioxide.  Without methanogenesis, a great deal of carbon (in the form of fermentation products) would accumulate in anaerobic environments.
+
+
+== Natural occurrence ==
+
+
+=== In ruminants ===
+
+Enteric fermentation occurs in the gut of some animals, especially ruminants. In the rumen, anaerobic organisms, including methanogens, digest cellulose into forms nutritious to the animal.  Without these microorganisms, animals such as cattle would not be able to consume grasses. The useful products of methanogenesis are absorbed by the gut, but methane is released from the animal mainly by belching (eructation). The average cow emits around 250 liters of methane per day. In this way, ruminants contribute about 25% of anthropogenic methane emissions. One method of methane production control in ruminants is by feeding them 3-nitrooxypropanol.
+
+
+=== In humans ===
+Some humans produce flatus that contains methane.  In one study of the feces of nine adults, five of the samples contained archaea capable of producing methane. Similar results are found in samples of gas obtained from within the rectum.
+Even among humans whose flatus does contain methane, the amount is in the range of 10% or less of the total amount of gas.
+
+
+=== In plants ===
+Many experiments have suggested that leaf tissues of living plants emit methane. Other research has indicated that the plants are not actually generating methane; they are just absorbing methane from the soil and then emitting it through their leaf tissues.
+
+
+=== In soils ===
+Methanogens are observed in anoxic soil environments, contributing to the degradation of organic matter.  This organic matter may be placed by humans through landfill, buried as sediment on the bottom of lakes or oceans as sediments, and as residual organic matter from sediments that have formed into sedimentary rocks.
+
+
+=== In Earth's crust ===
+Methanogens are a notable part of the microbial communities in continental and marine deep biosphere.
+
+
+== Role in global warming ==
+Atmospheric methane is an important greenhouse gas with a global warming potential 25 times greater than carbon dioxide (averaged over 100 years), and methanogenesis in livestock and the decay of organic material is thus a considerable contributor to global warming. It may not be a net contributor in the sense that it works on organic material which used up atmospheric carbon dioxide when it was created, but its overall effect is to convert the carbon dioxide into methane which is a much more potent greenhouse gas.
+Methanogenesis can also be beneficially exploited, to treat organic waste, to produce useful compounds, and the methane can be collected and used as biogas, a fuel. It is the primary pathway whereby most organic matter disposed of via landfill is broken down.
+
+
+== Extra-terrestrial life ==
+
+The presence of atmospheric methane has a role in the scientific search for extra-terrestrial life. The justification is that methane in the atmosphere will eventually dissipate, unless something is replenishing it. If methane is detected (by using a spectrometer for example) this may indicate that life is, or recently was, present.
+This was debated when methane was discovered in the Martian atmosphere by M.J. Mumma of NASA's Goddard Flight Center, and verified by the Mars Express Orbiter (2004) and in Titan's atmosphere by the Huygens probe (2005). This debate was furthered with the discovery of 'transient', 'spikes of methane' on Mars by the Curiosity Rover.It is also argued that atmospheric methane can come from volcanoes or other fissures in the planet's crust and that without an isotopic signature, the origin or source may be difficult to identify.On 13 April 2017, NASA confirmed that the dive of the Cassini orbiter spacecraft on 28 October 2015 discovered the Enceladus plume which has all the ingredients for methanogenesis-based life forms to feed from. Previous results, published in March 2015, suggested hot water is interacting with rock beneath the sea; the new findings support that conclusion and add that the rock appears to be reacting chemically. From these observations scientists have determined that nearly 98 percent of the gas in the plume is water, about 1 percent is hydrogen and the rest is a mixture of other molecules including carbon dioxide, methane and ammonia.
+
+
+== See also ==
+Aerobic methane production
+Anaerobic digestion
+Anaerobic oxidation of methane
+Electromethanogenesis
+Hydrogen cycle
+Methanotroph
+Mootral
+
+
+== References ==

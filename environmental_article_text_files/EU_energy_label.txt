@@ -1,0 +1,603 @@
+EU Directive 92/75/EC established an energy consumption labelling scheme. The directive was implemented by several other directives thus most white goods, light bulb packaging and cars must have an EU Energy Label clearly displayed when offered for sale or rent. The energy efficiency of the appliance is rated in terms of a set of energy efficiency classes from A to G on the label, A being the most energy efficient, G the least efficient. The labels also give other useful information to the customer as they choose between various models. The information should also be given in catalogues and included by internet retailers on their websites.
+In an attempt to keep up with advances in energy efficiency, A+, A++ and A+++ grades were later introduced for various products; since 2010, a new type of label exists that makes use of pictograms rather than words, to allow manufacturers to use a single label for products sold in different countries.
+Directive 92/75/EC was replaced by Directive 2010/30/EU, and was again replaced by Regulation 2017/1369/EU from 1 August 2017. Updated labelling requirements will enter into force in 2021, the exact date depends on the relevant delegated regulation (e.g. dishwasher's labels change 1 March 2021).It will reintroduce a simpler classification, using only the letters from A to G. The rescaling will also lead to better differentiation among products that, under the current label classification, all appear in the same top categories. It means, for example, that a fridge that currently has the A+++ label could become a C category, even though the fridge is just as energy efficient as before. The main principle is that the A category will be empty at first, and B and C categories scarcely populated, to pave way for new, more energy efficient products to be invented and developed.
+
+
+== Major appliances ==
+
+
+=== Labelling ===
+The energy labels are separated into at least four categories:
+
+The appliance's details: according to each appliance, specific details, of the model and its materials.
+Energy class: a colour code associated to a letter (from A to G) that gives an idea of the appliance's electrical consumption.
+Consumption, efficiency, capacity, etc.: this section gives information according to appliance type.
+Noise: the noise emitted by the appliance is described in decibels.
+
+
+=== Refrigerating appliances ===
+For refrigerating appliances, such as refrigerators, freezers, wine-storage appliances, and combined appliances, the labelling is specified in terms of an energy efficiency index EEI, which is an indication of the annual power consumption relative to a reference consumption that is based on the storage volume and the type of appliance (refrigerator or freezer). The boundary between the A+ and A classes is 44 up to 1 July 2014, and 42 after that date.
+
+The label also contains:
+
+the annual energy consumption in kW·h
+the capacity of fresh foods in litres for refrigerators and combined appliances
+the capacity of frozen foods in litres for freezers and combined appliances
+the noise in dB(A)For cold appliances (and this product alone), for models that are more economical than those of category A, categories A+, A++ and A+++ have been assigned.
+
+
+=== Washing machines and tumble dryers ===
+Up to 2010, the energy efficiency scale for washing machines is calculated based on a cotton cycle at 60 °C (140 °F) with a maximum declared load. This load is typically 6 kg. The energy efficiency index is in kW·h per kilogram of washing, assuming a cold-water supply at 15 °C.
+
+The energy label also contains information on:
+
+total consumption per cycle
+washing performance – with a class from A to G
+spin drying performance – with a class from A to G
+maximum spin speed
+the total cotton capacity in kg
+water consumption per cycle in litres
+noise in the washing and spinning cycles dB(A)The washing performance is measured according to European harmonised standard EN 60456 and is based on a 60 °C cycle on fabric samples with stains of oil, blood, chocolate, sebum, and red wine, using a standardised detergent and compared against a reference washing machine. The amount of stain removal is then translated into a washing performance index.
+
+The spin-drying efficiency class is based on the remaining moisture content (RMC), which is the mass of water divided by the dry mass of cotton fabrics. It is based on a weighted average of full-load and partial-load cycles.
+
+A new energy label, introduced in 2010, is based on the energy efficiency index (EEI), and has energy classes in the range A+++ to D. The EEI is a measure of the annual electricity consumption, and includes energy consumed during power-off and standby modes, and the energy consumed in 220 washing cycles. For the washing cycles, a weighted mix consisting of 42% full-load cycles at 60 °C, 29% partial-load cycles at 60 °C, and 29% partial-load cycles at 40 °C. The washing performance is not mentioned any more, since all washing machines must reach class A anyway. For a 6-kg machine, an EEI of 100 is equivalent to 334 kWh per year, or 1.52 kWh per cycle.
+
+For tumble dryers the energy efficiency scale is calculated using the cotton drying cycle with a maximum declared load. The energy efficiency index is in kW·h per kilogram of load. Different scales apply for condenser and vented dryers.
+
+For condenser dryers, a weighted condensation efficiency class is calculated using the average condensation efficiency for standard cotton cycle at both full and partial load.
+
+The label also contains:
+
+the energy consumption per cycle
+the total cotton capacity
+whether the unit is vented or condensing
+cycle time corresponding to the standard cotton programme at full load in minutes
+noise in dB(A)For combined washer dryers the energy efficiency scale is calculated using the cotton drying cycle with a maximum declared load. The energy efficiency index is in kW·h per kilogram of load. Different scales apply for condenser and vented dryers.
+
+The label also contains:
+
+the energy consumption per cycle (washing and drying)
+the energy consumption per cycle – washing only
+washing performance – with a class from A to G
+the maximum spin speed
+the total cotton capacity (washing and drying separately)
+water consumption for a full load washed and dried – note that condenser dryers may use significant amounts of water on the drying cycle
+noise in dB (A) (separately for washing, spinning and drying)
+
+
+=== Dishwashers ===
+The energy efficiency of a dishwasher is calculated according to the number of place settings. For the most common size of appliance, the 12 place setting machine the following classes apply up to 2010. 
+
+After 2010, a new system is used, based on an energy efficiency index (EEI), which is based on the annual power usage, based on stand-by power consumption and 280 cleaning cycles, relative to the standard power usage for that type of dishwasher. For a 12-place-setting dishwasher, an EEI of 100 corresponds to 462 kWh per year.
+
+The label also contains:
+
+the energy consumption in kW·h /cycle
+the efficiency of the washing cycle with a class from A to G
+the efficiency of the drying cycle with a class from A to G
+the capacity as a number of place settings
+the water consumption in litres per cycle
+noise in dB(A)
+
+
+=== Ovens ===
+For ovens, the label also contains:
+
+the efficiency with a class from A to G
+the energy consumption in kW·h
+the volume in litres
+the type (small/medium/large)
+
+
+== Air conditioners ==
+For air conditioners, the directive applies only to units under 12 kW. Every label contains the following information:
+
+the model,
+the energy efficiency category from A+++ to G,
+the annual energy consumption (full load at 500 hours per year)
+the cooling output at full load in kW
+the energy efficiency ratio in cooling mode at full load
+the appliance type (cooling only, cooling/heating)
+the cooling mode (air- or water-cooled)
+the noise rating in dB (where applicable)Labels for air conditioners with heating capability also contain:
+
+the heat output at full load in kW
+the heating mode energy efficiency category
+
+
+== Light bulbs ==
+
+
+=== From 1 September 2021 ===
+Every label of light sources, including light bulbs (halogen, compact fluorescent, etc.) or LED modules/lamps, contains the following information:
+
+the energy efficiency category from A to G
+the electricity consumption of the lamp in kWh per 1000 hoursWhere the energy efficiency category is given by this table:
+Where, 
+  
+    
+      
+        
+          η
+          
+            T
+            M
+          
+        
+      
+    
+    {\displaystyle \eta _{TM}}
+  , is defined as the total mains efficacy, calculated as:
+
+  
+    
+      
+        
+          η
+          
+            T
+            M
+          
+        
+        =
+        
+          
+            (
+          
+        
+        
+          
+            
+              ϕ
+              
+                u
+                s
+                e
+              
+            
+            
+              P
+              
+                o
+                n
+              
+            
+          
+        
+        
+          
+            )
+          
+        
+        ×
+        
+          F
+          
+            T
+            M
+          
+        
+        
+           (lm/W)
+        
+      
+    
+    {\displaystyle \eta _{TM}={\Big (}{\frac {\phi _{use}}{P_{on}}}{\Big )}\times F_{TM}{\text{ (lm/W)}}}
+  
+Where 
+  
+    
+      
+        
+          ϕ
+          
+            u
+            s
+            e
+          
+        
+      
+    
+    {\displaystyle \phi _{use}}
+   is the declared useful luminous flux (in lm), 
+  
+    
+      
+        
+          P
+          
+            o
+            n
+          
+        
+      
+    
+    {\displaystyle P_{on}}
+   is the declared on-mode power consumption (in watts), and 
+  
+    
+      
+        
+          F
+          
+            T
+            M
+          
+        
+      
+    
+    {\displaystyle F_{TM}}
+   is a factor between 0.926 and 1.176 depending on the light source being or not directional and being or not powered from mains.
+
+
+=== Until 31 August 2021 ===
+
+Every label of light bulbs and tubes (including incandescent light bulbs, fluorescent lamps, LED lamps) contains the following information:
+
+the energy efficiency category from A to G
+the luminous flux of the bulb in lumens
+the electricity consumption of the lamp in watts
+the average life length in hoursAccording to the light bulb's electrical consumption relative to a standard (GLS or incandescent), the lightbulb is in one of the following classes:
+Class A is defined in a different way; hence, the variable percentage.
+Since 2012 A+ and A++ classes are added and are introduced different classes for directional lamps and non-directional lamps.
+
+Directional lamps are defined as "having at least 80% light output within a solid angle of π sr (corresponding to a cone with angle of 120°)".
+These lamp classes correspond roughly to the following lamp types:
+Since September 2009, household light bulbs must be class A, with the exception of clear (transparent) lamps. For the latter category, lamps must be class C or better, with a transition period up to September 2012, and class B after September 2016.
+
+
+==== Calculation ====
+Incandescent and fluorescent lamps with and without an integrated ballast can be divided into energy efficiency classes. The division of lamps into such classes was made in EU Directive 98/11/EC on 27 January 1998, and includes lamps that are not marketed for use in the home. Light sources with an output of more than 6,500 lm and those that are not operated on line voltage are excluded. The energy efficiency class is determined as follows (Φ is the luminous flux in lm and P is the power consumption of the lamp in W):
+Lamps are classified into class A if:
+
+  
+    
+      
+        P
+        ≤
+        0.240
+        ⋅
+        
+          
+            Φ
+          
+        
+        +
+        0.0103
+        ⋅
+        Φ
+        .
+      
+    
+    {\displaystyle P\leq 0.240\cdot {\sqrt {\Phi }}+0.0103\cdot \Phi .}
+  Fluorescent lamps without integrated ballast, are classified into class A if:
+
+  
+    
+      
+        P
+        ≤
+        0.150
+        ⋅
+        
+          
+            Φ
+          
+        
+        +
+        0.0097
+        ⋅
+        Φ
+        .
+      
+    
+    {\displaystyle P\leq 0.150\cdot {\sqrt {\Phi }}+0.0097\cdot \Phi .}
+  The classification in the energy efficiency class B-G is based on the percentage (Energy Efficiency Index) at the reference power
+
+  
+    
+      
+        
+          P
+          
+            
+              R
+            
+          
+        
+        =
+        
+          
+            {
+            
+              
+                
+                  0.88
+                  ⋅
+                  
+                    
+                      Φ
+                    
+                  
+                  +
+                  0.049
+                  ⋅
+                  Φ
+                
+                
+                  (
+                  Φ
+                  >
+                  34
+                  
+                    
+                       lm
+                    
+                  
+                  )
+                
+              
+              
+                
+                  0.2
+                  ⋅
+                  Φ
+                
+                
+                  (
+                  Φ
+                  ≤
+                  34
+                  
+                    
+                       lm
+                    
+                  
+                  )
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle P_{\mathrm {R} }={\begin{cases}0.88\cdot {\sqrt {\Phi }}+0.049\cdot \Phi &(\Phi >34{\mbox{ lm}})\\0.2\cdot \Phi &(\Phi \leq 34{\mbox{ lm}})\end{cases}}}
+  about the power consumption of a standard light bulb with the same luminous flux.
+
+
+== Television ==
+In 2010, an energy label for televisions was introduced.The energy class is based on the Energy Efficiency Index (EEI), which is the power consumption relative to a reference power consumption. The reference power consumption of a normal television with screen area A is
+
+  
+    
+      
+        
+          P
+          
+            
+              r
+              e
+              f
+            
+          
+        
+        =
+        
+          P
+          
+            
+              b
+              a
+              s
+              i
+              c
+            
+          
+        
+        +
+        4.3224
+        
+        
+          [
+          W
+          
+            /
+          
+          d
+          
+            m
+            
+              2
+            
+          
+          ]
+        
+        ⋅
+        A
+        .
+      
+    
+    {\displaystyle P_{\mathrm {ref} }=P_{\mathrm {basic} }+4.3224\,\mathrm {[W/dm^{2}]} \cdot A.}
+  Where 
+  
+    
+      
+        
+          P
+          
+            
+              b
+              a
+              s
+              i
+              c
+            
+          
+        
+      
+    
+    {\displaystyle P_{\mathrm {basic} }}
+   = 20 W for a television set with one tuner/receiver and no hard disc.
+Since the switch to digital terrestrial transmissions all new televisions sold in Europe have both analogue and digital tuners so the reference power was increased to 24 Watts as set out in the directive the formula is as follows
+
+  
+    
+      
+        
+          P
+          
+            
+              r
+              e
+              f
+            
+          
+        
+        =
+        24
+        
+        
+          [
+          W
+          ]
+        
+        +
+        4.3224
+        
+        
+          [
+          W
+          
+            /
+          
+          d
+          
+            m
+            
+              2
+            
+          
+          ]
+        
+        ⋅
+        A
+      
+    
+    {\displaystyle P_{\mathrm {ref} }=24\,\mathrm {[W]} +4.3224\,\mathrm {[W/dm^{2}]} \cdot A}
+   for television sets with two or more tuners/receivers.Adding of a hard drive(s), then the formula is as follows
+
+  
+    
+      
+        
+          P
+          
+            
+              r
+              e
+              f
+            
+          
+        
+        =
+        28
+        
+        
+          [
+          W
+          ]
+        
+        +
+        4.3224
+        
+        
+          [
+          W
+          
+            /
+          
+          d
+          
+            m
+            
+              2
+            
+          
+          ]
+        
+        ⋅
+        A
+      
+    
+    {\displaystyle P_{\mathrm {ref} }=28\,\mathrm {[W]} +4.3224\,\mathrm {[W/dm^{2}]} \cdot A}
+   for television sets with hard disc(s) and two or more tuners/receivers.For example, a television with a diagonal of 82 cm (32 in) has a screen area A = 28.7 dm2 and a reference power consumption of 144 W. The energy classes are as in the table below.
+
+The annual on-mode energy consumption E in kWh is calculated as E = 1460 [h/a] × P [W] / 1000, or simplified E = 1,460 × P.In televisions with automatic brightness control, the on-mode power consumption is reduced by 5% if the following conditions are fulfilled when the television is placed on the market:
+(a)
+the luminance of the television in the home-mode or the on-mode condition as set by the supplier, is automatically reduced between an ambient light intensity of at least 20 lux and 0 lux;
+(b)
+the automatic brightness control is activated in the home-mode condition or the on-mode condition of the television as set by the supplier.
+
+
+== Cars ==
+
+For motor-vehicle it isn't electrical efficiency that is indicated but carbon dioxide emissions in grams per kilometre travelled.
+
+Other information that is indexed for the energy label is:
+
+its brand
+its model
+its version
+its fuel
+its transmission type
+its weight
+the different consumptions of fuel
+mixed consumption
+urban consumption
+extra-urban consumption
+the CO2 emissions in grammes per kilometre
+
+
+== Tyres ==
+European tyre labels came into force in November 2012. The tyre labelling will show three tyre performance attributes; rolling resistance, wet grip and external rolling noise. The tyre label apply to: 
+
+Car and SUV tyres
+Van tyres
+Truck tyreswith the exception of: 
+
+Tyres for cars made before 1 October 1990
+Re-treaded tyres
+Motorcycle tyres
+Racing/sports car tyres
+Studded tyres
+Spare tyres
+Vintage car tyres
+Professional off-road tyres.
+
+
+== See also ==
+
+Ecolabel
+Home energy performance certificate
+House energy rating
+Energy policy of the European Union
+Fuel mix disclosure on labelling the origins and environmental effects of electricity
+European tyre labels
+
+
+=== Other energy labels ===
+ EnergyGuide
+  Energy rating label
+ China Energy Label
+
+
+== References ==
+
+
+== External links ==
+Official EU regulations on energy labelling
+New EU energy label, a guide for retailers
+ATLETE project – Appliance Testing for Energy Label Evaluation
+Come On Labels project

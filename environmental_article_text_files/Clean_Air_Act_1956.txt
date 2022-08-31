@@ -1,0 +1,51 @@
+The Clean Air Act 1956 was an Act of the Parliament of the United Kingdom enacted principally in response to London's Great Smog of 1952. It was sponsored by the Ministry of Housing and Local Government in England and the Department of Health for Scotland, and was in effect until 1993.
+The Act introduced a number of measures to reduce air pollution. Primary among them was mandated movement toward smokeless fuels, especially in high-population ‘smoke control areas’ to reduce smoke pollution and sulphur dioxide from household fires. The Act also included measures that reduced the emission of gases, grit, and dust from chimneys and smoke-stacks.
+The Act was a significant milestone in the development of a legal framework to protect the environment. It was modified by later enactments, including the Clean Air Act 1968.The Act was repealed by the Clean Air Act 1993.
+
+
+== Background ==
+London had long been noted for its pea soup fog. In 1880, meteorologist Rollo Russell wrote an influential pamphlet, London Fogs, noting that "numerous deaths occur in the course of the year from smoke-fogs, not unusually thick, producing or increasing diseases of the lungs".London had seen a succession of acts and rules over the centuries to improve its air—such as the Smoke Nuisance Abatement (Metropolis) Acts 1853 and 1856 and the Public Health (London) Act 1891. However, despite the link between air pollution and health being well understood by the late 19th century, such efforts had not proven to be effective public health measures.
+
+
+=== The Great Smog ===
+When the "Great Smog" fell over the city in December 1952 the effects were unprecedented: More than 4,000 people are thought to have died in the immediate aftermath, raising public concern, with fog so thick it stopped trains, cars, and public events. A further 8,000 died in following weeks and months. Today, the total death toll is believed to be around 12,000.It was apparent that pollution was a real and deadly problem, and the smog's effects were a notable milestone in the modern environmental movement.
+
+
+=== The Beaver Committee ===
+The government appointed a Committee on Air Pollution chaired by the civil engineer Sir Hugh Beaver to investigate the problem in London. It reported in 1954 on the social and economic costs of air pollution and stated that clean air was then as important as clean water had been in the mid-nineteenth century. The committee proposed that domestic coal should be replaced by coke, and that greater reliance should be placed on other ‘smokeless’ fuels such as electricity and gas. Yet, each of the industries that produced smokeless fuels – coke and gas works and electricity generating stations – burned coal to produce the ‘smokeless’ fuel. For example, the six million tons of coal a year that were converted to coke in North-East England in the late nineteenth century emitted some two million tons of volatile matter such as carbonic and sulphurous acid. Therefore, air pollution was not being reduced so much as transferred from the area of consumption to the area of production.
+
+
+==== The electricity industry ====
+The electricity generating industry was a major consumer of coal and contributor to atmospheric pollution. The Beaver committee used the example of the recently commissioned Bankside power station in London to recommend the widespread adoption of flue-gas desulfurisation for all new power stations in urban areas. It claimed that this would be practicable and cost effective if it added no more than 0.06 d. to 0.07  d. to the cost of a unit of electricity (1 kWh).
+The British Electricity Authority was sceptical about the benefits of desulfurisation and challenged the committee’s recommendations. The Authority stated that this recommendation ‘strikes a damaging blow against the economy of electricity development in this country’ and that the financial implications ‘are potentially more serious than those of any previous restrictions or control imposed upon the Authority’s activities’. The Authority claimed that installing scrubbers in all power stations would entail an annual capital investment of £10 million and would increase the cost of electricity by 0.1 d. per kWh, therefore exceeding the cost-effectiveness criterion suggested in the draft Beaver report. The British Electricity Authority was also critical that the Beaver committee had made no serious attempt to assess the relative economics of different ways of reducing atmospheric pollution. It claimed that burning coal in modern power station boilers that were equipped with efficient grit collectors and into tall chimneys was ‘an extremely efficient method of controlling pollution in terms […] of capital outlay’.
+
+
+== Legislation ==
+The Government initially resisted pressure to act, and was keen to downplay the scale of the problem due to economic pressures. It took moves by backbench MPs (including Conservative member Gerald Nabarro, its sponsor) to pass a Private Member's Bill on domestic coal burning to persuade the Government to support a change in the law.  The Clean Air Act built on earlier efforts to regulate pollutants, particularly in London, where air quality had long been poor.
+The Clean Air Act 1956 had multiple measures to reduce air pollution. It allowed the introduction of ‘smoke control areas’ in towns and cities in which only smokeless fuels could be burned. By shifting domestic sources of heat towards cleaner coals, electricity, and gas, it reduced the amount of smoke pollution and sulphur dioxide from household fires. Reinforcing these changes, the Act also included provisions to prevent the emission of dark smoke from chimneys, required new furnaces to be smokeless, allowed local planning authorities to require higher and more effective chimneys on buildings, and required that emitted grit and dust be minimised. By prohibiting what had been the hitherto widely accepted actions of private households, the Clean Air Act 1956 had important implications for the debate about public regulation, public health, and the sphere of legitimate Government intervention.The 1952 smog gave a momentum for tougher action: as well as the Clean Air Act, its effects also led to the introduction of the City of London (Various Powers) Act of 1954, and later the Clean Air Act 1968.
+
+
+=== Aftermath ===
+Smog and its health effects continued to be a problem in London. During the London fog of 2–5 December 1957 smoke and sulphur dioxide concentrations reached levels comparable to 1952 and there were 760–1000 deaths. Another episode in 1962 resulted in 750 deaths.
+
+
+== Further legislation ==
+The provisions of the 1956 Act were extended by the Clean Air Act 1968, which made it an offence to emit dark smoke from a chimney, empowered the Minister to define limits for emissions of grit and dust from furnaces, defined requirements for arrestment plant to be fitted to new furnaces, and provided a framework for control of the height and position of chimneys. The Act also allowed the Minister to create smoke control areas and introduce controls on use of unauthorised fuel in such areas.The 1956 and 1968 Clean Air Acts were repealed by the Clean Air Act 1993, which consolidated and extended the provisions of the earlier legislation.
+
+
+== See also ==
+Clean Air Act (disambiguation)
+Fog Investigation and Dispersal Operation (FIDO) – an invention to clear fog from airfields
+
+
+== References ==
+
+
+== External links ==
+Smog in 1956 and the Clean Air Act at BBC On This Day
+Clean Air Act and air legislation at NetRegs.gov.uk
+
+
+=== UK legislation ===
+Clean Air Act 1956: original text
+Text of the Clean Air Act 1956 as in force today (including any amendments) within the United Kingdom, from legislation.gov.uk.

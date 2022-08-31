@@ -1,0 +1,37 @@
+The Environmental Information Regulations 2004 (EIR) is a UK Statutory Instrument (SI 2004 No. 3391) that provides a statutory right of access to environmental information held by UK public authorities.  The regulations came into force on 1 January 2005. The regulations were made by the Secretary of State for Environment, Food and Rural Affairs under the authority provided by the European Communities Act 1972, entering into force on 1 January 2005, along with the Freedom of Information Act 2000. The Regulations covers UK Central Government and public authorities in England, Wales and Northern Ireland. Scottish public authorities are covered by the Environmental Information Regulations (Scotland) 2004 (EISR).
+
+
+== Origins ==
+The Environmental Information Regulations 2004 implement the European Council Directive 2003/4/CE on public access to environmental information in the UK. The Directive in turn has as its source the Aarhus Convention.
+
+
+== The overriding objective ==
+The main objective of the regulations is encapsulated in Regulation 4 which requires the relevant data holder to engage in a proactive exercise to make the information available for inspection "by electronic means" which inevitably requires the data to be made publicly available online or via an electronic device (e.g. a computer terminal) in a public place. Recognising the reality of a wide diversity of information, the Regulations allow alternative formats, but require that they be "easily accessible" to the public. There is no denying that the principal obligation placed on holders of Environmental Information is public electronic dissemination.
+
+
+== Definition of 'Environmental Information' ==
+Environmental information includes information about air, water, soil, land, flora and fauna, energy, noise, waste and emissions. Environmental Information also includes information about decisions, policies and activities that affect the environment.It is accepted by the UK Government that most maps will contain environmental information.
+
+
+== Public authorities ==
+The coverage of the Environmental Information Regulations is greater than that of the Freedom of Information Act 2000, although there are bodies such as the BBC which are covered by the Freedom of Information Act but not by the EIR.  The Freedom of Information Act sets out a list of the bodies and classes of bodies that are public authorities, the EIR is less prescriptive.
+MI5 acknowledge that they are covered by the EIR and have published Environmental Information on their website.The regulations were originally interpreted by the Information Commissioner to include water companies;  however, the Upper Tribunal ruled that they are not subject to the Regulations.This was later superseded by the CJEU ruling, which extended public authorities to a much wider definition including private companies.
+
+
+== Requests under the regulations ==
+Requests for information under the Regulations can be made in writing or verbally, unlike requests under the Freedom of Information Act 2000 which must be made in writing. The exceptions that public authorities can use to withhold information under the Regulations are narrower in their scope and application than the exemptions contained in the Act. As with the Act, public authorities have 20 working days from the receipt of a request to provide the information to the requester or to explain the exceptions that apply.
+The Information Commissioner is responsible for dealing with complaints against public authorities related to EIR. The Scottish Information Commissioner is responsible for dealing with complaints against public authorities related to equivalent Scottish regulations.
+
+
+== Repeal ==
+Upon entry into force of these regulations, they replaced the Environmental Information Regulations 1992 and the Environmental Information Regulations (Northern Ireland) 1993 and two other statutory instruments that amended those regulations.
+
+
+== References ==
+
+
+== External links ==
+Statutory Instrument 2004 No. 3391  Environmental Information Regulations 2004
+Guidance on EIR from the Information Commissioner's Office
+Information on EIR in Scotland from the Scottish Information Commissioner
+Guidance on the EIR from Defra

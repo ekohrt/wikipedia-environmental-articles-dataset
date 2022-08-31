@@ -1,0 +1,120 @@
+Polymer degradation is the reduction in the physical properties of a polymer, such as strength, caused by changes in its chemical composition. Polymers and particularly plastics are subject to degradation at all stages of their product life cycle, including during their initial processing, use, disposal into the environment and recycling. The rate of this degradation varies significantly; biodegradation can take decades, whereas some industrial processes can completely decompose a polymer in hours.
+Technologies have been developed to both inhibit or promote degradation. For instance, polymer stabilizers ensure plastic items are produced with the desired properties, extend their useful lifespans, and facilitate their recycling. Conversely, biodegradable additives accelerate the degradation of plastic waste by improving its biodegradability. Some forms of plastic recycling can involve the complete degradation of a polymer back into monomers or other chemicals.
+In general, the effects of heat, light, air and water are the most significant factors in the degradation of plastic polymers. The major chemical changes are oxidation and chain scission, leading to a reduction in the molecular weight and degree of polymerization of the polymer. These changes affect physical properties like strength, malleability, melt flow index, appearance and colour. The changes in properties are often termed "aging".
+
+
+== Susceptibility ==
+Plastics exist in huge variety, however several types of commodity polymer dominate global production: polyethylene (PE), polypropylene (PP), polyvinyl chloride (PVC), polyethylene terephthalate (PET, PETE), polystyrene (PS), polycarbonate (PC), and poly(methyl methacrylate) (PMMA). The degradation of these materials is of primary importance as they account for most plastic waste.
+These plastics are all thermoplastics and are more susceptible to degradation than equivalent thermosets, as those are more thoroughly cross-linked. The majority (PP, PE, PVC, PS and PMMA) are addition polymers with all-carbon backbones that are more resistant to most types of degradation. PET and PC are condensation polymers which contain carbonyl groups more susceptible to hydrolysis and UV-attack.
+
+
+== Degradation during processing ==
+
+Thermoplastic polymers (be they virgin or recycled) must be heated until molten to be formed into their final shapes, with processing temperatures anywhere between 150-320°C (300–600°F) depending on the polymer. Polymers will oxidise under these conditions, but even in the absence of air, these temperatures are sufficient to cause thermal degradation in some materials. The molten polymer also experiences significant shear stress during extrusion and moulding, which is sufficient to snap the polymer chains. Unlike many other forms of degradation, the effects of melt-processing degrades the entire bulk of the polymer, rather than just the surface layers. This degradation introduces chemical weak points into the polymer, particularly in the form of hydroperoxides, which become initiation sites for further degradation during the object's lifetime.
+Polymers are often subject to more than one round of melt-processing, which can cumulatively advance degradation. Virgin plastic typically undergoes compounding to introduce additives such as dyes, pigments and stabilisers. Pelletised material prepared in this may also be pre-dried in an oven to remove trace moisture prior to its final melting and moulding into plastic items. Plastic which is recycled by simple re‑melting (mechanical recycling) will usually display more degradation than fresh material and may have poorer properties as a result.
+
+
+=== Thermal oxidation ===
+Although oxygen levels inside processing equipment are usually low, it cannot be fully excluded, and thermal-oxidation will usually take place more readily than degradation that is exclusively thermal (i.e. without air). Reactions follow the general autoxidation mechanism, leading to the formation of organic peroxides and carbonyls. The addition of antioxidants may inhibit such processes.
+
+
+=== Thermal degradation ===
+
+Heating polymers to a sufficiently high temperature can cause damaging chemical changes, even in the absence of oxygen. This usually starts with chain scission, generating free radicals, which primarily engage in disproportionation and crosslinking. 
+PVC is the most thermally sensitive common polymer, with major degradation occurring from ~250 °C (480 °F) onwards; other polymers degrade at higher temperatures.
+
+
+=== Thermo-mechanical degradation ===
+Molten polymers are non-Newtonian fluids with high viscosities, and the interaction between their thermal and mechanical degradation can be complex. At low temperatures, the polymer-melt is more viscous and more prone to mechanical degradation via shear stress. At higher temperatures, the viscosity is reduced, but thermal degradation is increased. Friction at points of high sheer can also cause localised heating, leading to additional thermal degradation.
+Mechanical degradation can be reduced by the addition of lubricants, also referred to as processing aids or flow aids. These can reduce friction against the processing machinery but also between polymer chains, resulting in a decrease in melt-viscosity. Common agents are high-molecular-weight waxes (paraffin wax, wax esters, etc.) or metal stearates (i.e.zinc stearate).
+
+
+== In-service degradation ==
+
+Most plastic items, like packaging materials, are used briefly and only once. These rarely experience polymer degradation during their service-lives. Other items experience only gradual degradation from the natural environment. Some plastic items, however, can experience long service-lives in aggressive environments, particularly those where they are subject to prolonged heat or chemical attack. Polymer degradation can be significant in these cases and, in practice, is often only held back by the use of advanced polymer stabilizers. Degradation arising from the effects of heat, light, air and water is the most common, but other means of degradation exist. 
+The in-service degradation of mechanical properties of polymers is an important aspect which limits the applications of these materials. Polymer degradation caused by in-service degradation can cause life threatening accidents. In 1996, a baby was fed via a Hickman line and suffered an infection, when new connectors were used by a hospital. The reason behind this infection was the cracking and erosion of the pipes from the inner side due to contact with liquid media. 
+
+
+=== Chlorine-induced cracking ===
+
+Drinking water which has been chlorinated to kill microbes may contain trace levels of chlorine. The World Health Organization recommends an upper limit of 5 ppm.
+Although low, 5 ppm is enough to slowly attack certain types of plastic, particularly when the water is heated, as it is for washing.
+Polyethylene, polybutylene   and acetal resin (polyoxymethylene) pipework and fittings are all susceptible. Attack leads to hardening of pipework, which can leave it brittle and more susceptible to mechanical failure.
+
+
+=== Electronics ===
+Plastics are used extensively in the manufacture of electrical items, such as circuit boards and electrical cables. These applications can be harsh, exposing the plastic to a mixture of thermal, chemical and electrochemical attack. Many electric items like transformers, microprocessors or high-voltage cables operate at elevated temperatures for years, or even decades, resulting in low-level but continuous thermal oxidation. This can be exacerbated by direct contact with metals, which can promote the formation of free-radicals, for instance, by the action of Fenton reactions on hydroperoxides. High voltage loads can also damage insulating materials such as dielectrics, which degrade via electrical treeing caused by prolonged electrical field stress.
+
+
+=== Galvanic action ===
+Polymer degradation by galvanic action was first described in the technical literature in 1990. When carbon-fiber-reinforced polymer is attached to a metal surface, the carbon fiber can act as a cathode if exposed to water or sufficient humidity, resulting in galvanic corrosion. This has been seen in engineering when carbon-fiber polymers have been used to reinforce weakened steel structures. Reactions have also been seen in aluminium and magnesium alloys, polymers affected include bismaleimides (BMI), and polyimides. The mechanism of degradation is believed to involve the electrochemical generation of hydroxide ions, which then cleave the amide bonds.
+
+
+== Degradation in the environment ==
+Most plastics do not biodegrade readily, however, they do still degrade in the environment because of the effects of UV-light, oxygen, water and pollutants. This combination is often generalised as polymer weathering. Chain breaking by weathering causes increasing embrittlement of plastic items, which eventually causes them to break apart. Fragmentation then continues until eventually microplastics are formed. As the particle sizes get smaller, so their combined surface area increases. This facilitates the leaching of additives out of plastic and into the environment. Many controversies associated with plastics actually relate to these additives.
+
+
+=== Photo-oxidation ===
+
+Photo-oxidation is the combined action of UV-light and oxygen and is the most significant factor in the weathering of plastics. Although many polymers do not absorb UV-light, they often contain impurities like hydroperoxide and carbonyl groups introduced during thermal processing, which do. These act as photoinitiators to give complex free radical chain reactions where the mechanisms of autoxidation and photodegradation combine. Photo-oxidation can be held back by light stabilizers such as hindered amine light stabilizers (HALS).
+
+
+=== Hydrolysis ===
+Polymers with an all-carbon backbone, such as polyolefins, are usually resistant to hydrolysis. Condensation polymers like polyesters, polyamides, polyurethanes and polycarbonates can be degraded by hydrolysis of their carbonyl groups, to give lower molecular weight molecules. Such reactions are exceedingly slow at ambient temperatures, however, they remain a significant source of degradation for these materials, particularly in the marine environment. Swelling caused by the absorption of minute amounts of water can also cause environmental stress cracking, which accelerates degradation.
+
+
+=== Ozonolysis of rubbers ===
+
+Polymers, which are not fully saturated, are vulnerable to attack by ozone. This gas exists naturally in the atmosphere but is also formed by nitrogen oxides released in vehicle exhaust pollution. Many common elastomers (rubbers) are affected, with natural rubber, polybutadiene, styrene-butadiene rubber and NBR being most sensitive to degradation. The ozonolysis reaction results in immediate chain scission. Ozone cracks in products under tension are always oriented at right angles to the strain axis, so will form around the circumference in a rubber tube bent over. Such cracks are dangerous when they occur in fuel pipes because the cracks will grow from the outside exposed surfaces into the bore of the pipe, and fuel leakage and fire may follow. The problem of ozone cracking can be prevented by adding antiozonants.
+
+
+=== Biological degradation ===
+
+The major appeal of biodegradation is that, in theory, the polymer will be completely consumed in the environment without needing complex waste management and that the products of this will be non-toxic. 
+Most common plastics biodegrade very slowly, sometimes to the extent that they are considered non-biodegradable. As polymers are ordinarily too large to be absorbed by microbes, biodegradation initially relies on secreted extracellular enzymes to reduce the polymers to manageable chain-lengths. This requires the polymers bare functional groups the enzymes can 'recognise', such as ester or amide groups. Long-chain polymers with all-carbon backbones like polyolefins, polystyrene and PVC will not degrade by biological action alone and must first be oxidised to create chemical groups which the enzymes can attack.Oxidation can be caused by melt-processing or weathering in the environment. Oxidation may be intentionally accelerated by the addition of biodegradable additives. These are added to the polymer during compounding to improve the biodegradation of otherwise very resistant plastics. Similarly, biodegradable plastics have been designed which are intrinsically biodegradable, provided they are treated like compost and not just left in a landfill site where degradation is very difficult because of the lack of oxygen and moisture.
+
+
+== Degradation during recycling ==
+
+The act of recycling plastic degrades its polymer chains, usually as a result of thermal damage similar to that seen during initial processing. In some cases, this is turned into an advantage by intentionally and completely depolymerising the plastic back into its starting monomers, which can then be used to generate fresh, un-degraded plastic. In theory, this chemical (or feedstock) recycling offers infinite recyclability, but it is also more expensive and can have a higher carbon footprint because of its energy costs.  Mechanical recycling, where the plastic is simply remelted and reformed, is more common, although this usually results in a lower-quality product. Alternatively, plastic may simply be burnt as a fuel in a waste-to-energy process.
+
+
+=== Remelting ===
+Thermoplastic polymers like polyolefins can be remelted and reformed into new items. This approach is referred to as mechanical recycling and is usually the simplest and most economical form of recovery.  Post-consumer plastic will usually already bare a degree of degradation. Another round of melt-processing will exacerbate this, with the result being that mechanically recycled plastic will usually have poorer mechanical properties than virgin plastic.  Degradation can be enhanced by high concentrations of hydroperoxides, cross-contamination between different types of plastic and by additives present within the plastic. Technologies developed to enhance the biodegradation of plastic can also conflict with its recycling, with oxo-biodegradable additives, consisting of metallic salts of iron, magnesium, nickel, and cobalt, increasing the rate of thermal degradation.  Depending on the polymer in question, an amount of virgin material may be added to maintain the quality of the product.
+
+
+=== Thermal depolymerisation & pyrolysis ===
+
+As polymers approach their ceiling temperature, thermal degradation gives way to complete decomposition. Certain polymers like PTFE, polystyrene and PMMA  undergo depolymerization to give their starting monomers, whereas others like polyethylene undergo pyrolysis, with random chain scission giving a mixture of volatile products. Where monomers are obtained, they can be converted back into new plastic (chemical or feedstock recycling),  whereas pyrolysis products are used as a type of synthetic fuel (energy recycling).  In practice, even very efficient depolymerisation to monomers tends to see some competitive pyrolysis. Thermoset polymers may also be converted in this way, for instance, in tyre recycling.
+
+
+=== Chemical depolymerisation ===
+Condensation polymers baring cleavable groups such as esters and amides can also be completely depolymerised by hydrolysis or solvolysis. This can be a purely chemical process but may also be promoted by enzymes.  Such technologies are less well developed than those of thermal depolymerisation, but have the potential for lower energy costs. Thus far, polyethylene terephthalate has been the most heavily studied polymer. Alternatively, waste plastic may be converted into other valuable chemicals (not necessarily monomers) by microbial action.
+
+
+== Stabilisers ==
+
+Hindered amine light stabilizers (HALS) stabilise against weathering by scavenging free radicals that are produced by photo-oxidation of the polymer matrix. UV-absorbers stabilise against weathering by absorbing ultraviolet light and converting it into heat. Antioxidants stabilise the polymer by terminating the chain reaction because of the absorption of UV light from sunlight. The chain reaction initiated by photo-oxidation leads to cessation of crosslinking of the polymers and degradation of the property of polymers. Antioxidants are used to protect from thermal degradation.
+
+
+== Detection ==
+
+Degradation can be detected before serious cracks are seen in a product using infrared spectroscopy. In particular, peroxy-species and carbonyl groups formed by photo-oxidation have distinct absorption bands.
+
+
+== See also ==
+Applied spectroscopy
+Forensic polymer engineering
+Environmental stress fracture
+Polymer engineering
+Weather testing of polymers
+
+
+== Bibliography ==
+Lewis, Peter Rhys, Reynolds, K and Gagg, C, Forensic Materials Engineering: Case studies, CRC Press (2004)
+Ezrin, Meyer, Plastics Failure Guide: Cause and Prevention, Hanser-SPE (1996).
+Wright, David C., Environmental Stress Cracking of Plastics RAPRA (2001).
+Lewis, Peter Rhys, and Gagg, C, Forensic Polymer Engineering: Why polymer products fail in service, Woodhead/CRC Press (2010).
+
+
+== References ==

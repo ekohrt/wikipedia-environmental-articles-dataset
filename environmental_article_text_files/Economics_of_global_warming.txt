@@ -1,0 +1,331 @@
+The economics of climate change concerns the economic aspects of climate change; this can inform policies that governments might consider in response. A number of factors make this and the politics of climate change a difficult problem: it is a long-term, intergenerational problem;: 16, Figure 5-2  benefits and costs are distributed unequally both within and across countries; and both the scientific consensus and public opinion on climate change need to be taken into account.
+Effects of climate change may last a long time, such as sea level rise which will not be reversed for thousands of years.: SPM-21  The long time scales and uncertainty associated with global warming have led analysts to develop "scenarios" of future environmental, social and economic changes. These scenarios can help governments understand the potential consequences of their decisions.
+The impacts of climate change include the loss of biodiversity, sea level rise, increased frequency and severity of some extreme weather events, and acidification of the oceans. Economists have attempted to quantify these impacts in monetary terms, but these assessments can be controversial. The two main policy responses to global warming are to reduce greenhouse gas (GHG) emissions (climate change mitigation) and to adapt to the impacts of global warming (e.g., by building levees in response to sea level rise).
+One of the responses to the uncertainties of global warming is to adopt a strategy of sequential decision making. This strategy recognizes that decisions on global warming need to be made with incomplete information, and that decisions in the near term will have potentially long-term impacts. Governments may use risk management as part of their policy response to global warming.: 203  For instance, a risk-based approach can be applied to climate impacts which are difficult to quantify in economic terms, e.g., the impacts of global warming on indigenous peoples.
+Analysts have assessed global warming in relation to sustainable development. Sustainable development considers how future generations might be affected by the actions of the current generation. In some areas, policies designed to address global warming may contribute positively towards other development objectives, for example abolishing fossil fuel subsidies would reduce air pollution and thus save lives. Direct global fossil fuel subsidies reached $319 billion in 2017, and $5.2 trillion when indirect costs such as air pollution are priced in. In other areas, the cost of global warming policies may divert resources away from other socially and environmentally beneficial investments (the opportunity costs of climate change policy).More recent studies suggest that economic damages due to climate change have been underestimated, and may be severe, with the probability of disastrous tail-risk events being nontrivial.
+Carbon-intensive industries and investors are expected to experience a significant increase in stranded assets with a potential ripple affect throughout the world economy.  To achieve deep reductions in greenhouse gases and slow global warming, the financial system and the world's economies will have to adapt.
+
+
+== Scenarios ==
+
+One of the economic aspects of climate change is producing scenarios of future economic development. Future economic developments can, for example, affect how vulnerable society is to future climate change,  what the future impacts of climate change might be, as well as the level of future GHG emissions.
+
+
+=== Global futures scenarios and emissions scenarios ===
+"Global futures" scenarios can be thought of as stories of possible futures. They allow for the description of factors which are difficult to quantify but are important in affecting future GHG emissions. The IPCC Third Assessment Report  includes an assessment of 124 global futures scenarios.These scenarios project a wide range of possible futures. Some are pessimistic, for example, 5 scenarios project the future breakdown of human society. 
+Others are optimistic, for example, in 5 other scenarios, future advances in technology solve most or all of humanity's problems. Most scenarios project increasing damage to the natural environment, but many scenarios also project this trend to reverse in the long-term.In the scenarios,
+no strong patterns in the relationship between economic activity and GHG emissions were found. By itself, this is not proof of causation, and is only reflective of the scenarios that were assessed.
+In the assessed scenarios, economic growth is compatible with increasing or decreasing GHG emissions. In the latter case, emissions growth is mediated by increased energy efficiency, shifts to non-fossil energy sources, and/or shifts to a post-industrial (service-based) economy. Most scenarios projecting rising GHGs also project low levels of government intervention in the economy. Scenarios projecting falling GHGs generally have high levels of government intervention in the economy.In scenarios designed to project future GHG emissions, economic projections, for example changes in future income levels, will often necessarily be combined with other projections that affect emissions, for example nationalism.
+Since these future changes are highly uncertain, one approach is that of scenario analysis.  In scenario analysis, scenarios are developed that are based on differing assumptions of future development patterns. An example of this are the shared socioeconomic pathways produced by the Intergovernmental Panel on Climate Change (IPCC). These project a wide range of possible future emissions levels.
+Some analysts have developed scenarios that project a continuation of current policies into the future. These scenarios are sometimes called "business-as-usual" scenarios.: 176 Experts who work on scenarios tend to prefer the term "projections" to "forecasts" or "predictions". This distinction is made to emphasize the point that probabilities are not assigned to the scenarios, and that future emissions depend on decisions made both now and into the future.: 75 Another approach is that of uncertainty analysis, where analysts attempt to estimate the probability of future changes in emission levels.
+
+
+=== Factors affecting emissions growth ===
+
+Historically, growth in GHG emissions have been driven by economic development.: 169   One way of understanding trends in GHG emissions is to use the Kaya identity.  The Kaya identity breaks down emissions growth into the effects of changes in human population, economic affluence, and technology:: 177 CO2 emissions from energy ≡
+
+GDP per person (or "per capita") is used as a measure of economic affluence, and changes in technology are described by the other two terms: (energy use / GDP) and (energy-related CO2 emissions / energy use). These two terms are often referred to as "energy intensity of GDP" and "carbon intensity of energy", respectively.  
+Note that the abbreviated term "carbon intensity" may also refer to the carbon intensity of GDP, i.e., (energy-related CO2 emissions / GDP).Reductions in the energy intensity of GDP and/or carbon intensity of energy will tend to reduce energy-related CO2 emissions.: 177  Increases in population and/or GDP per capita will tend to increase energy-related CO2 emissions.  If, however, energy intensity of GDP or carbon intensity of energy were reduced to zero (i.e., complete decarbonization of the energy system), increases in population or GDP per capita would not lead to an increase in energy-related CO2 emissions.
+The graph on the right shows changes in global energy-related CO2 emissions between 1971 and 2009. Also plotted are changes in world population, world GDP per capita, energy intensity of world GDP, and carbon intensity of world energy use. Over this time period, reductions in energy intensity of GDP and carbon intensity of energy use have been unable to offset increases in population and GDP per capita. Consequently, energy-related CO2 emissions have increased. Between 1971 and 2009, energy-related CO2 emissions grew on average by about 2.8% per year.  Population grew on average by about 2.1% per year and GDP per capita by 2.6% per year. Energy intensity of GDP on average fell by about 1.1% per year, and carbon intensity of energy fell by about 0.2% per year.
+
+
+== Trends and projections ==
+
+
+=== Emissions ===
+
+
+==== Equity and GHG emissions ====
+
+In considering GHG emissions, there are a number of areas where equity is important. In common language equity means "the quality of being impartial" or "something that is fair and just". 
+One example of the relevance of equity to GHG emissions are the different ways in which emissions can be measured.: 92–97 
+These include the total annual emissions of one country, cumulative emissions measured over long time periods (sometimes measured over more than 100 years), average emissions per person in a country (per capita emissions), as well as measurements of energy intensity of GDP, carbon intensity of GDP, or carbon intensity of energy use (discussed earlier). Different indicators of emissions provide different insights relevant to climate change policy, and have been an important issue in international climate change negotiations (e.g., see Kyoto Protocol#Negotiations).Developed countries' past contributions to climate change were in the process of economically developing to their current level of prosperity; developing countries are attempting to rise to this level, this being one cause of their increasing greenhouse gas emissions.  Equity is an issue in GHG emissions scenarios, and emerging markets countries, such as India and China, often would rather analyze per capita emissions instead of committing to aggregate emissions reduction because of historical contributions by the industrialized nations to the climate change crisis, under the principle of Common But Differentiated Responsibilities.
+
+
+==== Emissions projections ====
+
+
+=== Concentrations and temperatures ===
+As mentioned earlier, impacts of climate change are determined more by the concentration of GHGs in the atmosphere than annual GHG emissions.
+
+
+==== Temperature ====
+
+Atmospheric GHG concentrations can be related to changes in global mean temperature by the climate sensitivity.: 195 
+Projections of future global warming are affected by different estimates of climate sensitivity. For a given increase in the atmospheric concentration of GHGs, high estimates of climate sensitivity suggest that relatively more future warming will occur, while low estimates of climate sensitivity suggest that relatively less future warming will occur. Lower values would correspond with less severe climate impacts, while higher values would correspond with more severe impacts.In the scientific literature, there is sometimes a focus on "best estimate" or "likely" values of climate sensitivity. 
+However, from a risk management perspective (discussed below), values outside of "likely" ranges are relevant, because, though these values are less probable, they could be associated with more severe climate impacts (the statistical definition of risk = probability of an impact × magnitude of the impact).: 208 Analysts have also looked at how uncertainty over climate sensitivity affects economic estimates of climate change impacts.  Policy guidance from cost-benefit analysis (CBA) can be extremely divergent depending on the assumptions employed.   Hassler et al use integrated assessment modeling to examine a range of estimates and what happens at  extremes.
+
+
+== Cost–benefit analysis ==
+Standard cost–benefit analysis (CBA) (also referred to as a monetized cost–benefit framework) has been applied to the problem of climate change. This requires (1) the valuation of costs and benefits using willingness to pay (WTP) or willingness to accept (WTA) compensation as a measure of value, and (2) a criterion for accepting or rejecting proposals:For (1), in CBA where WTP/WTA is used, climate change impacts are aggregated into a monetary value, with environmental impacts converted into consumption equivalents, and risk accounted for using certainty equivalents. Values over time are then discounted to produce their equivalent present values.The valuation of costs and benefits of climate change can be controversial: 936–938   because some climate change impacts are difficult to assign a value to, e.g., ecosystems and human health. It is also impossible to know the preferences of future generations, which affects the valuation of costs and benefits.: 4  Another difficulty is quantifying the risks of future climate change.For (2), the standard criterion is the Kaldor-Hicks: 3  compensation principle. According to the compensation principle, so long as those benefiting from a particular project compensate the losers, and there is still something left over, then the result is an unambiguous gain in welfare. If there are no mechanisms allowing compensation to be paid, then it is necessary to assign weights to particular individuals.One of the mechanisms for compensation is impossible for this problem: mitigation might benefit future generations at the expense of current generations, but there is no way that future generations can compensate current generations for the costs of mitigation.: 4  On the other hand, should future generations bear most of the costs of climate change, compensation to them would not be possible. Another transfer for compensation exists between regions and populations. If, for example, some countries were to benefit from reducing climate change but others lose out, there would be no guarantee that the winners would compensate the losers.
+
+
+=== Cost–benefit analysis and risk ===
+In a cost–benefit analysis, an acceptable risk means that the benefits of a climate policy outweigh the costs of the policy. The standard rule used by public and private decision makers is that a risk will be acceptable if the expected net present value is positive. The expected value is the mean of the distribution of expected outcomes.: 25  In other words, it is the average expected outcome for a particular decision. This criterion has been justified on the basis that:
+
+a policy's benefits and costs have known probabilities
+economic agents (people and organizations) can diversify their own risk through insurance and other markets.On the first point, probabilities for climate change are difficult to calculate. Although some impacts, such as those on human health and biodiversity, are difficult to value it has been estimated that 3.5 million people die prematurely each year from air pollution from fossil fuels. The health benefits of meeting climate goals substantially outweigh the costs of action. According to Andrew Haines at the London School of Hygiene & Tropical Medicine the health benefits of phasing out fossil fuels measured in money (estimated by economists using the value of life for each country) are substantially more than the cost of achieving the 2 degree C goal of the Paris Agreement.On the second point, it has been suggested that insurance could be bought against climate change risks.
+Policymakers and investors are beginning to recognize the implications of climate change for the financial sector, from both physical risks (damage to property, infrastructure, and land) and transition risk due to changes in policy, technology, and consumer and market behavior. Financial institutions are becoming increasingly aware of the need to incorporate the economics of low carbon emissions into business models.
+
+
+== Risk ==
+
+One of the problems of climate change are the large uncertainties over the potential impacts of climate change, and the costs and benefits of actions taken in response to climate change, e.g., in reducing GHG emissions.: 608 
+Two related ways of thinking about the problem of climate change decision-making in the presence of uncertainty are iterative risk management
+and sequential decision making: 612–614 
+Considerations in a risk-based approach might include, for example, the potential for low-probability, worst-case climate change impacts.An approach based on sequential decision making recognises that, over time, decisions related to climate change can be revised in the light of improved information. This is particularly important with respect to climate change, due to the long-term nature of the problem. A near-term hedging strategy concerned with reducing future climate impacts might favour stringent, near-term emissions reductions. As stated earlier, carbon dioxide accumulates in the atmosphere, and to stabilize the atmospheric concentration of CO2, emissions would need to be drastically reduced from their present level (refer to diagram opposite). Stringent near-term emissions reductions allow for greater future flexibility with regard to a low stabilization target, e.g., 450 parts-per-million (ppm) CO2. To put it differently, stringent near-term emissions abatement can be seen as having an option value in allowing for lower, long-term stabilization targets. This option may be lost if near-term emissions abatement is less stringent.On the other hand, a view may be taken that points to the benefits of improved information over time. This may suggest an approach where near-term emissions abatement is more modest. Another way of viewing the problem is to look at the potential irreversibility of future climate change impacts (e.g., damages to ecosystems) against the irreversibility of making investments in efforts to reduce emissions (see also Economics of climate change mitigation#Irreversible impacts and policy). Overall, a range of arguments can be made in favour of policies where emissions are reduced stringently or modestly in the near-term (see: Economics of climate change mitigation#The mitigation portfolio).: 657–660 
+
+
+=== Resilient and adaptive strategies ===
+
+Granger Morgan et al. (2009) 
+suggested two related decision-making management strategies that might be particularly appealing when faced with high uncertainty. The first were resilient strategies. This seeks to identify a range of possible future circumstances, and then choose approaches that work reasonably well across all the range. The second were adaptive strategies. The idea here is to choose strategies that can be improved as more is learned as the future progresses. Granger Morgan contrasted these two approaches with the cost–benefit approach, which seeks to find an optimal strategy.
+
+
+=== Portfolio theory ===
+An example of a strategy that is based on risk is portfolio theory. This suggests that a reasonable response to uncertainty is to have a wide portfolio of possible responses. In the case of climate change, mitigation can be viewed as an effort to reduce the chance of climate change impacts.: 24  Adaptation acts as insurance against the chance that unfavourable impacts occur. The risk associated with these impacts can also be spread. As part of a policy portfolio, climate research can help when making future decisions. Technology research can help to lower future costs.
+
+
+=== Optimal choices and risk aversion ===
+
+The optimal result of decision analysis depends on how "optimal" is defined. Decision analysis requires a selection criterion to be specified. In a decision analysis based on monetized cost–benefit analysis (CBA), the optimal policy is evaluated in economic terms. The optimal result of monetized CBA maximizes net benefits. Another type of decision analysis is cost-effectiveness analysis. Cost-effectiveness analysis aims to minimize net costs.
+Monetized CBA may be used to decide on the policy objective, e.g., how much emissions should be allowed to grow over time. The benefits of emissions reductions are included as part of the assessment.
+Unlike monetized CBA, cost-effectiveness analysis does not suggest an optimal climate policy. For example, cost-effectiveness analysis may be used to determine how to stabilize atmospheric greenhouse gas concentrations at lowest cost. However, the actual choice of stabilization target (e.g., 450 or 550 ppm carbon dioxide equivalent), is not "decided" in the analysis.
+The choice of selection criterion for decision analysis is subjective. The choice of criterion is made outside of the analysis (it is exogenous). One of the influences on this choice on this is attitude to risk. Risk aversion describes how willing or unwilling someone is to take risks. Evidence indicates that most, but not all, individuals prefer certain outcomes to uncertain ones. Risk-averse individuals prefer decision criteria that reduce the chance of the worst possible outcome, while risk-seeking individuals prefer decision criteria that maximize the chance of the best possible outcome. In terms of returns on investment, if society as a whole is risk-averse, we might be willing to accept some investments with negative expected returns, e.g., in mitigation. Such investments may help to reduce the possibility of future climate damages or the costs of adaptation.
+
+
+=== Technological change too slow ===
+Since 2021 the cost of new wind and solar power has generally been less than existing gas and coal-fired power: both because of the rise in price of natural gas that year and the long-term trend of falling renewables prices.  However it is estimated that the steady growth part of the S-shaped growth curve of renewable power will not be enough on its own to meet the goal of the Paris Agreement to limit global warming to 1.5 degrees. According to the World Resources İnstitute both non-economic and economic policies are needed to increase the rate of growth of renewables: for example they say some countries should invest more in upgrading power grids.
+
+
+=== Alternative views ===
+
+As stated, there is considerable uncertainty over decisions regarding climate change, as well as different attitudes over how to proceed, e.g., attitudes to risk and valuation of climate change impacts. Risk management can be used to evaluate policy decisions based a range of criteria or viewpoints, and is not restricted to the results of particular type of analysis, e.g., monetized CBA.: 42  
+Some authors have focused on a disaggregated analysis of climate change impacts.: 23  "Disaggregated" refers to the choice to assess impacts in a variety of indicators or units, e.g., changes in agricultural yields and loss of biodiversity. By contrast, monetized CBA converts all impacts into a common unit (money), which is used to assess changes in social welfare.
+
+
+== International insurance ==
+Traditional insurance works by transferring risk to those better able or more willing to bear risk, and also by the pooling of risk.: 25  Since the risks of climate change are, to some extent, correlated, this reduces the effectiveness of pooling. However, there is reason to believe that different regions will be affected differently by climate change. This suggests that pooling might be effective. Since developing countries appear to be potentially most at risk from the effects of climate change, developed countries could provide insurance against these risks.Disease, rising seas, reduced crop yields, and other harms driven by climate change will likely have a major deleterious impact on the economy by 2050 unless the world sharply reduces greenhouse gas emissions in the near term, according to a number of studies, including a study by the Carbon Disclosure Project and a study by insurance giant Swiss Re. The Swiss Re assessment found that annual output by the world economy will be reduced by $23 trillion annually, unless greenhouse gas emissions are adequately mitigated. As a consequence, according to the Swiss Re study, climate change will impact how the insurance industry prices a variety of risks.A study by David R. Easterling et al. estimated losses in the United States by storms causing insured losses over $5 million per year have grown steadily in the United States from about $100 million annually in the 1950s to $6 billion per year in the 1990s, and the annual number of catastrophes grew from 10 in the 1950s to 35 in the 1990s.”Authors have pointed to several reasons why commercial insurance markets cannot adequately cover risks associated with climate change.: 72  For example, there is no international market where individuals or countries can insure themselves against losses from climate change or related climate change policies.Financial markets for risk
+There are several options for how insurance could be used in responding to climate change.: 72  One response could be to have binding agreements between countries. Countries suffering greater-than-average climate-related losses would be assisted by those suffering less-than-average losses. This would be a type of mutual insurance contract. Another approach would be to trade "risk securities" among countries. These securities would amount to betting on particular climate outcomes.
+These two approaches would allow for a more efficient distribution of climate change risks. They would also allow for different beliefs over future climate outcomes. For example, it has been suggested that these markets might provide an objective test of the honesty of a particular country's beliefs over climate change. Countries that honestly believe that climate change presents little risk would be more prone to hold securities against these risks.
+
+
+== Impacts ==
+
+
+== Adaptation and vulnerability ==
+
+IPCC (2007) defined adaptation (to climate change) as "[initiatives] and measures to reduce the vulnerability of natural and human systems against actual or expected climate change effects".: 76  
+Vulnerability (to climate change) was defined as "the degree to which a system is susceptible to, and unable to cope with, adverse effects of climate change, including climate variability and extremes".: 89 
+
+
+=== Autonomous and planned adaptation ===
+Autonomous adaptation are adaptations that are reactive to climatic stimuli, and are done as a matter of course without the intervention of a public agency. Planned adaptation can be reactive or anticipatory, i.e., undertaken before impacts are apparent. Some studies suggest that human systems have considerable capacity to adapt autonomously.: 890  
+Others point to constraints on autonomous adaptation, such as limited information and access to resources: 890   Smit et al. (2001) concluded that relying on autonomous adaptation to climate change would result in substantial ecological, social, and economic costs. In their view, these costs could largely be avoided with planned adaptation.: 904 
+
+
+=== Costs and benefits ===
+A literature assessment by Adger et al. (2007) concluded that there was a lack of comprehensive, global cost and benefit estimates for adaptation.: 719  
+Studies were noted that provided cost estimates of adaptation at regional level, e.g., for sea-level rise. A number of adaptation measures were identified as having high benefit-cost ratios.
+
+
+=== Adaptive capacity ===
+Adaptive capacity is the ability of a system to adjust to climate change. Smit et al. (2001) described the determinants of adaptive capacity:: 895–897 
+Economic resources: Wealthier nations are better able to bear the costs of adaptation to climate change than poorer ones.
+Technology: Lack of technology can impede adaptation.
+Information and skills: Information and trained personnel are required to assess and implement successful adaptation options.
+Social infrastructure
+Institutions: Nations with well-developed social institutions are believed to have greater adaptive capacity than those with less effective institutions, typically developing nations and economies in transition.
+Equity: Some believe that adaptive capacity is greater where there are government institutions and arrangements in place that allow equitable access to resources.Smit et al. (2001) concluded that:
+
+countries with limited economic resources, low levels of technology, poor information and skills, poor infrastructure, unstable or weak institutions, and inequitable empowerment and access to resources have little adaptive capacity and are highly vulnerable to climate change: 879 
+developed nations, broadly speaking, have greater adaptive capacity than developing regions or countries in economic transition.: 897 
+
+
+==== Enhancing adaptive capacity ====
+Smit et al. (2001) concluded that enhanced adaptive capacity would reduce vulnerability to climate change. In their view, activities that enhance adaptive capacity are essentially equivalent to activities that promote sustainable development.: 905  These activities include : 899 
+improving access to resources
+reducing poverty
+lowering inequities of resources and wealth among groups
+improving education and information
+improving infrastructure
+improving institutional capacity and efficiencyGoklany (1995) concluded that promoting free trade – e.g., through the removal of international trade barriers –  could enhance adaptive capacity and contribute to economic growth.
+
+
+=== Regions ===
+With high confidence, Smith et al. (2001) concluded that developing countries would tend to be more vulnerable to climate change than developed countries.: 957–958  
+Based on then-current development trends, Smith predicted that few developing countries would have the capacity to efficiently adapt to climate change.: 957–958 
+Africa: In a literature assessment, Boko et al. (2007) concluded, with high confidence, that Africa's major economic sectors had been vulnerable to observed climate variability.: 435  This vulnerability was judged to have contributed to Africa's weak adaptive capacity, resulting in Africa having high vulnerability to future climate change. It was thought likely that projected sea-level rise would increase the socio-economic vulnerability of African coastal cities.
+Asia: Lal et al. (2001) reviewed the literature on adaptation and vulnerability. With medium confidence, they concluded that climate change would result in the degradation of permafrost in boreal Asia, worsening the vulnerability of climate-dependent sectors, and affecting the region's economy.: 536 
+Australia and New Zealand: Hennessy et al. (2007) reviewed the literature on adaptation and vulnerability.: 509   With high confidence, they concluded that in Australia and New Zealand, most human systems had considerable adaptive capacity. With medium confidence, some Indigenous communities were judged to have low adaptive capacity.
+Europe: In a literature assessment, Kundzewicz et al. (2001) concluded, with very high confidence, that the adaptation potential of socioeconomic systems in Europe was relatively high.: 643 This was attributed to Europe's high GNP, stable growth, stable population, and well-developed political, institutional, and technological support systems.
+
+Latin America: In a literature assessment, Mata et al. (2001) concluded that the adaptive capacity of socioeconomic systems in Latin America was very low, particularly in regard to extreme weather events, and that the region's vulnerability was high.: 697 
+Polar regions: Anisimov et al. (2001) concluded that:: 804–805 within the Antarctic and Arctic, at localities where water was close to melting point, socioeconomic systems were particularly vulnerable to climate change.
+the Arctic would be extremely vulnerable to climate change. Anisimov et al. (2001) predicted that there would be major ecological, sociological, and economic impacts in the region.
+Small islands: Mimura et al. (2007) concluded, with very high confidence, that small islands were particularly vulnerable to climate change.: 689 Partly this was attributed to their low adaptive capacity and the high costs of adaptation in proportion to their GDP.
+
+
+=== Systems and sectors ===
+Coasts and low-lying areas: According to Nicholls et al. (2007), societal vulnerability to climate change is largely dependent on development status.: 336   Developing countries lack the necessary financial resources to relocate those living in low-lying coastal zones, making them more vulnerable to climate change than developed countries. With high confidence, Nicholls et al. (2007) concluded that on vulnerable coasts, the costs of adapting to climate change are lower than the potential damage costs.: 317 
+Industry, settlements and society:
+At the scale of a large nation or region, at least in most industrialized economies, the economic value of sectors with low vulnerability to climate change greatly exceeds that of sectors with high vulnerability (Wilbanks et al., 2007).: 366   Additionally, the capacity of a large, complex economy to absorb climate-related impacts, is often considerable. Consequently, estimates of the aggregate damages of climate change – ignoring possible abrupt climate change – are often rather small as a percentage of economic production. On the other hand, at smaller scales, e.g., for a small country, sectors and societies might be highly vulnerable to climate change. Potential climate change impacts might therefore amount to very severe damages.
+Wilbanks et al. (2007) concluded, with very high confidence, that vulnerability to climate change depends considerably on specific geographic, sectoral and social contexts. In their view, these vulnerabilities are not reliably estimated by large-scale aggregate modelling.: 359 
+
+
+== Mitigation ==
+
+Mitigation of climate change involves actions that are designed to limit the amount of long-term climate change (Fisher et al., 2007).: 225  Mitigation may be achieved through the reduction of GHG emissions or through the enhancement of sinks that absorb GHGs, e.g., forests.
+
+
+=== International public goods ===
+The atmosphere is an international public good, and GHG emissions are an international externality (Goldemberg et al., 1996).: 21, 28, 43  A change in the quality of the atmosphere does not affect the welfare of all individuals equally. In other words, some individuals may benefit from climate change, while others may lose out. This uneven distribution of potential climate change impacts, plus the uneven distribution of emissions globally, make it difficult to secure a global agreement to reduce emissions.: 127 
+
+
+=== Economic Repercussions of Mitigation ===
+The economic repercussions of mitigation vary widely across regions and households, depending on policy design and level of international cooperation. Delayed global cooperation increases policy costs across regions, especially in those that are relatively carbon intensive at present. Pathways with uniform carbon values show higher mitigation costs in more carbon-intensive regions, in fossil-fuels exporting regions and in poorer regions. Aggregate quantifications expressed in GDP or monetary terms undervalue the economic effects on households in poorer countries; the actual effects on welfare and well-being are comparatively larger. Mitigation at the speed and scale required to likely limit warming to 2°C or below implies deep economic and structural changes, thereby raising multiple types of distributional concerns across regions, income classes and sectors.
+
+
+=== Policies ===
+
+
+==== National ====
+Both climate and non-climate policies can affect emissions growth. Non-climate policies that can affect emissions are listed below:: 409–410 
+Market-orientated reforms can have important impacts on energy use, energy efficiency, and therefore GHG emissions.
+Price and subsidy policies: Many countries provide subsidies for activities that impact emissions, e.g., subsidies in the agriculture and energy sectors, and indirect subsidies for transport.
+Market liberalization: Restructuring of energy markets has occurred in several countries and regions. These policies have mainly been designed to increase competition in the market, but they can have a significant impact on emissions.There are a number of policies that might be used to mitigate climate change, including
+
+A Green Marshall Plan, which  calls for global central bank money creation to fund green infrastructure,
+Regulatory standards, such as fuel-efficiency standards for cars.
+Market-based instruments, such as emissions taxes and tradable permits.
+Voluntary agreements between public agencies and industry.
+Informational instruments, e.g., to increase public awareness of climate change.
+Use of subsidies and financial incentives, e.g., feed-in tariffs for renewable energy.: 762 
+Removal of subsidies, e.g., for coal mining and burning.: 567–568 
+Demand-side management, which aims to reduce energy demand through energy audits, product labelling, etc.
+
+
+==== International ====
+The Kyoto Protocol to the UNFCCC set out legally binding emission reduction commitments for the "Annex B" countries.: 817   The Protocol defined three international policy instruments ("Flexibility Mechanisms") which could be used by the Annex B countries to meet their emission reduction commitments. According to Bashmakov, use of these instruments could significantly reduce the costs for Annex B countries in meeting their emission reduction commitments.: 402 
+Other possible policies include internationally coordinated carbon taxes and/or regulation : 430 
+
+
+=== Finance ===
+
+
+=== Cost estimates ===
+According to literature assessments, mitigation cost estimates depend critically on the baseline (in this case, a reference scenario that the alternative scenario is compared with), the way costs are modelled, and assumptions about future government policy.: 622  : 204–206 : 11 Macroeconomic cost estimates made by Fisher et al. (2007) were mostly based on models that assumed transparent markets, no transaction costs, and perfect implementation of cost-effective policy measures across all regions throughout the 21st century. According to Fisher et al., relaxation of some or all these assumptions would lead to an appreciable increase in cost estimates.: 204  
+On the other hand, the IPCC noted that cost estimates could be reduced by allowing for accelerated technological learning, or the possible use of carbon tax/emission permit revenues to reform national tax systems.: 8 
+Regional costs were estimated as possibly being significantly different from the global average. Regional costs were found to be largely dependent on the assumed stabilization level and baseline scenario.
+Sectoral costs: In a literature assessment, Barker et al. (2001), predicted that the renewables sector could potentially benefit from mitigation.: 563–564  The coal (and possibly the oil) industry was predicted to potentially lose substantial proportions of output relative to a baseline scenario, with energy-intensive sectors, such as heavy chemicals, facing higher costs.One 2020 study estimated economic losses due to climate change could be between 127 and 616 trillion dollars extra until 2100 with current commitments, compared to 1.5 °C or well below 2 °C compatible action action. Failure to implement current commitments raises economic losses to 150–792 trillion dollars until 2100. In this study, mitigation was achieved by countries optimising their own economy.
+
+
+== Adaptation and mitigation ==
+The distribution of benefits from adaptation and mitigation policies are different in terms of damages avoided.: 653  Adaptation activities mainly benefit those who implement them, while mitigation benefits others who may not have made mitigation investments. Mitigation can therefore be viewed as a global public good, while adaptation is either a private good in the case of autonomous adaptation, or a national or regional public good in the case of public sector policies.
+
+
+=== Paying for an international public good ===
+Economists generally agree on the following two principles:: 29 
+For the purposes of analysis, it is possible to separate equity from efficiency. This implies that all emitters, regardless of whether they are rich or poor, should pay the full social costs of their actions. From this perspective, corrective (Pigouvian) taxes should be applied uniformly (see carbon tax#Economic theory). It has been suggested that countries over the average per person emissions be carbon taxed and the funds raised given to countries under the average.
+It is inappropriate to redress all equity issues through climate change policies. However, climate change itself should not aggravate existing inequalities between different regions.Some early studies suggested that a uniform carbon tax would be a fair and efficient way of reducing emissions.: 103–104  
+A carbon tax is a Pigouvian tax, and taxes fuels based on their carbon content.: 92 
+A literature assessment by Banuri et al.: 103–104  summarized criticisms of such a system:
+
+A carbon tax would impose different burdens on countries due to existing differences in tax structures, resource endowments, and development.
+Most observers argue that such a tax would not be fair because of differences in historical emissions and current wealth.
+A uniform carbon tax would not be Pareto efficient unless lump sum transfers were made between countries. Pareto efficiency requires that the carbon tax would not make any countries worse off than they would be without the tax: 445 : 72  Also, at least one country would need to be better off.An alternative approach to having a Pigouvian tax is one based on property rights. A practical example of this would be a system of emissions trading, which is essentially a privatization of the atmosphere. The idea of using property rights in response to an externality was put forward by Ronald Coase in The Problem of Social Cost (1960). Coase's model of social cost assumes a situation of equal bargaining power among participants and equal costs of making the bargain.: 668  Assigning property rights can be an efficient solution. This is based on the assumption that there are no bargaining/transaction costs involved in buying or selling these property rights, and that buyers and sellers have perfect information available when making their decisions.
+If these assumptions are correct, efficiency is achieved regardless of how property rights are allocated. In the case of emissions trading, this suggests that equity and efficiency can be addressed separately: equity is taken care of in the allocation of emission permits, and efficiency is promoted by the market system. In reality, however, markets do not live up to the ideal conditions that are assumed in Coase's model, with the result that there may be trade-offs between efficiency and equity.
+
+
+==== Efficiency and equity ====
+No consensus exists on who should bear the burden of adaptation and mitigation costs.: 29  Several different arguments have been made over how to spread the costs and benefits of taxes or systems based on emissions trading.
+One approach considers the problem from the perspective of who benefits most from the public good. This approach is sensitive to the fact that different preferences exist between different income classes. The public good is viewed in a similar way as a private good, where those who use the public good must pay for it. Some people will benefit more from the public good than others, thus creating inequalities in the absence of benefit taxes. A difficulty with public goods is determining who exactly benefits from the public good, although some estimates of the distribution of the costs and benefits of global warming have been made – see above. Additionally, this approach does not provide guidance as to how the surplus of benefits from climate policy should be shared.
+A second approach has been suggested based on economics and the social welfare function. To calculate the social welfare function requires an aggregation of the impacts of climate change policies and climate change itself across all affected individuals. This calculation involves a number of complexities and controversial equity issues.: 460  
+For example, the monetization of certain impacts on human health. There is also controversy over the issue of benefits affecting one individual offsetting negative impacts on another. : 958  These issues to do with equity and aggregation cannot be fully resolved by economics.: 87 On a utilitarian basis, which has traditionally been used in welfare economics, an argument can be made for richer countries taking on most of the burdens of mitigation. However, another result is possible with a different modeling of impacts. If an approach is taken where the interests of poorer people have lower weighting, the result is that there is a much weaker argument in favour of mitigation action in rich countries. Valuing climate change impacts in poorer countries less than domestic climate change impacts (both in terms of policy and the impacts of climate change) would be consistent with observed spending in rich countries on foreign aid: 229 In terms of the social welfare function, the different results depend on the elasticity of marginal utility. A declining marginal utility of consumption means that a poor person is judged to benefit more from increases in consumption relative to a richer person. A constant marginal utility of consumption does not make this distinction, and leads to the result that richer countries should mitigate less.A third approach looks at the problem from the perspective of who has contributed most to the problem. Because the industrialized countries have contributed more than two-thirds of the stock of human-induced GHGs in the atmosphere, this approach suggests that they should bear the largest share of the costs. This stock of emissions has been described as an "environmental debt".: 167  
+In terms of efficiency, this view is not supported. This is because efficiency requires incentives to be forward-looking, and not retrospective.: 29  The question of historical responsibility is a matter of ethics. Munasinghe et al. suggested that developed countries could address the issue by making side-payments to developing countries.: 167 
+
+
+=== Trade offs ===
+
+It is often argued in the literature that there is a trade-off between adaptation and mitigation, in that the resources committed to one are not available for the other.: 94  
+This is debatable in practice because the people who bear emission reduction costs or benefits are often different from those who pay or benefit from adaptation measures.
+There is also a trade off in how much damage from climate change should be avoided. The assumption that it is always possible to trade off different outcomes is viewed as problematic by many people.Some of the literature has pointed to difficulties in these kinds of assumptions. For instance, there may be aversion at any price towards losing particular species. This is related to climate change, since the possibility of future abrupt changes in the climate or the Earth system cannot be ruled out. For example, if the West Antarctic ice sheet was to disintegrate, it could result in a sea level rise of 4–6 meters over several centuries.
+
+
+==== Cost–benefit analysis ====
+In a cost–benefit analysis, the trade offs between climate change impacts, adaptation, and mitigation are made explicit. Cost–benefit analyses of climate change are produced using integrated assessment models (IAMs), which incorporate aspects of the natural, social, and economic sciences.
+In an IAM designed for cost–benefit analysis, the costs and benefits of impacts, adaptation and mitigation are converted into monetary estimates. Some view the monetization of costs and benefits as controversial (see Economic impacts of climate change#Aggregate impacts). The "optimal" levels of mitigation and adaptation are then resolved by comparing the marginal costs of action with the marginal benefits of avoided climate change damages.: 654  The decision over what "optimal" is depends on subjective value judgements made by the author of the study.There are many uncertainties that affect cost–benefit analysis, for example, sector- and country-specific damage functions.: 654  Another example is with adaptation. The options and costs for adaptation are largely unknown, especially in developing countries.
+
+
+==== Results ====
+A common finding of cost–benefit analysis is that the optimum level of emissions reduction is modest in the near-term, with more stringent abatement in the longer-term.: 298 : 20  
+This approach might lead to a warming of more than 3 °C above the pre-industrial level.: 8  
+In most models, benefits exceed costs for stabilization of GHGs leading to warming of 2.5 °C. No models suggest that the optimal policy is to do nothing, i.e., allow "business-as-usual" emissions.
+Along the efficient emission path calculated by Nordhaus and Boyer in 2000, the long-run global average temperature after 500 years increases by 6.2 °C above the 1900 level. 
+Nordhaus and Boyer stated their concern over the potentially large and uncertain impacts of such a large environmental change. The projected temperature in this IAM, like any other, is subject to scientific uncertainty (e.g., the relationship between concentrations of GHGs and global mean temperature, which is called the climate sensitivity). Projections of future atmospheric concentrations based on emission pathways are also affected by scientific uncertainties, e.g., over how carbon sinks, such as forests, will be affected by future climate change. Klein et al. (2007) concluded that there were few high quality studies in this area, and placed low confidence in the results of cost–benefit analysis.
+
+
+==== Strengths ====
+In spite of various uncertainties or possible criticisms of cost–benefit analysis, it does have several strengths:
+
+It offers an internally consistent and global comprehensive analysis of impacts.: 955 
+Sensitivity analysis allows critical assumptions in the analysis to be changed. This can identify areas where the value of information is highest and where additional research might have the highest payoffs.: 119 
+As uncertainty is reduced, the integrated models used in producing cost–benefit analysis might become more realistic and useful.
+
+
+== Solar geoengineering ==
+Unlike the free rider problem, solar geoengineering is said to have a free driver problem because of its estimated cheapness, in that almost any country could afford the necessary modifications to planes and fly enough missions to change the world's climate without help from other countries.
+
+
+== Major reports considering economics of climate change ==
+In 2020, the Commodity Futures Trading Commission released a report warning that the consequences of climate change could create chaos in the financial system and disrupt the American economy.The IPCC Sixth Assessment Report is due to be completed in 2022.
+
+
+== See also ==
+Business action on climate change
+Carbon credit
+Carbon fee and dividend
+Carbon finance
+Carbon tax
+Carbon dioxide equivalent
+Climate change and agriculture
+Climate lawsuit
+Emissions trading
+Energy system modeling
+Insurance broker
+
+
+== References ==
+
+
+== Sources ==
+House of Lords (21 June 2005), The Economics of Climate Change, the Second Report of the 2005-2006 session (HL 12-I and HL 12-II), produced by the UK Parliament House of Lords (HOL) Economics Affairs Select Committee, London, UK: The Stationery Office. High-resolution PDF versions: HL 12-I (report), HL 12-II (evidence).
+IPCC SAR WG3 (1996),  Bruce, J. P.; Lee, H.; Haites, E. F. (eds.), Climate Change 1995: Economic and Social Dimensions of Climate Change (PDF), Contribution of Working Group III to the Second Assessment Report of the Intergovernmental Panel on Climate Change, Cambridge, UK: Cambridge University Press, ISBN 978-0-521-56051-1 (pb: 0-521-56854-4)
+IPCC TAR WG2 (2001),  McCarthy, J. J.; Canziani, O. F.; Leary, N. A.; Dokken, D. J.; White, K. S. (eds.), Climate Change 2001: Impacts, Adaptation and Vulnerability (PDF), Contribution of Working Group II to the Third Assessment Report of the Intergovernmental Panel on Climate Change, Cambridge University Press, ISBN 978-0-521-80768-5, retrieved 19 January 2022 (pb: 0-521-01500-6).
+IPCC TAR WG3 (2001),  Metz, B.; Davidson, O.; Swart, R.; Pan, J. (eds.), Climate Change 2001: Mitigation (PDF), Contribution of Working Group III to the Third Assessment Report of the Intergovernmental Panel on Climate Change, Cambridge University Press, ISBN 978-0-521-80769-2, retrieved 17 January 2022 (pb: 0-521-01502-2).
+IPCC AR4 WG2 (2007),  Parry, M. L.; Canziani, O. F.; Palutikof, J. P.; van der Linden, P. J.; Hanson, C. E. (eds.), Climate Change 2007: Impacts, Adaptation and Vulnerability (PDF), Contribution of Working Group II to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change, Cambridge University Press, ISBN 978-0-521-88010-7 (pb: 978-0-521-70597-4).
+IPCC AR4 WG3 (2007),  Metz, B.; Davidson, O. R.; Bosch, P. R.; Dave, R.; Meyer, L. A. (eds.), Climate Change 2007: Mitigation of Climate Change (PDF), Contribution of Working Group III to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change, Cambridge University Press, ISBN 978-0-521-88011-4 (pb: 978-0-521-70598-1).
+
+
+== Further reading ==
+Mendelsohn, Robert (Editor-in-Chief). "Climate Change Economics (CCE)". Climate Change Economics. Hackensack, New Jersey, USA: World Scientific. ISSN 2010-0078. {{cite journal}}: |author= has generic name (help)
+Curated bibliography at IDEAS/RePEc
+Harnish, Molly (2019). Central Banks and Climate Risks (Report). Federal Reserve Bank of Richmond.
+
+
+== External links ==
+
+Intergovernmental Panel on Climate Change Working Groups
+Climate change on the United Nations Economic and Social Development (UNESD) Division for Sustainable Development website.
+Climate change at the World Bank.
+Centre for Climate Change Economics and Policy at University of Leeds and London School of Economics.
+IMF and the International Energy Agency websites – these sites contain publications on climate change.
+Wagemakers, Bjorn (24 February 2017). "The Dutch Economy - Growth Through Green Resources". Company Formation Netherlands | Intercompany Solutions.
+Climate change: Tackling the climate crisis together, Organisation for Economic Co-operation and Development (OECD)
+Trade and climate change, World Trade Organization.
+Task Force on Low-Carbon Economic Prosperity, the World Economic Forum.
+
+
+=== Videos and podcasts ===
+"The economics of climate change". 2020 lecture by William Nordhaus, Sterling Professor of Economics at Yale University
+"From Climate Crisis to Real Prosperity". 2020 Reith lecture by Mark Carney, COP26 finance advisor

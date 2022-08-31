@@ -1,0 +1,35 @@
+Decontamination foam (known commonly as decon foam) is a spray-on cleaning solution used on surfaces that have been contaminated with biological or chemical agents (e.g., chemical warfare agents, anthrax spores or other toxic industrial materials). Decon foam has been found to make numerous chemical and biological agents harmless. It is also intended for use in areas where large numbers of people have possibly been contaminated (e.g. at conventions, airports, concerts). 
+
+
+== Composition ==
+The composition of decontamination foams is essentially water and a surfactant, creating an aqueous film forming foam that various reactive chemicals are then added, diminishing the amount of contaminants adhering to a surface and forming less hazardous products. Common reactants are hydrogen peroxide and quaternary ammonium complexes. Decon foam often comes in multiple bottles, that, when mixed, combine to form the decontamination solution. The bottles should be kept separate until needed as the foam may begin to lose effectiveness after mixing. After these bottles are mixed together, the foam can be applied by spraying it on a contaminated area or by manual application.
+
+Solvent-based decontaminants work well on permeable polymers and are made to avoid corrosion, but can possibly alter polymer or plastic surfaces permanently. On the other hand, aqueous-based decontaminants are better with polar surfaces like concrete, but have the potential to corrode surfaces. For decontamination foam to be successful, it is important to stabilize the foam as this will increase its efficiency. Modifying the surface of silica nanoparticles to a certain level has been found to increase stability of the foam.
+
+
+== Effectiveness ==
+Decontamination foams can have varying levels of effectiveness depending on the decon foam, the type of contaminating agent, and the surface that is being decontaminated. Many decontaminants show effectiveness against chemical agents on nonporous and non-permeable surfaces, such as glass and stainless steel, since the contaminant remains on the exterior of the surface and is easily accessible to the decontaminant. However, more porous and permeable surfaces can absorb the contaminant, making it more difficult to decontaminate, and decontaminating agents can leave residual chemical contaminants on these surfaces. 
+
+
+== Examples of Use ==
+Decontamination of mailrooms during the 2001 anthrax attacks. The surfaces in the mailrooms were coated with two to three inches of foam and left for an hour before being vacuumed up. The foam was able to kill much of the anthrax without destroying the office equipment or furniture
+As an area denial weapons medium for crowd control, e.g. to make the ground slippery, as well as to reduce visibility (as a fog)
+The LAX airport soap cannon can spray large quantities of decon foam on crowds of potentially exposed persons, e.g. to decon an entire planeload of people who might be victims of a nuclear, chemical, or biological agent release
+Decontamination of methamphetamine labs
+Mold remediation
+Disinfection of hospitals and schools
+Pesticide removal
+Military applications
+Preventative measure at presidential debates
+
+
+== Benefits of decontamination foam over other decontaminants ==
+The two main benefits of decontamination foam over liquid decontaminants (chlorine, decontamination solutions, etc.) are its effectiveness on non horizontal surfaces and its high air to liquid ratio. Other decontaminants are difficult to apply to walls and ceilings due to poor adhesion, however decon foam is much better at adhering to surfaces, which increases the amount of time for the decontamination reaction to take place. Additionally, the high air to liquid ratio allows the foam to be used without over-applying the decontaminant. This high ratio also allows a small amount of liquid to cover a relatively large area in the event of a major contamination.
+
+
+== Formulas ==
+SNL100 (Sandia National Laboratories)
+MDF200 (Modec Decon Foam)
+
+
+== References ==

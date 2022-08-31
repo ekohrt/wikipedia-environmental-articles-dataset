@@ -1,0 +1,45 @@
+Waste is a term used in property law to describe a cause of action that can be brought in court to address a change in condition of real property brought about by a current tenant that damages or destroys the value of that property. A lawsuit for waste can be brought against a life tenant or lessee of a leasehold estate, either by a current landlord or by the owner of a vested future interest.  The holder of an executory interest, however, has no standing to enforce an action for waste, since his future interest is not vested.  There are several different kinds of waste under the law.
+
+
+== Voluntary waste ==
+Voluntary waste, (sometimes called affirmative waste) is any change made to the estate that intentionally or negligently causes harm to the estate or depletes its resources, unless this depletion is a continuation of a pre-existing use. Some jurisdictions follow what is called the open mines doctrine, which permits continued excavation from any mine on the property that is already open, but prohibits the opening of new mines. However, the majority of jurisdictions now follow a doctrine that allows any activity necessary to continue the exploitation of a particular resource, if the land has already been used for that purpose.
+
+Example: If there is a copper mine on the land, the current tenant can continue the mining operation to the point of extracting all available copper. If there were no such mine there originally, and the lease did not anticipate the mine, excavating property would constitute waste.
+
+
+== Permissive waste ==
+Permissive waste is failure to maintain the estate, either physically or financially. Rather than requiring some bad act on the part of the tenant, this requires the failure to maintain ordinary repairs, pay taxes, or pay interest on the mortgage by the life tenant or the lessee of a leasehold estate.
+
+
+== Ameliorative waste ==
+Ameliorative waste is an improvement to an estate that changes its character even if the change increases the land's value. Under English common law, when ameliorative waste occurs, the interested party can recover from the tenant the cost of restoring the land to its original condition. This is based on traditional common law jurisprudence presuming that the grantor intended the property to be kept in its original condition.
+
+
+=== Example ===
+Person A has a present life estate to three acres of land with a beautiful forest and his family's historic home. Person B is willed to inherit the estate after A dies. B loves studying ancestry and hopes to one day live in the historic building on his family's land. Instead, A decides that the land would be more valuable as a nightclub and draws up a business plan to transform the old estate into a new late night hotspot. B can sue A for ameliorative waste and get an injunction preventing the construction of the club. Even if the club is set to make money and the old family house is a valueless wreck in terrible condition, B still has a right to stop A from improving the property.
+If A does in fact build the club, then B can sue for the cost of demolishing the new structure and returning the land to its original condition.
+In the United States, damages for ameliorative waste are generally not given, especially if the improvement to the property is likely to last a long time. The policy behind this change in common law is to encourage improvements and economic development, even at the cost of historical change.
+
+
+=== Exceptions ===
+There is an exception to this doctrine where a long-term tenant makes a change that increases the value of the property in a way that reflects a change in the nature and character of neighboring properties. If a tenant tears down a house and builds a factory on property in an area in which residences have generally been replaced with industry, the tenant will not be liable for waste.
+In Melms v. Pabst Brewing Co., 79 N.W. 738 (Wis. 1899), the Pabst Brewing Company's plant encroached on a residential home. The owner of the home wanted to convert the land to commercial use but held an estate limiting the land to residential purposes. The court held that the neighboring properties had sufficiently changed the nature of the area and allowed the estate holder to convert the land despite the existence of potential ameliorative waste.
+
+
+== Equitable waste ==
+Under English law and Australian law, equitable waste is waste that a life tenant has a right to commit at common law but is restrained by a court of equity. This doctrine fits under the broader framework of equity, in which a legal right to do something is not so unrestrained that it is impossible to abuse that right. A life tenant who is granted an estate "without impeachment of waste" (may not be sued for waste) may not commit acts of flagrant destruction inconsistent with the fruitful use of the land. For example, a mansion may not be stripped of its glass, timber or pipes (Vane v Lord barnard), nor may trees of an ornamental value be cut down by the life tenant (Turner v Wright).
+
+
+== Remedies for waste ==
+Where a court finds that a tenant is engaging in waste, there are a number of possible remedies which can be taken:
+
+The court may award sufficient money damages to compensate the injured party for the loss resulting from the waste.
+The court may directly require the party responsible for the waste to restore the property to its original condition.
+The court may accelerate the passage of title in the land, divesting a tenant or life estate holder of the property and vesting it in the landlord or remainderman.Kentucky has a particularly harsh remedy for voluntary waste. A person found to have committed voluntary waste without the written permission of the holder of the future interest is forced to pay treble damages to the holder of the future interest, and the person's present interest (whether a life estate or a lease) is automatically terminated.Missouri has two statutes that prescribe a harsh remedy for waste. There, a person found to have committed voluntary waste without the written permission of the holder of the future interest is forced to pay treble damages. In some cases, the plaintiff has been able to recover treble damages twice--once for voluntary waste and again for wantonly committed waste.If the plaintiff can show that the defendant is currently engaged in voluntary or permissive waste of the land, the court may enjoin (or stop) the activity; however, courts are reluctant to enjoin ameliorative waste unless the property being destroyed has some unique historic value.
+
+
+== See also ==
+Estrepement
+
+
+== References ==

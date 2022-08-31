@@ -1,0 +1,33 @@
+The Fuel Cell Bus Club comprised the participants of the projects CUTE (2001-2006), ECTOS (2001-2005) and STEP (2001-2005) which were pioneering demonstration projects for fuel cell bus fleets in Europe and Australia. The projects have been successfully completed. There were three buses in each of the 11 cities in the trial. The buses were a Mercedes-Benz Citaro and used hydrogen fuel cells from Ballard Power Systems. At the time they claimed to be the largest fleet of fuel cell buses in the world. The buses were estimated to cost US$ 1.2 million each and have a range of 300 kilometres (200 mi) and carry around 70 passengers.
+
+
+== Projects ==
+
+
+=== CUTE ===
+CUTE stands for Clean Urban Transport for Europe. This European Union initiative was responsible for the fuel cell buses in all but two of the cities: Hamburg, London, Barcelona, Stockholm, Porto, Stuttgart, Amsterdam, Luxembourg, and Madrid. It was supported by a consortium of transportation operators, hydrogen infrastructure and fuel cell developers, universities and city authorities. The project ran from 2001-2006. The project was "deemed a success."
+
+
+=== ECTOS ===
+ECTOS stands for Ecological City Transport System. Icelandic New Energy was responsible for this project, the aim of which was to demonstrate "state-of-the-art" hydrogen technology by running part of the public transport system with fuel cell buses in the city Reykjavík, the capital of Iceland. Hydrogen was produced from domestic geothermal and hydro-powered energy sources by electrolysis. The project ran from 2001-2005.
+
+
+=== STEP ===
+
+STEP stands for Sustainable Transport Energy for Perth. This initiative of the Government of Western Australia's Department for Planning and Infrastructure (DPI), was the responsibility of the public transport organisation Transperth, though it was run by contracted operator Path Transit. They were operated in the city Perth, the capital of Western Australia. These three buses are called "EcoBuses". The project ran from 2001-2005, with the first buses in service in September 2004.The Perth trial received A$2.5 million funding from the Department of the Environment and Heritage and the Australian Greenhouse Office. It was endorsed by the United Nations Environment Programme and the United Nations Industrial Development Organization.BP produced the hydrogen as a by-product at its Kwinana oil refinery (50 kilometres (31.1 mi) south of Perth). The hydrogen was then transported by road in specially designed road tankers to a bus depot in the northern suburbs of Perth. Perth's buses achieved greater reliability and better fuel economy than in any other city in the trial.By June 2005, the Perth buses had covered more than 60,000 kilometres (37,282 mi) and completed almost 3,000 operational hours, with almost 60,000 passengers having used the service.
+In 2004, STEP received a Chartered Institute of Logistics and Transport Outstanding Achievement award.
+In 2005, it was presented with a Banksia award in the "Government Leading by Example for a Sustainable Future" category.
+
+
+== Partners ==
+The buses were manufactured by DaimlerChrysler, the manufacturer of Mercedes-Benz vehicles, and use fuel cell engines manufactured by XCELLSIS Fuel Cell Engines, now a division of Ballard Power Systems, developed as an alliance of Ballard, DaimlerChrysler, and Ford. A number of the cities are receiving their hydrogen from BP. The trial is being independently evaluated, mostly by Murdoch University.
+
+
+== References ==
+
+
+== External links ==
+Official website of the Fuel Cell Bus Club (also the official website of CUTE) (archived from the original)
+Official website of Icelandic New Energy (includes details of ECTOS)
+Official EcoBus website (archived from the original)
+Technical Information of Hydrogen Buses

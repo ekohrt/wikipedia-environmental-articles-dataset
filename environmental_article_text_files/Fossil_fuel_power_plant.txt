@@ -1,0 +1,166 @@
+A fossil fuel power station is a thermal power station which burns a fossil fuel, such as coal or natural gas, to produce electricity. Fossil fuel power stations have machinery to convert the heat energy of combustion into mechanical energy, which then operates an electrical generator. The prime mover may be a steam turbine, a gas turbine or, in small plants, a reciprocating gas engine. All plants use the energy extracted from the expansion of a hot gas, either steam or combustion gases. Although different energy conversion methods exist, all thermal power station conversion methods have their efficiency limited by the Carnot efficiency and therefore produce waste heat.
+Fossil fuel power stations provide most of the electrical energy used in the world. Some fossil-fired power stations are designed for continuous operation as baseload power plants, while others are used as peaker plants. However, starting from the 2010s, in many countries plants designed for baseload supply are being operated as dispatchable generation to balance increasing generation by variable renewable energy.By-products of fossil fuel power plant operation must be considered in their design and operation. Flue gas from combustion of the fossil fuels contains carbon dioxide and water vapor, as well as pollutants such as nitrogen oxides (NOx), sulfur oxides (SOx), and, for coal-fired plants, mercury, traces of other metals, and fly ash. Usually all of the carbon dioxide and some of the other pollution is discharged to the air. Solid waste ash from coal-fired boilers must also be removed.
+Fossil fueled power stations are major emitters of carbon dioxide (CO2), a greenhouse gas which is a major contributor to global warming.
+The results of a recent study show that the net income available to shareholders of large companies could see a significant reduction from the greenhouse gas emissions liability related to only natural disasters in the United States from a single coal-fired power plant. 
+However, as of 2015, no such cases have awarded damages in the United States. 
+Per unit of electric energy, brown coal emits nearly twice as much CO2 as natural gas, and black coal emits somewhat less than brown. 
+As of 2019, carbon capture and storage of emissions is not economically viable for fossil fuel power stations, and keeping global warming below 1.5 °C is still possible but only if no more fossil fuel power plants are built and some existing fossil fuel power plants are shut down early, together with other measures such as reforestation.
+
+
+== Basic concepts: heat into mechanical energy ==
+
+In a fossil fuel power plant the chemical energy stored in fossil fuels such as coal, fuel oil, natural gas or oil shale and oxygen of the air is converted successively into thermal energy, mechanical energy and, finally, electrical energy. Each fossil fuel power plant is a complex, custom-designed system. Multiple generating units may be built at a single site for more efficient use of land, natural resources and labor. Most thermal power stations in the world use fossil fuel, outnumbering nuclear, geothermal, biomass, or concentrated solar power plants.
+The second law of thermodynamics states that any closed-loop cycle can only convert a fraction of the heat produced during combustion into mechanical work. The rest of the heat, called waste heat, must be released into a cooler environment during the return portion of the cycle. The fraction of heat released into a cooler medium must be equal or larger than the ratio of absolute temperatures of the cooling system (environment) and the heat source (combustion furnace). Raising the furnace temperature improves the efficiency but complicates the design, primarily by the selection of alloys used for construction, making the furnace more expensive. The waste heat cannot be converted into mechanical energy without an even cooler cooling system. However, it may be used in cogeneration plants to heat buildings, produce hot water, or to heat materials on an industrial scale, such as in some oil refineries, plants, and chemical synthesis plants.
+Typical thermal efficiency for utility-scale electrical generators is around 37% for coal and oil-fired plants, and 56 – 60% (LEV) for combined-cycle gas-fired plants. Plants designed to achieve peak efficiency while operating at capacity will be less efficient when operating off-design (i.e. temperatures too low.)Practical fossil fuels stations operating as heat engines cannot exceed the Carnot cycle limit for conversion of heat energy into useful work. Fuel cells do not have the same thermodynamic limits as they are not heat engines.
+The efficiency of a fossil fuel plant may be expressed as its heat rate, expressed in BTU/kilowatthour or megajoules/kilowatthour.
+
+
+== Plant types ==
+
+
+=== Steam ===
+In a steam turbine power plant, fuel is burned in a furnace and the hot gasses flow through a boiler.  Water is converted to steam in the boiler; additional heating stages may be included to superheat the steam. The hot steam is sent through controlling valves to a turbine. As the steam expands and cools, its energy is transferred to the turbine blades which turn a generator.  The spent steam has very low pressure and energy content; this water vapor is fed through a condenser, which removes heat from the steam. The condensed water is then pumped into the boiler to repeat the cycle.
+Emissions from the boiler include carbon dioxide, oxides of sulfur, and in the case of coal fly ash from non-combustible substances in the fuel. Waste heat from the condenser is transferred either to the air, or sometimes to a cooling pond, lake or river.
+
+
+=== Gas turbine and combined gas/steam ===
+
+One type of fossil fuel power plant uses a gas turbine in conjunction with a heat recovery steam generator (HRSG). It is referred to as a combined cycle power plant because it combines the Brayton cycle of the gas turbine with the Rankine cycle of the HRSG. The turbines are fueled either with natural gas or fuel oil.
+
+
+=== Reciprocating engines ===
+
+Diesel engine generator sets are often used for prime power in communities not connected to a widespread power grid. Emergency (standby) power systems may use reciprocating internal combustion engines operated by fuel oil or natural gas. Standby generators may serve as emergency power for a factory or data center, or may also be operated in parallel with the local utility system to reduce peak power demand charge from the utility. Diesel engines can produce strong torque at relatively low rotational speeds, which is generally desirable when driving an alternator, but diesel fuel in long-term storage can be subject to problems resulting from water accumulation and chemical decomposition. Rarely used generator sets may correspondingly be installed as natural gas or LPG to minimize the fuel system maintenance requirements.
+Spark-ignition internal combustion engines operating on gasoline (petrol), propane, or LPG are commonly used as portable temporary power sources for construction work, emergency power, or recreational uses.
+Reciprocating external combustion engines such as the Stirling engine can be run on a variety of fossil fuels, as well as renewable fuels or industrial waste heat. Installations of Stirling engines for power production are relatively uncommon.
+Historically, the first central stations used reciprocating steam engines to drive generators.  As the size of the electrical load to be served grew, reciprocating units became too large and cumbersome to install economically. The steam turbine rapidly displaced all reciprocating engines in central station service.
+
+
+== Fuels ==
+
+
+=== Coal ===
+
+Coal is the most abundant fossil fuel on the planet, and widely used as the source of energy in thermal power stations and is a relatively cheap fuel. Coal is an impure fuel and produces more greenhouse gas and pollution than an equivalent amount of petroleum or natural gas. For instance, the operation of a 1000-MWe coal-fired power plant results in a nuclear radiation dose of 490 person-rem/year, compared to 136 person-rem/year, for an equivalent nuclear power plant including uranium mining, reactor operation and waste disposal.Coal is delivered by highway truck, rail, barge, collier ship or coal slurry pipeline. Generating stations adjacent to a mine may receive coal by conveyor belt or massive diesel-electric-drive trucks.
+Coal is usually prepared for use by crushing the rough coal to pieces less than 2 inches (5 cm) in size.
+
+
+=== Natural gas ===
+
+Gas is a very common fuel and has mostly replaced coal in countries where gas was found in the late 20th century or early 21st century, such as the US and UK. Sometimes coal-fired steam plants are refitted to use natural gas to reduce net carbon dioxide emissions. Oil-fuelled plants may be converted to natural gas to lower operating cost.
+
+
+=== Oil ===
+Heavy fuel oil was once a significant source of energy for electric power generation.  After oil price increases of the 1970s, oil was displaced by coal and later natural gas. Distillate oil is still important as the fuel source for diesel engine power plants used especially in isolated communities not interconnected to a grid. Liquid fuels may also be used by gas turbine power plants, especially for peaking or emergency service. Of the three fossil fuel sources, oil has the advantages of easier transportation and handling than solid coal, and easier on-site storage than natural gas.
+
+
+== Combined heat and power ==
+Combined heat and power (CHP), also known as cogeneration, is the use of a thermal power station to provide both electric power and heat (the latter being used, for example, for district heating purposes). This technology is practiced not only for domestic heating (low temperature) but also for industrial process heat, which is often high temperature heat. Calculations show that Combined Heat and Power District Heating (CHPDH) is the cheapest method in reducing (but not eliminating) carbon emissions, if conventional fossil fuels remain to be burned.
+
+
+== Environmental impacts ==
+
+Thermal power plants are one of the main artificial sources of producing toxic gases and particulate matter. Fossil fuel power plants cause the emission of pollutants such as NOx, SOx, CO2, CO, PM, organic gases and polycyclic aromatic hydrocarbons. World organizations and international agencies, like the IEA, are concerned about the environmental impact of burning fossil fuels, and coal in particular. The combustion of coal contributes the most to acid rain and air pollution, and has been connected with global warming. Due to the chemical composition of coal there are difficulties in removing impurities from the solid fuel prior to its combustion. Modern day coal power plants pollute less than older designs due to new "scrubber" technologies that filter the exhaust air in smoke stacks. However, emission levels of various pollutants are still on average several times greater than natural gas power plants and the scrubbers transfer the captured pollutants to wastewater, which still requires treatment in order to avoid pollution of receiving water bodies. In these modern designs, pollution from coal-fired power plants comes from the emission of gases such as carbon dioxide, nitrogen oxides, and sulfur dioxide into the air, as well a significant volume of wastewater which may contain lead, mercury, cadmium and chromium, as well as arsenic, selenium and nitrogen compounds (nitrates and nitrites).Acid rain is caused by the emission of nitrogen oxides and sulfur dioxide. These gases may be only mildly acidic themselves, yet when they react with the atmosphere, they create acidic compounds such as sulfurous acid, nitric acid and sulfuric acid which fall as rain, hence the term acid rain. In Europe and the US, stricter emission laws and decline in heavy industries have reduced the environmental hazards associated with this problem, leading to lower emissions after their peak in 1960s.
+In 2008, the European Environment Agency (EEA) documented fuel-dependent emission factors based on actual emissions from power plants in the European Union.
+
+
+=== Carbon dioxide ===
+
+Electricity generation using carbon-based fuels is responsible for a large fraction of carbon dioxide (CO2) emissions worldwide and for 34% of U.S. man-made carbon dioxide emissions in 2010. In the U.S. 70% of electricity is generated by combustion of fossil fuels.Coal contains more carbon than oil or natural gas fossil fuels, resulting in greater volumes of carbon dioxide emissions per unit of electricity generated. In 2010, coal contributed about 81% of CO2 emissions from generation and contributed about 45% of the electricity generated in the United States. In 2000, the carbon intensity (CO2 emissions) of U.S. coal thermal combustion was 2249 lbs/MWh (1,029 kg/MWh) while the carbon intensity of U.S. oil thermal generation was 1672 lb/MWh (758 kg/MWh or 211 kg/GJ) and the carbon intensity of U.S. natural gas thermal production was 1135 lb/MWh (515 kg/MWh or 143 kg/GJ).The Intergovernmental Panel on Climate Change (IPCC) reports that increased quantities of the greenhouse gas carbon dioxide within the atmosphere will "very likely" lead to higher average temperatures on a global scale (global warming). Concerns regarding the potential for such warming to change the global climate prompted IPCC recommendations calling for large cuts to CO2 emissions worldwide.Emissions can be reduced with higher combustion temperatures, yielding more efficient production of electricity within the cycle. As of 2019 the price of emitting CO2 to the atmosphere is much lower than the cost of adding carbon capture and storage (CCS) to fossil fuel power stations, so owners have not done so.
+
+
+==== Estimation of carbon dioxide emissions ====
+The  CO2 emissions from a fossil fuel power station can be estimated with the following formula:CO2 emissions  = capacity x capacity factor x heat rate x emission intensity x time
+where "capacity" is the "nameplate capacity" or the maximum allowed output of the plant, "capacity factor" or "load factor" is a measure of the amount of power that a plant produces compared with the amount it would produce if operated at its rated capacity nonstop, heat rate is thermal energy in/electrical energy out, emission intensity (also called emission factor) is the CO2 emitted per unit of heat generated for a particular fuel.
+As an example, a new 1500 MW supercritical lignite-fueled power station running on average at half its capacity might have annual CO2 emissions estimated as:
+= 1500MW x 0.5 x 100/40 x 101000 kg/TJ x 1year
+= 1500MJ/s x 0.5 x 2.5 x 0.101 kg/MJ x 365x24x60x60s
+= 1.5x103 x 5x10−1 x 2.5 x 1.01−1 x 3.1536x107 kg
+= 59.7 x103-1-1+7 kg
+= 5.97 Mt
+Thus the example power station is estimated to emit about 6 megatonnes of carbon dioxide each year.
+The results of similar estimations are mapped by organisations such as Global Energy Monitor, Carbon Tracker and ElectricityMap.
+Alternatively it may be possible to measure CO2 emissions (perhaps indirectly via another gas) from satellite observations.
+
+
+=== Particulate matter ===
+Another problem related to coal combustion is the emission of particulates that have a serious impact on public health. Power plants remove particulate from the flue gas with the use of a bag house or electrostatic precipitator. Several newer plants that burn coal use a different process, Integrated Gasification Combined Cycle in which synthesis gas is made out of a reaction between coal and water. The synthesis gas is processed to remove most pollutants and then used initially to power gas turbines. Then the hot exhaust gases from the gas turbines are used to generate steam to power a steam turbine. The pollution levels of such plants are drastically lower than those of "classic" coal power plants.Particulate matter from coal-fired plants can be harmful and have negative health impacts. Studies have shown that exposure to particulate matter is related to an increase of respiratory and cardiac mortality. Particulate matter can irritate small airways in the lungs, which can lead to increased problems with asthma, chronic bronchitis, airway obstruction, and gas exchange.There are different types of particulate matter, depending on the chemical composition and size. The dominant form of particulate matter from coal-fired plants is coal fly ash, but secondary sulfate and nitrate also comprise a major portion of the particulate matter from coal-fired plants. Coal fly ash is what remains after the coal has been combusted, so it consists of the incombustible materials that are found in the coal.The size and chemical composition of these particles affects the impacts on human health. Currently coarse (diameter greater than 2.5 μm) and fine (diameter between 0.1 μm and 2.5 μm) particles are regulated, but ultrafine particles (diameter less than 0.1 μm) are currently unregulated, yet they pose many dangers. Unfortunately much is still unknown as to which kinds of particulate matter pose the most harm, which makes it difficult to come up with adequate legislation for regulating particulate matter.There are several methods of helping to reduce the particulate matter emissions from coal-fired plants. Roughly 80% of the ash falls into an ash hopper, but the rest of the ash then gets carried into the atmosphere to become coal-fly ash. Methods of reducing these emissions of particulate matter include:
+
+a baghouse
+an electrostatic precipitator (ESP)
+cyclone collectorThe baghouse has a fine filter that collects the ash particles, electrostatic precipitators use an electric field to trap ash particles on high-voltage plates, and cyclone collectors use centrifugal force to trap particles to the walls. A recent study indicates that sulfur emissions from fossil fueled power stations in China may have caused a 10-year lull in global warming (1998-2008).
+
+
+=== Wastewater ===
+
+Fossil-fuel power stations, particularly coal-fired plants, are a major source of industrial wastewater. Wastewater streams include flue-gas desulfurization, fly ash, bottom ash and flue gas mercury control. Plants with air pollution controls such as wet scrubbers typically transfer the captured pollutants to the wastewater stream.Ash ponds, a type of surface impoundment, are a widely used treatment technology at coal-fired plants. These ponds use gravity to settle out large particulates (measured as total suspended solids) from power plant wastewater. This technology does not treat dissolved pollutants. Power stations use additional technologies to control pollutants, depending on the particular wastestream in the plant. These include dry ash handling, closed-loop ash recycling, chemical precipitation, biological treatment (such as an activated sludge process), membrane systems, and evaporation-crystallization systems. In 2015 EPA published a regulation pursuant to the Clean Water Act that requires US power plants to use one or more of these technologies. Technological advancements in ion exchange membranes and electrodialysis systems has enabled high efficiency treatment of flue-gas desulfurization wastewater to meet the updated EPA discharge limits.
+
+
+=== Radioactive trace elements ===
+Coal is a sedimentary rock formed primarily from accumulated plant matter, and it includes many inorganic minerals and elements which were deposited along with organic material during its formation. As the rest of the Earth's crust, coal also contains low levels of uranium, thorium, and other naturally occurring radioactive isotopes whose release into the environment leads to radioactive contamination. While these substances are present as very small trace impurities, enough coal is burned that significant amounts of these substances are released. A 1,000 MW coal-burning power plant could have an uncontrolled release of as much as 5.2 metric tons per year of uranium (containing 74 pounds (34 kg) of uranium-235) and 12.8 metric tons per year of thorium. In comparison, a 1,000 MW nuclear plant will generate about 30 metric tons of high-level radioactive solid packed waste per year. It is estimated that during 1982, US coal burning released 155 times as much uncontrolled radioactivity into the atmosphere as the Three Mile Island incident. The collective radioactivity resulting from all coal burning worldwide between 1937 and 2040 is estimated to be 2,700,000 curies or 0.101 EBq. During normal operation, the effective dose equivalent from coal plants is 100 times that from nuclear plants. Normal operation however, is a deceiving baseline for comparison: just the Chernobyl nuclear disaster released, in iodine-131 alone, an estimated 1.76 EBq. of radioactivity, a value one order of magnitude above this value for total emissions from all coal burned within a century, while the iodine-131, the major radioactive substance which comes out in accident situations, has a half life of just 8 days.
+
+
+=== Water and air contamination by coal ash ===
+A study released in August 2010 that examined state pollution data in the United States by the organizations Environmental Integrity Project, the Sierra Club and Earthjustice found that coal ash produced by coal-fired power plants dumped at sites across 21 U.S. states has contaminated ground water with toxic elements. The contaminants including the poisons arsenic and lead. The study concluded that the problem of coal ash-caused water contamination is even more extensive in the United States than has been estimated. The study brought to 137 the number of ground water sites across the United States that are contaminated by power plant-produced coal ash.Arsenic has been shown to cause skin cancer, bladder cancer and lung cancer, and lead damages the nervous system. Coal ash contaminants are also linked to respiratory diseases and other health and developmental problems, and have disrupted local aquatic life.  Coal ash also releases a variety of toxic contaminants into nearby air, posing a health threat to those who breathe in fugitive coal dust.
+
+
+==== Mercury contamination ====
+U.S. government scientists tested fish in 291 streams around the country for mercury contamination. They found mercury in every fish tested, according to the study by the U.S. Department of the Interior. They found mercury even in fish of isolated rural waterways. Twenty five percent of the fish tested had mercury levels above the safety levels determined by the U.S. Environmental Protection Agency (EPA) for people who eat the fish regularly. The largest source of mercury contamination in the United States is coal-fueled power plant emissions.
+
+
+== Conversion of fossil fuel power plants ==
+
+Several methods exist to reduce pollution and reduce or eliminate carbon emissions of fossil fuel power plants. A frequently used and cost-efficient method is to convert a plant to run on a different fuel. This includes conversions of coal power plants to energy crops/biomass or waste and conversions of natural gas power plants to biogas or hydrogen. Conversions of coal powered power plants to waste-fired power plants have an extra benefit in that they can reduce landfilling. In addition, waste-fired power plants can be equipped with material recovery, which is also beneficial to the environment. In some instances, torrefaction of biomass may benefit the power plant if energy crops/biomass is the material the converted fossil fuel power plant will be using. Also, when using energy crops as the fuel, and if implementing biochar production, the thermal power plant can even become carbon negative rather than just carbon neutral. Improving the energy efficiency of a coal-fired power plant can also reduce emissions.
+Besides simply converting to run on a different fuel, some companies also offer the possibility to convert existing fossil-fuel power stations to grid energy storage systems which use electric thermal energy storage (ETES)
+
+
+=== Coal pollution mitigation ===
+
+Coal pollution mitigation is a process whereby coal is chemically washed of minerals and impurities, sometimes gasified, burned and the resulting flue gases treated with steam, with the purpose of removing sulfur dioxide, and reburned so as to make the carbon dioxide in the flue gas economically recoverable, and storable underground (the latter of which is called "carbon capture and storage"). The coal industry uses the term "clean coal" to describe technologies designed to enhance both the efficiency and the environmental acceptability of coal extraction, preparation and use, but has provided no specific quantitative limits on any emissions, particularly carbon dioxide. Whereas contaminants like sulfur or mercury can be removed from coal, carbon cannot be effectively removed while still leaving a usable fuel, and clean coal plants without carbon sequestration and storage do not significantly reduce carbon dioxide emissions. James Hansen in an open letter to then U.S. President Barack Obama advocated a "moratorium and phase-out of coal plants that do not capture and store CO2". In his book Storms of My Grandchildren, similarly, Hansen discusses his Declaration of Stewardship, the first principle of which requires "a moratorium on coal-fired power plants that do not capture and sequester carbon dioxide".
+
+
+=== Running the power station on hydrogen converted from natural gas ===
+Gas-fired power plants can also be modified to run on hydrogen. 
+Hydrogen can at first be created from natural gas through steam reforming, as a step towards a hydrogen economy, thus eventually reducing carbon emissions.Since 2013, the conversion process has been improved by scientists at Karlsruhe Liquid-metal Laboratory (KALLA), using a process called methane pyrolysis.
+They succeeded in allowing the soot to be easily removed (soot is a byproduct of the process and damaged the working parts in the past -most notably the nickel-iron-cobaltcatalyst-). The soot (which contains the carbon) can then be stored underground and is not released into the atmosphere.
+
+
+== Phase out of fossil fuel power plants ==
+
+As of 2019 there is still a chance of keeping global warming below 1.5 °C if no more fossil fuel power plants are built and some existing fossil fuel power plants are shut down early, together with other measures such as reforestation.
+Alternatives to fossil fuel power plants include nuclear power, solar power, geothermal power, wind power, hydropower, biomass power plants and other renewable energies (see non-carbon economy). Most of these are proven technologies on an industrial scale, but others are still in prototype form.
+Some countries only include the cost to produce the electrical energy, and do not take into account the social cost of carbon or the indirect costs associated with the many pollutants created by burning coal (e.g. increased hospital admissions due to respiratory diseases caused by fine smoke particles).
+
+
+=== Relative cost by generation source ===
+
+When comparing power plant costs, it is customary to start by calculating the cost of power at the generator terminals by considering several main factors. External costs such as connections costs, the effect of each plant on the distribution grid are considered separately as an additional cost to the calculated power cost at the terminals.
+Initial factors considered are:
+
+Capital costs, including waste disposal and decommissioning costs for nuclear energy.
+Operating and maintenance costs.
+Fuel costs for fossil fuel and biomass sources, and which may be negative for wastes.
+Likely annual hours per year run or load factor, which may be as low as 30% for wind energy, or as high as 90% for nuclear energy.
+Offset sales of heat, for example in combined heat and power district heating (CHP/DH).These costs occur over the 30–50 year life of the fossil fuel power plants, using discounted cash flows.
+
+
+== See also ==
+
+
+== References ==
+
+
+== Bibliography ==
+Steam: Its Generation and Use (2005). 41st edition, Babcock & Wilcox Company, ISBN 0-9634570-0-4
+Steam Plant Operation (2011). 9th edition, Everett B. Woodruff, Herbert B. Lammers, Thomas F. Lammers (coauthors), McGraw-Hill Professional, ISBN 978-0-07-166796-8
+Power Generation Handbook: Fundamentals of Low-Emission, High-Efficiency Power Plant Operation (2012). 2nd edition. Philip Kiameh, McGraw-Hill Professional, ISBN 978-0-07-177227-3
+Standard Handbook of Powerplant Engineering (1997). 2nd edition, Thomas C. Elliott, Kao Chen, Robert Swanekamp (coauthors), McGraw-Hill Professional, ISBN 0-07-019435-1
+
+
+== External links ==
+
+Conventional coal-fired power plant
+Large industrial cooling towers
+Coal Power more deadly than Nuclear
+ "Must We Suffer Smoke" , May 1949, Popular Science article on early methods of scrubbing emissions from coal-fired power plants
+Gas Power Plant News from Power Engineering Magazine

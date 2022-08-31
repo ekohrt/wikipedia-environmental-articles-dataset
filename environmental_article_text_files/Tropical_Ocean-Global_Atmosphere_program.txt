@@ -1,0 +1,51 @@
+The Tropical Ocean Global Atmosphere program (TOGA) was a ten-year study (1985-1994) of the World Climate Research Programme (WCRP) aimed specifically at the prediction of climate phenomena on time scales of months to years.
+TOGA emphasized the tropical oceans and their relationship to the global atmosphere. Underlying TOGA is the premise that the dynamic adjustment of the ocean in the tropics is far more rapid than at higher latitudes. Thus disturbances emanating from the western Pacific Ocean (such as El Niño) may propagate across the basin on time scales of weeks compared to years for corresponding basin-wide propagation at higher latitudes. The significance of shorter dynamic times scales near the equator is that they are similar to those of highly energetic atmospheric modes. This similarity allows the formation of coupled modes between the ocean and the atmosphere.  TOGA was instrumental in developing a comprehensive observing system for the equatorial Pacific Ocean and laid important groundwork for ENSO prediction, data assimilation and understanding of air-sea interaction.
+
+
+== Background and motivation ==
+The roots of the TOGA program can be traced back to the 1920s and the work of Sir Gilbert Walker on what became known as the Southern Oscillation, an apparent linkage between atmospheric pressure anomalies throughout the Pacific Ocean that appeared to be a major driver of weather patterns.  This work was furthered by Jacob Bjerknes in the 1960s when he solidified the link between the El Nino phenomena, a winter warm anomaly in the normally cool water off the coast of Peru, with the southern oscillation.  The combined El Nino – Southern Oscillation, or ENSO, turned out to be a major contributor to seasonal climate variability with both human and economic implications.  Study of these linked phenomena continued through the 1970s and 1980s via a variety observational and modeling studies which included the discovery of equatorial kelvin waves, a potential precursor to the ENSO phenomena.This in mind, the World Climate Research Programme began to plan a decade long research initiative intended to understand ocean-atmosphere interaction in the tropical ocean basins.  The goals of this program were solidified when in 1982-1983 a major El Nino event, at the time the strongest to date, struck without prior prediction or detection.  This particularly strong event was punctuated by drought, flooding, extreme heat events, and severe storms.  These events clearly defined a need for better predictive mechanisms for ENSO and the need for reliable real time data to support prediction.
+
+
+== Launch and scientific objectives of TOGA ==
+TOGA was launched in 1985 with the intent of studying ocean and atmospheric variability in all three tropical ocean basins.  The focus of the United States was in the Pacific Basin with funding being provided by the National Oceanic Atmospheric Association (NOAA), the National Science Foundation (NSF), and the National Aeronautics and Space Administration (NASA). The specific goals and scientific objectives of TOGA were;
+To gain a description of the tropical oceans and the global atmosphere as a time dependent system in order to determine the extent to which the system is predictable on time scales of months to years and to understand the mechanisms and processes underlying its predictability.
+To study the feasibility of modeling the couple ocean-atmosphere system for the purpose of predicting its variation on time scales of months to years; and
+To provide the scientific background for designing an observing and data transmission system for operational predication, if this capability is demonstrated, by coupled ocean-atmosphere models.In order to achieve the TOGA goals, a strategy of large-scale, long-term monitoring of the upper ocean and the atmosphere, intensive and very specific process-oriented studies, and modeling were planned and enacted through a series of national, multinational and international efforts. Modeling activities were coordinated by TOGA Numerical Experimentation Group (TOGA NEG).
+
+
+== Observing system ==
+The TOGA program established an advanced ocean observing system to support research and forecasting of ENSO warm cycles.  While traditional methods such as ships of opportunity and inland tide gauges were employed, the crowning achievement was the deploying of the Tropical Atmosphere Ocean (TAO) Array.
+The TAO Array was a joint NOAA and Pacific Marine Environmental Laboratory (PMEL) venture consisting of 70 moored buoys stationed along the equatorial Pacific Ocean providing real-time wind, sea surface temperature, and deep ocean temperature data using the Autonomous Temperature Line Acquisition System (ATLAS).Further, scientists in the program made use of a host of satellite derived products even though they were not specifically created for the program.  Of most importance was the NOAA  Advanced Very High Resolution Radiometer (AVHRR) for sea surface temperature,  the Topography Experiment (TOPEX)/Poseidon for sea surface height and various defense passive microwave satellites for wind speed measurements.All together, the combination of both satellite and in situ data with real time access proved critical to the success of the program.
+
+
+== TOGA COARE ==
+From 1992 to 1993, a special field project known as the Coupled Ocean Atmosphere Research Experiment (TOGA-COARE) was conducted.   The four-month effort included 1200 people, over 16,000 ship hours, 125 aircraft flights and the release of 12,000 radiosondes.  Its primary mission was to examine the western pacific warming pool region specifically for:
+
+Ocean Atmosphere interaction methods
+Mechanisms that organize convection
+Oceanic response to combined buoyancy and wind stress forcing
+Atmospheric/oceanic interactions that impact other regions The TOGA-COARE experiment resulted in improved understanding of atmospheric and oceanic variability on interseasonal scales including phenomena such as the Madden–Julian oscillation and westerly wind bursts.  Further, the COARE program provided improvements in model parameterization for cumulus clouds, ocean mixing, and air-sea fluxes.
+
+
+== Results ==
+The TOGA program directly resulted in improved theoretical understanding of the ENSO cycle, including interactions between trade wind variations and sea surface temperature.  Further it helped explain the evolution, development, and decay of ENSO events.
+As a result of TOGA, seasonal forecasts models (both statistical and dynamical) were developed.  The improvement of which resulted in the first successful ENSO prediction in 1986 and yearly forecasts being produced before the end of the program.
+The impacts of TOGA extended beyond purely scientific findings but changed the way work was conducted within the oceanography and meteorology fields.  The TOGA program forged new cooperation between and oceanographers and meteorologists and fostered a new culture of open data access.  Rather than each research collecting and using their own data, data was now freely available to all in real time.
+Perhaps the greatest success of TOGA program was the successful prediction and monitoring of the 1997-1998 El Nino, one of the largest El Nino events in history.  Only with the findings and data collection methods set forth during the TOGA program would such operational success be possible.
+
+
+== See also ==
+ENSO
+World Climate Research Programme
+Antonio Busalacchi Jr.
+
+
+== References ==
+
+
+== External links ==
+TOGA site
+TAO site
+TOGA COARE site
+US Clivar
+The TOGA Decade

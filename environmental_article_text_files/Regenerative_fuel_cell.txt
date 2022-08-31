@@ -1,0 +1,32 @@
+A regenerative fuel cell or reverse fuel cell (RFC) is a fuel cell run in reverse mode, which consumes electricity and chemical B to produce chemical A. By definition, the process of any fuel cell could be reversed. However, a given device is usually optimized for operating in one mode and may not be built in such a way that it can be operated backwards. Standard fuel cells operated backwards generally do not make very efficient systems unless they are purpose-built to do so as with high-pressure electrolysers, regenerative fuel cells, solid-oxide electrolyser cells and unitized regenerative fuel cells.
+
+
+== Process description ==
+A hydrogen fueled proton exchange membrane fuel cell, for example, uses hydrogen gas (H2) and oxygen (O2) to produce electricity and water (H2O); a regenerative hydrogen fuel cell uses electricity and water to produce hydrogen and oxygen.When the fuel cell is operated in regenerative mode, the anode for the electricity production mode (fuel cell mode) becomes the cathode in the hydrogen generation mode (reverse fuel cell mode), and vice versa. When an external voltage is applied, water at the anode side will undergo electrolysis to form oxygen and protons; protons will be transported through the solid electrolyte to the cathode where they can be reduced to form hydrogen. In this reverse mode, the polarity of the cell is opposite to that for the fuel cell mode.  
+The following reactions describe the chemical process in the hydrogen generation mode:
+At cathode: H2O + 2e− → H2 + O2−At anode: O2− → 1/2O2 + 2e−Overall: H2O → 1/2O2 + H2
+
+
+== Solid oxide regenerative fuel cell ==
+One example of RFC is solid oxide regenerative fuel cell. Solid oxide fuel cell operates at high temperatures with high fuel-to-electricity conversion ratios and it is a good candidate for high temperature electrolysis.  Less electricity is required for electrolysis process in solid oxide regenerative fuel cells (SORFC) due to high temperature.
+The electrolyte can be O2− conducting and/or proton (H+) conducting. The state of the art for O2− conducting yttria stabilized zirconia (YSZ) based SORFC using Ni–YSZ as the hydrogen electrode and LSM (or LSM–YSZ) as the oxygen electrode has been actively studied. Dönitz and Erdle reported on the operation of YSZ electrolyte cells with current densities of 0.3 A cm−2 and 100% Faraday efficiency at only 1.07 V. The recent study by researchers from Sweden shows that ceria-based composite electrolytes, where both proton and oxide ion conductions exist, produce high current output for fuel cell operation and high hydrogen output for electrolysis operation. Zirconia doped with scandia and ceria (10Sc1CeSZ) is also investigated as potential electrolyte in SORFC for hydrogen production at intermediate temperatures(500-750 °C). It is reported that 10Sc1CeSZ shows good behavior and produces high current densities, with suitable electrodes.Current density–voltage ( j–V) curves and impedance spectra are investigated and recorded. Impedance
+spectra are realized applying an ac current of 1–2A RMS (root-mean-square) in the frequency range from 30 kHz
+to 10−1 Hz. Impedance spectra shows that the resistance is high at low frequencies(<10 kHz) and near zero at high frequencies(>10 kHz).  Since high frequency corresponds to electrolyte activities, while low frequencies corresponds to electrodes process, it can be deduced that only a small fraction of the overall resistance is from the electrolyte and most resistance comes from anode and cathode. Hence, developing high performance electrodes are essential for high efficiency SORFC. Area specific resistance can be obtained from the slope of j-V curve. Commonly used/tested electrodes materials are nickel/zirconia cermet (Ni/YSZ) and lanthanum-substituted strontium titanate/ceria composite for SORFC cathode, and lanthanum strontium manganite (LSM) for SORFC anode. Other anode materials can be lanthanum strontium ferrite
+(LSF), lanthanum strontium copper ferrite and lanthanum strontium cobalt ferrite. Studies show that Ni/YSZ electrode was less active in reverse fuel cell operation than in fuel cell operation, and this can be attributed to a diffusion-limited process in the electrolysis direction, or its susceptibility to aging in a high-steam environment,
+primarily due to coarsening of nickel particles. Therefore, alternative materials such as the titanate/ceria composite (La0.35Sr0.65TiO3–Ce0.5La0.5O2−δ)or (La0.75Sr0.25)0.95Mn0.5Cr0.5O3 (LSCM) have been proposed electrolysis cathodes. Both LSF and LSM/YSZ are reported as good anode candidates for electrolysis mode. 
+Furthermore, higher operation temperature and higher absolute humidity ratio can result in lower area specific resistance.
+
+
+== See also ==
+Glossary of fuel cell terms
+Hydrogen technologies
+Flow Battery
+
+
+== References ==
+
+
+== External links ==
+2005– PEM regenerative fuel cell energy storage system
+Data sheet Model Car with a reversible fuel cell(PDF)
+Compact Fuel Cell with Interleaved Electrolysis Layers

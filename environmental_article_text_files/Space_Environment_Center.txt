@@ -1,0 +1,28 @@
+The Space Weather Prediction Center (SWPC), named the Space Environment Center (SEC) until 2007, is a laboratory and service center of the US National Weather Service (NWS), part of the National Oceanic and Atmospheric Administration (NOAA), located in Boulder, Colorado. SWPC continually monitors and forecasts Earth's space environment, providing solar-terrestrial information. SWPC is the official source of space weather alerts and warnings for the United States.
+
+
+== Description ==
+The Space Weather Prediction Center is one of the nine National Centers for Environmental Prediction (NCEP) and provides real-time monitoring and forecasting of solar and geophysical events, conducts research in solar-terrestrial physics (i.e. heliophysics), and develops techniques for forecasting solar and geophysical disturbances. The SWPC Forecast Center is jointly operated by NOAA and the U.S. Air Force (USAF) and is the national and world warning center for disturbances that can affect people and equipment working in the space environment. SWPC works with many national and international partners who contribute data and observations.
+A few of the agencies and industry that rely on SWPC services:
+
+U.S. power grid infrastructure
+Commercial airline industry
+Department of Transportation (use of GPS)
+NASA human space flight activities (NASA relies on SWPC data to protect the $1 billion arm on the International Space Station (ISS))
+Satellite launch and operations
+U.S. Air Force operational support
+Commercial and public users (more than half a million hits per day on SWPC web sites)The Federal Aviation Administration (FAA) requires dispatchers to take into consideration HF communication degradation for each dispatched polar flight. Flights can be diverted based on SWPC solar radiation alerts if air traffic control (ATC) communication is compromised, with estimated costs as high as $100K per flight. A 23-day period in 2001 saw 25 flights diverted due to such radio blackouts.
+
+
+== See also ==
+
+Coronal mass ejection (CME)
+Spaceflight Meteorology Group (SMG)
+Boulder Geomagnetic Observatory (BOU)
+
+
+== Notes ==
+
+
+== External links ==
+Space Weather Prediction Center

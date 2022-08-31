@@ -1,0 +1,248 @@
+A low-carbon economy (LCE) or decarbonised economy is an economy based on energy sources that produce low levels of greenhouse gas (GHG) emissions. GHG emissions due to human activity are the dominant cause of observed climate change since the mid-20th century. Continued emission of greenhouse gases will cause long-lasting changes around the world, increasing the likelihood of severe, pervasive, and irreversible effects for people and ecosystems. Shifting to a low-carbon economy on a global scale could bring substantial benefits both for developed and developing countries. Many countries around the world are designing and implementing low-emission development strategies (LEDS). These strategies seek to achieve social, economic, and environmental development goals while reducing long-term greenhouse gas emissions and increasing resilience to the effects of climate change.Globally implemented low-carbon economies are therefore proposed as a precursor to the more advanced, zero-carbon economy. The GeGaLo index of geopolitical gains and losses assesses how the geopolitical position of 156 countries may change if the world fully transitions to renewable energy resources. Former fossil fuel exporters are expected to lose power, while the positions of former fossil fuel importers and countries rich in renewable energy resources is expected to strengthen.
+
+
+== Rationale and aims ==
+Nations may seek to become low-carbon or decarbonised economies as a part of a national climate change mitigation strategy.  A comprehensive strategy to mitigate climate change is through carbon neutrality.
+The aim of a LCE is to integrate all aspects of itself from its manufacturing, agriculture, transportation, and power generation, etc. around technologies that produce energy and materials with little GHG emission, and, thus, around populations, buildings, machines, and devices that use those energies and materials efficiently, and, dispose of or recycle its wastes so as to have a minimal output of GHGs. Furthermore, it has been proposed that to make the transition to an LCE economically viable we would have to attribute a cost (per unit output) to GHGs through means such as emissions trading and/or a carbon tax.
+Some nations are presently low carbon: societies that are not heavily industrialized or populated. In order to avoid climate change on a global level, all nations considered carbon-intensive societies and societies that are heavily populated might have to become zero-carbon societies and economies. EU emission trading system allows companies to buy international carbon credits, thus the companies can channel clean technologies to promote other countries to adopt low-carbon developments.
+
+
+== Benefits ==
+Low-carbon economies present multiple benefits to ecosystem resilience, trade, employment, health, energy security, and industrial competitiveness.
+
+
+=== Ecosystem resilience ===
+Low emission development strategies for the land use sector can prioritize the protection of carbon-rich ecosystems to not only reduce emissions, but also to protect biodiversity and safeguard local livelihoods to reduce rural poverty - all of which can lead to more climate resilient systems, according to a report by the Low Emission Development Strategies Global Partnership (LEDS GP). REDD+ and blue carbon initiatives are among the measures available to conserve, sustainably manage, and restore these carbon rich ecosystems, which are crucial for natural carbon storage and sequestration, and for building climate resilient communities.
+
+
+=== Economic benefits ===
+
+
+==== Job creation ====
+Transitioning to a low-carbon, environmentally and socially sustainable economies can become a strong driver of job creation, job upgrading, social justice, and poverty eradication if properly managed with the full engagement of governments, workers, and employers’ organizations.Estimates from the International Labour Organization’s Global Economic Linkages model suggest that unmitigated climate change, with associated negative impacts on enterprises and workers, will have negative effects on output in many industries, with drops in output of 2.4% by 2030 and 7.2% by 2050.Transitioning to a low-carbon economy will cause shifts in the volume, composition, and quality of employment across sectors and will affect the level and distribution of income. Research indicates that eight sectors employing around 1.5 billion workers, approximately half the global workforce, will undergo major changes: agriculture, forestry, fishing, energy, resource intensive manufacturing, recycling, buildings, and transport.During the green transition, workers in carbon-intensive industries are more likely to lose their jobs. The transition to a carbon-neutral economy will put more jobs at danger in regions with higher percentages of employment in carbon-intensive industries. Employment opportunities by the green transition are associated with the use of renewable energy sources or building activity for infrastructure improvements and renovations.
+
+
+==== Business competitiveness ====
+Low emission industrial development and resource efficiency can offer many opportunities to increase the competitiveness of economies and companies. According to the Low Emission Development Strategies Global Partnership (LEDS GP), there is often a clear business case for switching to lower emission technologies, with payback periods ranging largely from 0.5–5 years, leveraging financial investment.
+
+
+==== Improved trade policy ====
+Trade and trade policies can contribute to low-carbon economies by enabling more efficient use of resources and international exchange of climate-friendly goods and services. Removing tariffs and nontariff barriers to trade in clean energy and energy efficiency technologies are one such measure. In a sector where finished products consist of many components that cross borders numerous times - a typical wind turbine, for example, contains up to 8,000 components - even small tariff cuts would reduce costs. This would make the technologies more affordable and competitive in the global market, particularly when combined with a phasing out of fossil fuel subsidies.
+
+
+== Energy policy ==
+
+
+=== Renewable energy and energy efficiency ===
+
+Recent advances in technology and policy will allow renewable energy and energy efficiency to play major roles in displacing fossil fuels, meeting global energy demand while reducing carbon dioxide emissions. Renewable energy technologies are being rapidly commercialized and, in conjunction with efficiency gains, can achieve far greater emissions reductions than either could independently.Renewable energy is energy that comes from natural resources such as sunlight, wind, rain, tides, and geothermal heat, which are renewable (naturally replenished). In 2015, about 19% of global final energy consumption came from renewables. During the five years from the end of 2004 through 2009, worldwide renewable energy capacity grew at rates of 10–60 percent annually for many technologies. For wind power and many other renewable technologies, growth accelerated in 2009 relative to the previous four years. More wind power capacity was added during 2009 than any other renewable technology. However, grid-connected photovoltaics increased the fastest of all renewables technologies, with a 60 percent annual average growth rate for the five-year period.Energy for power, heat, cooling, and mobility is the key ingredient for development and growth, with energy security a prerequisite economic growth, making it arguably the most important driver for energy policy. Scaling up renewable energy as part of a low emission development strategy can diversify a country's energy mixes and reduces dependence on imports. In the process of decarbonizing heat and transport through electrification, potential changes to electricity peak demand need to be anticipated whilst switching to alternative technologies such as heat pumps for electric vehicles.Installing local renewable capacities can also lower geopolitical risks and exposure to fuel price volatility, and improve the balance of trade for importing countries (noting that only a handful of countries export oil and gas). Renewable energy offers lower financial and economic risk for businesses through a more stable and predictable cost base for energy supply.Energy efficiency gains in recent decades have been significant, but there is still much more that can be achieved. With a concerted effort and strong policies in place, future energy efficiency improvements are likely to be very large. Heat is one of many forms of "energy wastage" that could be captured to significantly increase useful energy without burning more fossil fuels.
+
+
+=== Sustainable biofuels ===
+Biofuels, in the form of liquid fuels derived from plant materials, are entering the market, driven by factors such as oil price spikes and the need for increased energy security. However, many of the biofuels that are currently being supplied have been criticised for their adverse impacts on the natural environment, food security, and land use.The challenge is to support biofuel development, including the development of new cellulosic technologies, with responsible policies and economic instruments to help ensure that biofuel commercialization is sustainable. Responsible commercialization of biofuels represents an opportunity to enhance sustainable economic prospects in Africa, Latin America and Asia.Biofuels have a limited ability to replace fossil fuels and should not be regarded as a ‘silver bullet’ to deal with transport emissions. However, they offer the prospect of increased market competition and oil price moderation. A healthy supply of alternative energy sources will help to combat gasoline price spikes and reduce dependency on fossil fuels, especially in the transport sector. Using transportation fuels more efficiently is also an integral part of a sustainable transport strategy.
+
+
+=== Nuclear power ===
+Nuclear power has been offered as the primary means to achieve a LCE. In terms of large industrialized nations, mainland France, due primarily to 75% of its electricity being produced by nuclear power, has the lowest carbon dioxide production per unit of GDP in the world and it is the largest exporter of electricity in the world, earning it approximately €3 billion annually in sales.Concern is often expressed with the matter of spent nuclear fuel storage and security; although the physical issues are not large, the political difficulties are significant. The liquid fluoride thorium reactor (LFTR) has been suggested as a solution to the concerns posed by conventional nuclear.France reprocesses their spent nuclear fuel at the La Hague site since 1976 and has also treated spent nuclear fuel from France, Japan, Germany, Belgium, Switzerland, Italy, Spain, and the Netherlands.
+Some researchers have determined that achieving substantial decarbonization and combating climate change would be much more difficult without increasing nuclear power. Nuclear power is a reliable form of energy that is available 24/7, relatively safe, and can be expanded on a large scale. Nuclear power plants can replace fossil fuel-based power plants — shifting to a low carbon economy.
+As of 2021, the expansion of nuclear energy as a method of achieving a low-carbon economy has varying degrees of support. Agencies and organizations that believe decarbonization is not possible without some nuclear power expansion include the United Nations Economic Commission for Europe, the International Energy Agency (IEA), the International Atomic Energy Agency, and the Energy Impact Center (EIC). Both IEA and EIC believe that widespread decarbonization must occur by 2040 in order mitigate the adverse effects of climate change and that nuclear power must play a role. The latter organization suggests that net-negative carbon emissions are possible using nuclear power to fuel carbon capture technology.
+
+
+=== Smart grid ===
+One proposal from Karlsruhe University developed as a virtual power station is the use of solar and wind energy for base load with hydro and biogas for make up or peak load. Hydro and biogas are used as grid energy storage. This requires the development of a smart intelligent grid hopefully including local power networks than use energy near the site of production, thereby reducing the existing 5% grid loss.
+
+
+== Decarbonisation technologies ==
+There are five technologies commonly identified in decarbonisation:
+
+Electrifying heat as furnaces are powered by electricity rather than burning fuels. Green energy must still be used.
+The use of hydrogen as a furnace steam, a chemical feedstock, or a reactant in chemical processes.
+The use of biomass as a source of energy or feedstock. In other words, replacing coal with bio coal or gas with bio-gas. One example is charcoal, which is made by converting wood into coal and has a CO2 footprint of zero.
+Carbon capture and storage. This is where greenhouse gases are isolated from other natural gases, compressed, and injected into the earth to avoid being emitted into the atmosphere.
+Carbon capture and usage. The aim of this method is to turn industrial gases into something valuable, such as ethanol or raw materials for the chemical industry.
+
+
+== Decarbonisation plans that get to zero CO2 emissions ==
+A comprehensive decarbonisation plan describes how to generate enough green energy to replace coal, oil, and natural gas; and takes into consideration factors such as increasing GDP, increasing standard of living, and increasing efficiencies. Each year the world consumes 583 exajoules (EJ) of heat energy. This corresponds to 56,000 TWh of electricity when heat is converted to electricity via a 35% efficient turbine. To decarbonise, the world needs to generate this energy without emitting CO2. To get a sense of how large this is, one can look at how many Hoover Dams, London Arrays and nuclear reactors corresponds to this amount of energy:
+
+22,600 London Arrays, a wind farm with 175 large windmills
+13,500 Hoover Dams, a large hydroelectric dam in Nevada (based on average production between 1999 and 2008)
+21-times more than the world's current installed base of 400 GWe of nuclear powerBelow are example global decarbonization plans:
+
+Chapter 11 of How to Avoid a Climate Disaster, by Bill Gates
+Power Electronics' Plan To Get to Zero CO2 Emissions
+A Global Decarbonization Plan, by the Manhattan 2 ProjectBelow are example plans that decarbonize the United States:
+
+The Net-Zero America Project, by Princeton University
+Getting To Zero, by the Center for Climate and Energy Solutions
+America's Zero Carbon Action Plan, by the Sustainable Development Solutions Network
+"Energy Decarb" scenario within DOE's 2021 Solar Futures Study.Tools that create decarbonization plans are in various stages of development:
+
+C-Roads Climate Policy Simulator
+Power Electronics' Develop Your Own Decarbonization Plan
+
+
+== Carbon-neutral hydrocarbons ==
+
+
+== Carbon capture and storage ==
+
+
+== Combined heat and power ==
+Combined Heat and Power (CHP) is a technology which by allowing the more efficient use of fuel will at least reduce carbon emissions; should the fuel be biomass or biogas or hydrogen used as an energy store then in principle it can be a zero carbon option. CHP can also be used with a nuclear reactor as the energy source; there are examples of such installations in the far North of the Russian Federation.
+
+
+== Decarbonisation activity by sector ==
+
+
+=== Primary sector ===
+
+
+==== Agriculture ====
+
+Most of the agricultural facilities in the developed world are mechanized due to rural electrification.  Rural electrification has produced significant productivity gains, but it also uses a lot of energy.  For this and other reasons (such as transport costs) in a low-carbon society, rural areas would need available supplies of renewably produced electricity.Irrigation can be one of the main components of an agricultural facility's energy consumption.  In parts of California, it can be up to 90%.  In the low carbon economy, irrigation equipment will be maintained and continuously updated and farms will use less irrigation water.
+Livestock operations can also use a lot of energy depending on how they are run.  Feedlots use animal feed made from corn, soybeans, and other crops.  Energy must be expended to produce these crops, process, and transport them.  Free-range animals find their own vegetation to feed on.  The farmer may expend energy to take care of that vegetation, but not nearly as much as the farmer growing cereal and oil-seed crops.
+Many livestock operations currently use a lot of energy to water their livestock.  In the low-carbon economy, such operations will use more water conservation methods such as rainwater collection, water cisterns, etc., and they will also pump/distribute that water with on-site renewable energy sources (most likely wind and solar).
+Due to rural electrification, most agricultural facilities in the developed world use a lot of electricity.  In a low-carbon economy, farms will be run and equipped to allow for greater energy efficiency.  Changes in the dairy industry include heat recovery, solar hearing, and use of biodigesters:Replacing livestock with plant-based alternatives is another way of reducing our carbon emissions. The carbon footprint of livestock is large - it provides just 18% of total calories but takes up 83% of farmland.
+
+
+==== Forestry ====
+
+Protecting forests provides integrated benefits to all, ranging from increased food production, safeguarded local livelihoods, protected biodiversity and ecosystems provided by forests, and reduced rural poverty. Adopting low emission strategies for both agricultural and forest production also mitigates some of the effects of climate change.In the low-carbon economy, forestry operations will be focused on low-impact practices and regrowth.  Forest managers will make sure that they do not disturb soil-based carbon reserves too much.  Specialized tree farms  will be the main source of material for many products.  Quick maturing tree varieties will be grown on short rotations in order to maximize output.
+
+
+==== Mining ====
+Flaring and venting of natural gas in oil wells is a significant source of greenhouse gas emissions. Its contribution to greenhouse gases has declined by three-quarters in absolute terms since a peak in the 1970s of approximately 110 million metric tons/year, and in 2004 accounted for about 1/2 of one percent of all anthropogenic carbon dioxide emissions.The World Bank estimates that 134 billion cubic meters of natural gas are flared or vented annually (2010 datum), an amount equivalent to the combined annual gas consumption of Germany and France or enough to supply the entire world with gas for 16 days.
+This flaring is highly concentrated: 10 countries account for 70% of emissions, and twenty for 85%.
+
+
+=== Secondary sector ===
+
+
+==== Basic metals processing ====
+high efficiency electric motors
+induction furnaces
+heat recovery
+
+
+==== Nonmetallic product processing ====
+variable speed drives
+injection molding - replace hydraulic with electric servo motors
+glass melting furnace - heating with green generated electric power, bio fuels, hydrogen
+
+
+==== Wood processing ====
+
+high efficiency motors
+high efficiency fans
+dehumidifier driers
+
+
+==== Paper and pulp making ====
+
+variable speed drives
+high efficiency motors
+
+
+==== Food processing ====
+
+high efficiency boilers
+heat recovery e.g. refrigeration
+solar hot water for pre-heating
+bio fuels e.g. tallow, wood
+
+
+=== Tertiary sector ===
+
+
+==== Building and Construction ====
+In 2018, building construction and operations accounted for 39% of global greenhouse gas emissions. The construction industry has seen marked advances in building performance and energy efficiency over recent decades, but there continues to be a large need for additional improvement in order to decarbonize this sector. International and government organizations have taken actions to promote the decarbonization of buildings, including the United Nations Framework Convention on Climate Change (UNFCCC) signed in 1992, the Kyoto Protocol signed in 1997, and many countries' Nationally Determined Contributions (NDC) of the Paris Climate Agreement which was signed in 2016.The largest contributor to building sector emissions (49% of total) is the production of electricity for use in buildings. To decarbonize the building sector, the production of electrical energy will need to reduce its dependence on fossil fuels such as coal and natural gas, and instead shift to carbon-free alternatives like solar, wind, and nuclear. Currently many countries are heavily dependent on fossil fuels for electricity generation. In 2018, 61% of US electricity generation was produced by fossil fuel power plants (23% by coal and 38% by natural gas).Of global building sector GHG emissions, 28% are produced during the manufacturing process of building materials such as steel, cement (a key component of concrete), and glass.  The conventional process inherently related to the production of steel and cement results in large amounts of CO2 emitted. For example, the production of steel in 2018 was responsible for 7 to 9% of the global CO2 emissions. However, these industries lend themselves very well for carbon capture and storage and carbon capture and utilization technology as the CO2 is available in large concentration in an exhaust gas, which is considered a so-called point source. GHG emissions which are produced during the mining, processing, manufacturing, transportation and installation of building materials are referred to as the embodied carbon of a material. The embodied carbon of a construction project can be reduced by using low-carbon materials for building structures and finishes, reducing demolition, and reusing buildings and construction materials whenever possible.The remaining 23% of global building sector GHG emissions are produced directly on site during building operations. These emissions are produced by fossil fuels such as natural gas which are burned on site to generate hot water, provide space heating, and supply cooking appliances. These pieces of equipment will need to be replaced by carbon-free alternatives such as heat pumps and induction cooktops to decarbonize the building sector.
+
+
+==== Retail ====
+Retail operations in the low-carbon economy will have several new features. One will be high-efficiency lighting such as compact fluorescent, halogen, and eventually LED light sources. Many retail stores will also feature roof-top solar panel arrays. These make sense because solar panels produce the most energy during the daytime and during the summer. These are the same times that electricity is the most expensive and also the same times that stores use the most electricity.
+
+
+==== Transportation ====
+
+Sustainable, low-carbon transport systems are based on minimizing travel and shifting to more environmentally (as well as socially and economically) sustainable mobility, improving transport technologies, fuels and institutions. Decarbonisation of mobility by means of:
+
+More energy efficiency and alternative propulsion:
+Increased focus on fuel efficient vehicle shapes and configurations, with more vehicle electrification, particularly through battery electric vehicles (BEV) or all-electric vehicles
+More alternative and flex-fuel vehicles (based on local conditions and availability)
+Driver training for more fuel efficiency.
+Low-carbon biofuels cellulosic (biodiesel, bioethanol, biobutanol)
+Petroleum fuel surcharges will be a more significant part of consumer costs.
+Less international movement of physical objects, despite more overall trade (as measure by value of goods)
+Greater use of marine and electric rail transport, less use of air and truck transport.
+Increased non-motorised transport (i.e. walking and cycling) and public transport usage, less reliance on private motor vehicles.
+More pipeline capacity for common fluid commodities such as water, ethanol, butanol, natural gas, petroleum, and hydrogen (in addition to gasoline and diesel).Sustainable transport has many co-benefits that can accelerate local sustainable development. According to a series of reports by the Low Emission Development Strategies Global Partnership (LEDS GP), low carbon transport can help create jobs, improve commuter safety through investment in bicycle lanes and pedestrian pathways, make access to employment and social opportunities more affordable and efficient. It also offers a practical opportunity to save people's time and household income as well as government budgets, making investment in sustainable transport a 'win-win' opportunity.
+
+
+==== Health services ====
+There have been some moves to investigate the ways and extent to which health systems contribute to greenhouse gas emissions and how they may need to change to become part of a low-carbon world.  The Sustainable Development Unit of the NHS in the UK is one of the first official bodies to have been set up in this area, whilst organisations such as the Campaign for Greener Healthcare are also producing influential changes at a clinical level.   This work includes
+
+Quantification of where the health services emissions stem from.
+Information on the environmental impacts of alternative models of treatment and service provisionSome of the suggested changes needed are:
+
+Greater efficiency and lower ecological impact of energy, buildings, and procurement choices (e.g., in-patient meals, pharmaceuticals, and medical equipment).
+A shift from focusing solely on cure to prevention, through the promotion of healthier, lower-carbon lifestyles, e.g. diets lower in red meat and dairy products, walking or cycling wherever possible, better town planning to encourage more outdoor lifestyles.
+Improving public transport and liftsharing options for transport to and from hospitals and clinics.
+
+
+==== Tourism ====
+Low-carbon tourism includes travels with low energy consumption, and low CO2 and pollution emissions. Change of personal behavior to more low-carbon oriented activities is mostly influenced by both individual awareness and attitudes, as well as external social aspect, such as culture and environment. Studies indicate that educational level and occupation influence an individual perception of low-carbon tourism.
+
+
+== Actions taken by countries ==
+A good overview of the history of international efforts towards a low-carbon economy, from its initial seed at the inaugural UN Conference on the Human Environment in Stockholm in 1972, has been given by David Runnals.
+On the international scene, the most prominent early step in the direction of a low-carbon economy was the signing of the Kyoto Protocol, which came into force in 2005, under which most industrialized countries committed to reduce their carbon emissions. Europe is the leading geopolitical continent in defining and mobilising decarbonisation policies. For instance, the UITP - an organisation advocating sustainable mobility and public transport - has an EU office, but less well developed contacts with, for example, the US. The European Union Committee of the UITP wants to promote decarbonisation of urban mobility in Europe.  However, the 2014 Global Green Economy Index™ (GGEI) ranks 60 nations on their green economic performance, finding that the Nordic countries and Switzerland have the best combined performance around climate change and green economy.
+In Europe, there are differences between regions on how the transition to a green economy functions. Many businesses in cohesion regions are now concerned that the shift to a low-carbon economy would affect their industry. In less developed and transition areas, more people tend to view the climate shift as a risk than an opportunity. Only in non-cohesion regions, a larger proportion of businesses see the change as overall advantageous.
+
+
+=== China ===
+In China, the city of Dongtan is to be built to produce zero net greenhouse gas emissions.The Chinese State Council announced in 2009 it aimed to cut China's carbon dioxide emissions per unit of GDP by 40%-45% in 2020 from 2005 levels. However carbon dioxide emissions were still increasing by 10% a year by 2013 and China was emitting more carbon dioxide than the next two biggest countries combined (U.S.A. and India). Total carbon dioxide emissions were projected to increase until 2030.
+
+
+=== Costa Rica ===
+Costa Rica sources much of its energy needs from renewables and is undertaking reforestation projects. In 2007, the Costa Rican government announced the commitment for Costa Rica to become the first carbon neutral country by 2021.
+
+
+=== Iceland ===
+
+Iceland began utilising renewable energy early in the 20th century and so since has been a low-carbon economy. However, since dramatic economic growth, Iceland's emissions have increased significantly per capita. As of 2009, Iceland energy is sourced from mostly geothermal energy and hydropower, renewable energy in Iceland and, since 1999, has provided over 70% of the nation's primary energy and 99.9% of Iceland's electricity. As a result of this, Iceland's carbon emissions per capita are 62% lower than those of the United States despite using more primary energy per capita, due to the fact that it is renewable and low-cost. Iceland seeks carbon neutrality and expects to use 100% renewable energy by 2050 by generating hydrogen fuel from renewable energy sources.
+
+
+=== Peru ===
+The Economic Commission for Latin America and the Caribbean (ECLAC) estimates that economic losses related to climate change for Peru could reach over 15% of national gross domestic product (GDP) by 2100. Being a large country with a long coastline, snow-capped mountains and sizeable forests, Peru's varying ecosystems are extremely vulnerable to climate change. Several mountain glaciers have already begun to retreat, leading to water scarcity in some areas. In the period between 1990 and 2015, Peru experienced a 99% increase in per capita carbon emissions from fossil fuel and cement production, marking one of the largest increases amongst South American countries.Peru brought in a National Strategy on Climate Change in 2003. It is a detailed accounting of 11 strategic focuses that prioritize scientific research, mitigation of climate change effects on the poor, and creating Clean Development Mechanism (CDM) mitigation and adaptation policies.In 2010, the Peruvian Ministry of Environment published a Plan of Action for Adaptation and Mitigation of Climate Change. The Plan categorises existing and future programmes into seven action groups, including: reporting mechanisms on GHG emissions, mitigation, adaptation, research and development of technology of systems, financing and management, and public education. It also contains detailed budget information and analysis relating to climate change.
+In 2014, Peru hosted the Twentieth Conference of the Parties of the United Nations Framework Convention on Climate Change (UNFCCC COP20) negotiations. At the same time, Peru enacted a new climate law which provides for the creation of a national greenhouse gas inventory system called INFOCARBONO. According to the Low Emission Development Strategies Global Partnership (LEDS GP), INFOCARBONO is a major transformation of the country's greenhouse gas management system. Previously, the system was under the sole control of the Peruvian Ministry of the Environment. The new framework makes each relevant ministry responsible for their own share of greenhouse gas management.
+
+
+=== United Kingdom ===
+
+In the United Kingdom, the Climate Change Act 2008 outlining a framework for the transition to a low-carbon economy became law on November 26, 2008. It was the world's first long-term legislation to reduce carbon emissions. This act requires an 80% cut in the UK's carbon emissions by 2050 (compared to 1990 levels), with an intermediate target of between 26% and 32% by 2020.  Thus, the UK became the first country to set such a long-range and significant carbon reduction target into law.
+A meeting at the Royal Society on 17–18 November 2008 concluded that an integrated approach, making best use of all available technologies, is required to move toward a low-carbon future. It was suggested by participants that it would be possible to move to a low-carbon economy within a few decades, but that 'urgent and sustained action is needed on several fronts'.In June 2012, the UK coalition government announced the introduction of mandatory carbon reporting, requiring around 1,100 of the UK's largest listed companies to report their greenhouse gas emissions every year. Deputy Prime Minister Nick Clegg confirmed that emission reporting rules would come into effect from April 2013 in his piece for The Guardian.In July 2014, the UK Energy Savings Opportunity Scheme (ESOS) came into force.  This requires all large businesses in the UK to undertake mandatory assessments looking at energy use and energy efficiency opportunities at least once every four years.The low carbon economy has been described as a "UK success story", accounting for more than £120 billion in annual sales and employing almost 1 million people. A 2013 report suggests that over a third of the UK's economic growth in 2011/12 was likely to have come from green business. This data is complementary to the strong correlation between GDP per capita and national rates of energy consumption.
+
+
+== See also ==
+
+Carbon neutrality
+Carbon-neutral fuel
+Fossil fuel phase-out
+Life-cycle greenhouse gas emissions of energy sources
+Vehicle emission standard
+Emissions trading
+Environmental economics
+Global Green Growth Institute
+Green industrial policy
+Low-energy house
+Low-carbon diet
+Low-carbon fuel standard
+Sustainable energy
+World energy consumption
+
+
+== References ==
+
+
+== External links ==

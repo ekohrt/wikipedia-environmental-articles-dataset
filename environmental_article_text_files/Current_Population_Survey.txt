@@ -1,0 +1,74 @@
+The Current Population Survey (CPS) is a monthly survey of about 60,000 U.S. households conducted by the United States Census Bureau for the Bureau of Labor Statistics (BLS). The BLS uses the data to publish reports early each month called the Employment Situation. This report provides estimates of the unemployment rate and the numbers of employed and unemployed people in the United States based on the CPS. A readable Employment Situation Summary is provided monthly.  Annual estimates include employment and unemployment in large metropolitan areas. Researchers can use some CPS microdata to investigate these or other topics.
+The survey asks about the employment status of each member of the household 15 years of age or older as of a particular calendar week. Based on responses to questions on work and job search activities, each person 16 years and over in a sample household is classified as employed, unemployed, or not in the labor force.
+The CPS began in 1940, and responsibility for conducting the CPS was given to the Census Bureau in 1942. In 1994 the CPS was redesigned. CPS is a survey that is: employment-focused, enumerator-conducted, continuous, and cross-sectional. The BLS increased the sample size by 10,000 as of July 2001. The sample represents the civilian noninstitutional population.
+
+
+== Methodology ==
+Approximately 60,000 households are eligible for the CPS. Sample households are selected by a multistage stratified statistical sampling scheme. A household is interviewed for 4 successive months, then not interviewed for 8 months, then returned to the sample for 4 months after that. An adult member of each household provides information for all members of the household.
+As part of the demographic sample survey redesign, the CPS is redesigned once a decade, after the decennial census. The most recent CPS sample redesign began in April 2014.Respondents are generally asked about their employment as of the week of the month that includes the 12th. To avoid holidays, this reference week is sometimes adjusted.  All respondents are asked about the same week.
+
+
+== Employment classification ==
+
+People are classified as employed if they did any work at all as paid employees during the reference week; worked in their own business, profession, or on their own farm; or worked without pay at least 15 hours in a family business or farm.  People are also counted as employed if they were temporarily absent from their jobs because of illness, bad weather, vacation, labor-management disputes, or personal reasons.
+People are classified as unemployed if they meet all of the following criteria: 
+
+They were not employed during the reference week
+They were available for work at that time
+They made specific efforts to find employment during the 4-week period ending with the reference week. (The exception to this category covers persons laid off from a job and expecting recall)The unemployment data derived from the household survey doesn't relate or depend on the eligibility of the worker to receive unemployment insurance benefits.
+Those who are not classified as employed or unemployed are not counted as part of the labor force. These people—those who have no job and are not looking for one—are counted as "not in the labor force". Many who are not in the labor force are going to school or are retired. Family responsibilities keep others out of the labor force. "Discouraged workers" are a subset of those who are "not in the labor force".
+
+
+== 1994 revisions ==
+In 1994 the administration and questions in the CPS were overhauled. Prior to 1994, the alternate measures of unemployment had different names because the BLS drastically revised the questions in the CPS and renamed the measures: U3 and U4 were eliminated; the official rate U5 remained the same measure but was renamed U3; U6 and U7 were revised and renamed U5 and U6.CPS-based measures of unemployment before 1994:
+
+U-1 Persons unemployed 15 weeks or longer, as a percent of the civilian labor force
+U-2 Job losers, as a percent of the civilian labor force
+U-3 Unemployed persons aged 25 and older, as a percent of the civilian labor force aged 25 and older (the unemployment rate for persons 25 and older)
+U-4 Unemployed persons seeking full-time jobs, as a percent of the full-time labor force (the unemployment rate for full-time workers)
+U-5 Total unemployed persons, as a percent of the civilian labor force (official unemployment rate)
+U-6 Total persons seeking full-time jobs, plus one-half of persons seeking part-time jobs, plus one-half of persons employed part-time for economic reasons, as a percent of the civilian labor force less one-half of the part-time labor force
+U-7 Total persons seeking full-time jobs, plus one-half of persons seeking part-time jobs, plus one-half of persons employed part-time for economic reasons, plus discouraged workers, as a percent of the civilian labor force plus discouraged workers less one-half of the part-time labor forceCPS-based measures of unemployment after 1994:
+
+U-1 Persons unemployed 15 weeks or longer, as a percent of the civilian labor force
+U-2 Job losers and persons who completed temporary jobs, as a percent of the civilian labor force
+U-3 Total unemployed, as a percent of the civilian labor force (official unemployment rate)
+U-4 Total unemployed plus discouraged workers, as a percent of the civilian labor force plus discouraged workers
+U-5 Total unemployed, plus discouraged workers, plus all other marginally attached workers, as a percent of the civilian labor force plus all marginally attached workers
+U-6 Total unemployed, plus all marginally attached workers, plus total employed part-time for economic reasons, as a percent of the civilian labor force plus all marginally attached workersMarginally attached workers are persons who currently are neither working nor looking for work but indicate that they want and are available for a job and have looked for work in the recent past. In addition, marginally attached workers have actively sought work in the past 12 months (e.g. they replied to a "wanted" ad) but have not actively sought work in the past 4 weeks.
+Discouraged workers, a subset of the marginally attached, have given a job-market related reason for not currently looking for a job (e.g. they believe that no work was available). This group is about 50 percent smaller than the marginally attached group." Persons employed part-time for economic reasons are those who want full-time work and are available to take a full-time job; they are sometimes said to be underemployed.
+
+
+== Data available ==
+The CPS reports:
+
+Employment status of the civilian noninstitutional population 16 years and over by age, sex, race, Hispanic origin, marital status, family relationship, and Vietnam-era veteran status.
+Employed persons by occupation, industry, and class of worker, hours of work, full- or part-time status, and reasons for working part-time.
+Employed multiple jobholders by occupation, industry, numbers of jobs held, and full- or part-time status of multiple jobs.
+Unemployed persons by occupation, industry, class of worker of last job, duration of unemployment, reason for unemployment, and methods used to find employment.
+Discouraged workers and other persons not in the labor force.
+Special topics such as the labor force status of particular subgroups of the population (e g., women maintaining families, working women with children, displaced workers, and disabled veterans).
+Work experience, occupational mobility, job tenure, educational attainment, and school enrollment of workers.
+Information on weekly and hourly earnings by detailed demographic group, occupation, education, union affiliation, and full- and part-time employment status.The survey also reports the labor force participation rate, which is the labor force as a percentage of the population, and the ratio of the employed to the total population of the United States.
+Although the primary purpose of the CPS is to record employment information, the survey fulfills a secondary role in providing demographic information about the United States population. CPS microdata for the period since 1962 are freely available through the Integrated Public Use Microdata Series.
+
+
+== CPS Annual Social and Economic Supplement (ASEC)- the March Supplement ==
+Since 1948, the CPS has included supplemental questions (at first, in April; later, in March) on income received in the previous calendar year, which are used to estimate the data on income and work experience.  These data are the source of the annual Census Bureau report on income, poverty, and health insurance coverage.
+Other regular or occasional survey supplement topics, in various months and years, have included after-tax money income, benefits that are not cash, displaced workers, job tenure, occupational mobility, temporary and contingent work, adult education, volunteering, tobacco use, food availability, fertility, and information about veterans.
+
+
+== See also ==
+List of household surveys in the United States
+
+
+== References ==
+
+
+== Further reading ==
+Burkhauser, R. V.; Feng, S.; Jenkins, S. P.; Larrimore, J. (2011). "Estimating trends in US income inequality using the Current Population Survey: the importance of controlling for censoring". Journal of Economic Inequality. 9 (3): 393–415. doi:10.1007/s10888-010-9131-6. S2CID 195332132.
+
+
+== External links ==
+Employment Situation news release, 1966–present
+Current Population Survey website

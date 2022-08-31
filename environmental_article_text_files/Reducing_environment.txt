@@ -1,0 +1,25 @@
+A reducing atmosphere is an atmospheric condition in which oxidation is prevented by removal of oxygen and other oxidizing gases or vapours, and which may contain actively reducing gases such as hydrogen, carbon monoxide, and gases such as hydrogen sulfide that would be oxidized by any present oxygen. Although early in its history the Earth had a reducing atmosphere, it now instead has an oxidizing atmosphere with molecular oxygen (dioxygen, O2) as the primary oxidizing agent. 
+
+
+== Foundry operations ==
+The principal mission of iron foundry is the conversion of iron oxides (purified iron ores) to iron metal.  This reduction is usually effected using a reducing atmosphere consisting of some mixture of natural gas, hydrogen (H2), and carbon monoxide.  The byproduct is carbon dioxide.
+
+
+== Metal processing ==
+In metal processing, a reducing atmosphere is used in annealing ovens for relaxation of metal stresses without corroding the metal. A non-oxidizing gas, usually nitrogen or argon, is typically used as a carrier gas so that diluted amounts of reducing gases may be used. Typically, this is achieved through using the combustion products of fuels and tailoring the ratio of CO:CO2. However, other common reducing atmospheres in the metal processing industries consist of dissociated ammonia, vacuum, and/or direct mixing of appropriately pure gases of N2, Ar, and H2.A reducing atmosphere is also used to produce specific effects on ceramic wares being fired. A reduction atmosphere is produced in a fuel fired kiln by reducing the draft and depriving the kiln of oxygen. This diminished level of oxygen causes incomplete combustion of the fuel and raises the level of carbon inside the kiln. At high temperatures the carbon will bond with and remove the oxygen in the metal oxides used as colorants in the glazes. This loss of oxygen results in a change in the color of the glazes because it allows the metals in the glaze to be seen in an unoxidized form. A reduction atmosphere can also affect the color of the clay body. If iron is present in the clay body, as it is in most stoneware, then it will be affected by the reduction atmosphere as well.
+In most commercial incinerators, exactly the same conditions are created to encourage the release of carbon bearing fumes. These fumes are then oxidized in reburn tunnels where oxygen is injected progressively. The exothermic oxidation reaction maintains the temperature of the reburn tunnels. This system allows lower temperatures to be employed in the incinerator section, where the solids are volumetrically reduced.
+
+
+== Origin of life ==
+The Atmosphere of early Earth is widely speculated to have been reducing.  The Miller-Urey experiment, related to some hypotheses for the origin of life, entailed reactions in a reducing atmosphere composed of a mixed atmosphere of methane, ammonia, and hydrogen sulfide.  Some hypotheses for the origin of life invoke a reducing atmosphere consisting of hydrogen cyanide (HCN).  Experiments show that HCN can polymerize in the presence of ammonia to give a variety of products including amino acids.The same principle applies to  Mars, Venus and Titan. This would have proven to be a good environment for cyanobacteria to evolve the first photosynthetic metabolic pathways, which gradually increased the oxygen portion of the atmosphere, changing it to what is known as an oxidizing atmosphere. With increased levels of oxygen, evolution of the more efficient aerobic respiration might have been enabled, allowing animal life to evolve and thrive.in contrast to the hypothesized early reducing atmosphere evidence exists that Hadean atmospheric oxygen levels were similar to those of today. These results suggests prebiotic building blocks were delivered from elsewhere in the galaxy. The results however do not run contrary to existing theories on life's journey from anaerobic to aerobic organisms. The results quantify the nature of gas molecules containing carbon, hydrogen, and sulphur in the earliest atmosphere, but they shed no light on the much later rise of free oxygen in the air.
+
+
+== See also ==
+Atmosphere of Earth – Gas layer surrounding Earth
+Great Oxidation Event – Paleoproterozoic surge in atmospheric oxygen
+Paleoclimatology – Study of changes in ancient climate
+Paleoatmosphere – Ancient atmosphere, particularly of Earth, in the geological past
+Redox – Chemical reaction in which oxidation states of atoms are changed
+
+
+== Notes ==

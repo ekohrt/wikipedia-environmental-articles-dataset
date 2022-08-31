@@ -1,0 +1,47 @@
+The London sewer system is part of the water infrastructure serving London, England. The modern system was developed during the late 19th century, and as London has grown the system has been expanded. It is currently owned and operated by Thames Water and serves almost all of Greater London.
+
+
+== History ==
+During the early 19th century the River Thames was an open sewer, with disastrous consequences for public health in London, including cholera epidemics. These were caused by enterotoxin-producing strains of the bacterium Vibrio cholerae. Although the contamination of the water supply was correctly diagnosed by Dr John Snow in 1849 as the method of communication, up to the outbreak of 1866 it was believed that miasma, or bad air, was responsible . Proposals to modernise the sewerage system had been made in the early 1700s but the costs of such a project deterred progress. Further proposals followed in 1856, but were again neglected due to the costs. However, after the Great Stink of 1858, Parliament realised the urgency of the problem and resolved to create a modern sewerage system.Joseph Bazalgette, a civil engineer and Chief Engineer of the Metropolitan Board of Works, was given responsibility for the work. He and his colleagues, including William Haywood, designed an extensive underground sewerage system that diverted waste to the Thames Estuary, downstream of the main centre of population. Six main interceptor sewers, totalling almost 160 km (100 miles) in length, were constructed, some incorporating stretches of London's "lost" rivers. Three of these sewers were north of the river, the southernmost, low-level one being incorporated in the Thames Embankment. The Embankment also allowed new roads, new public gardens, and the Circle line of the London Underground. Victoria Embankment was finally officially opened on 13 July 1870.The intercepting sewers, constructed between 1859 and 1865, were fed by 450 miles (720 km) of main sewers that, in turn, conveyed the contents of some 13,000 miles (21,000 km) of smaller local sewers. Construction of the interceptor system required 318 million bricks, 2.7×106 cubic metres (9.5×107 cu ft) of excavated earth and 670,000 cubic metres (24,000,000 cu ft) of concrete. The innovative use of Portland cement strengthened the tunnels, which were in good order 150 years later.Gravity allows the sewage to flow eastwards, but in places such as Chelsea, Deptford and Abbey Mills, pumping stations were built to raise the water and provide sufficient flow. Many sewers north of the Thames feed into the Northern Outfall Sewer, which transports sewage to Beckton Sewage Treatment Works. South of the river, the Southern Outfall Sewer extends to a similar facility at Crossness. Smaller sewage treatment plants also serve areas further away from central London, such as at Mogden and Edmonton.
+During the 20th century, major improvements were made to the sewerage system and to the sewage treatment provision to substantially reduce pollution of the Thames Estuary and the North Sea.
+
+
+== Modern development needs ==
+
+The original system was designed to cope with 6.5 mm (1/4") per hour of rainfall within the catchment area, and supported a smaller population than today's. London's growth has put pressure on the capacity of the sewerage system. During storms, for example, high levels of rainfall (in excess of 6 mm per hour) in a short period of time can overwhelm the system. Sewers and treatment works are unable to cope with the large volumes of rainwater entering the system. Rainwater mixes with sewage in combined sewers and excess mixed water is discharged into the Thames. If this does not happen quickly enough, localised flooding occurs (surcharge). Such sanitary sewer overflow can mean streets becoming flooded with a mixture of water and sewage, causing a health risk.
+In redeveloping the Isle of Dogs and Royal Docks areas of east London during the late 1980s and early 1990s, the London Docklands Development Corporation invested in major new drainage infrastructure to manage future sewage and surface water run-off from proposed developments. Consulting engineer Sir William Halcrow & Partners designed a system of large diameter tunnels served by new pumping stations. In the Royal Docks, approximately 16 miles (25 km) of foul and surface water drains were built, plus pumping stations at Tidal Basin (designed by Richard Rogers Partnership) and North Woolwich (architect: Nicholas Grimshaw). The Isle of Dogs drainage network is served by a stormwater pumping station situated in Stewart Street, designed by John Outram Associates.
+
+
+=== Thames Tideway Scheme ===
+
+Increasing the carrying capacity of London's sewerage system has been debated for some years. The new 'Thames Tideway' scheme includes a wide diameter storage-and-transfer tunnel (internal diameters of 7.2 m and 9 m have been suggested), 22 miles (35 km) long, underneath the riverbed of the Thames between Hammersmith in the west and Beckton/Crossness in the east. The cost of this megaproject is £4.9 billion, and it is due to be completed in 2024.
+
+
+== Literary or media references ==
+The system plays a part in English writer Neil Gaiman's 1996 novel Neverwhere.
+The system plays a part in Australian writer Michael Robotham's 2005 novel Lost (a.k.a. The Drowning Man).
+It featured as one of the Seven Wonders of the Industrial World in the BBC television series of the same name.
+Eleanor Updale's Montmorency (beginning with Montmorency: Liar Thief Gentleman?) novels are set against the backdrop of construction of the London sewerage system.
+The construction of the London sewer system is central to the plot of Anne Perry's 2006 novel Dark Assassin, in which the Great Stink is also mentioned.
+The title character from Terry Pratchett's Dodger, based on the Artful Dodger from Oliver Twist, spends much of his time in London's sewers alongside notable historical figures including Bazalgette.
+A BBC documentary entitled The Five Billion Pound Super Sewer focuses on the Thames Tideway Scheme.
+Charles Palliser's novel The Quincunx features the old, pre-Bazalgette London sewers of the early nineteenth century in an extensive sub-plot.
+
+
+== See also ==
+Fatberg
+Medical Officer of Health for London
+Metropolitan Commission of Sewers
+Tosher
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+"How Bazalgette built London's first super-sewer," by Alwyn Collinson, 26 March 2019, Museum of London
+"Construction of London's Victorian sewers: the vital role of Joseph Bazalgette," by G C Cook, The Fellowship of Postgraduate Medicine
+Tales of the underworld from The Guardian Wednesday 30 March 2005

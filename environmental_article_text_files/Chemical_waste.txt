@@ -1,0 +1,80 @@
+Chemical waste is any excess, unusable, or unwanted chemical, especially those that cause damage to human health or the environment. Chemical waste may be classified as hazardous waste, non-hazardous waste, universal waste, and household hazardous waste. Hazardous waste is a material that displays one or more of four characteristics: ignitability, corrosivity, reactivity, and toxicity. This information, along with disposal requirements, should be available on the Material Safety Data Sheet (MSDS). Chemical waste that is radioactive, radioactive waste, requires special means of handling and disposal. Biohazardous waste, although often chemical, falls into a separate category and is handled differently.
+
+
+== Laboratory chemical waste in the US ==
+
+The U.S. Environmental Protection Agency (EPA) prohibits disposing of certain materials down drains. Therefore, when hazardous chemical waste is generated in a laboratory setting, it is usually stored on-site in an appropriate waste carboys where it is later collected and disposed of by a specialist contractor in order to meet safety, health, and legislative requirements. For example, many university's Environment, Health, and Safety (EHS) divisions/departments serve the collection and oversight role.organic solvents and other organic waste is is typically incinerated. Some chemical wastes are recycled. For example, waste elemental mercury.
+
+
+=== Laboratory waste containers ===
+
+Packaging, labeling, and storage are the three requirements for disposing of chemical waste. (These guidelines are not applicable to Biohazardous and radioactive waste)
+
+
+==== Packaging ====
+For packaging, chemical liquid waste containers should only be filled up to 75% capacity to allow for vapor expansion and to reduce potential spills which could occur from moving overfilled containers. Container material must be compatible with the stored hazardous waste.
+In addition to the general packaging requirements mentioned above, incompatible materials should never be mixed in a single container (see below). Precipitates, solids, or other non-fluid wastes are typically stored separate from liquid waste.
+
+
+==== Labeling ====
+All containers should be labeled with the group name from the chemical waste category and an itemized list of the contents. All chemicals or anything contaminated with chemicals poses a significant hazard. All waste must be appropriately packaged.
+
+
+==== Storage ====
+When storing chemical wastes, the containers must be in good condition and should remain closed unless waste is being added. The container should be sturdy and leak-proof and must be labeled. All liquid waste must be stored in leak-proof containers with a screw-top or other secure lid, not parafilm or other loose-fitting lids that can become dislodged in transit. A secondary containment (e.g., flammable cabinet or large plastic bin, etc.) should be used to capture spills and leaks from the primary container and segregate incompatible hazardous wastes, such as acids and bases.
+
+
+=== Chemical compatibility guidelines ===
+main article: compatibility (chemical)
+Many chemicals may react adversely when combined. It is recommended that incompatible chemicals be stored in separate areas of the lab.Acids should be separated from alkalis, metals, cyanides, sulfides, azides, phosphides, and oxidizers, as when acids combine with these types of compounds, violent exothermic reactions can occur possibly causing flammable gas, and in some cases explosions.
+Oxidizers should be separated from acids, organic materials, metals, reducing agents, and ammonia, as when oxidizers combine with these types of compounds, flammable and sometimes toxic compounds can be created.
+
+
+== Environmental pollution ==
+
+
+=== Pharmaceuticals ===
+
+
+==== PPCPs ====
+
+
+==== River pollution ====
+
+
+=== Textile industry ===
+
+The textile industry is one of the largest polluters in the globalized world of mostly free market dominated socioeconomic systems. Chemically polluted textile wastewater degrade the quality of the soil and water. The pollution comes from the type of conduct of chemical treatments used e.g. in pretreatment, dyeing, printing, and finishing operations that many or most market-driven companies use despite "eco-friendly alternatives". Textile industry wastewater (TIWW) is considered to be one the largest polluters of water and soil ecosystems, causing e.g. "carcinogenic, mutagenic, genotoxic, cytotoxic and allergenic threats to living organisms". The textile industry uses over 8000 chemicals in its supply chain, also pollutes the environment with large amounts of microplastics and has been identified in one review as the biggest pollution causing production sector.A campaign of big clothing brands like Nike, Adidas and Puma to voluntarily reform their manufacturing supply chains to commit to achieve zero discharges of hazardous chemicals by 2020 (global goal) appears to have failed.
+
+
+=== Planetary boundary ===
+A study by "Scienmag" defines a 'planetary boundary' for novel entities such as plastic and chemical pollution. The study reported that the boundary has been crossed.
+
+
+== Regulation of Chemical Waste ==
+Chemical waste may fall under regulation such as COSHH in the United Kingdom or the Clean Water Act and Resource Conservation and Recovery Act in the United States. In the U.S., the Environmental Protection Agency (EPA) and the Occupational Safety and Health Administration (OSHA), as well as state and local regulations, also regulate chemical use and disposal.
+
+
+=== Chemical waste in Canadian aquaculture ===
+Chemical waste in oceans is becoming a major issue for marine life. There have been many studies conducted to try and prove the effects of chemicals in our oceans. In Canada, many of the studies concentrated on the Atlantic provinces, where fishing and aquaculture are an important part of the economy. In New Brunswick, a study was done on the sea urchin in an attempt to identify the effects of toxic and chemical waste on life beneath the ocean, specifically the waste from salmon farms. Sea urchins were used to check the levels of metals in the environment. It is advantageous to use green sea urchins because they are widely distributed, abundant in many locations, and easily accessible. By investigating the concentrations of metals in the green sea urchins, the impacts of chemicals from salmon aquaculture activity could be assessed and detected. Samples were taken at 25-metre intervals along a transect in the direction of the main tidal flow. The study found that there was impacts to at least 75 meters based on the intestine metal concentrations.
+
+
+== See also ==
+Industrial waste
+List of waste types
+Municipal solid waste
+Radioactive waste
+Toxic waste
+Waste management
+Water pollution
+
+
+== References ==
+
+
+== Further reading ==
+Committee on Prudent Practices for Handling, Storage, and Disposal of Chemicals in Laboratories, National Research Council (16 September 1995). "7. Disposal of Waste". Prudent Practices in the Laboratory: Handling and Disposal of Chemicals (online book). The National Academies Press. pp. 147–150. ISBN 978-0-309-05229-0.{{cite book}}:  CS1 maint: multiple names: authors list (link)
+
+
+== External links ==
+Industrial Materials Recycling – US EPA

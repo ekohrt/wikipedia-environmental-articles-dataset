@@ -1,0 +1,57 @@
+The ASTM International Resin Identification Coding System, often abbreviated RIC, is a set of symbols appearing on plastic products that identify the plastic resin out of which the product is made. It was developed in 1988 by the Society of the Plastics Industry (now the Plastics Industry Association) in the United States, but since 2008 it has been administered by ASTM International, an international standards organization.
+
+
+== History ==
+The US Society of the Plastics Industry (SPI) first introduced the system in 1988 as the "Voluntary Plastic Container Coding System". The SPI stated that one purpose of the original SPI code was to "Provide a consistent national system to facilitate recycling of post-consumer plastics." The system has been adopted by a growing number of communities implementing recycling programs, as a tool to assist in sorting plastics. In order to deal with the concerns of recyclers across the U.S., the RIC system was designed to make it easier for workers in materials recovery and recycling facilities to sort and separate items according to their resin type. Plastics must be recycled separately, with other like materials, in order to preserve the value of the recycled material, and enable its reuse in other products after being recycled.
+In its original form, the symbols used as part of the RIC consisted of arrows that cycle clockwise to form a triangle that encloses a number.
+
+1: polyethylene terephthalate (PETE) (beverage bottles, cups, other packaging, etc.)
+2: high-density polyethylene (HDPE) (bottles, cups, milk jugs, etc.)
+3: polyvinyl chloride (PVC) (pipes, siding, flooring, etc.)
+4: low-density polyethylene (LDPE) (plastic bags, six-pack rings, tubing, etc.)
+5: polypropylene (PP) (auto parts, industrial fibres, food containers, etc.)
+6: polystyrene (PS) (plastic utensils, Styrofoam, cafeteria trays, etc.)
+7:(OTHER)/(PLA) other plastics, such as acrylic, nylon, polycarbonate and polylactic acid.The numbers also indicate general ease (and thus, cost-effectiveness) of recycling, with 1 being the easiest and 6 and 7 being very difficult.When a number is omitted, the arrows arranged in a triangle resemble the universal recycling symbol, a generic indicator of recyclability. Subsequent revisions to the RIC have replaced the arrows with a solid triangle, in order to address consumer confusion about the meaning of the RIC, and the fact that the presence of a RIC symbol on an item does not necessarily indicate that it is recyclable.
+In 2008, ASTM International took over the administration of the RIC system and eventually issued ASTM D7611—Standard Practice for Coding Plastic Manufactured Articles for Resin Identification. In 2013 this standard was revised to change the graphic marking symbol of the RIC from the "chasing arrows" of the Recycling Symbol to a solid triangle instead.
+Since its introduction, the RIC has often been used as a signifier of recyclability, but the presence of a code on a plastic product does not necessarily indicate that it is recyclable any more than its absence means the plastic object is necessarily unrecyclable.
+
+
+== Table of resin codes ==
+Sources:
+Below are the RIC symbols after ASTM's 2013 revision
+
+
+== Consumer confusion ==
+In the United States, use of the RIC in the coding of plastics has led to ongoing consumer confusion about which plastic products are recyclable. When many plastics recycling programs were first being implemented in communities across the United States, only plastics with RICs "1" and "2" (polyethylene terephthalate and high-density polyethylene, respectively) were accepted to be recycled. The list of acceptable plastic items has grown since then, and in some areas municipal recycling programs can collect and successfully recycle most plastic products regardless of their RIC. This has led some communities to instruct residents to refer to the form of packaging (i.e. "bottles", "tubs", "lids", etc.) when determining what to include in a curbside recycling bin, rather than instructing them to rely on the RIC. To further alleviate consumer confusion, the American Chemistry Council launched the "Recycling Terms & Tools" program to promote standardized language that can be used to educate consumers about how to recycle plastic products.
+However, even when it is technically possible to recycle a particular plastic, it is often economically unfeasible to recycle it, and this can mislead consumers into thinking that more plastic is recycled than really is. In the U.S. in 2018, only 8.5% of plastic waste was recycled.
+
+
+== Possible new codes ==
+Modifications to the RIC are currently being discussed and developed by ASTM's D20.95 subcommittee on recycled plastics.In the U.S. the Sustainable packaging Coalition has also created a "How2Recycle" label in an effort to replace the RIC with a label that aligns more closely with how the public currently uses the RIC. Rather than indicating what type of plastic resin a product is made out of, the four "How2Recycle" labels indicate whether a plastic product is
+
+Widely Recycled (meaning greater than 60 percent of the U.S. can recycle the item through a curbside recycling program or municipal drop-off location).
+Limited (meaning only 20–60 percent of the U.S. can recycle the item through a curbside recycling program or municipal drop-off location).
+Not Yet Recycled (meaning less than 20 percent of the U.S. can recycle the item through a curbside recycling program or municipal drop-off location).
+Store Drop-Off (meaning the item can be recycled if brought to participating store drop-off locations, typically at grocery stores).The "How2Recycle" labels also encourage consumers to check with local facilities to see what plastics each municipal recycling facility can accept.
+
+
+== Computing ==
+
+The different resin identification codes can be represented by Unicode icons ♳ (U+2673), ♴ (U+2674), ♵ (U+2675), ♶ (U+2676), ♷ (U+2677), ♸ (U+2678), and ♹ (U+2679). ♺ (U+267A) is the portion of the symbol without the number or abbreviation.
+
+
+== See also ==
+List of symbols
+Recycling codes
+Plastic recycling
+Thermoplastic—softens with heat
+Thermosetting polymer—does not soften with heat
+
+
+== References ==
+
+
+== External links ==
+
+Recycling Symbols for Plastics has symbols used in plastics recycling available in various formats for use in graphics and packaging
+Resin Codes from the American Chemistry Council

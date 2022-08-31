@@ -1,0 +1,135 @@
+Agricultural biodiversity or agrobiodiversity is a subset of general biodiversity pertaining to agriculture. It can be defined as "the variety and variability of animals, plants and micro-organisms at the genetic, species and ecosystem levels that sustain the ecosystem structures, functions and processes in and around production systems, and that provide food and non-food agricultural products.” It is managed by farmers, pastoralists, fishers and forest dwellers, agrobiodiversity provides stability, adaptability and resilience and constitutes a key element of the livelihood strategies of rural communities throughout the world. Agrobiodiversity is central to sustainable food systems and sustainable diets. The use of agricultural biodiversity can contribute to food security, nutrition security, and livelihood security, and it is critical for climate adaptation and climate mitigation.
+
+
+== Etymology ==
+It is not clear when exactly the term agrobiodiversity was coined nor by whom. The 1990 annual report of the International Board for Plant Genetic Resources (IBPGR, now Bioversity International) is one of the earliest references to biodiversity in the context of agriculture. Most references to agricultural biodiversity date from the late 1990s onwards.
+While similar, different definitions are used by different bodies to describe biodiversity in connection with food production. CGIAR tends to use agricultural biodiversity or agrobiodiversity, while the Food and Agriculture Organization of the UN (FAO) uses 'biodiversity for food and agriculture' and the Convention on Biological Diversity (CBD) uses the term 'agricultural diversity'. The CBD more or less (but not entirely) excludes marine aquatic organisms and forestry in its usage because they have their own groups and international frameworks for discussion of international policies and actions. Decision V/5 of the CBD provides the framing description.
+
+
+== Types ==
+
+
+=== Crop biodiversity ===
+
+
+=== Livestock biodiversity ===
+
+
+== Levels ==
+
+
+=== Genetic diversity ===
+
+Genetic diversity refers to the variety and variability within and between species. It can refer to the naturally occurring genetic variability within and between populations of a species, for example wild relatives of food crops, or to the variability created by humans, for example farmer-developed traditional crop varieties called landraces, or commercially bred varieties of a crop (e.g. different apple varieties: Fuji, Golden Delicious, Golden Pippin, etc.). There is considerable genetic diversity within all food crop species, particularly in centres of origin, which are the geographical areas where species were originally developed. For example, the Andean region of Peru is a centre of origin for certain tuber species, and over 1,483 varieties of these species can be found there. Genetic diversity is important as different genes give rise to important traits, such as nutrient composition, hardiness to different environments, resistance to pests, or ample harvests. Genetic diversity is decreasing due to agricultural modernization, changing land use and climate change, among other factors. (It is even possible that breeding narrowly for the pest- and disease-resistance necessary to deal with climate change will, itself, reduce agrobiodiversity.) Genetic diversity is not static but is constantly evolving in response to changes in the environment and according to human intervention, whether farmers or breeders.
+
+
+=== Species diversity ===
+Species diversity refers to the number and abundance of different species used for food and agriculture. The number of species considered to contribute to food alone ranges from 5,538 to 75,000 depending on definitions. A conservative estimate is that about 6,000 species are commonly used for food. Species diversity includes "the domesticated plants and animals that are part of crop, livestock, forest or aquaculture systems, harvested forest and aquatic species, the wild relatives of domesticated species, and other wild species harvested for food and other products. It also encompasses what is known as “associated biodiversity”, the vast range of organisms that live in and around food and agricultural production systems, sustaining them and contributing to their output." Agriculture is understood to include crop and livestock production, forestry, fisheries and aquaculture.Aquatic diversity is an important component of agricultural biodiversity. The conservation and sustainable use of local aquatic ecosystems, ponds, rivers, coastal commons by artisanal fisherfolk and smallholder farmers is important to the survival of both humans and the environment. Since aquatic organisms, including fish, provide much of our food supply as well as underpinning the income of coastal peoples, it is critical that fisherfolk and smallholder farmers have genetic reserves and sustainable ecosystems to draw upon as aquaculture and marine fisheries management continue to evolve.
+
+
+=== Ecosystem diversity ===
+
+Ecosystem diversity refers to the variety and variability of different components in a given geographical area (e.g. landscape, country). In the context of agrobiodiversity ecosystem diversity refers to the diversity within and between agroecosystems: e.g. pastures, ponds and rivers, planted fields, hedges, trees and so on. Landscape-level biodiversity has received less research attention than the other levels of biodiversity.
+
+
+== Contributions of agrobiodiversity to food and agriculture ==
+
+
+=== Introduction ===
+Contributions from agrobiodiversity to food and agriculture are usually categorized by their contribution to ecosystem services. Ecosystem services are the services provided by well functioning ecosystems (agroecosystems and also wild ecosystems such as forests or grasslands) to human wellbeing. They are usually clustered into four broader categories: provisioning (direct provision of goods such as food and water), supporting (the services that are needed for agriculture to be healthy, such as soil), regulating (regulating natural processes needed in agriculture such as pollination, carbon capture or pest control), or cultural (recreational, aesthetic and spiritual benefits).
+
+
+=== Provisioning ===
+Agrobiodiversity's contribution to provisioning services is mainly for providing food and nutrition. Food biodiversity is "the diversity of plants, animals and other organisms used for food, covering the genetic resources within species, between species and provided by ecosystems." Historically at least 6,000 plant species and numerous animal species have been used as human food. This number is considered to be decreasing now, resulting in concerns about long-term diet diversity. Food biodiversity also covers subspecies or varieties of crops, for example the many forms of the Brassica oleracea species (cauliflowers, different broccolis, cabbages, Brussels sprouts, etc.). Many species which have been overlooked by mainstream research ('orphan' or 'neglected and underutilized' species) are rich in micronutrients and other healthful components. Also among different varieties of a species, there can be a wide variety of nutrient composition; for example some sweet potato varieties contain negligible levels of beta-carotene, which others can contain up to 23,100 mcg per 100g of raw, peeled sweet potatoes. Other provisioning services from agrobiodiversity are the provision of wood, fibre, fuel, water and medicinal resources. Sustainable food security is linked to improving the conservation, sustainable use and enhancement of the diversity of all genetic resources for food and agriculture, especially plant and animal genetic resources, in all types of production systems.
+
+
+=== Supporting ===
+
+Agrobiodiversity's contribution to supporting services is providing the biological or life support to production, emphasising conservation, sustainable use and enhancement of the biological resources that support sustainable production systems. The main service is to maintain genetic diversity of crops and species, so that it is available to maintain adaptability to new and changing climate and weather conditions. Genetic diversity is the basis of crop and livestock improvement programmes, which breed new varieties of crops and livestock in response to consumer demand and farmers' needs. An important source of genetic diversity are crop wild relatives, wild plant species that are genetically related to cultivated crops. A second supporting service is to maintain the habitat of wild biodiversity, particularly associated biodiversity, for example pollinators and predators. Agrobiodiversity can support wild biodiversity through the use of field margins, riparian corridors, hedgerows and clumps of trees, which provide and connect habitats. A further supporting service is maintaining healthy soil biota.
+
+
+=== Regulating ===
+Agrobiodiversity makes several contributions to regulating services, which control the natural processes needed for a healthy agroecosystem. Pollination, pest control and carbon capture are examples.
+
+
+==== Pollination ====
+75% of the 115 major crop species grown globally rely on pollinators. Agrobiodiversity contributes to the health of pollinators by: (a) providing habitat for them to live and breed; (b) providing non-chemical biological options for pest control (see below) so that insecticide use can be reduced, and insect pollinators not damaged; (c) providing a symbiotic relationship of constant flower production, with crops flowering at different times, so that the pollinators have constant access to nectar-producing flowers.
+
+
+==== Pest control ====
+Agrobiodiversity contributes to pest control by: (a) providing a habitat for pests' natural enemies to live and breed in; (b) providing wide genetic diversity which means it is more likely that genes contain resistance to any given pathogen or pest, and also that the plant can evolve as pests and diseases evolve. Genetic diversity also means that some crops grow earlier or later, or in wetter or drier conditions, so the crop might avoid attacks from the pest or pathogen.
+
+
+==== Carbon capture ====
+Agrobiodiversity contributes to carbon capture if used as part of a package of agroecological practices, for example by providing cover crops which can be dug into the land as green manure; maintaining tree stands and hedgerows; and protecting the integrity of soils so that they continue to house local microbes. Farmers and breeders can use genetic diversity to breed varieties which are more tolerant to changing climate conditions, and which, combined with practices like conservation agriculture, can increase sequestration in soils and biomass, and reduce emissions by avoiding the degrading of farmlands. Using agroforestry, the inclusion of trees and shrubs as an integral part of a farming system, can also successfully sequester carbon.
+
+
+=== Cultural ===
+Agrobiodiversity is central to cultural ecosystem services in the form of food biodiversity, which is central to local cuisines worldwide. Agrobiodiversity provides locally appreciated crops and species, and also unique varieties which have cultural significance. For example, ethnic traditional cultures influence the conservation of a wide diversity of rice varieties in China (e.g. red rice, sweet glutinous rices) developed by farmers over thousands of years and used in traditional cultures, rituals and customs. Another example are local food fairs, epitomized by  the Slow Food movement, which celebrates local food varieties in order to add value to them, raise awareness about them and ultimately conserve  and use them. In addition, some traditional cultures use agrobiodiversity in cultural rituals, e.g. many populations of fruit species (pomelo and mango) are maintained in rural communities specifically for use at the 'Chhath Puja' festival, celebrated in parts of India, Nepal and Mauritius. Home gardens are important as culturally constructed spaces where agrobiodiversity is conserved for a wide variety of social, aesthetic and cultural reasons. Genetic diversity is maintained by resource-poor farmers because of many non-monetary values, including culture and food.
+
+
+== Loss of agrobiodiversity ==
+Agrobiodiversity is threatened by changing patterns of land use (urbanization, deforestation), agricultural modernization (monocultures and abandoning of traditional, biodiversity-based practices); Westernization of diets and their supply chains. It has been estimated that biodiversity as a whole is being lost at 100–1000 times the natural background rate. This extends also to agricultural biodiversity and loss of genetic diversity from farmers' fields and the wild.Agrobiodiversity loss leads to genetic erosion, the loss of genetic diversity, including the loss of individual genes, and the loss of particular combinations of genes (or gene complexes) such as those manifested in locally adapted landraces or breeds. Genetic vulnerability occurs when there is little genetic diversity within a population of plants. This lack of diversity makes the population as a whole particularly vulnerable to disease, pests, or other factors. The problem of genetic vulnerability often arises with modern crop varieties, which are uniform by design. An example of the consequences of genetic vulnerability occurred in 1970 when corn blight struck the US corn belt, destroying 15% of the harvest. A particular plant cell characteristic known as Texas male sterile cytoplasm conferred vulnerability to the blight - a subsequent study by the National Academy of Sciences found that 90% of American maize plants carried this trait.Reduced agrobiodiversity influences, and is influenced by, changes in human diets. Since the mid-1900s, human diets across the world have become more diverse in the consumption of major commodity staple crops, with a corollary decline in consumption of local or regionally important crops, and thus have become more homogeneous globally. The differences between the foods eaten in different countries decreased by 68% between 1961 and 2009. The modern 'global standard' diet contains an increasingly large percentage of a relatively small number of major staple commodity crops, which have increased substantially in the share of the total food energy (calories), protein, fat, and food weight that they provide to the world's human population, including wheat, rice, sugar, maize, soybean (by +284%), palm oil (by +173%), and sunflower (by +246%). Whereas nations used to consume greater proportions of locally or regionally important food biodiversity, wheat has become a staple in over 97% of countries, with the other global staples showing similar dominance worldwide. Other crops have declined sharply over the same period, including rye, yam, sweet potato (by -45%), cassava (by -38%), coconut, sorghum (by -52%) and millets (by -45%).
+
+
+== Conservation ==
+Attempts to conserve or safeguard agrobiodiversity usually focus on species or genetic level of agrobiodiversity. Conservation of genetic diversity and species diversity can be carried out ex situ, which means removing the materials from their growing site and looking after them elsewhere, or in situ, which means that they are conserved in their natural or cultivated site. While these two approaches are sometimes pitted against each other as either/or, both have merits. Conservation practitioners recommend integrating both methods, according to the purpose of conservation, threats, uniqueness of diversity, etc. Dulloo chapter 5
+
+
+=== Ex situ conservation ===
+
+Ex situ conservation is defined as the “conservation of components of biological diversity outside their natural habitats.” Ex situ conservation is the conservation of genetic resources (species, varieties, cultivars, sub-species, landraces etc.) for food and agriculture outside their natural habitat, in a managed environment including: botanical gardens, seedbanks, pollenbanks, field genebanks, cryobank or herbaria. Ex situ conservation is considered a relatively reliable way of maintaining genetic diversity, since it is usually preserved over the longer term  and is less prone to change. The diversity of much of the world's major crops has been extensively collected and conserved in genebanks. Over 7 million samples are conserved in 1,750 genebanks worldwide. Collections are safety-duplicated as an insurance in case of damage to one genebank. In addition, most globally important collections of annual or seed-bearing crops have a backup in the Svalbard global seed vault.
+Ex situ conservation offers some advantages for seed-bearing crops: 1) Seed requires little space; 2) Ex situ conservation can be implemented anywhere; 3) There is easy access to what is conserved for distribution, further use, research  and breeding; 4) Costs for maintaining genetic diversity that has no immediate production or market value are minimum.
+Weaknesses of ex situ conservation include: 1) it is costly to maintain seeds and germplasm healthily in perpetual storage, or in field collections; 2) Coverage of the diversity of neglected and underutilized crops or crop wild relatives is currently very limited. Genebanks have largely focused on the conservation of major staple crops while non-staple crops and crop wild relatives are poorly represented; 3) There are species with ‘recalcitrant’ seeds, which means they cannot be stored long term; 4) Specialized infrastructure and staff are needed.
+
+
+=== In situ conservation ===
+In situ conservation means "the conservation of ecosystems and natural habitats and the maintenance and recovery of viable populations of species in their natural surroundings and, in the case of domesticated or cultivated species, in the surroundings where they have developed their distinctive properties". In situ conservation comprises both conservation of trees and crop wild relatives in situ in the wild, and conservation of landraces and neglected and underutilized species on farm in farmers' fields. Conserving agrobiodiversity in situ has the benefit that species can continue to evolve in response to natural and human pressures. In the case of crops, a large amount of diversity is retained in developing countries by smallholder farmers, particularly for many crops in their centers of domestication and diversity. There, farmers continue to grow landraces and maintain traditional knowledge and seed management practices in a process known as de facto conservation. Home gardens too are repositories of high levels of species diversity, and traditional landraces contain wide genetic diversity. For forest trees, in situ conservation is considered the most appropriate method since most tree seeds cannot be conserved ex situ, and because there are 60,000 tree species, each with multiple populations, so too many to identify and collect.
+Having limited access to synthetic inputs, resource-poor farmers' fields are often organic by default. A meta-analysis of studies comparing biodiversity noted that, when compared to organic cropping systems, conventional systems had significantly lower species richness and abundance (30% greater richness and 50% greater abundance in organic systems, on average), though 16% of studies did find a greater level of species richness in conventional systems.In situ conservation is relatively low cost for high levels of biodiversity, particularly crop wild relatives, neglected and underutilized species, landraces, trees, fish and livestock. However, species and varieties conserved in situ can be vulnerable to climate changes, land use changes and market demand.
+
+
+=== Ecosystem level conservation ===
+Ecosystem level conservation looks at landscape level, with landscapes managed by the group of stakeholders working together to achieve biodiversity, production and livelihood goals. Land use mosaics combine
+
+‘natural’ areas
+agricultural production areas
+institutional mechanisms to coordinate initiatives to achieve production, conservation and livelihood objectives at landscape, farm and community scales, by exploiting synergies and managing trade-offs among them.There are limited initiatives that focus on conserving entire landscapes or agro-ecosystems. One is 'Globally Important Agricultural Heritage Systems' (GIAHS), which are conserved and maintained as unique systems of agriculture, in order to sustainably provide multiple goods and services, food and livelihood security for millions of small-scale farmers.
+
+
+== See also ==
+Bioversity International
+International Centre for Underutilised Crops (ICUC)
+SAVE Foundation (Safeguard for Agricultural Varieties in Europe)
+Biodiversity
+Natural landscape
+Globally Important Agricultural Heritage Systems (GIAHS)
+Neglected and underutilized crop
+Commission on Genetic Resources for Food and Agriculture
+Agroecology
+crop wild relatives
+
+
+== Notes and references ==
+
+
+== External links ==
+Adapting Agriculture to Climate Change
+Agricultural Research Service
+Commission on Genetic Resources for Food and Agriculture
+Convention on Biological Diversity (CBD)
+FAO Corporate Document Repository: What is agrobiodiversity?
+Facilitating Mechanism for the Implementation of the Global Plan of Action for the Conservation and Sustainable Utilization of Plant Genetic Resources for Food and Agriculture (GPA)
+European Cooperative Programme for Crop Genetic Resources Network
+Bioversity International - Scientific evidence, management practices and policy options to use and safeguard agricultural and tree biodiversity
+Crops for the Future (CFF)
+International Treaty on Plant Genetic Resources for Food and Agriculture
+European Crop Wild Relative Diversity Assessment and Conservation Forum
+DIVERSEEDS - Networking on conservation and sustainable use of plant genetic resources in Europe and Asia
+COHAB Initiative: Cooperation on Health and Biodiversity - Information about health aspects of agricultural biodiversity
+Platform for Agrobiodiversity Research (PAR)
+Agricultural Biodiversity weblog
+European Learning Network on Functional AgroBiodiversity
+agroBIODIVERSITY, a cross-cutting research network of DIVERSITAS
+The Web Portal for Indian Ocean Agriculture and Biodiversity
+Domestic Animal Diversity Information System
+Implementing the Global Plan of Action for Animal Genetic Resources

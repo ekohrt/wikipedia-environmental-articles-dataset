@@ -1,0 +1,193 @@
+Carbon sequestration is the process of storing carbon in a carbon pool.: 2248  Carbon dioxide (CO2) is naturally captured from the atmosphere through biological, chemical, and physical processes. These changes can be accelerated through changes in land use and agricultural practices, such as converting crop land into land for non-crop fast growing plants. Artificial processes have been devised to produce similar effects, including large-scale, artificial capture and sequestration of industrially produced CO2 using subsurface saline aquifers, reservoirs, ocean water, aging oil fields, or other carbon sinks, bio-energy with carbon capture and storage, biochar, enhanced weathering, and direct air capture when combined with storage.Forests, kelp beds, and other forms of plant life absorb carbon dioxide from the air as they grow, and bind it into biomass. However, these biological stores are considered volatile carbon sinks as the long-term sequestration cannot be guaranteed. For example, natural events, such as wildfires or disease, economic pressures and changing political priorities can result in the sequestered carbon being released back into the atmosphere. Carbon dioxide that has been removed from the atmosphere can also be stored in the Earth's crust by injecting it into the subsurface, or in the form of insoluble carbonate salts (mineral sequestration). This is because they are removing carbon from the atmosphere and sequestering it indefinitely and presumably for a considerable duration (thousands to millions of years).
+
+
+== Description ==
+
+Carbon sequestration is the process involved in carbon capture and the long-term storage of atmospheric carbon dioxide (CO2) and may refer specifically to:
+
+"The process of removing carbon from the atmosphere and depositing it in a reservoir."  When carried out deliberately, this may also be referred to as carbon dioxide removal, which is a form of geoengineering.
+Carbon capture and storage, where carbon dioxide is removed from flue gases (e.g., at power stations) before being stored in underground reservoirs.
+Natural biogeochemical cycling of carbon between the atmosphere and reservoirs, such as by chemical weathering of rocks.Carbon dioxide may be captured as a pure by-product in processes related to petroleum refining or from flue gases from power generation. CO2 sequestration includes the storage part of carbon capture and storage, which refers to large-scale, artificial capture and sequestration of industrially produced CO2 using subsurface saline aquifers, reservoirs, ocean water, aging oil fields, or other carbon sinks.
+Carbon sequestration describes long-term storage of carbon dioxide or other forms of carbon to either mitigate or defer global warming and avoid dangerous climate change. It has been proposed as a way to slow the atmospheric and marine accumulation of greenhouse gases, which are released by burning fossil fuels and industrial livestock production.Carbon dioxide is naturally captured from the atmosphere through biological, chemical or physical processes. Some artificial sequestration techniques exploit these natural processes, while some use entirely artificial processes.
+There are three ways that this sequestration can be carried out: post-combustion capture, pre-combustion capture, and oxy-combustion. A wide variety of separation techniques are being pursued, including gas phase separation, absorption into a liquid, and adsorption on a solid, as well as hybrid processes, such as adsorption/membrane systems. These above processes basically capture carbon emitting from power plants, factories, fuel burning industries, and new generation livestock production facilities as they transition into restorative farming techniques, which is used by organizations as they look to reduce carbon emissions from their operations.
+
+
+== Biological processes ==
+According to the IPCC Sixth Assessment Report, land-use changes that enhance natural carbon capture have the potential to capture and store large amounts of carbon dioxide each year. These include the conservation, management, and restoration of ecosystems such as forests, peatlands, wetlands, and grasslands, in addition to carbon sequestration methods in agriculture.
+
+
+=== Biosequestration ===
+
+Biosequestration is the capture and storage of the atmospheric greenhouse gas carbon dioxide by continual or enhanced biological processes. This form of carbon sequestration occurs through increased rates of photosynthesis via land-use practices such as reforestation and sustainable forest management.
+
+
+=== Peatland ===
+Peat bogs act as a sink for carbon because they accumulate partially decayed biomass that would otherwise continue to decay completely. There is a variance on how much the peatlands act as a carbon sink or carbon source that can be linked to varying climates in different areas of the world and different times of the year.  By creating new bogs, or enhancing existing ones, the amount of carbon that is sequestered by bogs would increase.
+
+
+=== Forestry ===
+Afforestation is the establishment of a forest in an area where there was no previous tree cover. Proforestation is the practice of growing an existing forest intact toward its full ecological potential. Reforestation is the replanting of trees on marginal crop and pasture lands to incorporate carbon from atmospheric CO2 into biomass. 
+For this carbon sequestration process to succeed the carbon must not return to the atmosphere from mass burning or rotting when the trees die. To this end, land allotted to the trees must not be converted to other uses and management of the frequency of disturbances might be necessary in order to avoid extreme events. Alternatively, the wood from them must itself be sequestered, e.g., via biochar, bio-energy with carbon storage (BECS), landfill or 'stored' by use in e.g., construction. Short of growth in perpetuity, however, reforestation with long-lived trees (>100 years) will sequester carbon for substantial period and be released gradually, minimizing carbon's climate impact during the 21st century. Earth offers enough room to plant an additional 1.2 trillion trees. Planting and protecting them would offset some 10 years of CO2 emissions and sequester 205 billion tons of carbon. This approach is supported by the Trillion Tree Campaign. Restoring all degraded forests world would capture about 205 billion tons of carbon in total, which is about two thirds of all carbon emissions.In a paper published in the journal Nature Sustainability, researchers studied the net effect of continuing to build according to current practices versus increasing the amount of wood products. They concluded that if during the next 30 years new construction utilized 90% wood products, largely via adoption of mass timber in low rise construction, that 700 million tons of carbon would be sequestered per year. This is the equivalent of about 7 days worth of global emissions in 2019.In a study published in Journal of Environmental Management researchers concluded "that coniferous and broadleaf trees can have diverse effect on soil organic carbon sequestration in soils of different age and previous land use".
+
+
+==== Urban forestry ====
+Urban forestry increases the amount of carbon taken up in cities by adding new tree sites and the sequestration of carbon occurs over the lifetime of the tree. It is generally practiced and maintained on smaller scales, like in cities.  The results of urban forestry can have different results depending on the type of vegetation that is being used, so it can function as a sink but can also function as a source of emissions. Along with sequestration by the plants which is difficult to measure but seems to have little effect on the overall amount of carbon dioxide that is uptaken, the vegetation can have indirect effects on carbon by reducing need for energy consumption.
+
+
+=== Wetlands ===
+Wetland restoration involves restoring a wetland's natural biological, geological, and chemical functions through re-establishment or rehabilitation. It has also been proposed as a potential climate change mitigation strategy, with carbon sequestered this way being known as blue carbon. Wetland soil, particularly in coastal wetlands such as mangroves, sea grasses, and salt marshes, is an important carbon reservoir; 20–30% of the world's soil carbon is found in wetlands, while only 5–8% of the world's land is composed of wetlands. Studies have shown that restored wetlands can become productive CO2 sinks and many restoration projects have been enacted in the US and around the world. Aside from climate benefits, wetland restoration and conservation can help preserve biodiversity, improve water quality, and aid with flood control.As with forests, for the sequestration process to succeed, the wetland must remain undisturbed. If it is disturbed somehow, the carbon stored in the plants and sediments will be released back into the atmosphere and the ecosystem will no longer function as a carbon sink. Additionally, some wetlands can release non-CO2 greenhouse gases, such as methane, which could offset potential climate benefits. The amounts of CO2 sequestered by wetlands can also be difficult to measure.
+
+
+=== Agriculture ===
+Compared to natural vegetation, cropland soils are depleted in soil organic carbon (SOC). When a soil is converted from natural land or semi natural land, such as forests, woodlands, grasslands, steppes and savannas, the SOC content in the soil reduces by about 30–40%. This loss is due to the removal of plant material containing carbon, in terms of harvests. When the land use changes, the carbon in the soil will either increase or decrease, this change will continue until the soil reaches a new equilibrium. Deviations from this equilibrium can also be affected by variated climate. The decreasing of SOC content can be counteracted by increasing the carbon input, this can be done with several strategies, e.g. leave harvest residues on the field, use manure as fertiliser or include perennial crops in the rotation. Perennial crops have larger below ground biomass fraction, which increases the SOC content. Perennial crops reduce the need for tillage and thus help mitigate soil erosion, and may help increase soil organic matter. Globally, soils are estimated to contain >8,580 gigatons of organic carbon, about ten times the amount in the atmosphere and much more than in vegetation. Researchers have found that rising temperatures can lead to population booms in soil microbes, converting stored carbon into carbon dioxide. In laboratory experiments fungi-rich soils released less carbon dioxide when heated than other soils.Modification of agricultural practices is a recognized method of carbon sequestration as soil can act as an effective carbon sink offsetting as much as 20% of 2010 carbon dioxide emissions annually.  (See No-till). Restoration of organic farming and earthworms may entirely offset CO2 annual carbon excess of 4 Gt per year and drawdown the residual atmospheric excess. (See Compost).
+Carbon emission reduction methods in agriculture can be grouped into two categories: reducing and/or displacing emissions and enhancing carbon removal. Some of these reductions involve increasing the efficiency of farm operations (e.g. more fuel-efficient equipment) while some involve interruptions in the natural carbon cycle. Also, some effective techniques (such as the elimination of stubble burning) can negatively impact other environmental concerns (increased herbicide use to control weeds not destroyed by burning).
+
+
+=== Carbon farming ===
+
+
+==== Bamboo farming ====
+
+Although a bamboo forest stores less total carbon than a mature forest of trees, a bamboo plantation sequesters carbon at a much faster rate than a mature forest or a tree plantation. Therefore, the farming of bamboo timber may have significant carbon sequestration potential.
+
+
+==== Deep soil ====
+Soils hold four times the amount of carbon stored in the atmosphere. About half of this is found deep within soils. About 90% of this deep soil C is stabilized by mineral-organic associations.
+
+
+==== Reducing emissions ====
+Increasing yields and efficiency generally reduces emissions as well, since more food results from the same or less effort. Techniques include more accurate use of fertilizers, less soil disturbance, better irrigation, and crop strains bred for locally beneficial traits and increased yields.
+Replacing more energy intensive farming operations can also reduce emissions. Reduced or no-till farming requires less machine use and burns correspondingly less fuel per acre. However, no-till usually increases use of weed-control chemicals and the residue now left on the soil surface is more likely to release its CO2 to the atmosphere as it decays, reducing the net carbon reduction.In practice, most farming operations that incorporate post-harvest crop residues, wastes and byproducts back into the soil provide a carbon storage benefit. This is particularly the case for practices such as field burning of stubble – rather than releasing almost all of the stored CO2 to the atmosphere, tillage incorporates the biomass back into the soil.
+
+
+==== Enhancing carbon removal ====
+All crops absorb CO2 during growth and release it after harvest. The goal of agricultural carbon removal is to use the crop and its relation to the carbon cycle to permanently sequester carbon within the soil. This is done by selecting farming methods that return biomass to the soil and enhance the conditions in which the carbon within the plants will be reduced to its elemental nature and stored in a stable state. Methods for accomplishing this include:
+
+Use cover crops such as grasses and weeds as temporary cover between planting seasons
+Concentrate livestock in small paddocks for days at a time so they graze lightly but evenly. This encourages roots to grow deeper into the soil. Stock also till the soil with their hooves, grinding old grass and manures into the soil.
+Cover bare paddocks with hay or dead vegetation. This protects soil from the sun and allows the soil to hold more water and be more attractive to carbon-capturing microbes.
+Restore degraded, marginal, and abandoned land, which slows carbon release while returning the land to agriculture or other use. Degraded land with low soil carbon pool have particularly high potential to store soil C which can be farther enhanced by proper selection of vegetation.Agricultural sequestration practices may have positive effects on soil, air, and water quality, be beneficial to wildlife, and expand food production. On degraded croplands, an increase of 1 ton of soil carbon pool may increase crop yield by 20 to 40 kilograms per hectare of wheat, 10 to 20 kg/ ha for maize, and 0.5 to 1 kg/ha for cowpeas.The effects of soil sequestration can be reversed. If the soil is disrupted or intensive tillage practices are used, the soil becomes a net source of greenhouse gases. Typically after several decades of sequestration, soil becomes saturated and ceases to absorb carbon. This implies that there is a global limit to the amount of carbon that soil can hold.Many factors affect the costs of carbon sequestration including soil quality, transaction costs and various externalities such as leakage and unforeseen environmental damage. Because reduction of atmospheric CO2 is a long-term concern, farmers can be reluctant to adopt more expensive agricultural techniques when there is not a clear crop, soil, or economic benefit. Governments such as Australia and New Zealand are considering allowing farmers to sell carbon credits once they document that they have sufficiently increased soil carbon content.
+
+
+=== Seaweed farming ===
+Seaweed grow in shallow and coastal areas, and capture significant amounts of carbon that can be transported to the deep ocean by oceanic mechanisms; seaweed reaching the deep ocean sequester carbon and prevent it from exchanging with the atmosphere over millennia. Growing seaweed offshore with the purpose of sinking the seaweed in the depths of the sea to sequester carbon is under research. In addition, Seaweed grows very fast and can theoretically be harvested and processed to generate biomethane, via anaerobic digestion to generate electricity, via cogeneration/CHP or as a replacement for natural gas. One study suggested that if seaweed farms covered 9% of the ocean they could produce enough biomethane to supply Earth's equivalent demand for fossil fuel energy, remove 53 gigatonnes of CO2 per year from the atmosphere and sustainably produce 200 kg per year of fish, per person, for 10 billion people. Ideal species for such farming and conversion include Laminaria digitata, Fucus serratus and Saccharina latissima.
+
+
+=== Natural iron fertilisation ===
+Natural iron fertilisation events (e.g., deposition of iron-rich dust into ocean waters) can enhance carbon sequestration. Sperm whales act as agents of iron fertilisation when they transport iron from the deep ocean to the surface during prey consumption and defecation. Sperm whales have been shown to increase the levels of primary production and carbon export to the deep ocean by depositing iron rich feces into surface waters of the Southern Ocean. The iron rich feces causes phytoplankton to grow and take up more carbon from the atmosphere. When the phytoplankton dies, some of it sinks to the deep ocean and takes the atmospheric carbon with it. By reducing the abundance of sperm whales in the Southern Ocean, whaling has resulted in an extra 200,000 tonnes of carbon remaining in the atmosphere each year.
+
+
+== Physical processes ==
+
+
+=== Biomass-related ===
+
+
+==== Bio-energy with carbon capture and storage ====
+
+Bio-energy with carbon capture and storage (BECCS) refers to biomass in power stations and boilers that use carbon capture and storage. The carbon sequestered by the biomass would be captured and stored, thus removing carbon dioxide from the atmosphere.
+
+
+==== Burial ====
+Burying biomass (such as trees) directly, mimics the natural processes that created fossil fuels.
+
+
+==== Biochar burial ====
+
+Biochar is charcoal created by pyrolysis of biomass waste. The resulting material is added to a landfill or used as a soil improver to create terra preta. Addition of pyrogenic organic carbon (biochar) is a novel strategy to increase the soil-C stock for the long-term and to mitigate global-warming by offsetting the atmospheric C (up to 9.5 Gigatons C annually).In the soil, the carbon is unavailable for oxidation to CO2 and consequential atmospheric release. This is one technique advocated by scientist James Lovelock, creator of the Gaia hypothesis. According to Simon Shackley, "people are talking more about something in the range of one to two billion tonnes a year." However concerns have been raised about Biochar potentially accelerating release of the carbon already present in the soil.The mechanisms related to biochar are referred to as bio-energy with carbon storage, BECS.
+
+
+=== Geological sequestration ===
+
+Geological sequestration refers to the storage of CO2 underground in depleted oil and gas reservoirs, saline formations, or deep, un-minable coal beds.
+Once CO2 is captured from a point source, such as a cement factory, it would be compressed to ≈100 bar so that it would be a supercritical fluid.  In this form, the CO2 would be easy to transport via pipeline to the place of storage.  The CO2 would then be injected deep underground, typically around 1 km, where it would be stable for hundreds to millions of years. At these storage conditions, the density of supercritical CO2 is 600 to 800 kg / m3.The important parameters in determining a good site for carbon storage are: rock porosity, rock permeability, absence of faults, and geometry of rock layers.  The medium in which the CO2 is to be stored ideally has a high porosity and permeability, such as sandstone or limestone. Sandstone can have a permeability ranging from 1 to 10−5 Darcy, and can have a porosity as high as ≈30%. The porous rock must be capped by a layer of low permeability which acts as a seal, or caprock, for the CO2.  Shale is an example of a very good caprock, with a permeability of 10−5 to 10−9 Darcy. Once injected, the CO2 plume will rise via buoyant forces, since it is less dense than its surroundings. Once it encounters a caprock, it will spread laterally until it encounters a gap. If there are fault planes near the injection zone, there is a possibility the CO2 could migrate along the fault to the surface, leaking into the atmosphere, which would be potentially dangerous to life in the surrounding area. Another danger related to carbon sequestration is induced seismicity. If the injection of CO2 creates pressures that are too high underground, the formation will fracture, potentially causing an earthquake.While trapped in a rock formation, CO2 can be in the supercritical fluid phase or dissolve in groundwater/brine.  It can also react with minerals in the geologic formation to precipitate carbonates. See CarbFix.
+Worldwide storage capacity in oil and gas reservoirs is estimated to be 675–900 Gt CO2, and in un-minable coal seams is estimated to be 15–200 Gt CO2.  Deep saline formations have the largest capacity, which is estimated to be 1,000–10,000 Gt CO2. In the US, there is estimated to be at least 2,600 Gt and at most 22,000 Gt total CO2 storage capacity.There are a number of large-scale carbon capture and sequestration projects that have demonstrated the viability and safety of this method of carbon storage, which are summarized here  by the Global CCS Institute. The dominant monitoring technique is seismic imaging, where vibrations are generated that propagate through the subsurface.  The geologic structure can be imaged from the refracted/reflected waves.The first large-scale CO2 sequestration project which began in 1996 is called Sleipner, and is located in the North Sea where Norway's StatoilHydro strips carbon dioxide from natural gas with amine solvents and disposed of this carbon dioxide in a deep saline aquifer. In 2000, a coal-fueled synthetic natural gas plant in Beulah, North Dakota, became the world's first coal-using plant to capture and store carbon dioxide, at the Weyburn-Midale Carbon Dioxide Project. Several other sequestration projects have followed. The Energy Impact Center launched the OPEN100 project in February 2020, which is the world's first open-source blueprint for the design, construction and financing of a small, standard, pressurized water reactor. In September 2020, the US Department of Energy awarded $72 million in federal funding to support the development and advancement of carbon capture technologies.CO2 has been used extensively in enhanced crude oil recovery operations in the United States beginning in 1972. There are in excess of 10,000 wells that inject CO2 in the state of Texas alone. The gas comes in part from anthropogenic sources, but is principally from large naturally occurring geologic formations of CO2. It is transported to the oil-producing fields through a large network of over 5,000 kilometres (3,100 mi) of CO2 pipelines. The use of CO2 for enhanced oil recovery (EOR) methods in heavy oil reservoirs in the Western Canadian Sedimentary Basin (WCSB) has also been proposed. However, transport cost remains an important hurdle. An extensive CO2 pipeline system does not yet exist in the WCSB. Athabasca oil sands mining that produces CO2 is hundreds of kilometers north of the subsurface Heavy crude oil reservoirs that could most benefit from CO2 injection.
+
+
+== Chemical processes ==
+Developed in the Netherlands, an electrocatalysis by a copper complex helps reduce carbon dioxide to oxalic acid; This conversion uses carbon dioxide as a feedstock to generate oxalic acid.
+
+
+=== Mineral carbonation ===
+Carbon, in the form of CO2 can be removed from the atmosphere by chemical processes, and stored in stable carbonate mineral forms. This process (CO2-to-stone) is known as "carbon sequestration by mineral carbonation" or mineral sequestration. The process involves reacting carbon dioxide with abundantly available metal oxides – either magnesium oxide (MgO) or calcium oxide (CaO) – to form stable carbonates. These reactions are exothermic and occur naturally (e.g., the weathering of rock over geologic time periods).
+CaO + CO2 → CaCO3MgO + CO2 → MgCO3Calcium and magnesium are found in nature typically as calcium and magnesium silicates (such as forsterite and serpentinite) and not as binary oxides. For forsterite and serpentine the reactions are:
+
+Mg2SiO4 + 2 CO2 → 2 MgCO3 + SiO2Mg3Si2O5(OH)4+ 3 CO2 → 3 MgCO3 + 2 SiO2 + 2 H2OThe following table lists principal metal oxides of Earth's crust. Theoretically up to 22% of this mineral mass is able to form carbonates.
+
+These reactions are slightly more favorable at low temperatures. This process occurs naturally over geologic time frames and is responsible for much of the Earth's surface limestone. The reaction rate can be made faster however, by reacting at higher temperatures and/or pressures, although this method requires some additional energy. Alternatively, the mineral could be milled to increase its surface area, and exposed to water and constant abrasion to remove the inert Silica as could be achieved naturally by dumping Olivine in the high energy surf of beaches. Experiments suggest the weathering process is reasonably quick (one year) given porous basaltic rocks.CO2 naturally reacts with peridotite rock in surface exposures of ophiolites, notably in Oman. It has been suggested that this process can be enhanced to carry out natural mineralisation of CO2.When CO2 is dissolved in water and injected into hot basaltic rocks underground it has been shown that the CO2 reacts with the basalt to form solid carbonate minerals. A test plant in Iceland started up in October 2017, extracting up to 50 tons of CO2 a year from the atmosphere and storing it underground in basaltic rock.Researchers from British Columbia, developed a low cost process for the production of magnesite, also known as magnesium carbonate, which can sequester CO2 from the air, or at the point of air pollution, e.g. at a power plant. The crystals are naturally occurring, but accumulation is usually very slow.Demolition concrete waste or recycled crushed concrete are also potential low cost materials for mineral carbonation as they are calcium-rich waste materials.
+
+
+=== Electrochemistry ===
+Another method uses a liquid metal catalyst and an electrolyte liquid into which CO2 is dissolved. The CO2 then converts into solid flakes of carbon. This method is done at room temperature. In 2022, the team updated its work to operate at a lower temperature, and operate more quickly and with fewer steps.
+
+
+=== Industrial use ===
+Traditional cement manufacture releases large amounts of carbon dioxide, but newly developed cement types from Novacem can absorb CO2 from ambient air during hardening. A similar technique was pioneered by TecEco, which has been producing "EcoCement" since 2002. Canadian startup CarbonCure Technologies takes captured CO2 and injects it into concrete as it is being mixed. Carbon Upcycling UCLA is another company that uses CO2 in concrete. Their concrete product is called CO2NCRETE, a concrete that hardens faster and is more eco-friendly than traditional concrete.In Estonia, oil shale ash, generated by power stations could be used as sorbents for CO2 mineral sequestration. The amount of CO2 captured averaged 60 to 65% of the carbonaceous CO2 and 10 to 11% of the total CO2 emissions.
+
+
+=== Chemical scrubbers ===
+
+Various carbon dioxide scrubbing processes have been proposed to remove CO2 from the air, usually using a variant of the Kraft process. Carbon dioxide scrubbing variants exist based on potassium carbonate, which can be used to create liquid fuels, or on sodium hydroxide. These notably include artificial trees proposed by Klaus Lackner to remove carbon dioxide from the atmosphere using chemical scrubbers.
+
+
+== Geoengineering techniques in oceans ==
+
+
+=== Ocean storage ===
+
+If CO2 were to be injected to the ocean bottom, the pressures would be great enough for CO2 to be in its liquid phase.  The idea behind ocean injection would be to have stable, stationary pools of CO2 at the ocean floor.  The ocean could potentially hold over a thousand billion tons of CO2. However, this avenue of sequestration is not being as actively pursued because of concerns about the impact on ocean life, and concerns about its stability.
+A biological solution can be growing seaweed that can naturally be exported to the deep ocean, sequestering significant amounts of biomass in marine sediments.River mouths bring large quantities of nutrients and dead material from upriver into the ocean as part of the process that eventually produces fossil fuels. Transporting material such as crop waste out to sea and allowing it to sink exploits this idea to increase carbon storage. International regulations on marine dumping may restrict or prevent use of this technique.
+
+
+=== Ocean fertilisation ===
+
+
+==== Iron fertilisation ====
+
+
+==== Mixing layers ====
+Encouraging various ocean layers to mix can move nutrients and dissolved gases around, offering avenues for geoengineering. Mixing may be achieved by placing large vertical pipes in the oceans to pump nutrient rich water to the surface, triggering blooms of algae, which store carbon when they grow and export carbon when they die. This produces results somewhat similar to iron fertilization. One side-effect is a short-term rise in CO2, which limits its attractiveness.
+
+
+=== Basalt storage ===
+Carbon dioxide sequestration in basalt involves the injecting of CO2 into deep-sea formations. The CO2 first mixes with seawater and then reacts with the basalt, both of which are alkaline-rich elements. This reaction results in the release of Ca2+ and Mg2+ ions forming stable carbonate minerals.Underwater basalt offers a good alternative to other forms of oceanic carbon storage because it has a number of trapping measures to ensure added protection against leakage. These measures include "geochemical, sediment, gravitational and hydrate formation." Because CO2 hydrate is denser than CO2 in seawater, the risk of leakage is minimal. Injecting the CO2 at depths greater than 2,700 meters (8,900 ft) ensures that the CO2 has a greater density than seawater, causing it to sink.One possible injection site is Juan de Fuca plate. Researchers at the Lamont–Doherty Earth Observatory found that this plate at the western coast of the United States has a possible storage capacity of 208 gigatons. This could cover the entire current U.S. carbon emissions for over 100 years.This process is undergoing tests as part of the CarbFix project, resulting in 95% of the injected 250 tonnes of CO2 to solidify into calcite in two years, using 25 tonnes of water per tonne of CO2.
+
+
+=== Acid neutralisation ===
+Carbon dioxide forms carbonic acid when dissolved in water, so ocean acidification is a significant consequence of elevated carbon dioxide levels, and limits the rate at which it can be absorbed into the ocean (the solubility pump).  A variety of different bases have been suggested that could neutralize the acid and thus increase CO2 absorption.  For example, adding crushed limestone to oceans enhances the absorption of carbon dioxide.  Another approach is to add sodium hydroxide to oceans which is produced by electrolysis of salt water or brine, while eliminating the waste hydrochloric acid by reaction with a volcanic silicate rock such as enstatite, effectively increasing the rate of natural weathering of these rocks to restore ocean pH.
+
+
+==== Single-step carbon sequestration and storage ====
+Single-step carbon sequestration and storage is a saline water-based mineralization technology extracting carbon dioxide from seawater and storing it in the form of solid minerals.
+
+
+== Cost ==
+Cost of the sequestration (not including capture and transport) varies but is below US$10 per tonne in some cases where onshore storage is available. For example Carbfix cost is around US$25 per tonne of CO2. A 2020 report estimated sequestration in forests (so including capture) at US$35 for small quantities to US$280 per tonne for 10% of the total required to keep to 1.5 C warming. But there is risk of forest fires releasing the carbon.
+
+
+== Applications in climate change policies ==
+
+
+=== United States ===
+
+Starting in the mid-late 2010s, many pieces of US climate and environment policy have sought to make use of the climate change mitigation potential of carbon sequestration. Many of these policies involve either conservation of carbon sink ecosystems, such as forests and wetlands, or encouraging agricultural and land use practices designed to increase carbon sequestration such as carbon farming or agroforestry, often through financial incentivization for farmers and landowners.
+The Executive Order on Tackling the Climate Crisis at Home and Abroad, signed by president Joe Biden on January 27, 2021, includes several mentions of carbon sequestration via conservation and restoration of carbon sink ecosystems, such as wetlands and forests. These include emphasizing the importance of farmers, landowners, and coastal communities in carbon sequestration, directing the Treasury Department to promote conservation of carbon sinks through market based mechanisms, and directing the Department of the Interior to collaborate with other agencies to create a Civilian Climate Corps to increase carbon sequestration in agriculture, among other things.Several pieces of legislation introduced in the 116th and 117th Congresses, including the Climate Stewardship Act of 2019, the Ocean Based Climate Solutions Act of 2020, the Healthy Soil, Resilient Farmers Act of 2020, and the Healthy Soils Healthy Climate Act of 2020, have sought to increase carbon sequestration on private and public lands through financial incentivization.
+Several state governments, including California, Hawaii, Maryland, and New York, have passed versions of a carbon farming tax credit, which seek to improve soil health and increase carbon sequestration by offering financial assistance and incentives for farmers who practice regenerative agriculture, carbon farming, and other climate change mitigation practices. The California Healthy Soils Program is estimated to have resulted in 109,809 metric tons of CO2 being sequestered annually on average.The White House and USDA are reportedly developing plans to use $30 billion in funds from the Commodity Credit Corporation (CCC) for the creation of a carbon bank program, which would involve giving carbon credits to farmers and landowners in return for adopting carbon sequestration practices, which they could then sell in a cap and trade market.Some environmental activists and politicians have criticized carbon capture, and storage or sequestration (CCS) as a false solution to the climate crisis. They cite the role of the fossil fuel industry in origins of the technology and in lobbying for CCS focused legislation and argue that it would allow the industry to "greenwash" itself by funding and engaging in things such as tree planting campaigns without significantly cutting their carbon emissions.
+
+
+== See also ==
+
+Bio-energy with carbon capture and storage
+Blue carbon
+Carbon storage in the North Sea
+Repurposing offshore drilling rigs for storing carbon
+
+
+== References ==
+
+
+== External links ==
+
+Carbon Sequestration Leadership Forum International carbon capture and storage initiative.
+UK Carbon Capture and Storage Consortium Overview of the UK academic consortium focused on researching issues related to Carbon Capture and Storage.
+Carbon Capture & Sequestration Technologies MIT program covers carbon capture and storage (CCS)

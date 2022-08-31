@@ -1,0 +1,38 @@
+This page provides supplementary chemical data on ethanol.
+
+
+== Material Safety Data Sheet ==
+External MSDS
+
+
+== Structure and properties ==
+
+
+== Thermodynamic properties ==
+
+
+== Spectral data ==
+
+
+== Vapor pressure of liquid ==
+
+
+== Density of ethanol at various temperatures ==
+Data obtained from Lange 1967
+
+These data correlate as ρ [g/cm3] = −8.461834×10−4 T [°C] + 0.8063372 with an R2 = 0.99999.
+
+
+== Properties of aqueous ethanol solutions ==
+Data obtained from Lange 1967
+
+
+== Boiling points of aqueous solutions ==
+Data obtained from CRC Handbook of Chemistry (Page 2117): 2391 
+‡Azeotropic mixture
+
+
+== Charts ==
+
+
+== References ==

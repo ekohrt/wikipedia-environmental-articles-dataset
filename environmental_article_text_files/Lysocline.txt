@@ -1,0 +1,16 @@
+The lysocline is the depth in the ocean dependent upon the carbonate compensation depth (CCD), usually around 3.5 km, below which the rate of dissolution of calcite increases dramatically because of a pressure effect. While the lysocline is the upper bound of this transition zone of calcite saturation, the CCD is the lower bound of this zone.CaCO3 content in sediment varies with different depths of the ocean, spanned by levels of separation known as the transition zone. In the mid-depth area of the ocean, sediments are rich in CaCO3, content values reaching 85-95%. This area is then spanned hundred meters by the transition zone, ending in the abyssal depths with 0% concentration. The lysocline is the upper bound of the transition zone, where amounts of CaCO3 content begins to noticeably drop from the mid-depth 85-95% sediment. The CaCO3 content drops to 10% concentration at the lower bound, known as the calcite compensation depth.Shallow marine waters are generally supersaturated in calcite, CaCO3, because as marine organisms (which often have shells made of calcite or its polymorph, aragonite) die, they tend to fall downwards without dissolving. As depth and pressure increases within the water column, calcite solubility increases, causing supersaturated water above the saturation depth, allowing for preservation and burial of CaCO3 on the seafloor. However, this created undersaturated seawater below the saturation depth, preventing CaCO3 burial on the sea floor as the shells start to dissolve.
+The equation Ω = [Ca2+] X [CO32-]/K'sp expresses the CaCO3 saturation state of seawater. The calcite saturation horizon is where Ω =1; dissolution proceeds slowly below this depth. The lysocline is the depth that this dissolution impacts is again notable, also known as the inflection point with sedimentary CaCO3 versus various water depths.
+
+
+== Calcite compensation depth ==
+The calcite compensation depth (CCD) occurs at the depth that the rate of calcite to the sediments is balanced with the dissolution flux, the depth at which the CaCO3 content are values 2-10%.  Hence, the lysocline and CCD are not equivalent. The lysocline and compensation depth occur at greater depths in the Atlantic (5000–6000 m) than in the Pacific (4000-5000 m), and at greater depths in equatorial regions than in polar regions.The depth of the CCD varies as a function of the chemical composition of the seawater and its temperature. Specifically, it is the deep waters that are undersaturated with calcium carbonate primarily because its solubility increases strongly with increasing pressure and salinity and decreasing temperature. As the atmospheric concentration of carbon dioxide continues to increase, the CCD can be expected to decrease in depth, as the ocean's acidity rises.
+
+
+== See also ==
+Biological pump
+Ocean acidification
+Carbonate compensation depth
+Carbonate pump
+
+
+== References ==

@@ -1,0 +1,32 @@
+Under United States law, pesticide misuse is considered to be the use of a pesticide in a way that violates laws regulating their use or endangers humans or the environment; many of these regulations are laid out in the Federal Insecticide, Fungicide, and Rodenticide Act (FIFRA). The most common instances of pesticide misuse are applications inconsistent with the labeling, which can include the use of a material in any way not described on the label, changing dosage rates, or violating specific safety instructions. Pesticide labels have been criticized as a poor risk communication vehicle, leading some officials and researchers to question whether "misuse" is an appropriate term for what are often "unintended uses" resulting from a poor understanding of safety and application instructions. Other kinds of pesticide misuse include the sale or use of an unregistered pesticide or one whose registration has been revoked and the sale or use of an adulterated or misbranded pesticide. Under most jurisdictions, it is illegal to alter or remove pesticide labels, to sell restricted pesticides to an uncertified applicator, or to fail to maintain sales and use records of restricted pesticides.
+Pesticides are toxic compounds, and their labels are specifically designed to encourage safe and effective use. Ignoring the directions can lead to civil and criminal charges and civil liability for damages to other parties.
+
+
+== Health effects ==
+
+
+=== In humans ===
+Pesticide misuse can lead to pesticide poisoning, the consequences of which range from mild skin irritations to seizure to death. The effects of poisoning vary drastically depending on dosage and levels of exposure. The types of pesticides most often present in poisonings are organophosphates and N-methyl carbamates, pyrethrin and synthetic pyrethroid insecticides, and organochloride insecticides. Certain fumigants, nematicides, herbicides, and dipyridyls are also common in cases of pesticide poisoning.One of the best known cases of pesticide misuse in recent history involved the application of a pesticide intended for outdoor agricultural use (methyl parathion) to homes in Mississippi for cockroaches and other home pests. Two exterminators were charged with multiple criminal charges after their ongoing use (of several years) was exposed. A number of residents, including two infants, suffered symptoms of pesticide poisoning. A number of homes and business, including several day care centers and schools were rendered uninhabitable or unusable. Heavy fines and prison terms followed for the perpetrators.
+
+
+=== In other animals ===
+Pesticide misuse can also endanger wildlife and other environmental resources. A Florida man was recently cited and fined $23,100 for using the pesticide Aldicarb on deer carcasses to kill coyotes, for storing the pesticide in unlabeled containers, and not being a certified applicator.Specific label directions are given on materials that are toxic to bees, because these pollinators are considered an important environmental resource. A typical bee-protection label direction reads: "This product is highly toxic to bees exposed to direct treatment on blooming crops or weeds. Do not apply this product or allow it to drift to blooming crops or weeds if bees are visiting the treatment area." In 2013, over 25,000 bumblebees died as a result of pesticide misuse in Wilsonville, Oregon. A South Carolina farmer was also cited and fined for pesticide misuse, because he sprayed a blooming cucumber field while bees were foraging on the blossoms, causing a serious bee kill. Similar bee kills have impacted US beekeepers and the growers who need bees for pollination billions of dollars in losses.
+
+
+== Contributing factors ==
+Pesticide misuse occurs most frequently in developing countries and in countries with predominantly agricultural economies. Several factors contribute to pesticide misuse, but ecological researchers have found language barriers and illiteracy to be among the most common. Safety data sheets for pesticides are available in a variety of languages, but the farmers and agricultural workers who are responsible for pesticide application are often unable to read them. Limited education and a lack of proper training tend to be among the most significant contributing factors to improper handling and application of pesticides. The majority of agricultural workers and rural farmers in developing countries have received only a few years of primary education, which contributes to the illiteracy of these populations. Farmers in underdeveloped countries also frequently misuse pesticides due to improper training; however, Integrated Pest Management training has been shown to reduce rates of improper handling and application of pesticides while simultaneously increasing crop yields.
+
+
+== See also ==
+National Pesticide Information Center
+Pesticide drift
+
+
+== References ==
+
+
+== External links ==
+National Pesticide Information Center (NPIC) - Objective, science-based information about pesticide-related topics.
+EPA Summary of FIFRA laws concerning pesticides
+Signs and symptoms of pesticide poisoning
+United Farm Workers claim that pesticide laws are too weak to protect farm workers.

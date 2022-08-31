@@ -1,0 +1,239 @@
+The carrying capacity of an environment is the maximum population size of a biological species that can be sustained by that specific environment, given the food, habitat, water, and other resources available. The carrying capacity is defined as the environment's maximal load, which in population ecology corresponds to the population equilibrium, when the number of deaths in a population equals the number of births (as well as immigration and emigration). The effect of carrying capacity on population dynamics is modelled with a logistic function. Carrying capacity is applied to the maximum population an environment can support in ecology, agriculture and fisheries. The term carrying capacity has been applied to a few different processes in the past before finally being applied to population limits in the 1950s. The notion of carrying capacity for humans is covered by the notion of sustainable population.
+At the global scale, scientific data indicates that humans are living beyond the carrying capacity of planet Earth and that this cannot continue indefinitely. This scientific evidence comes from many sources but is presented in detail in the Millennium Ecosystem Assessment, in ecological footprint accounts, or planetary boundaries research. An early detailed examination of global limits was published in the 1972 book Limits to Growth, which has prompted follow-up commentary and analysis. A 2012 review in Nature by 22 international researchers expressed concerns that the Earth may be "approaching a state shift" in its biosphere. Benford's law may reflect and arise from the distribution of carrying-capacity, in its wider-sense, of the various constructs in the nature.
+
+
+== Origins ==
+In terms of population dynamics, the term 'carrying capacity' was not explicitly used in 1838 by the Belgian mathematician Pierre François Verhulst when he first published his equations based on research on modelling population growth.The origins of the term "carrying capacity" are uncertain, with sources variously stating that it was originally used "in the context of international shipping" in the 1840s, or that it was first used during 19th-century laboratory experiments with micro-organisms. A 2008 review finds the first use of the term in English was an 1845 report by the US Secretary of State to the US Senate. It then became a term used generally in biology in the 1870s, being most developed in wildlife and livestock management in the early 1900s. It had become a staple term in ecology used to define the biological limits of a natural system related to population size in the 1950s.Neo-Malthusians and eugenicists popularised the use of the words to describe the number of people the Earth can support in the 1950s, although American biostatisticians Raymond Pearl and Lowell Reed had already applied it in these terms to human populations in the 1920s.Hadwen and Palmer (1923) defined carrying capacity as the density of stock that could be grazed for a definite period without damage to the range.It was first used in the context of wildlife management by the American Aldo Leopold in 1933, and a year later by the also American Paul Lester Errington, a wetlands specialist. Both used the term in different ways, Leopold largely in the sense of grazing animals (differentiating between a 'saturation level', an intrinsic level of density a species would live in, and carrying capacity, the most animals which could be in the field) and Errington defining 'carrying capacity' as the number of animals above which predation would become 'heavy' (this definition has largely been rejected, including by Errington himself). The important and popular 1953 textbook on ecology by Eugene Odum, Fundamentals of Ecology, popularised the term in its modern meaning as the equilibrium value of the logistic model of population growth.
+
+
+== Mathematics ==
+The specific reason why a population stops growing is known as a limiting or regulating factor.
+
+The difference between the birth rate and the death rate is the natural increase. If the population of a given organism is below the carrying capacity of a given environment, this environment could support a positive natural increase; should it find itself above that threshold the population typically decreases. Thus, the carrying capacity is the maximum number of individuals of a species that an environment can support.Population size decreases above carrying capacity due to a range of factors depending on the species concerned, but can include insufficient space, food supply, or sunlight. The carrying capacity of an environment may vary for different species.In the standard ecological algebra as illustrated in the simplified Verhulst model of population dynamics, carrying capacity is represented by the constant K:
+
+  
+    
+      
+        
+          
+            
+              d
+              N
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        r
+        N
+        
+          (
+          
+            1
+            −
+            
+              
+                N
+                K
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle {\frac {dN}{dt}}=rN\left(1-{\frac {N}{K}}\right)}
+  where
+N is the population size,
+r is the intrinsic growth rate
+K is the carrying capacity of the local environment, and
+dN/dt, the derivative of N with respect to time t, is the rate of change in population with time.
+Thus, the equation relates the growth rate of the population N to the current population size, incorporating the effect of the two constant parameters r and K. (Note that decrease is negative growth.) The choice of the letter K came from the German Kapazitätsgrenze (capacity limit).
+This equation is a modification of the original Verhulst model:
+
+  
+    
+      
+        
+          
+            
+              d
+              N
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        r
+        N
+        −
+        α
+        
+          N
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\frac {dN}{dt}}=rN-\alpha N^{2}}
+  In this equation, the carrying capacity K, 
+  
+    
+      
+        
+          N
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle N^{*}}
+  , is
+
+  
+    
+      
+        
+          N
+          
+            ∗
+          
+        
+        =
+        
+          
+            r
+            α
+          
+        
+        .
+      
+    
+    {\displaystyle N^{*}={\frac {r}{\alpha }}.}
+  
+When the Verhulst model is plotted into a graph, the population change over time takes the form of a sigmoid curve, reaching its highest level at K. This is the logistic growth curve and it is calculated with:
+
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        
+          
+            L
+            
+              1
+              +
+              
+                e
+                
+                  −
+                  k
+                  (
+                  x
+                  −
+                  
+                    x
+                    
+                      0
+                    
+                  
+                  )
+                
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle f(x)={\frac {L}{1+e^{-k(x-x_{0})}}},}
+  where
+
+e is the natural logarithm base (also known as Euler's number),
+x0 is the x value of the sigmoid's midpoint,
+L is the curve's maximum value,
+K is the logistic growth rate or steepness of the curve  and
+
+  
+    
+      
+        f
+        (
+        
+          x
+          
+            0
+          
+        
+        )
+        =
+        L
+        
+          /
+        
+        2.
+      
+    
+    {\displaystyle f(x_{0})=L/2.}
+  The logistic growth curve depicts how population growth rate and the carrying capacity are inter-connected. As illustrated in the logistic growth curve model, when the population size is small, the population increases exponentially. However, as population size nears the carrying capacity, the growth decreases and reaches zero at K.What determines a specific system's carrying capacity involves a limiting factor which may be something such as available supplies of food, water, nesting areas, space or amount of waste that can be absorbed. Where resources are finite, such as for a population of Osedax on a whale fall or bacteria in a petridish, the population will curve back down to zero after the resources have been exhausted, with the curve reaching its apogee at K. In systems in which resources are constantly replenished, the population will reach its equilibrium at K.Software is available to help calculate the carrying capacity of a given natural environment.
+
+
+== Population ecology ==
+
+Carrying capacity is a commonly used method for biologists when trying to better understand biological populations and the factors which affect them. When addressing biological populations, carrying capacity can be used as a stable dynamic equilibrium, taking into account extinction and colonization rates. In population biology, logistic growth assumes that population size fluctuates above and below an equilibrium value.Numerous authors have questioned the usefulness of the term when applied to actual wild populations. Although useful in theory and in laboratory experiments, the use of carrying capacity as a method of measuring population limits in the environment is less useful as it assumes no interactions between species.
+
+
+== Agriculture ==
+Calculating the carrying capacity of a paddock in Australia is done in Dry Sheep Equivalents (DSEs). A single DSE is 50 kg Merino wether, dry ewe or non-pregnant ewe, which is maintained in a stable condition. Not only sheep are calculated in DSEs, the carrying capacity for other livestock is also calculated using this measure. A 200 kg weaned calf of a British style breed gaining 0.25 kg/day is 5.5DSE, but if the same weight of the same type of calf were gaining 0.75 kg/day, it would be measure at 8DSE. Cattle are not all the same, their DSEs can vary depending on breed, growth rates, weights, if it is a cow ('dam'), steer or ox ('bullock' in Australia), and if it weaning, pregnant or 'wet' (i.e. lactating). It is important for farmers to calculate the carrying capacity of their land so they can establish a sustainable stocking rate. In other parts of the world different units are used for calculating carrying capacities. In the United Kingdom the paddock is measured in LU, livestock units, although different schemes exist for this. New Zealand uses either LU, EE (ewe equivalents) or SU (stock units). In the USA and Canada the traditional system uses animal units (AU). A French/Swiss unit is Unité de Gros Bétail (UGB).
+
+In some European countries such as Switzerland the pasture (alm or alp) is traditionally measured in Stoß, with one Stoß equalling four Füße (feet). A more modern European system is Großvieheinheit (GV or GVE), corresponding to 500 kg in liveweight of cattle. In extensive agriculture 2 GV/ha is a common stocking rate, in intensive agriculture, when grazing is supplemented with extra fodder, rates can be 5 to 10 GV/ha. In Europe average stocking rates vary depending on the country, in 2000 the Netherlands and Belgium had a very rate of 3.82 GV/ha and 3.19 GV/ha respectively, surrounding countries have rates of around 1 to 1.5 GV/ha, and more southern European countries have lower rates, with Spain having the lowest rate of 0.44 GV/ha. This system can also be applied to natural areas. Grazing megaherbivores at roughly 1 GV/ha is considered sustainable in central European grasslands, although this varies widely depending on many factors. In ecology it is theoretically (i.e. cyclic succession, patch dynamics, Megaherbivorenhypothese) taken that a grazing pressure of 0.3 GV/ha by wildlife is enough to hinder afforestation in a natural area. Because different species have different ecological niches, with horses for example grazing short grass, cattle longer grass, and goats or deer preferring to browse shrubs, niche differentiation allows a terrain to have slightly higher carrying capacity for a mixed group of species, than it would if there were only one species involved.Some niche market schemes mandate lower stocking rates than can maximally be grazed on a pasture. In order to market ones' meat products as 'biodynamic', a lower Großvieheinheit of 1 to 1.5 (2.0) GV/ha is mandated, with some farms having an operating structure using only 0.5 to 0.8 GV/ha.The Food and Agriculture Organization has introduced three international units: FAO Livestock Units for North America, FAO Livestock Units for sub-Saharan Africa, and Tropical Livestock Units.Another rougher and less precise method of determining the carrying capacity of a paddock is simply by looking objectively at the condition of the herd. In Australia, the national standardized system for rating livestock conditions is done by body condition scoring (BCS). An animal in a very poor condition is scored with a BCS of 0, and an animal which is extremely healthy is scored at 5: animals may be scored between these two numbers in increments of 0.25. At least 25 animals of the same type must be scored to provide a statistically representative number, and scoring must take place monthly -if the average falls, this may be due to a stocking rate above the paddock's carrying capacity or too little fodder. This method is less direct for determining stocking rates than looking at the pasture itself, because the changes in the condition of the stock may lag behind changes in the condition of the pasture.
+
+
+== Fisheries ==
+
+In fisheries, the carrying capacity is used in the formulae to calculate sustainable yields for fisheries management. The maximum sustainable yield (MSY) is defined as "the highest average catch that can be continuously taken from an exploited population (=stock) under average environmental conditions". It was originally calculated as half of the carrying capacity, but has been refined over the years, now being seen as roughly 30% of the population, depending on the species or population. Because the population of a species which is brought below its carrying capacity due to fishing will find itself in the exponential phase of growth, as seen in the Verhulst model, the harvesting of an amount of fish at or below MSY is a surplus yield which can be sustainably harvested without reducing population size at equilibrium, keeping the population at its maximum recruitment (however, annual fishing can be seen as a modification of r in the equation -i.e. the environment has been modified, which means that the population size at equilibrium with annual fishing is slightly below what K would be without it). Note that mathematically and in practical terms, MSY is problematic. If mistakes are made and even a tiny amount of fish are harvested each year above the MSY, populations dynamics imply that the total population will eventually decrease to zero. The actual carrying capacity of the environment may fluctuate in the real world, which means that practically, MSY may actually vary slightly from year to year (annual sustainable yields and maximum average yield attempt to take this into account). Other similar concepts are optimum sustainable yield and maximum economic yield, these are both harvest rates below MSY.These calculations are used to determine fishing quotas.
+
+
+== Humans ==
+As climate change becomes a bigger issue, it has moved from social and natural sciences to political debates. Carrying capacity currently tends to be thought of as a natural and normal balance between nature and humans. Carrying capacity depends on the amount of natural resources available to a population and how much of the resource is needed. When it began to be used, it looked at human impacts on the environment or specific species. Anthropological criticisms of the concept of carrying capacity are that it does not successfully capture the nuances of how multilayered human and environment relationships are. Discussions of carrying capacity often utilize a framework that places undue blame on populations that often experience the worse effects of climate change and environmental degradation. The Gwembe Tonga Research Project (GTRP) is a long term study in Africa, that uses the building of the Kariba Dam on the Zambezi River as a case study to explore the effects of large scale development on populations. The building of this dam and the subsequent flooding in the area displaced 57,000 people. Increasing drought cycles along with displaced people joining land that was already populated caused a great deal of precarity for the displaced population, and kinship networks and famine foods were utilized to deal with scarcity. The study was started in 1956. It originally wrapped up in 1962, but the researchers chose to continue indefinitely to better understand the community and how it changes over time. The population was resettled from development on Lake Kariba. Some of the villages were forced to settle below the new dam. Six thousand people settled in Lusitu, with very ethnically different people with around one thousand people and a new environment. Droughts in the area are becoming more frequent, and there are definitely some environmental costs. However, with GTRP, it has been found that there is no inevitable permanent damage to the ecology. In Lusitu, there was a terrible drought between 1994 and 1995, which resulted in no harvest. However, the next year, the people saw a good harvest. It was not enough for the whole population, but it was better than other years. The drought allowed the soil to rest, and lead to a bigger harvest than in recent years. The economy has been struggling since the copper industry collapsed in the 1970s.
+For years, researchers have attempted to measure human carrying capacity with numbers, but there is not a model that works for every town, city, or country. Some of the issues that cause this are as follows
+an assumption of equilibrium
+difficulty in measuring food amounts
+inability to take into account preferences in taste and amount of labor
+assumption of full use of food resources
+assumption of similarity across landscapes
+assumption that the community is isolated
+not fully taking into consideration short- and long-term changes
+does not address the standard of livingWhen applying carrying capacity to human populations, these eight issues should be considered. Carrying capacity assumes equilibrium, as well as it’s difficult to measure food sources. Not all foods are available all the time, and there is a lot of variation in what is enough, as calories might be privileged over nutritional value, and it’s not possible to account for human preferences. It also assumes that there is full use of food resources, which doesn’t account for those aforementioned preferences or perhaps cultural taboos or lack of knowledge. There are also choices of when and where labor is invested, and these may differ generationally or across subsets of a population, as needs and goals affect priorities in different ways. Carrying capacity also assumes homogeneity across a landscape, and that regions don’t have a huge degree of variation and microcosms. It also assumes populations and groups are isolated, and ignores the utilization of practices like support from kinship networks or migration. Other problems with carrying capacity are that it takes a historical view and ignores natural fluctuations, as well as it doesn’t address issues specifically relevant to human populations, like a standard of living. The balance between populations that carrying capacity intends to reflect is more variable and complex than can be analyzed simply by this concept. Some recent scientists believe that humans are constantly adaptable, so there is no limitation that would completely wipe them out. Others think that humans overusing resources will decrease the carrying capacity overall.
+
+
+== See also ==
+Tourism carrying capacity
+Inflection point
+Optimum population
+Overpopulation in wild animals
+Overshoot (population)
+Population ecology
+Population growth
+r/K selection theory
+Toxic capacity
+ecological footprint and biocapacity
+
+
+== Further reading ==
+Kin, Cheng Sok, et al. "Predicting Earth's Carrying Capacity of Human Population as the Predator and the Natural Resources as the Prey in the Modified Lotka-Volterra Equations with Time-dependent Parameters." arXiv preprint arXiv:1904.05002 (2019).
+
+
+== References ==

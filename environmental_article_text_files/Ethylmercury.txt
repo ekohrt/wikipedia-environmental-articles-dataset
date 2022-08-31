@@ -1,0 +1,32 @@
+Ethylmercury (sometimes ethyl mercury) is a cation composed of an organic CH3CH2- species (an ethyl group) bound to a mercury(II) centre, making it a type of organometallic cation, and giving it a chemical formula C2H5Hg+. The main source of ethylmercury is thimerosal.
+
+
+== Synthesis and structure ==
+
+Ethylmercury (C2H5Hg+) is a substituent of compounds: it occurs as a component of compounds of the formula C2H5HgX where X = chloride, thiolate, or another organic group.  Most famously X = the mercaptide group of thiosalicylic acid as in thiomersal.  In the body, ethylmercury is most commonly encountered as derivatives with a thiolate attached to the mercury.  In these compounds, Hg(II) has a linear or sometimes trigonal coordination geometry. Given the comparable electronegativities of mercury and carbon, the mercury-carbon bond is described as covalent.: p. 79 
+
+
+== Toxicity ==
+The toxicity of ethylmercury is well studied.  Like methylmercury, ethylmercury distributes to all body tissues, crossing the blood–brain barrier and the placental barrier, and ethylmercury also moves freely throughout the body. Risk assessment for effects on the human nervous system have been made by extrapolating from dose-response relationships for methylmercury. Estimates have suggested that ethylmercury clears from blood with a half-life of 3–7 days in adult humans; however, this area has not been well studied.
+
+
+== Public health concerns ==
+
+Concerns based on extrapolations from methylmercury caused thimerosal to be removed from U.S. childhood vaccines, starting in 1999, but remains in all multi-dose vaccines and flu shots (though many single use vaccines without thimerosal are available). Clarkson has argued that risk assessments based on methylmercury were overly conservative, in light of observations that ethylmercury is eliminated from the body and the brain significantly faster than methylmercury. Moreover, Clarkson has argued that inorganic mercury metabolized from ethylmercury, despite its much longer half-life in the brain, is much less toxic than the inorganic mercury produced from mercury vapor, for reasons not yet understood.
+
+
+== See also ==
+Diethylmercury
+Mercury poisoning
+
+
+== References and notes ==
+
+
+== Further reading ==
+
+
+== External links ==
+EPA Organic Mercury TEACH Chemical Summary, 2007.
+EPA Chemistry Dashboard, Ethyl Mercury Ion, 2017.
+ATSDR Toxicological Profile for Mercury, search "Organic Mercury".

@@ -1,0 +1,37 @@
+A gas-guzzler, in informal language, is a vehicle that is perceived to consume a lot of fuel.
+The term originally came into formal legal usage in the U.S. when Congress established Gas Guzzler Tax provisions in the Energy Tax Act of 1978 to discourage the production and purchase of fuel-inefficient vehicles. The gas guzzler tax had applied only to cars (not trucks) and was collected by the IRS.  Other countries have followed suit and introduced their own version of a gas-guzzler tax such as Canada's "green levy".
+
+
+== Reasons for bad fuel economy ==
+There are several reasons for bad fuel economy in cars, vans and trucks:
+
+Heavy weight: A heavy vehicle requires more work to accelerate than a lighter vehicle, requiring more powerful (larger displacement or super/turbo-charged) engine with higher fuel consumption to achieve a similar power-to-weight ratio.
+Large drag coefficient: A less aerodynamic vehicle must deflect a greater volume of air when moving at the same speed than a more aerodynamic one. To overcome this drag, a more powerful engine with higher fuel consumption is needed.
+High frontal area: A high cross sectional area will increase average fuel consumption.
+Too small an engine. Microcars with engine below 1 litre have higher fuel consumptions than 1-2 litre engined cars in real world testing.
+Non-daily use specialty vehicles: Some cars are not designed primarily for daily, mainstream use such as commuting but for other purposes in which impact of fuel economy is negligible. For example, a sports car designed for a limited amount of recreational use would have handling and driver satisfaction as a main focus instead of fuel economy.
+
+
+== Means to decrease fuel consumption ==
+Green vehicles using modern engineering can use vastly less fuel through the use of hybrid drivetrains, advanced engine technologies, and improved aerodynamics. 
+Diesel technology is widespread in light trucks, especially in Japan and Europe. The bad reputation of diesel fuel and the previously bad quality of the fuel, however, have led to the rarity of such vehicles in the US market. The excessive particle emissions of diesel engines have also been cut back with particulate filters, which are offered for most modern diesel engines.
+Fuel-efficient driving habits and vehicle maintenance are easy to change and can have a big impact on fuel consumption. Sudden acceleration and braking, traveling at high speeds, poorly maintained vehicles (frequency of oil changes and brand), and gasoline brands can also impact overall fuel consumption by over 25%.  There are many other ways to reduce your fuel consumption.
+
+
+== Gas Guzzler Tax ==
+
+
+=== Basics ===
+The US government introduced the Gas Guzzler Tax as a part of the Energy Tax Act. The tax was introduced to tax the purchase of inefficient vehicles at the same time that Corporate Average Fuel Economy (CAFE) standards were introduced. The Gas Guzzler Tax applies only to vehicles classified as cars, as opposed to light trucks. Since 1991, cars with a combined fuel economy rating under 17.5 mpg‑US (13.4 L/100 km; 21.0 mpg‑imp) have been subject to the tax. Light trucks, which includes virtually all sport-utility vehicles, pickup trucks and vans, are not subject to the tax.
+
+
+=== Criticism ===
+The primary criticism of the tax is that it does not apply to light trucks.  As a result, relatively few vehicles are subject to the tax.  When the tax was first introduced, light trucks were viewed as primarily utilitarian work related vehicles.  With the shift towards consumer uses for SUVs and pickups, as automakers discontinued the large body-on-frame sedans and station wagons long preferred by many Americans to meet the CAFE standards the original rationale for exempting trucks is considered invalid by critics of the current tax law.  Many Americans, especially soccer moms, who once drove the large cars and station wagons that were classified as gas guzzlers switched to equally inefficient upscale four-door SUVs, crossovers, or minivans that are classified as light trucks and therefore exempt from the tax.
+
+
+== References ==
+
+
+== External links ==
+
+Top 10 gas guzzlers: Exotics rule

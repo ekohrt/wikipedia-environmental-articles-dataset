@@ -1,0 +1,52 @@
+Directive 98/44/EC of the European Parliament and of the Council of 6 July 1998 on the legal protection of biotechnological inventions 
+is a European Union directive in the field of patent law, made under the internal market 
+provisions of the Treaty of Rome. It was intended to harmonise the laws of Member States regarding the patentability 
+of biotechnological inventions, including plant varieties (as legally defined) and human genes.
+
+
+== Content ==
+The Directive is divided into the following five chapters:
+
+Patentability (Chapter I)
+Scope of Protection (Chapter II)
+Compulsory cross-licensing (Chapter III)
+Deposit, access and re-deposit of biological material (Chapter IV)
+Final Provisions (entering into force) (Chapter V)
+
+
+== Timeline ==
+The original proposal was adopted by the European Commission in 1988. The procedure for its adoption was slowed down by primarily ethical issues regarding the patentability of living matter. The European Parliament eventually rejected the joint text from the final Conciliation meeting at 3rd reading on 1 March 1995 so the first directive process did not yield a directive.On 13 December 1995, the Commission adopted a new proposal was nearly identical to the rejected version, was changed again, but the Parliament put aside its ethical concerns on patenting of human genes in on 12 July 1998 in its second reading and adopted the Common Position of the Council, so in the second legislative process, the directive was adopted. The drafts person of the Parliament for this second procedure was Willi Rothley and the vote with the most yes votes was Amendment 9 from the Greens which got 221 against 294 votes out of 532 members voting
+with 17 abstentions but 314 yes votes would have been required to reach the required an absolute majority to adopt it.
+On 6 July 1998, a final version was adopted. Its code is 98/44/EC.
+The Kingdom of the Netherlands brought Case C-377/98 before the European Court of Justice against the adoption of the directive with six different pleas but the Court granted none of them.
+Nevertheless, the ECJ decision does not preclude a further test of the validity of the directive on the ground that it is inconsistent with the Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS). Art. 27.1 TRIPS provides that patents are only to be granted with respect to 'inventions'.  The directive, however, provides that "biological material which is isolated from its natural environment ... may be the subject of an invention even if it previously occurred in nature."  It is clearly arguable that merely isolating a human gene or protein from its natural environment is not an activity that can come within the meaning of the word 'invention'.  The Danish Council of Bioethics in its Patenting Human Genes and Stem Cells Report noted that "In the members' view, it cannot be said with any reasonableness that a sequence or partial sequence of a gene ceases to be part of the human body merely because an identical copy of the sequence is isolated from or produced outside of the human body."  TRIPS applies to the European Community as it is a member of the World Trade Organization (WTO) in its own right and accordingly must ensure "the conformity of its laws, regulations and administrative procedures with obligations as provided" by the WTO.On 14 January 2002, the Commission submitted an assessment of the implications for basic genetic engineering research of failure to publish, or late publication of, papers on subjects which could be patentable as required under Article 16(b) of this directive.
+
+
+== Campaigning and lobbying ==
+According to SmithKline Beecham lobbyist Simon Gentry, the company allocated 30 million ECU for a pro-Directive campaign. Part of this campaign was direct support of patient charities and organisations. On the day of the July 1997 vote, a number of people in wheelchairs from these groups demonstrated outside the main hall in Strasbourg, chanting the pharmaceutical industry's slogan, "No Patents, No Cure" in an emotional appeal to Parliamentarians to vote for the Directive.
+
+
+== Implementation ==
+As of 15 January 2007, all of the 27 EU member states had implemented the Directive.
+
+
+== See also ==
+Biological patent
+Patent law of the European Union
+G 2/06, decision of the Enlarged Board of Appeal of the European Patent Office (EPO) of 25 November 2008, relating to (non-patentability of) inventions involving the use and destruction of human embryos.
+
+
+== References ==
+
+
+== External links ==
+EU Legislation summary
+Text of the directive (pdf)
+Text of directive with headers (html)
+Report from the Commission to the Council and the European Parliament, Development and implications of patent law in the field of biotechnology and genetic engineering, 2005-07-14
+FAQ from the Commission Directorate-General for the Internal Market
+Reports and other documents concerning European Commission activities in the area of biotechnological inventions from the Commission Directorate-General for the Internal Market
+Issues from the UK Intellectual Property Office
+Some biotechnological inventions registered at the European Patent Office (unofficial site)
+Paper
+Baruch Brody, 2007.  "Intellectual Property and Biotechnology: The European Debate,” Kennedy Institute of Ethics Journal 17(2): 69–110. [3]

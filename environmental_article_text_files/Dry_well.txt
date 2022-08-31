@@ -1,0 +1,26 @@
+A dry well or drywell is an underground structure that disposes of unwanted water, most commonly surface runoff and stormwater and in some cases greywater. It is a gravity-fed, vertical underground system that captures surface water from impervious surfaces, then stores and gradually infiltrates the water into the groundwater aquifer. Such structures are often called a soakaway in the United Kingdom or a soakwell or soak pit in Australia.
+
+
+== Design ==
+
+Dry wells are excavated pits that may be filled with aggregate or air and are often lined with a perforated casing. The casings consist of perforated chambers made out of plastic or concrete and may be lined with geotextile. They provide high stormwater infiltration capacity while also having a relatively small footprint.A dry well receives water from entry pipes at its top. It can be used part of a broader stormwater drainage network or on smaller scales such as collecting stormwater from building roofs. It is used in conjunction with pretreatment measures such as bioswales or sediment chambers to prevent groundwater contamination.The depth of the dry well allows the water to penetrate soil layers with poor infiltration such as clays into more permeable layers of the vadose zone such as sand.Simple dry wells consist of a pit filled with gravel, riprap, rubble, or other debris. Such pits resist collapse but do not have much storage capacity because their interior volume is mostly filled by stone.  A more advanced dry well defines a large interior storage volume by a concrete or plastic chamber with perforated sides and bottom. These dry wells are usually buried completely so that they do not take up any land area.  The dry wells for a parking lot's storm drains are usually buried below the same parking lot.
+
+
+== Similar Concepts ==
+A sump in a basement can be built in dry well form, allowing the sump pump to cycle less frequently (handling only occasional peak demand). A French drain can resemble a horizontal dry well that is not covered. A larger open pit or artificial swale that receives stormwater and dissipates it into the ground is called an infiltration basin or recharge basin. In places where the amount of water to be dispersed is not as large, a rain garden can be used instead.
+A covered pit that disposes of the water component of sewage by the same principle as a dry well is called a cesspool. A septic drain field operates on the same slow-drain/large-area principle as an infiltration basin.
+
+
+== See also ==
+Landscape architecture
+Septic tank
+Stormwater
+
+
+== References ==
+
+
+== External links ==
+Non-residential drywells are regulated in the U.S. to protect drinking water sources - U.S. Environmental Protection Agency
+Photos of a reinforced concrete drywell installation
+Photos of Australian Soakwell Installation

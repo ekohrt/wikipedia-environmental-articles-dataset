@@ -1,0 +1,22 @@
+A green certificate are a tradable commodity proving that certain electricity is generated using renewable energy sources. Typically one certificate represents the generation of one Megawatthour of electricity. What is defined as "renewable" varies from certificate trading scheme to trading scheme. Usually, at least the following sources are considered as renewable:
+
+Wind (often further divided into onshore and offshore)
+Solar (often further divided into photovoltaic and thermal)
+Wave (often further divided into onshore and offshore) and tidal (often further divided into onshore and offshore)
+Geothermal
+Hydro (often further divided into small – microhydro – and large)
+Biomass (mainly biofuels, often further divided by actual fuel used).Green certificates represent the environmental value of renewable energy generated. The certificates can be traded separately from the energy produced. 
+Several countries use green certificates as a means to make the support of green electricity generation closer to a market economy instead of more bureaucratic investment support and feed-in tariffs. Such national trading schemes are in use in e.g. Poland, Sweden, the UK, Italy, Belgium (Wallonia and Flanders), and some US states.
+Once in the grid, renewable energy is impossible to separate from the conventionally generated energy. This makes purchasing of a green certificate equal to purchasing a claim, that the certificate owner consumed energy from the renewable portion of the whole energy in the grid. Therefore certificate purchase does not affect how much renewable energy was actually generated – only how it was distributed.
+In contrast to CO2e-Reduction certificates, e.g. AAU's or CER's under the UNFCC, which can be exchanged worldwide, Green Certificates cannot be exchanged/traded between e.g. Belgium and Italy, let alone the USA and the EU member States.
+
+
+== See also ==
+
+
+== External links ==
+The Green Certificate Company – green business certification site.
+Green Business Bureau – green business certification site (EERE).
+Green Business League – green business certification site
+Green Power Network's RECs page (EERE).
+Green Standard Certificate Scheme

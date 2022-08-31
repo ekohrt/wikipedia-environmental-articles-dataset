@@ -1,0 +1,57 @@
+In land-use planning, a locally unwanted land use (LULU) is a land use that creates externality costs on those living in close proximity. These costs include potential health hazards, poor aesthetics, or reduction in home values. LULUs often gravitate to disadvantaged areas such as slums, industrial neighborhoods and poor, minority, unincorporated or politically under-represented places that cannot fight them off.  Such facilities with such hazards need to be created for the greater benefits that they offer society.LULUs can include power plants, dumps (landfills), prisons, roads, factories, hospitals and many other developments. Planning seeks to distribute and reduce the harm of LULUs by zoning, environmental laws, community participation, buffer areas, clustering, dispersing and other such devices. Thus planning tries to protect property and environmental values by finding sites and operating procedures that minimize the LULU's effects.
+
+
+== Types ==
+
+
+== Externalities ==
+An externality is something that happens as a result of a transaction that affects an uninvolved third party. LULU's present externalities in various ways, most notably those that inflict the senses: harsh smell, reduced aesthetics, noise pollution, and poor livability.
+
+
+== Inequality ==
+It has been suggested that a correlation exists between the location of sites considered as locally unwanted land uses and the proximity to minority populations as a result of market dynamics. That is, externalities associated with LULUs (such as poor aesthetics, lack of desirable amenities, etc.) tend to discourage high-earning buyers from moving to the area, and thus perpetuate the cycle in which low income individuals have few choices except those which happen to be in areas with LULUs such as landfills and highways. This tends to lower home values. Further, the same market forces, especially those that may discriminate against minorities, could make it so that these areas happen to be populated predominantly by minorities.Throughout the United States, "three out of five African Americans and Latino Americans live in communities with abandoned toxic waste sites." This pattern is typically seen because of discrimination and racism throughout the infrastructure development process. It is becoming more and more common. What makes a LULU such as this unique is that they cause displacement, whereas a landfill, dump, roads, or prisons simply discourage home-buyers from entering the area and keep home prices low. High-end health food stores such as Whole Foods causes displacement by attracting high-earning home buyers into the area, causing rents and home prices to rise. This has been dubbed the "Whole Foods effect".
+
+
+== Gentrification ==
+
+
+=== San Francisco ===
+
+San Francisco, like many other large cities in the United States, has a high cost of living. Its proximity to the Silicon Valley lends itself to attracting high-income home buyers. As of 2013, 53% of low-income households throughout the entirety of the bay area were undergoing gentrification pressures caused by transit investment and new developments.
+
+
+=== Boston ===
+Boston has been known historically for the high-cost of living that accompanies residence there, as well as being subject to various Urban renewal projects during America's Urban Renewal era. These renewal projects often caused the displacement of Jewish and Italian immigrants as well as working class individuals in surrounding areas in its earliest years.
+
+
+== Superfund ==
+
+Superfund, or the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, was created to mitigate the cleanup and costs thereafter of hazardous waste sites. Superfund sites are often thought of when discussing LULUs. Love Canal was the first superfund site, established because of chemical waste that was being dumped into the canal by Hooker Electrical Company, later known as Hooker Chemical Company. The incident attracted widespread media attention and the neighborhoods surrounding Love Canal have since been destroyed. It has been suggested that some of these sites tend to be located in areas that have a high number of low-income, minority residents.
+
+
+=== Native Americans ===
+Of the 1,000+ Superfund sites in America, 25% of them (both capped and active) are situated directly on or near Native American reservations. Many of these sites can interfere with various rituals and affect cultural objects, and create further conflict between the Government and affected tribes. As discussed in a report from the All Indian Pueblo's Office of Environmental Protection, "the Superfund HRS [Hazard Ranking System] model does not account for Indian religious and ceremonial impacts from sites. Due to their importance in Pueblo life, culturally significant plants, animals, ceremonial surface water use, and sacred areas should be considered as critical impacts when evaluating the various pathways of exposure of the HRS.”
+
+
+== Environmental justice movement ==
+The environmental justice movement began after the discovery of illegal dumping throughout 14 North Carolina counties. 31,000 gallons of polychlorinated biphenyl (PCB) was dumped by the Ward Transformers Company throughout these counties. The state government in North Carolina devised a landfill diversion plan for this waste after discovering the dumping, but the landfill was sited in Warren County, which had the greatest concentration of African American residents of all North Carolina's 100 counties, and was also the most poor, ranking 97th in GDP of the counties in North Carolina. The mainstream environmental movement was made popular by the emphasis on wildlife protection and wilderness preservation during the 20th century, but this presented cost barriers to poorer individuals whose concerns were not with wildlife and wilderness preservation. By virtue of the fact that this movement was not championed by poor people in its formative stages, it has caused these individuals to view the mainstream environmental movement as "elitist". This elitism is understood through three different forms, according to a study by Denton E. Morrison and Riley E. Dunlap:
+
+Compositional – Environmentalists tend to be from the middle and upper classes, both socially and financially
+Ideological – The reforms benefit the movement's supporters but impose costs on nonparticipants, i.e.: wildlife preservation benefits middle/upper class individuals because they have a greater utility derived from these things, poor people do not get as much utility
+Impact – These reforms are "regressive" in their impact to society, meaning that disenfranchised individuals are disproportionally harmed by these changes made by the middle/upper classThe environmental justice movement emerged as a critique of mainstream environmentalism's elitism and racism. One of the greatest barriers to entry for poor individuals to join in the environmental justice movement is legal fees. In order to try and prevent the kinds of pollution like that of Warren County, NC, there are a great number of legal fees involved which are often costly. To that end, many of the companies that produce pollution will encourage acceptance of this pollution by communities in order to avoid clean up costs and costs associated with making certain industries more environmentally sustainable. That is, the cost of paying communities to accept pollution is often less than the (initial) cost/s of avoiding pollution all together. Therefore, it can be ascertained that poorer communities are likely to accept compensation for a certain level of pollution, and wealthier communities are willing to accept a smaller amount of pollution and demand a greater level of environmental quality. The difference is that one group is able to pay for environmental quality, and the other group is not.
+
+
+== See also ==
+
+Corruption in local government
+Fenceline community
+Gentrification
+Land speculation
+NIMBY
+Pollution haven hypothesis
+Real estate appraisal
+Urban sprawl
+Zoning
+
+
+== References ==

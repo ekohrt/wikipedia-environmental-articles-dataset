@@ -1,0 +1,23 @@
+A partial zero emission vehicle, in the United States, is an automobile that has zero evaporative emissions from its fuel system, has a 15-year (or at least 150,000-mile) warranty on its emission-control components, and meets SULEV tailpipe-emission standards.
+
+
+== Definition and history ==
+In California, PZEVs have their own administrative category for low-emission vehicles. The category was made in a bargain between automakers and the California Air Resources Board (CARB), so that automobile makers could delay making mandated zero-emission vehicles (ZEVs)—battery electric and fuel-cell electric vehicles.
+The Super Ultra Low Emission Vehicle (SULEV) standard is more stringent than the Ultra Low Emission Vehicle and low-emission vehicle standards. All emissions-related components, including the electric-propulsion parts of hybrid electric vehicles, must be warranted for 15 years or 150,000 miles.
+Advanced Technology PZEVs (AT-PZEVs) are at least as "clean" as regular PZEVs.
+CARB also prepared a TZEV (Transitional ZEV, formerly Enhanced AT-PZEV) category for plug-in hybrids (PHEVs) and hydrogen vehicles. (Not to be confused with Hydrogen Fuel Cell Electric Vehicles which are certified as ZEV or Zero Emission Vehicles.) In addition to the 15 year or 150,000 mile warranty (dependent on the automaker for warranty length) for zero evaporative (fuel system) emissions, and SULEV tailpipe emissions, PHEVs must also warranty their traction battery for 10 years or 150,000 miles. While PHEVs and hydrogen internal combustion engine vehicles exist, none meet this stringent standard.
+Except some hybrids and alternative-fuel vehicles, PZEVs do not inherently offer consumers any kind of incentives other than the extended emissions warranty. In particular, PZEV vehicles do not automatically qualify for the hybrid vehicle tax credit or for the "clean air vehicle" decal that used to allow hybrid car drivers to use car-pool lanes.PZEVs do, however, provide benefits to the originating automaker in the form of ZEV credits. Automakers must have a certain number of ZEV credits based on the number of vehicles they sell annually in California, with exceptions granted for small volume manufacturers. Without ZEV credits, automakers cannot sell in California. Automakers with excess credits can sell them. No automaker has ever missed compliance.Originally, PZEVs were available only in California, Maine, Massachusetts, New York, Oregon, Vermont, some dates regions near those states, and Canada. The six "clean-car states" had implemented California's motor-vehicle pollution-control rules. Other states soon began implementing these standards, including Alaska, Connecticut, Maryland, New Jersey, Pennsylvania, Rhode Island, and Washington, and PZEVs are now widely available in the United States.
+
+
+== See also ==
+United States emission standards
+Plug-in hybrid
+
+
+== References ==
+
+
+== External links ==
+"Study Shows Accelerated Introduction of Super-Clean Cars Will Help Los Angeles Meet Federal Smog Standards By 2010" (Press release). University of California, Riverside. September 23, 2003.
+Official California Government site
+ACEEE's GreenerCars.org

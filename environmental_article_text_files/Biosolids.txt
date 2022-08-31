@@ -1,0 +1,69 @@
+Biosolids are solid organic matter recovered from a sewage treatment process and used as fertilizer. In the past, it was common for farmers to use animal manure to improve their soil fertility. In the 1920s, the farming community began also to use sewage sludge from local wastewater treatment plants. Scientific research over many years has confirmed that these biosolids contain similar nutrients to those in animal manures. Biosolids that are used as fertilizer in farming  are usually treated to help to prevent disease-causing pathogens from spreading to the public. Some sewage sludge can not qualify as biosolids due to persistent, bioaccumulative and toxic chemicals, radionuclides, and heavy metals at levels sufficient to contaminate soil and water when applied to land.
+
+
+== Terminology ==
+Biosolids may be defined as organic wastewater solids that can be reused after suitable sewage sludge treatment processes leading to sludge stabilization such as anaerobic digestion and composting.Alternatively, the biosolids definition may be restricted by local regulations to wastewater solids only after those solids have completed a specified treatment sequence and/or have concentrations of pathogens and toxic chemicals below specified levels.The United States Environmental Protection Agency (EPA) defines the two terms – sewage sludge and biosolids – in the Code of Federal Regulations (CFR), Title 40, Part 503 as follows: Sewage sludge refers to the solids separated during the treatment of municipal wastewater (including domestic septage), while biosolids refers to treated sewage sludge that meets the EPA pollutant and pathogen requirements for land application and surface disposal. A similar definition has been used internationally, for example in Australia.Use of the term "biosolids" may officially be subject to government regulations. However, informal use describes a broad range of semi-solid organic products produced from sewage or sewage sludge. This could include any solids, slime solids or liquid slurry residue generated during the treatment of domestic sewage including scum and solids removed during primary, secondary or advanced treatment processes. Materials that do not conform to the regulatory definition of "biosolids" can be given alternative terms like "wastewater solids".
+
+
+== Characteristic ==
+
+
+=== Quantities ===
+Approximately 7.1 million dry tons of biosolids were generated in 2004 at approximately 16,500 municipal wastewater treatment facilities in the United States.In the United States, as of 2013 about 55% of sewage solids are used as fertilizer. Challenges faced when increasing the use of biosolids include,  the capital needed to build anaerobic digesters and the complexity of complying with health regulations. There are also new concerns about micro-pollutions in sewage (e.g. environmental persistent pharmaceutical pollutants) which make the process of producing high quality biosolids complex. Some municipalities, states or countries have banned the use of biosolids on farmland.
+
+
+=== Nutrients ===
+Encouraging agricultural use of biosolids is intended to prevent filling landfills with nutrient-rich organic materials from the treatment of domestic sewage that might be recycled and applied as fertilizer to improve and maintain productive soils and stimulate plant growth. Biosolids can be an ideal agricultural conditioner and fertilizer which can help promote crop growth to feed the increasing population. Biosolids may contain macronutrients nitrogen, phosphorus, potassium and sulphur with micronutrients copper, zinc, calcium, magnesium, iron, boron, molybdenum and manganese.
+
+
+=== Industrial and man-made contaminants ===
+Biosolids contains synthetic organic compounds, radionuclides and heavy metals. The United States Environmental Protection Agency (EPA) has set numeric limits for arsenic, cadmium, copper, lead, mercury, molybdenum, nickel, selenium, and zinc but has not regulated dioxin levels.Contaminants from pharmaceuticals and personal care products and some steroids and hormones may also be present in biosolids.  Substantial levels of persistent, bioaccumulative and toxic (PBT) polybrominated diphenyl ethers were detected in biosolids in 2001.The United States Geological Survey analyzed in 2014 nine different consumer products containing biosolids as a main ingredient for 87 organic chemicals found in cleaners, personal care products, pharmaceuticals, and other products. These analysis detected 55 of the 87 organic chemicals measured in at least one of the nine biosolid samples, with as many as 45 chemicals found in a single sample.In 2014, the City of Charlotte, North Carolina discovered extreme levels of polychlorinated biphenyls (PCB's) in their biosolids after being alerted by that illegal PCB dumping was taking place at regional waste water treatment plants across the state.Biosolids land application in South Carolina was halted in 2013 after an emergency regulation was enacted by the South Carolina Department of Health and Environmental Control (SCDHEC) that outlawed any PCB contaminated biosolids from being land applied regardless if Class A or Class B. Very soon thereafter, SCDHEC expanded PCB fish consumption advisories for nearly every waterway bordering biosolids land application fields.In 2019, the state of Maine found that 95% of sewage sludge produced in the state contained unsafe levels of Per- and polyfluoroalkyl substances (PFAS) chemicals. Several farms that had spread biosolids as fertilizer were found to have PFAS contaminated soil, groundwater, animals and crops. Hundreds of other farms were potentially similarly contaminated. The state subsequently imposed additional rules restricting biosolids spreading.Biosolids used as a fertilizer have resulted in PFAS contamination of beef raised in Michigan.In October 2021 EPA announced the PFAS Strategic Roadmap which includes risk assessment for PFAS (PFOA and PFOS) in biosolids.
+
+
+=== Pathogens ===
+In the United States the EPA mandates certain treatment processes designed to significantly decrease levels of certain so-called indicator organisms, in biosolids. These include, "...operational standards for fecal coliforms, Salmonella sp. bacteria, enteric viruses, and viable helminth ova."However, the US-based Water Environment Research Foundation has shown that some pathogens do survive sewage sludge treatment.EPA regulations allow only biosolids with no detectable pathogens to be widely applied; those with remaining pathogens are restricted in use.
+
+
+== Different types of biosolids ==
+Anaerobic Digestion: Micro-organisms decompose the sludge in the absence of oxygen either at mesophilic (at 35 °C) or thermophilic (between 50° and 57 °C) temperatures.
+Aerobic Digestion: Micro-organisms decompose the sludge in the presence of oxygen either at ambient and mesophilic (10 °C to 40 °C) or auto-thermal (40 °C to 80 °C) temperatures.
+Composting: A biological process where organic matter decomposes to produce humus after the addition of some dry bulking material such as sawdust, wood chips, or shredded yard waste under controlled aerobic conditions.
+Alkaline Treatment: The sludge is mixed with alkaline materials such as lime or cement kiln dust, or incinerator fly ash and maintained at pH above 12 for 24 hours (for Class B) or at temperature 70 °C for 30 minutes (for Class A).
+Heat Drying: Either convention or conduction dryers are used to dry the biosolids
+Dewatering: The separation of the water from biosolids is done to obtain a semi-solid or solid product by using a dewatering technologies (centrifuges, belt filter presses, plate and frame filter presses, and drying beds and lagoons).
+
+
+== Classification systems ==
+
+
+=== United States ===
+In the United States Code of Federal Regulations (CFR), Title 40, Part 503 governs the management of biosolids. Within that federal regulation biosolids are generally classified differently depending upon the quantity of pollutants they contain and the level of treatment they have been subjected to (the latter of which determines both the level of vector attraction reduction and the level of pathogen reduction). These factors also affect how they may be disseminated (bulk or bagged) and the level of monitoring oversight which, in turn determines where and in what quantity they may be applied. The National Organic Program prohibits the use of biosolids in farming certified organic crops.
+
+
+=== European Union ===
+The European Union (EU) was the first to issue regulations for biosolids land application; this aimed to put a limit to the pathogen and pollution risk. These risks come from the fact that some metabolites remain intact after waste water treatment processes. Debates over biosolid use vary in severity across the EU.
+
+
+=== New Zealand ===
+In 2003, the Ministry for the Environment and the New Zealand Water & Wastes Association produced the document Guidelines for the safe application of biosolids to land in New Zealand. In the document, biosolids were defined as "sewage sludges or sewage sludges mixed with other materials that have been treated and/or stabilised to the extent that they are able to be safely and beneficially applied to land... [and noted that they] have significant fertilising and soil conditioning properties as a result of the nutrients and organic materials they contain."A New Zealand scientist, Jacqui Horswell later led collaborative research by the Institute of Environmental Science and Research, Scion, Landcare Research and the Cawthron Institute into the management of waste, in particular biosolids, and this has informed the development of frameworks for engaging local communities in the process. In 2016 the project developed a Community Engagement Framework for Biowastes to provide guidelines in effective consultation with communities about the discharge of biowastes to land, and in 2017
+another collaborative three-year project with councils aimed to develop a collective biosolids strategy and use the programme in the lower North Island. When the project was reviewed in 2020, the conclusion was that it had shown biosolids can be beneficially reused.A research paper in 2019, reported on the management considerations around using biosolids as a fertilizer, specifically to account for the complexity of the nutrients reducing the availability for plant uptake, and noted that  stakeholders need to "factor in the expected plant availability of the nutrients when
+assessing the risk and benefits of these biological materials."
+
+
+== History ==
+As public concern arose about the disposal of increased volumes of solids in the United States being removed from sewage during sewage treatment mandated by the Clean Water Act. The Water Environment Federation (WEF) sought a new name to distinguish the clean, agriculturally viable product generated by modern wastewater treatment from earlier forms of sewage sludge widely remembered for causing offensive or dangerous conditions. Of 300 suggestions, biosolids was attributed to Dr. Bruce Logan of the University of Arizona, and recognized by WEF in 1991.
+
+
+== Examples ==
+Milorganite is the trademark of a biosolids fertilizer produced by the Milwaukee Metropolitan Sewerage District. The recycled organic nitrogen fertilizer from the Jones Island Water Reclamation Facility in Milwaukee, Wisconsin, is sold throughout North America, reduces the need for manufactured nutrients.
+Loop is the trademark of a biosolids soil amendment produced by the King County Wastewater Treatment Division. Loop has been blended into GroCo, a commercially available compost product, since 1976. Several local farms and forests also use Loop directly.
+TAGRO is short for "Tacoma Grow" and is produced by the City of Tacoma, Washington since 1991.
+Dillo Dirt has been produced by the City of Austin, Texas since 1989.
+Biosolids are applied as fertilizer in the Central Wheatbelt of Australia as a recycling program by the Water Corporation.
+
+
+== See also ==
+Reuse of excreta
+
+
+== References ==

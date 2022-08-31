@@ -1,0 +1,13 @@
+Conservation status is a measure used in conservation biology to assess an ecoregion's degree of habitat alteration and habitat conservation. It is used to set priorities for conservation.
+Conservation status and biological distinctiveness were the two measures used by the World Wildlife Fund (WWF) to develop the Global 200, a list of high-priority ecoregions for conservation, and for the WWF's conservation assessments at continent (or biogeographic realm) scale.Ecoregions are classified into one of three broad categories: "critical/endangered" (CE), "vulnerable" (V), or "relatively stable/relatively intact" (RS). The WWF's conservation status index is determined by analyzing four factors:
+Habitat loss is the percentage of an ecoregion's habitat that has been converted to agriculture or urban areas;
+Habitat blocks measures of the size of remaining habitat blocks;
+Habitat fragmentation is the degree to which remaining habitat is fragmented, measured as the ratio of the total perimeter of remaining habitat blocks to their total area;
+Habitat protection measures the area of remaining habitat in protected areas, and the degree of protection provided (IUCN protected area categories).Additional factors considered for the Global 200 include degree of habitat degradation, degree of protection needed, degree of urgency for conservation needs, and types of conservation practiced or required.
+
+
+== See also ==
+List of global 200 ecoregions
+
+
+== References ==

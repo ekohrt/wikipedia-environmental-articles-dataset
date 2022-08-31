@@ -1,0 +1,51 @@
+The universal recycling symbol (U+2672 ♲ UNIVERSAL RECYCLING SYMBOL or U+267B ♻ BLACK UNIVERSAL RECYCLING SYMBOL in Unicode) is internationally recognized for symbol for recycling activity. The symbol's creation originates on the first Earth Day in 1970, where the logo depicted is a Möbius strip. The public domain status of the symbol has been challenged before, but attempts have been unsuccessful. Many variations on the logo had been created since its creation.
+
+
+== History ==
+Worldwide attention to environmental issues led to the first Earth Day in 1970. Container Corporation of America, a large producer of recycled paperboard, sponsored a contest for art and design students at high schools and colleges across the country to raise awareness of environmental issues. It was won by Gary Anderson, then a 23-year-old college student at the University of Southern California, whose entry was the image now known as the universal recycling symbol. The symbol is not trademarked and is in the public domain. The public-domain status of the symbol has been challenged, but this challenge was unsuccessful owing to the wide use of the symbol. However, the universal symbol may have been inspired by similar existing at the time recycling symbols, such as one featuring two arrows chasing each other in a circle that Volkswagen stamped in the early 1960s into some automobile parts it remanufactured.
+
+
+== Variants ==
+The recycling symbol is in the public domain, and is not a trademark. The Container Corporation of America originally applied for a trademark on the design, but the application was challenged, and the corporation decided to abandon the claim. As such, anyone may use or modify the recycling symbol, royalty-free.
+Though use of the symbol is regulated by law in some countries,  countless variants of it exist worldwide. Anderson's original proposal had the arrows form a triangle standing on its tip—upside down compared with the versions most commonly seen today—but the CCA, in adopting Anderson's design, rotated it 60° to stand on its base instead.Both Anderson's proposal and CCA's designs form a Möbius strip with one half-twist by having two of the arrows fold over each other, and one fold under, thereby canceling out one of the other folds. However, most variants of the symbol used today have all the arrows folding over themselves, producing a Möbius strip with three half-twists. Existing single half-twist variants of the logo do not generally agree on which of the arrows is the one to fold underneath.  The logo is usually displayed with the arrows circulating clockwise, but the underlying Möbius strip exists in two topologically distinct mirror-image forms of opposite handedness.
+The American Paper Institute originally promoted four different variants of the recycling symbol for different purposes. The plain Möbius loop, either white with an outline or solid black, was to be used to indicate that a product was recyclable.  The other two variants had the Möbius loop inside a circle—either white on black or black on white—and were meant for products made of recycled materials, with the white-on-black version to be used for 100% recycled fiber, and the black-on-white version for products containing both recycled and unrecycled fiber. For example, a paper envelope might have both the first and last of these four symbols, to indicate that it was recyclable, and made from both recycled and unrecycled fibers.
+In addition to the resin identification codes 1–7 in the triangular recycling symbol, Unicode lists the following recycling symbols:
+
+U+2672 ♲ UNIVERSAL RECYCLING SYMBOL
+U+267A ♺ RECYCLING SYMBOL FOR GENERIC MATERIALS
+U+267B ♻ BLACK UNIVERSAL RECYCLING SYMBOL
+U+267C ♼ RECYCLED PAPER SYMBOL (indicates product contains recycled paper)
+U+267D ♽ PARTIALLY-RECYCLED PAPER SYMBOL (indicates product contains partially recycled paper)
+U+267E ♾ PERMANENT PAPER SIGN (e.g. for acid-free paper)An ISO/IEC working group has researched and documented some of the variations of the recycling logo in use during 2001, and has made recommendations for adding some more of them to the Unicode standard.With the rapid expansion of materials converted to printer filament for 3-D printing using recyclebot technology, a large expansion of resin identification codes has been proposed.
+
+
+== Resin identification code ==
+
+In 1988, the American Society of the Plastics Industry (SPI) developed the resin identification code which is used to indicate the predominant plastic material used in the manufacture of the product or packaging.  Their purpose is to assist recyclers with sorting the collected materials, but they do not necessarily mean that the product/packaging can be recycled either through domestic curbside collection or industrial collections.  The SPI symbols are loosely based on the Möbius loop symbol, but feature simpler bent (rather than folded over) arrows that can be embossed on plastic surfaces without loss of detail.  The arrows are formed into a flat, two-dimensional triangle rather than the pseudo-three-dimensional triangle used in the original recycling logo.
+The different resin identification codes can be represented by Unicode icons ♳ (U+2673), ♴ (U+2674), ♵ (U+2675), ♶ (U+2676), ♷ (U+2677), ♸ (U+2678), ♹ (U+2679), and ♺ (U+267A).
+Recycling codes extend these numbers above 7 to include various non-plastic materials, including metals, glass, paper, and batteries of various types.
+
+
+== Other variants ==
+
+♾, an infinity sign (∞) inside a circle, represents the permanent paper symbol,  used in packaging and publishing to signify the use of durable acid-free paper.   In some ways, this logo expresses the opposite intention from the recycle logo, in that the acid-free paper is intended to last indefinitely, rather than being recycled.  Nevertheless, acid-free paper does not usually contain toxic materials (although certain inks do), so it is easily recycled or composted.
+A satirical version of the classic recycling logo also exists, in which the three arrows are twisted from a circular pattern to pointing radially outward, thus symbolizing wasteful one-time usage rather than environmentally friendly recycling.  This message is reinforced by the circular inscription, "THIS PROJECT WAS ENVIRONMENTALLY UNFRIENDLY", surrounding the modified logo.  The satirical logo appears in the 1998 catalog of an installation art work in Bayonne, New Jersey, in which the artist Steven Pippin modified a row of glass-doored washing machines in a laundromat to operate as giant cameras.  The cameras were used to take sequential photographs in the manner of pioneering stop motion photographer Eadweard Muybridge.  The front-loading washing machines were then used to develop and process the 24 inch (61 cm) diameter circular film negatives.
+
+
+== See also ==
+Green Dot symbol
+List of international common standards
+Japanese recycling symbols
+
+
+== References ==
+
+
+== Further reading ==
+Jones, Penny; Powell, Jerry. "Gary Anderson has been found!". Resource Recycling: North America's Recycling and Composting Journal, May 1999.
+Everson, Michael; Freytag, Asmus (2001-04-02). "Background information on Recycling Symbols" (PDF), ISO/IEC Working Group Document N2342
+44 Recycle Logos and Symbols
+
+
+== External links ==
+ Media related to Recycling symbols (3 arrows - folded) at Wikimedia Commons
